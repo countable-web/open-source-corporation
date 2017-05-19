@@ -1,9 +1,9 @@
 # open-source-corporation
-I'm open sourcing my corporation (what that means will become more clear as time goes on). This repo contains much of the paperwork associated with [Countable Web Productions Inc.](http://countable.ca), a boutique consulting firm and small business which sells saas products and advertising space. To start with, articles of incorporation, and templates for legal, accounting will be published here.
+This is an experiment to open source [Countable Web Productions Inc.](http://countable.ca) (what that means will become more clear as time goes on). Countable is a boutique consulting firm and small business which sells saas products and advertising space. To start with, articles of incorporation, and templates for legal, accounting will be published here.
 
 ## Business by Sunlight
 The intention of this project is to maximize transparency at Countable while it is small. If we grow, it may be more difficult to introduce a culture of transparency at a later stage. This assumes a hypotheses about building transparency into our company:
-  1. Secrets have a cost to the organization because everyone must focus on managing information access rather than other, business activities which create value.
+  1. Secrets have a cost to the organization because everyone must focus on managing information access rather than other business activities (which create net value unlike hiding information).
   2. Transparency creates trust. Secrets create stress, create mistrust, and consume energy to store.
   3. Transparency will drive the business to follow processes which are aligned with the interests of our stakeholders and the public.
 
