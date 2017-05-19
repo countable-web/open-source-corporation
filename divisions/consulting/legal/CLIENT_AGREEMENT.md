@@ -1,6 +1,6 @@
 **CONSULTING** **AGREEMENT**
 
-THIS AGREEMENT is dated for reference **___________**.
+THIS AGREEMENT is dated for reference **TODO**.
 
 **BETWEEN:**
 
@@ -10,13 +10,13 @@ of Suite 703, 15 East Royal Avenue, New Westminster, BC V3L 0A9
 
 (the "Consultant")
 
-**AND:	**
+**AND:**
 
-**TODO****.**, a company duly incorporated
+**TODO**, a company duly incorporated
 
 under the laws of British Columbia with a registered 
 
-address of ______________
+address of **TODO**
 
 (the "Client")
 
@@ -96,7 +96,7 @@ address of ______________
 
 **8.	Intellectual Property**
 
-8.1**	**The Consultant has been engaged for the purpose of producing, or enhancing, intellectual property, and his or her job includes inventing new designs, products, methodologies and processes (the "Developments"). All proprietary or confidential ideas, techniques, processes, designs, trade-marks, works, inventions or any other product or service related to the business of the Client that have been developed by the Consultant during the term of this Agreement and any intellectual property rights in or to any of the foregoing, including copyright and all patent rights and Developments generally, are the sole property of the Client, as is any current or future income arising from their application. 
+8.1	The Consultant has been engaged for the purpose of producing, or enhancing, intellectual property, and his or her job includes inventing new designs, products, methodologies and processes (the "Developments"). All proprietary or confidential ideas, techniques, processes, designs, trade-marks, works, inventions or any other product or service related to the business of the Client that have been developed by the Consultant during the term of this Agreement and any intellectual property rights in or to any of the foregoing, including copyright and all patent rights and Developments generally, are the sole property of the Client, as is any current or future income arising from their application. 
 
 8.2	The Consultant acknowledges that neither the Client nor any licensee shall be required to designate the Consultant as author of any Development. The Consultant hereby waives all moral rights the Consultant may have in the Developments and each of them.
 
@@ -126,11 +126,14 @@ address of ______________
 
 IN WITNESS WHEREOF the Parties have duly executed this Agreement as of the date above written.
 
-**Countable Web Productions				****TODO**
+**Countable Web Productions				
+**________________________________**
+per:
 
-**________________________________			_______________________________**
+**TODO**
+**_______________________________**
 
-**per: Clark Van Oyen					per:**
+**per: Clark Van Oyen**				
 
 **APPENDIX "A"**
 
