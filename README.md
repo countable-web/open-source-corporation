@@ -16,7 +16,7 @@ This repo will contain:
   * The Articles of Incorporation.
   * Document templates used by the company, including guides, accounting and legal docs.
   * Document templates for specific divisions of the business. In our case, the division is made by revenue stream, but this could be done by other dimensions such as team specialty.
-  * Countable is a [CPCC](http://www.cra-arc.gc.ca/E/pub/tp/it458r2/it458r2-e.html), but it's possible some of these documents may be useful for other structures like an LLC, C-Corp, sole proprietorship, non-profit, and/or startup teams. This is likely to be less true for medium to large organizations of any kind.
+  * Countable is a [CCPC](http://www.cra-arc.gc.ca/E/pub/tp/it458r2/it458r2-e.html), but it's possible some of these documents may be useful for other structures like an LLC, C-Corp, sole proprietorship, non-profit, and/or startup teams. This is likely to be less true for medium to large organizations of any kind.
   * _out of scope_ : At this time, filled financial statements, timesheets, invoices and other documents with monetary specifics are kept private (only templates for them are stored here). In the (medium to long term) future, this may change.
 
 ## Conventions
