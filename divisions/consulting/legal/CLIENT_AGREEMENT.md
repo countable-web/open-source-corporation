@@ -1,4 +1,4 @@
-**CONSULTING**** AGREEMENT**
+**CONSULTING** **AGREEMENT**
 
 THIS AGREEMENT is dated for reference **___________**.
 
@@ -6,7 +6,7 @@ THIS AGREEMENT is dated for reference **___________**.
 
 **Countable Web Productions, **a business with an address
 
-of 704 – 31 Elliot Street, New Westminster, BC V3L 5C9
+of Suite 703, 15 East Royal Avenue, New Westminster, BC V3L 0A9
 
 (the "Consultant")
 
