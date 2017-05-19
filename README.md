@@ -1,5 +1,5 @@
 # open-source-corporation
-I'm open sourcing my corporation (what that means will become more clear as time goes on).
+I'm open sourcing my corporation (what that means will become more clear as time goes on). To start with, articles of incorporation, and templates for legal, accounting will be published here.
 
 ## Purpose
   * To share experiences in managing a small corporation with others and save them time.
@@ -17,4 +17,4 @@ This repo will contain:
   * All documents are written in Markdown, for easy of use via SCM (GIT) oriented platforms such as GitHub.
 
 ## Contributing
-Yes, please!
+This repository is intended for a specific company (Countable Web Productions Inc.), if you want to use it for your own company, please fork it. If you want to suggest a change to Countable Web Productions, make a pull request.
