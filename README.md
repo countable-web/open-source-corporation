@@ -2,7 +2,7 @@
 I'm open sourcing my corporation (what that means will become more clear as time goes on). To start with, articles of incorporation, and templates for legal, accounting will be published here.
 
 ## Purpose
-  * To share experiences in managing a small corporation with others and save them time.
+  * To share experiences in managing a small corporation with others, and maybe save someone's time.
   * As an experiment in corporate document template management.
   * To explore practical corporate transparency limits.
 
