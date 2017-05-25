@@ -17,3 +17,11 @@ We use Trello because:
 ### Billing
   * Clients are billed monthly based on consultant timesheets.
   * Any technical work done for a client is rounded up to the nearest hour. This is intended as a reasonable incentive for clients to help reduce context switching costs.
+
+### Methodology
+  * Understand the client's business.
+  * Nurture a clear domain language and use it in software development.
+  * Nurture a relationship of collaboration.
+  * Use agile methodology as a toolkit, where applicable.
+  * Build systems which avoid recurring maintenance. It's best to work ourselves out of a job.
+  * Identify big opportunities for wealth creation made possible by the client collaboration.
