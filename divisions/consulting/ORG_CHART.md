@@ -36,7 +36,8 @@ Partners are expected to contribute some of the following, some of the time. The
   * Improve the consultancy's marketing.
 
 ### Sr Partner
-
+  
+  * Has all the same responsibilities as a Jr Partner.
   * Owns at least a 5% share in the consultancy.
   * Deals with selection of Jr Partners.
   * Deals with escalation of issues in projects managed by Jr Partners.
