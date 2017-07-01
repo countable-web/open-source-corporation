@@ -12,7 +12,7 @@ This is the agreement template we hold with everyone who works at the firm.
   * Benefits - The typical employment benefits do not apply between the subcontractor and firm. The rate negoatiated should be increased accordingly to account for this. Please note that if you purchase any of these services yourself (such as extended medical benefits), they may be deducted from your taxable income.
   * Claimed Expenses - Business expenses (travel, conferences) approved in advance by a Partner are paid along with your regular compensation.
   * Unclaimed Expenses - Business expenses not claimed (Food and drink, home office, computers) may be deducted on your tax return.
-  * Equipment and Office - You will provide your own equipment and office space.
+  * Equipment and Office - You will provide your own equipment and office space. A Linux laptop or workstation is recommended; Mac OS also works; Windows, less so.
 
 ## Other
   * Confidentiality - You agree to hold in confidence and not to disclose to an outside party, any data you were given access to by Countable or parties who hold a business relationship with Countable, unless given explicit permission by the owner of said data, and for a period of 5 years after the termination of this agreement. In the event of a more strict confidentiality contract is held between Countable and the Client on a specific project, you will be required to agree to additional terms before engaging with that Client.
