@@ -15,7 +15,7 @@ This is the agreement template we hold with everyone who works at the firm.
   * Equipment and Office - You will provide your own equipment and office space.
 
 ## Other
-  * Confidentiality - You agree to hold in confidence and not to disclose to an outside party, any data you were given access to by Countable or parties who hold a business relationship with Countable, unless given explicit permission by the owner of said data, and for a period of 2 years after the termination of this agreement.
+  * Confidentiality - You agree to hold in confidence and not to disclose to an outside party, any data you were given access to by Countable or parties who hold a business relationship with Countable, unless given explicit permission by the owner of said data, and for a period of 5 years after the termination of this agreement. In the event of a more strict confidentiality contract is held between Countable and the Client on a specific project, you will be required to agree to additional terms before engaging with that Client.
   * Non-compete and non-solicitation - You agree not to enter into an employment or paid contract relationship with Countable's Clients or other of Countable's subcontractors or employees, for a period of 6 months of the termination of this agreement.
 
 ## Discussion
