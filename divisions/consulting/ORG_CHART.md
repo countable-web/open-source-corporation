@@ -18,7 +18,7 @@ It's not perfect, and these are seen as the Pros and Cons:
 ### Associate
 
   * Paid an hourly rate, as a subcontractor.
-  * Excellent performance for 6 months may lead to a Jr Partnership offer.
+  * Excellent performance may lead to a Jr Partnership offer. This includes exhibiting taking responsibility for client outcomes and exceedin client expectations, technical prowess, strong communication skills and leadership.
   * Work is assigned and checked by a Jr Partner.
 
 ### Jr Partner
