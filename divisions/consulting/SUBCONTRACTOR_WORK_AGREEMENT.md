@@ -4,11 +4,11 @@ This is the agreement template we hold with everyone who works at the firm.
 
 ## Term
   * This agreement may be terminated by either party at any time. However, it's courtesy to give 2 weeks of notice if the contract has held for at least 3 months consecutively.
+  * Nature of relationship - Because it's a contract position, you are not an employee but instead a business associate, no payroll deductions are made. You are responsible for remitting income taxes and other deductions to the appropriate governing bodies.
 
 ## Compensation and Expenses
   * Compensation - You will be paid an hourly rate for hours worked and recorded. The expectation is you will work a predefined number of ours per week starting when this agreement commences or a specified start date.
-  * Nature of relationship - Because it's a contract position, you are not an employee but instead a business associate, no payroll deductions are made and there is no paid vacation time (however, reasonable unpaid leave may be taken as long as communicated in advance). You are responsible for remitting income taxes and other deductions to the appropriate governing bodies.
-  * Leave - Unpaid leave of any kind is normally allowed with 2 weeks notice.
+  * Leave - There is no paid vacation time. However, reasonable unpaid leave may be taken as long as communicated 2 weeks in advance.
   * Benefits - The typical employment benefits do not apply between the subcontractor and firm. The rate negoatiated should be increased accordingly to account for this. Please note that if you purchase any of these services yourself (such as extended medical benefits), they may be deducted from your taxable income.
   * Claimed Expenses - Business expenses (travel, conferences) approved in advance by a Partner are paid along with your regular compensation.
   * Unclaimed Expenses - Business expenses not claimed (Food and drink, home office, computers) may be deducted on your tax return.
