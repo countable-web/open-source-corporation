@@ -9,5 +9,11 @@ This is the agreement template we hold with everyone who works at the firm.
   * Compensation - You will be paid an hourly rate for hours worked and recorded. The expectation is you will work a predefined number of ours per week starting when this agreement commences or a specified start date.
   * Nature of relationship - Because it's a contract position, you are not an employee but instead a business associate, no payroll deductions are made and there is no paid vacation time (however, reasonable unpaid leave may be taken as long as communicated in advance). You are responsible for remitting income taxes and other deductions to the appropriate governing bodies.
   * Leave - Unpaid leave of any kind is normally allowed with 2 weeks notice.
-  * Expenses - Expenses for work (travel, conferences) approved in advance by a Partner are paid along with your regular compensation. Business expenses not claimed (Food and drink, home office, computers) may be deducted on your tax return.
+  * Benefits - The typical employment benefits do not apply between the subcontractor and firm. The rate negoatiated should be increased accordingly to account for this. Please note that if you purchase any of these services yourself (such as extended medical benefits), they may be deducted from your taxable income.
+  * Claimed Expenses - Business expenses (travel, conferences) approved in advance by a Partner are paid along with your regular compensation.
+  * Unclaimed Expenses - Business expenses not claimed (Food and drink, home office, computers) may be deducted on your tax return.
   * Equipment and Office - You will provide your own equipment and office space.
+
+## Discussion
+
+The fact you're not an employee is a bit strange but it has a lot of advantages. In a way it's more like joining an exclusive "guild" than being an employee. As questions arise I'll post explanations here so this page improves over time.
