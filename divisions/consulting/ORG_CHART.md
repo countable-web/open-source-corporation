@@ -12,7 +12,7 @@ It's not perfect, and these are seen as the Pros and Cons:
 
 ### Cons
   * Value based billing has better incentive alignment with clients (so should be introduced where possible).
-  * The consultancy has much lower margins at first glance. However, the consultancy will have 
+  * The consultancy has much lower margins at first glance. However, the consultancy will have less responsibility for project management under this structure so margins are an apples to oranges comparison.
 
 ## Roles
 
