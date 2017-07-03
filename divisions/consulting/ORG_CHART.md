@@ -12,6 +12,7 @@ It's not perfect, and these are seen as the Pros and Cons:
 
 ### Cons
   * Value based billing has better incentive alignment with clients (so should be introduced where possible).
+  * The consultancy has much lower margins at first glance. However, the consultancy will have 
 
 ## Roles
 
@@ -23,7 +24,7 @@ It's not perfect, and these are seen as the Pros and Cons:
 
 ### Jr Partner
 
-  * Expected to be the expert on at least on topic for the consultancy, and be aware of current literature there.
+  * Expected to be the expert on at least on topic for the consultancy, and be aware of current literature there. The partner is expected to advocate their area of expertise is properly handled in projects.
   * Is the primary contact for one or more client relationships.
   * Takes responsibility for their clients, including planning work by other associates and partners.
   * Paid a percentage rate of billables, minus company consultancy overhead and referral payout.
