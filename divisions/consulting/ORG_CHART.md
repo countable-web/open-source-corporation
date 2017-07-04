@@ -32,9 +32,9 @@ It's not perfect, and these are seen as the Pros and Cons:
 
 Partners are expected to contribute some of the following, some of the time. The approximate commitment is a few hours per month. Beyond this a nominal stipend may be assigned when an initiative is approved in one of these areas.
   * Bring new business into the company (earning the referral commission as well on that business).
-  * Exhibit leadership on the consultancy's direction, bringing up recommendations.
-  * Improve the consultancy's processeses.
-  * Improve the consultancy's marketing.
+  * Make recommendatons on the consultancy's strategic direction.
+  * Find ways to improve the consultancy's processeses (coding standards, CI, branch conventions, etc.)
+  * Find ways to improve the consultancy's marketing (release public content, improve our website, find new channels for reaching clients).
 
 ### Sr Partner
   
