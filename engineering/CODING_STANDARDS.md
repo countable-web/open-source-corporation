@@ -5,10 +5,48 @@ Coding and other standards and practices at Countable Web Productions.
   * Coding standards are only necessary when there are multiple ways to express the same logic (more than one program has the same behaviour). In this sense, they're very uninteresting and ideally would be fully automated away. Golang does this correctly by automating formatting as a core feature. This ideal is what we should aspire to so we can save our neurons for more interesting things. To this end, please use editor plugins that auto-format to our standards where possible.
   * In the case a project doesn't currently follow our standards but follows a different one, stick with that project's conventions unless we make a conscious decision to refactor the whole thing. Don't mix conventions.
 
+### Principles
+  * [Composition over inheritance](https://en.wikipedia.org/wiki/Composition_over_inheritance)
+
+### Names
+
+  This section refers to the names of variables, database columns, classes, and any other case where a name is chosen in code.
+
+  * Names should be the most obvious thing possible (as opposed to clever or arbitrary).
+  * Name length should be proportional to the variable's scope size. `x` is ok in a one liner, but not a global.
+  * When an industry or domain jargon standard term is available, use that.
+  * In general, avoid creating new names if an appropriate one already exists.
+  * Names that refer to the exact same thing in different contexts should generally be the same.
+  * ClassNames - Classes should use an upper camel case string of nouns
+  * attributes_names - Attributes should use lowercase with underscores
+  * _initial_underscores - Initial underscores to indicate variables as private, optional.
+
+### Files
+
+Filenames should be lowercase with dashes (NOT SPACES) to separate words.
+The purpose, and contents of any file should be as obvious as possible by its filename and location.
+Directories should be kept clean, and clear of clutter.
+
+### Locality
+
+Functional Modules
+  
+  * Modules should be responsible for a specific task or set of RELATED tasks.
+  * Modules should communicate through easily testable interfaces. A huge heirarchy of objects shouldn't be required to test a single method, because the method should only take arguments it actually uses (not a big tree which happens to contain those)
+
+### Comments
+  
+  * Do not comment what is obvious from the code. "# Increment the variable." is not a good comment.
+  * Do Document the rationale "why", the reason behind an implementation choice.
+  * Comment beside anything that's unintutive or unexpected to another reader.
+
+
 ### No tabs
+
 We are a Python shop, and so observance of pep 8 leads us to use 4 spaces for indentation. We carry this convention to other languages, using 4 spaces for indentation in CSS, HTML, Javacript, etc. We never use the tab character.
 
 ### Docker
+
 Please use Docker for any web application project (and other projects where applicable). It should be possible to bring up a new environment by only the following for any of our projects.
 
 ```
