@@ -3,7 +3,7 @@
 ## Hiring
 
   * Countable does not take into account (negatively nor positively for diversity purposes), race and gender in hiring decisions. Some logistical correlations with these attributes may be considered independently however.
-  * We use this job posting. (link)
+  * We use [this](./ASSOCIATE_POSTING.md) job posting.
 
 ## Onboarding
 
