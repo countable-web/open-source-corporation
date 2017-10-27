@@ -21,5 +21,9 @@
   
   * Read about our [ops](../engineering/OPERATIONS.md) and [coding standards](../engineering/CODING_STANDARDS.md).
   * Create a new Django project using Docker and docker-compose plus PostgreSQL using these practices, and get a team member to code review it using a feature branch and pull request.
-  * Get invites from your team members on Trello (link), GitHub (link) and BitBucket (link) for the projects you'll be working on.
+
+Share your username with your team members on these platforms so you can be invited into specific projects:
+  * [Trello](https://trello.com/b/gycu4ydQ/opportunity-road-map)
+  * [GitHub](https://github.com/countable-web)
+  * [BitBucket](https://bitbucket.org/countable-web)
 
