@@ -1,6 +1,6 @@
 # Look at your Job Options, now Back To Me
 
-You're just finishing your bachelor's of computer science. You can code pretty well. Pretty darn well, and too well to be a low level cog in the corporate machine? Be challenged by a team who will push you to your potential, and support you along the way? If so, we may be the place for you.
+You're just finishing your bachelor's of computer science. You can code pretty well. Pretty darn well, and too well to be a low level cog in the corporate machine? What to be challenged by a team who will push you to your potential, and support you along the way? If so, we may be the place for you.
 
 We are a boutique, handsome web technology consulting firm. And, we are the best show in town, when it comes to web technology, as our roster of happy clients will verify! They include the Tesla of boats, a star-trak grade medical devices startup, global comicbook brand, and a next generation of cellular data provider. We help socially responsible, driven, and lucky companies across the globe get their piece of the internet, whatever form that may take. It involves writing awesome code, in an environment of your own design.
   * We welcome you to work from home, or rent a desk at the local colo, up to you.
