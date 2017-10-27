@@ -14,7 +14,7 @@
 
 ### Set up a Timesheet
 
-  * Make your own copy this Google Sheet (link) and share it with only your manager.
+  * Make your own copy this [Google Sheet](https://docs.google.com/spreadsheets/d/1fzO2pLqXMKpUPgQOxvCdTpvrFzvizq-NOh8i7EijY7Q/edit#gid=33) (sorry this is currently not open source) and share it with only your manager.
   * Filling out your timesheet every day is required. Include at least one of: references to issues in Trello, Commit IDs, or concise descriptions of work done.
 
 ### Environment
