@@ -1,4 +1,4 @@
-Look at your Job Options, now Back To Me
+# Look at your Job Options, now Back To Me
 
 You're just finishing your bachelor's of computer science. You can code pretty well. Pretty darn well, and too well to be a low level cog in the corporate machine? Be challenged by a team who will push you to your potential, and support you along the way? If so, we may be the place for you.
 
