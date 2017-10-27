@@ -12,14 +12,14 @@ We use Docker to automate managing dev and prod environments. Specific conventio
  
 ## Deployment
 
-While everything uses Docker as described above, Every project is basically a unique unicorn in terms of hosting, but the intent is to standardize a CI solution, possibly Jenkins. Only one project currently has this set up.
+While everything uses Docker as described above, every project is basically a unique unicorn in terms of hosting. There is an intent to at least standardize a CI solution, possibly Jenkins. Only one project currently has this set up.
 
 Generally, deploying involves updatnig the code from the known stable branch
 ```
 git pull origin master
 ```
 
-Update the code, and ideally your migrations and staticfiles operations should be taken care of by an entrypoint script.
+Restart the main application container, and ideally your migrations and staticfiles operations should be taken care of by an entrypoint script.
 ```
 docker-compose exec restart web
 ```
