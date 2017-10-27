@@ -6,6 +6,8 @@ Coding and other standards and practices at Countable Web Productions.
   * In the case a project doesn't currently follow our standards but follows a different one, stick with that project's conventions unless we make a conscious decision to refactor the whole thing. Don't mix conventions.
 
 ### Principles
+  * Make life easier for your team mates and future self by being consistent and thoughtful of what someone unfamiliar would think.
+  * The perfect implementation is the one which declaratively encodes the business domain. If code becomes non-trivial, re-write so that domain is expressed in declarative form.
   * [Composition over inheritance](https://en.wikipedia.org/wiki/Composition_over_inheritance)
 
 ### Names

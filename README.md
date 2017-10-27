@@ -24,6 +24,3 @@ This repo will contain:
 ## Contributing
 This repository is intended for a specific company (Countable Web Productions Inc.), if you want to use it for your own company, please fork it. If you want to suggest a change to Countable Web Productions, make a pull request.
 
-## Conventions
-  * All documents begin with a 'purpose' and 'scope', concisely indicating what the document is used for, and what it does and doesn't contain.
-  * All documents are written in Markdown, for easy of use via SCM (GIT) oriented platforms such as GitHub.
