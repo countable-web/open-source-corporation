@@ -1,4 +1,4 @@
-# Standards
+# Coding Standards
 Coding and other standards and practices at Countable Web Productions.
   * This document has arisen out of specific cases where different conventions of developers have caused us to waste time. In some cases, standardizing won't give us this benefit so we won't do it. I currently think double versus single qutoes for strings is such a case.
   * There will be cases where we disagree, but we must all agree that it's more important to be consistent than to follow a particular rule. So, some rules may be arbitrary or even suboptimal, but we follow them so we can stop thinking about them.
