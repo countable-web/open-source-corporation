@@ -32,3 +32,4 @@ Share your username with your team members on these platforms so you can be invi
   * [BitBucket](https://bitbucket.org/countable-web)
 >>>>>>> f79250518d199c3a556189d5f18c96bb0f2e7370
 
+See also [Project Management](./PROJECT_MANAGEMENT.md).
