@@ -2,7 +2,7 @@
 
 ## Working on a feature
 
-If there isn't on already, create a new branch for the feature, based on `develop`.
+If there isn't one already, create a new branch for the feature, based on `develop`.
 
 ```
 git checkout develop
