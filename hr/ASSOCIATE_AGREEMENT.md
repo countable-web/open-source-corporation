@@ -1,3 +1,5 @@
+TODO: This document is out of date and the official one has not been converte to markdown and open-sourced.
+
 # Subcontractor Work Agreement
 
 This is the agreement template we hold with everyone who works at the firm.
