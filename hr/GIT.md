@@ -16,7 +16,7 @@ git commit -a -m "Added the Fireball ability to wizards, Trello ticket #51"
 git push origin fireball-spell
 ```
 
-Submit a pull request from `fireball-spell` targetting `develop`. Another developer on the project should review and comment on your changes. When everyone agrees, anyone can merge the changes.
+Submit a pull request from `fireball-spell` targetting `develop`. Another developer on the project should review and comment on your changes. When everyone agrees, anyone can merge the changes. The `fireball-spell` branch is then deleted after being merged.
 
 ## Documentation change (update README.md)
 
