@@ -15,7 +15,7 @@
 ### Set up a Timesheet
 
   * Make your own copy this [Google Sheet](https://docs.google.com/spreadsheets/d/1fzO2pLqXMKpUPgQOxvCdTpvrFzvizq-NOh8i7EijY7Q/edit#gid=33) (sorry this is currently not open source) and share it with only your manager.
-  * Filling out your timesheet every day is required. Include at least one of: references to issues in Trello, Commit IDs, or concise descriptions of work done.
+  * Filling out your timesheet every day is required. Please include a few words of description which indicate specific things you worked on for most of that day. Between 3 and 20 words is the right level of detail. Also include at least one of: references to issues in Trello, Commit IDs.
 
 ### Environment
   
