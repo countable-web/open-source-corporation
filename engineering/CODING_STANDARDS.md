@@ -31,6 +31,7 @@ Coding and other standards and practices at Countable Web Productions.
 Functional Modules
   
   * Modules should be responsible for a specific task or set of RELATED tasks.
+  * Functions should be placed in the LEAST SPECIFIC module where they can be used.
   * Modules should communicate through easily testable interfaces. A huge heirarchy of objects shouldn't be required to test a single method, because the method should only take arguments it actually uses (not a big tree which happens to contain those)
 
 ### Comments
