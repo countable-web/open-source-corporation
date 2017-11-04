@@ -13,7 +13,10 @@ We use Docker to automate managing dev and prod environments. Specific conventio
 cp docker-compose.override.yml.template docker-compose.override.yml
 ```
 docker-compose.override.yml should be in `.gitignore`
- 
+
+## Backups
+*ALL* production data of ours and clients' must be backed up. We must have reasonable evidence that backups can actually be restored. For example, periodically update your development environment's database using a backup from production.
+
 ## Deployment
 
 While everything uses Docker as described above, every project is basically a unique unicorn in terms of hosting. There is an intent to at least standardize a CI solution, possibly Jenkins. Only one project currently has this set up.
