@@ -16,18 +16,15 @@ Coding and other standards and practices at Countable Web Productions.
 
   * Names should be the most obvious thing possible (as opposed to clever or arbitrary).
   * Name length should be proportional to the variable's scope size. `x` is ok in a one liner, but not a global.
-  * When an industry or domain jargon standard term is available, use that.
-  * In general, avoid creating new names if an appropriate one already exists.
-  * Names that refer to the exact same thing in different contexts should generally be the same.
+  * When an industry jargon (domain language) term is available, use that.
   * ClassNames - Classes should use an upper camel case string of nouns
-  * attributes_names - Attributes should use lowercase with underscores
-  * _initial_underscores - Initial underscores to indicate variables as private, optional.
+  * attributes_names - Attributes (and local variables) should use lowercase with underscores
+  * CONSTANT_NAMES - Constants should be uppercase with underscores.
 
 ### Files
 
-Filenames should be lowercase with dashes (NOT SPACES) to separate words.
-The purpose, and contents of any file should be as obvious as possible by its filename and location.
-Directories should be kept clean, and clear of clutter.
+  * Filenames should be lowercase with dashes (NOT SPACES) to separate words.
+  * The purpose, and contents of any file should be as obvious as possible by its filename and location.
 
 ### Locality
 
