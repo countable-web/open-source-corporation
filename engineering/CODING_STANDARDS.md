@@ -1,4 +1,5 @@
 # Coding Standards
+
 Coding and other standards and practices at Countable Web Productions.
   * This document has arisen out of specific cases where different conventions of developers have caused us to waste time. In some cases, standardizing won't give us this benefit so we won't do it. I currently think double versus single qutoes for strings is such a case.
   * There will be cases where we disagree, but we must all agree that it's more important to be consistent than to follow a particular rule. So, some rules may be arbitrary or even suboptimal, but we follow them so we can stop thinking about them.
@@ -6,6 +7,7 @@ Coding and other standards and practices at Countable Web Productions.
   * In the case a project doesn't currently follow our standards but follows a different one, stick with that project's conventions unless we make a conscious decision to refactor the whole thing. Don't mix conventions.
 
 ### Principles
+
   * Make life easier for your team mates and future self by being consistent and thoughtful of what someone unfamiliar would think.
   * The perfect implementation is the one which declaratively encodes the business domain. If code becomes non-trivial, re-write so that domain is expressed in declarative form.
   * [Composition over inheritance](https://en.wikipedia.org/wiki/Composition_over_inheritance)
@@ -29,9 +31,7 @@ Coding and other standards and practices at Countable Web Productions.
 ### Locality
 
 Functional Modules
-  
   * Modules should be responsible for a specific task or set of RELATED tasks.
-  * Functions should be placed in the LEAST SPECIFIC module where they can be used.
   * Modules should communicate through easily testable interfaces. A huge heirarchy of objects shouldn't be required to test a single method, because the method should only take arguments it actually uses (not a big tree which happens to contain those)
 
 ### Comments
