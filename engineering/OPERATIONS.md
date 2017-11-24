@@ -22,7 +22,7 @@ We use Docker to automate managing dev and prod environments. Specific conventio
 
 ### Databases
 
-We use postgres and occasionally mongodb. You can restore a postgres DB in our projects as follows. Include this portion `-T template_postgis ` if you have a postgis (as opposed to plain postgres) db image in your docker definitions. Never expose the db management port, it should only be accessible via Docker.
+We use postgres and occasionally mongodb. You can restore a postgres DB in our projects as follows. Include this portion `-T template_postgis ` if you have a postgis (as opposed to plain postgres) db image in your docker definitions. You may need to stop your other containers to abort their connections to the db first.
 
 ```
 docker cp <sql filename> <project slug>_db_1:/tmp/
@@ -30,6 +30,8 @@ docker-compose exec db dropdb -U postgres postgres
 docker-compose exec db createdb -U postgres [-T template_postgis ]postgres
 docker-compose exec db psql -f /tmp/<sql filename> -U postgres postgres
 ```
+
+Never expose the db management port, it should only be accessible via Docker.
 
 ## Backups
 *ALL* production data of ours and clients' must be backed up. We must have reasonable evidence that backups can actually be restored. For example, periodically update your development environment's database using a backup from production.
