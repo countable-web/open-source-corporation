@@ -30,3 +30,14 @@ Restart the main application container, and ideally your migrations and staticfi
 ```
 docker-compose exec restart web
 ```
+
+### Databases
+
+We use postgres and occasionally mongodb. You can restore a postgres DB in our projects as follows. Include this portion `-T template_postgis ` if you have a postgis (as opposed to plain postgres) db image in your docker definitions. Never expose the db management port, it should only be accessible via Docker.
+
+```
+docker cp <sql filename> <project slug>_db_1:/tmp/
+docker-compose exec db dropdb -U postgres postgres
+docker-compose exec db createdb -U postgres [-T template_postgis ]postgres
+docker-compose exec db psql -f /tmp/<sql filename> -U postgres postgres
+```
