@@ -12,3 +12,4 @@
   * Change the repo URL and name of the item to match your repository.
   * Do the same for the job named <repo name>-deploy.
   * Edit the job's commands to run your tests properly.
+  * Configure slack to [post job status to the project's channel](https://github.com/jenkinsci/slack-plugin#install-instructions-for-slack).
