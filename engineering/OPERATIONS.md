@@ -50,3 +50,4 @@ Restart the main application container, and ideally your migrations and staticfi
 docker-compose exec restart web
 ```
 
+Some projects use Jenkins to automatically test and deploy. Details (./JENKINS.md)[here].
