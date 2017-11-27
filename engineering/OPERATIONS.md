@@ -12,7 +12,7 @@ We use Docker to automate managing dev and prod environments. Specific conventio
 
 ## Setting Up An Environment
 
-1. Install Docker on your machine. See this (link)[https://docs.docker.com/engine/installation/] to get started
+1. [Install Docker on your machine](https://docs.docker.com/engine/installation/)
 
 2. Copy the docker override template: `cp docker-compose.override.yml.template docker-compose.override.yml`
 
@@ -50,4 +50,4 @@ Restart the main application container, and ideally your migrations and staticfi
 docker-compose exec restart web
 ```
 
-Some projects use Jenkins to automatically test and deploy. Details (./JENKINS.md)[here].
+Some projects use [Jenkins to automatically test and deploy new commits](./JENKINS.md).
