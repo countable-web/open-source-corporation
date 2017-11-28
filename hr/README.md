@@ -1,5 +1,7 @@
 # Human Resources
 
+The purpose of this section is to provide clear processes to minimize the administrative burden of humans that work for the Company.
+
 ## Hiring
 
   * Countable does not take into account (negatively nor positively for diversity purposes), race and gender in hiring decisions. Some logistical correlations with these attributes may be considered independently however.
