@@ -25,6 +25,7 @@ It's not perfect, and these are seen as the Pros and Cons:
 ### Jr Partner
   * Is a primary contact for one or more client relationships.
   * Takes responsibility for one's clients, including planning work by others, and escalating key issues before they grow.
+  * Considers the client's ROI on one's work and strives for a high multiple, at least 300% and ideally 1000% or higher.
   * Paid a percentage rate of billables, minus company Company overhead and referral payout.
   * Paid when billables are received, since they are responsible for collecting from clients. In the event of a default, the Company may pay up to 50% of the loss to the Partner if due process was followed for collection.
   * Will be eligible for an officer post.
