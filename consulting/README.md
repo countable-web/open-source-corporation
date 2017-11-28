@@ -1,12 +1,6 @@
 # Consulting
 
-## Purpose
-
-This document is intended as an entrypoint to documentation on the consulting division.
-
-## Scope
-
-This document contains the consulting guidelines at Countable Web Productions.
+The purpose of this section is to share knowledge about providing the best results for clients.
 
 ### Project Management
 
@@ -16,12 +10,12 @@ We use Trello because:
 
 ### Billing
   * Clients are billed monthly based on consultant timesheets.
-  * Any technical work done for a client is rounded up to the nearest hour. This is intended as a reasonable incentive for clients to help reduce context switching costs.
+  * Any technical work done for a client is rounded up to the nearest hour. This is intended as a reasonable incentive for clients to help us reduce context switching costs without being long enough to actively encourage context switching on our end.
 
 ### Methodology
   * Understand the client's business.
   * Nurture a clear domain language and use it in software development.
-  * Nurture a relationship of collaboration.
+  * Nurture a relationship of collaboration, and of increasing the pie rather than splitting it.
   * Use agile methodology as a toolkit, where applicable.
-  * Build systems which avoid recurring maintenance. It's best to work ourselves out of a job.
-  * Identify big opportunities for wealth creation made possible by the client collaboration.
+  * Build systems which avoid recurring maintenance through choice of stable components and automation. It's best to work ourselves out of a job.
+  * Identify big opportunities for wealth creation and high expected (statistically) ROI. Small risks are worthwhile if there is a high upside.
