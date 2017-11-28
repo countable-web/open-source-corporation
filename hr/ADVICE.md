@@ -3,6 +3,7 @@
 
 This page is intended as a guide of what we look for in selection of Junior Partners at the consultancy.
 
+   * Take responsibility for a client's risks and results.
    * The type of leadership we're looking for has nothing to do with status, official role or really even with precedent. We've seen co-op students who are great leaders, and executives who are not.
    * Steer ongoing conversations with stakeholders in a constructive way. Demonstrate why your words matter in terms of ROI or team stress levels/happiness.
    * Lead with specific actions that demonstrate how to improve things for the team. Small things like a pull request to make something easier to understand is a great way to show you care about the project.
