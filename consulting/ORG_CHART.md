@@ -12,7 +12,7 @@ It's not perfect, and these are seen as the Pros and Cons:
 
 ### Cons
   * Value based billing has better incentive alignment with clients (so should be introduced where possible).
-  * The consultancy has much lower margins at first glance. However, the consultancy will have less responsibility for project management under this structure so margins are an apples to oranges comparison.
+  * The Company has much lower margins at first glance. However, the Company will have less responsibility for project management under this structure so margins are an apples to oranges comparison.
 
 ## Roles
 
@@ -23,25 +23,24 @@ It's not perfect, and these are seen as the Pros and Cons:
   * Work is assigned and checked by a Jr Partner.
 
 ### Jr Partner
+  * Is a primary contact for one or more client relationships.
+  * Takes responsibility for one's clients, including planning work by others, and escalating key issues before they grow.
+  * Paid a percentage rate of billables, minus company Company overhead and referral payout.
+  * Paid when billables are received, since they are responsible for collecting from clients. In the event of a default, the Company may pay up to 50% of the loss to the Partner if due process was followed for collection.
+  * Will be eligible for an officer post.
 
-  * Expected to be the expert on at least one topic for the consultancy, and be aware of current literature there. The partner is expected to advocate their area of expertise is properly handled in projects.
-  * Is the primary contact for one or more client relationships.
-  * Takes responsibility for their clients, including planning work by other associates and partners.
-  * Paid a percentage rate of billables, minus company consultancy overhead and referral payout.
-  * Paid when billables are received, since they are responsible for collecting from clients. In the event of a default, the consultancy may pay up to 50% to the Partner.
-
-Partners are expected to contribute some of the following, some of the time. The approximate commitment is a few hours per month. Beyond this a nominal stipend may be assigned when an initiative is approved in one of these areas.
-  * Bring new business into the company (earning the referral commission as well on that business).
-  * Make recommendatons on the consultancy's strategic direction.
-  * Find ways to improve the consultancy's processeses (coding standards, CI, branch conventions, etc.)
-  * Find ways to improve the consultancy's marketing (release public content, improve our website, find new channels for reaching clients).
-
-### Sr Partner
-  
+### Sr Partner 
   * Has all the same responsibilities as a Jr Partner.
-  * Owns at least a 5% share in the consultancy.
+  * Owns a share in the Company, which must be purchased at 50% of market rate.
   * Deals with selection of Jr Partners.
   * Deals with escalation of issues in projects managed by Jr Partners.
-  * Will normally be appointed to the board of directors based on this share of voting rights.
+  * Will be eligible for appointment to the board of directors.
 
-
+### All Partners
+Partners are expected to contribute some of the following, some of the time. The approximate commitment is a few hours per month. Beyond this a nominal stipend may be assigned when an initiative is approved in one of these areas.
+  * Mentor and provide feedback to others in the Company.
+  * Expected to be the expert on a few topics for the Company, and be aware of current literature there. The partner is expected to advocate their area of expertise is properly handled in projects.
+  * Bring new business into the company (earning the referral commission as well on that business).
+  * Make recommendatons on the Company's strategic direction.
+  * Find ways to improve the Company's processeses (coding standards, CI, branch conventions, etc.)
+  * Find ways to improve the Company's marketing (release public content, improve our website, find new channels for reaching clients).
