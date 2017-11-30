@@ -137,6 +137,20 @@ Good:
   * Rules should generally pass on http://csslint.net/
   * Don't use !important when possible
   * Don't use capital letters or underscores. Use dashes and lowerase.
+  * Indent scoped rules relative to parents (see below)
+
+```
+.parent {
+  font-weight: bold;
+}
+  .parent .child {
+    color: #FFFFFF;
+  }
+
+.next {
+  color: #0000FF;
+}
+```
  
 ## Javascript Coding Standards
 
