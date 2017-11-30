@@ -20,9 +20,9 @@ git push origin fireball-spell
 
 Submit a pull request from `fireball-spell` targetting `develop`. Another developer on the project should review and comment on your changes. When everyone agrees, anyone can merge the changes. The `fireball-spell` branch is then deleted after being merged.
 
-## Documentation change (update README.md)
+## Small non-critical patch (update README.md)
 
-A small documentation change doesn't need a feature branch, just commit to develop.
+A small documentation changes and tests don't always need a feature branch. It's up to your judgement to decide if it's worth someone else reviewing small changes. If not, commit right to develop.
 
 ```
 git checkout develop
