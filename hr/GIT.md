@@ -11,10 +11,11 @@ git checkout develop
 git checkout -b fireball-spell
 ```
 
-Do your work, commit, push.
+Do your work, commit, update, push.
 
 ```
 git commit -a -m "Added the Fireball ability to wizards, Trello ticket #51"
+git pull origni develop
 git push origin fireball-spell
 ```
 
