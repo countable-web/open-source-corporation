@@ -1,6 +1,6 @@
 # Git Flow Usage Examples
 
-This document provides examples of common git workflows to show new developers how use the git-flow branch conventions.
+This document provides examples of common git workflows to show new developers how use the [git flow](https://jeffkreeftmeijer.com/git-flow/) branch conventions.
 
 ## Working on a feature
 
