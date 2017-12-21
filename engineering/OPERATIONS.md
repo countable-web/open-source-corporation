@@ -38,7 +38,10 @@ Never expose the db management port, it should only be accessible via Docker.
 
 ## Deployment
 
-While everything uses Docker as described above, every project is basically a unique unicorn in terms of hosting. There is an intent to at least standardize a CI solution, possibly Jenkins. Only one project currently has this set up.
+While everything uses Docker as described above, every project is basically a unique unicorn in terms of hosting. We are moving projects to use Jenkins for CI, with 2 automated jobs.
+
+1. Automatically test any change to the `develop` branch
+2. Automatically deploy any change to the `master` branch
 
 Generally, deploying involves updatnig the code from the known stable branch
 ```
@@ -48,6 +51,11 @@ git pull origin master
 Restart the main application container, and ideally your migrations and staticfiles operations should be taken care of by an entrypoint script.
 ```
 docker-compose exec restart web
+```
+
+Or, if a rebuild is needed.
+```
+docker-compose up --build web
 ```
 
 Some projects use [Jenkins to automatically test and deploy new commits](./JENKINS.md).
