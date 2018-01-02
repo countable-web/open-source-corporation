@@ -1,7 +1,7 @@
 
 # MISSION
 
-  * Reach 100 million users on our web widget platform product.
+  * Reach 50 million users on our web widget platform product.
   * Develop mutually rewarding relationships with clients.
 
 Things which will help us get there:
