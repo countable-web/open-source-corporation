@@ -5,7 +5,7 @@ These are the reasons for the Company to exist.
 
   * Reach 50 million users on our web widget platform products.
   * Develop mutually rewarding relationships with clients.
-  * Be an excellent workplace for developers and other knowledge workers.
+  * Become a workplace that the best deverlopers and other knowledge workers prefer.
 
 # Principles
 
