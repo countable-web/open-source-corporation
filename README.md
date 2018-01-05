@@ -27,5 +27,5 @@ This repository is intended for a specific company (Countable Web Productions In
    * Keep it concise, to-the-point, actionable.
    * Keep in concrete. If you do use an abstraction, provide a corresponding example.
    * Don't include "what if" cases. Include cases that commonly occur in the company.
-   * Try to maximize "usefulness density", or the usefulness of the content divided by its length (in characters).
+   * Try to maximize "usefulness density", or the total benefit (ie, in saved time, dollars) of the content divided by its length (in characters).
 
