@@ -19,6 +19,7 @@ We use Trello because:
   * Use agile methodology as a toolkit, where applicable.
   * Build systems which avoid recurring maintenance through choice of stable components and automation. It's best to work ourselves out of a job.
   * Identify big opportunities for wealth creation and high expected (statistically) ROI. Small risks are worthwhile if there is a high upside.
+  * Consultants (technical or non) work directly with clients, and no intermediary. The consultant must learn when is appropriate to escalate, such as: before providing a quote or estimate of new work; when in doubt about the best way to capture ROI; when uncertain about an impactiful decision.
 
 ### Quotes
 Clients may request a budget in an RFP, or a quote for a specific piece of work. Keep the following in mind:
