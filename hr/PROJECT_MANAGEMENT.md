@@ -12,7 +12,7 @@ Some clients have Jira, and we use their system in this case. If they don't have
 
 ### Trello
 
-We use Trello for project management, as it allows unlimited access to boards by partners and clients, encouraging  collaboration and transparency. See [TRELLO.md]
+We use Trello for project management, as it allows unlimited access to boards by partners and clients, encouraging  collaboration and transparency. See [./TRELLO.md].
 
 ## Methodology
 
