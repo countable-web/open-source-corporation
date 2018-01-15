@@ -29,5 +29,15 @@ This repository is intended for a specific company (Countable Web Productions In
    * Don't include "what if" cases. Include cases that commonly occur in the company.
    * Try to maximize "usefulness density", or the total benefit (ie, in saved time, dollars) of the content divided by its length (in characters).
 
-More on contributing [here](./CONTRIBUTING.md).
+### Processes
+
+Processes are sequences of steps (like algorithms). Details on defining them [here](./PROCESSES.md).
+
+### Templates
+
+Templates are simply empty documents with no data specific to any Employee or Client, and no real financial data. Templates should be markdown, or public [Google Drive](https://drive.google.com/drive/u/0/folders/1JfcXagifO5wmixA-vjI_qgYs1qzw4-dM) charts or sheets.
+
+### Memos
+
+Memos are unstructured notes that tell the story of what we're trying to do and propose principles supporting those objectives. This is a catch-all for documents which are neither processes nor templates. 
 
