@@ -29,3 +29,12 @@ Templates should be markdown, or public [Google Drive](https://drive.google.com/
 # Memos
 
 This is a catch-all for documents which are neither processes nor templates.
+
+# TODO
+
+  * [charts](https://www.lucidchart.com/users/registerLevel?pricing=true&tP=1&t10=A&referer=https%3A%2F%2Fwww.lucidchart.com%2Fpages%2Fprocess-documentation%2Fsoftware)
+
+# REFERENCES
+
+  * [intro to process diagrams](https://www.lucidchart.com/pages/process-documentation)
+
