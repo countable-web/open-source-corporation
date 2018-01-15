@@ -20,14 +20,6 @@ In the spirity of consistency and simplicity, we want our processes themselves t
 1. When a process is used, we may find deficiencies or opportunities for improvement. If so, move to step 2.
 2. Re-do steps 2 through 5 of [#Defining Processes]
 
-# Templates
-
-Templates should be markdown, or public [Google Drive](https://drive.google.com/drive/u/0/folders/1JfcXagifO5wmixA-vjI_qgYs1qzw4-dM) charts or sheets.
-
-# Memos
-
-This is a catch-all for documents which are neither processes nor templates.
-
 # TODO
 
   * [charts](https://www.lucidchart.com/users/registerLevel?pricing=true&tP=1&t10=A&referer=https%3A%2F%2Fwww.lucidchart.com%2Fpages%2Fprocess-documentation%2Fsoftware)
