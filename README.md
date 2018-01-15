@@ -29,3 +29,5 @@ This repository is intended for a specific company (Countable Web Productions In
    * Don't include "what if" cases. Include cases that commonly occur in the company.
    * Try to maximize "usefulness density", or the total benefit (ie, in saved time, dollars) of the content divided by its length (in characters).
 
+More on contributing [here](./CONTRIBUTING.md).
+
