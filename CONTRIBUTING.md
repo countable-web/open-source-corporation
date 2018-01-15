@@ -1,12 +1,10 @@
 
 # Contributing
 
-This repository is composed of three types of content:
-  * Processes are lists of steps we follow for completing specific tasks.
-  * Templates are simply empty documents with no data specific to any Employee or Client, and no real financial data.
-  * Memos are unstructured notes that tell the story of what we're trying to do and propose principles supporting those objectives.
+#OBJECTIVE
 
-In the spirity of consistency and simplicity, we want our processes themselves to be consistent in form.
+In the spirity of consistency and simplicity, we want our processes themselves to be consistent in form. Processes are algorithms, lists of steps we follow for completing specific tasks.
+
 
 ## Defining Processes
 
