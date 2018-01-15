@@ -1,7 +1,7 @@
 
 # Contributing
 
-#OBJECTIVE
+# OBJECTIVE
 
 In the spirity of consistency and simplicity, we want our processes themselves to be consistent in form. Processes are algorithms, lists of steps we follow for completing specific tasks.
 
