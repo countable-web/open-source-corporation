@@ -22,12 +22,13 @@ This repo will contain:
   * We will not publish information here that would compromise the privacy or property of our employees, clients or customers. For example, _filled_ timesheets, invoices and other documents with monetary specifics of other parties will not be filed here. For these, only empty templates will be provided.
 
 ## Contributing
-This repository is intended for a specific company (Countable Web Productions Inc.), if you want to use it for your own company, please fork it. If you want to suggest a change to Countable Web Productions, make a pull request. Contribution guidelines:
-
+If you want to suggest a change to Countable Web Productions, make a pull request. The rules:
+   * *Important: Never commit private data or protected intellectual property. Nothing specific to our employees, clients, or finances should go in here.*
    * Keep it concise, to-the-point, actionable.
    * Keep in concrete. If you do use an abstraction, provide a corresponding example.
    * Don't include "what if" cases. Include cases that commonly occur in the company.
    * Try to maximize "usefulness density", or the total benefit (ie, in saved time, dollars) of the content divided by its length (in characters).
+   * This repository is intended for a specific company (Countable Web Productions Inc.), if you want to use it for another company, please fork it.
 
 ### Processes
 
