@@ -63,7 +63,11 @@ Of course, to see anything meaningful you may need to restore a database to your
 
 ## Python Coding Standards
 
-For Python code, please comply with PEP-8. Editor plugins can automate most of the rules for you.
+For Python code, please comply with PEP-8. Editor plugins can automate most of the rules for you. Common mistakes:
+
+  * [Functions should be snake_case](https://www.python.org/dev/peps/pep-0008/#function-names)
+  * [Classes should be UpperCamelCase](https://www.python.org/dev/peps/pep-0008/#class-names)
+  * [Constants should be ALL_CAPS](https://www.python.org/dev/peps/pep-0008/#id48)
 
 ### Imports
 
