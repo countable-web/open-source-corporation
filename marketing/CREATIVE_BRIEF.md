@@ -20,6 +20,8 @@ Several other categories compete with us, including hiring in-house, freelancers
   * The same experts available to help understand how technology fits the big picture of your business strategy.
   * Pre-packaged best practices for avoiding technical debt, helping with succession, scalability and numerous other architecture and people problems.
   * A bias towards putting the client's needs first in the interest of fosternig long term relationships.
+  * We've spent resources dealing with all the overhead of a technical project in advance, and can collaborate with you to create customer value immediately.
+  * Expertise in prototyping quickly to test ideas and market response.
 
 ### Tone
 
