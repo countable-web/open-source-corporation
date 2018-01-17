@@ -4,26 +4,28 @@
 
 This document outlines our rationale for, and approach to visual design for the Countable brand.
 
-## Audience
+## Rationale
+
+### Audience
 
 Medium sized businesses, typically who have no in-house developer team, or small/incomplete one. Also, any business that needs capacity for a one-off need such as a special prototype / project. Businesses who have developer teams but want an outside perspective or skill supplement.
 
-## Competition
+### Competition
 
 Several other categories compete with us, including hiring in-house, freelancers, placement firms and agencies. Of these, we most directly compete with agencies who do end-to-end web based software development work.
 
-## Differentiator
+### Differentiator
 
   * Well vetted technicians, tested by very seasoned industry experts.
   * The same experts available to help understand how technology fits the big picture of your business strategy.
   * Pre-packaged best practices for avoiding technical debt, helping with succession, scalability and numerous other architecture and people problems.
   * A bias towards putting the client's needs first in the interest of fosternig long term relationships.
 
-## Tone
+### Tone
 
-Expertise, precision and trust.
+Expertise, precision, clarity, simplicity and trust.
 
-## Message
+### Message
 
 We'll take the time to understand your business and help you craft the right technology strategy for your needs. Then, we understand all the nuts and bolts for implementation.
 
