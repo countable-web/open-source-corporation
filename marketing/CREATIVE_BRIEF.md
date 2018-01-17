@@ -8,6 +8,8 @@ This document outlines our rationale for, and approach to visual design for the 
 
 ## Competition
 
+Several other categories compete with us, including hiring in-house, freelancers, placement firms and agencies. Of these, we most directly compete with agencies who do end-to-end web based software development work.
+
 ## Tone
 
 ## Design Principles
