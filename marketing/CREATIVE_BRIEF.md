@@ -14,7 +14,7 @@ Medium sized businesses, typically who have no in-house developer team, or small
 
 Several other categories compete with us, including hiring in-house, freelancers, placement firms and agencies. Of these, we most directly compete with agencies who do end-to-end web based software development work.
 
-### Differentiator
+### How are We Different?
 
   * Well vetted technicians, tested by very seasoned industry experts.
   * The same experts available to help understand how technology fits the big picture of your business strategy.
