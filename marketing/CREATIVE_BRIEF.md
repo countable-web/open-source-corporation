@@ -8,7 +8,23 @@ This document outlines our rationale for, and approach to visual design for the 
 
 ### Audience
 
-Medium sized businesses, typically who have no in-house developer team, or small/incomplete one. Also, any business that needs capacity for a one-off need such as a special prototype / project. Businesses who have developer teams but want an outside perspective or skill supplement.
+Medium sized businesses, typically who have no in-house developer team, or small/incomplete one. Also, any business that needs capacity for a one-off need such as a special prototype / project. Businesses who have developer teams but want an outside perspective or skill supplement. In search, we compete for the team "Web Application Firm" and "Web Software Firm" with:
+  * https://coresolutions.ca/
+  * https://www.scnsoft.com/
+  * http://www.falcon-software.com/
+  * https://twg.io/
+  * https://www.cygnismedia.com/web-application/
+
+Companies identified on clutch.io
+  * http://imagexmedia.com/
+  * https://www.backbonetechnology.com/ - has omepage animation like ours
+  * https://masterofcode.com/ - has homepage animation like ours
+  * https://xsolve.software/
+  * https://nmgtechnologies.com/services/web-application-development/
+  * https://www.merixstudio.com/
+  * https://www.oxagile.com/
+  * https://www.netsolutions.com/clutch/ - outsourcing
+  * https://liftinteractive.com/ - highest billable rates in this list
 
 ### Competition
 
