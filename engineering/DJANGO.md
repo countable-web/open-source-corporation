@@ -19,3 +19,10 @@ Use the long term support version of Django, ideally the latest one available at
 ## Read 2 Scoops of Django
 
 This book contains a lot of great practices, which we _almost_ universally agree with.
+
+## Follow 12 factor principles
+
+These are progressive principles for making your application predictable and scalable.
+
+https://12factor.net/
+
