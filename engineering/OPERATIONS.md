@@ -20,6 +20,17 @@ We use Docker to automate managing dev and prod environments. Specific conventio
 
 4. Navigate to http://localhost.
 
+5. If you want to use a different port, map that in docker-compose.override.yml
+
+```
+services:
+  web:
+    ports:
+      -9000:80
+```
+
+And visit http://localhost:9000
+
 ### Databases
 
 We use postgres and occasionally mongodb. You can restore a postgres DB in our projects as follows. Include this portion `-T template_postgis ` if you have a postgis (as opposed to plain postgres) db image in your docker definitions. You may need to stop your other containers to abort their connections to the db first.
@@ -36,7 +47,7 @@ Never expose the db management port, it should only be accessible via Docker.
 ## Backups
 *ALL* production data of ours and clients' must be backed up. We must have reasonable evidence that backups can actually be restored. For example, periodically update your development environment's database using a backup from production.
 
-## Deployment
+## Deploying Updates To Projects
 
 While everything uses Docker as described above, every project is basically a unique unicorn in terms of hosting. We are moving projects to use Jenkins for CI, with 2 automated jobs.
 
