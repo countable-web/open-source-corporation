@@ -20,7 +20,7 @@ We use Docker to automate managing dev and prod environments. Specific conventio
 
 4. Navigate to http://localhost.
 
-5. If you want to use a different port, map that in docker-compose.override.yml
+5. If you want to use a different port on the host, such as when you want to run environments on the same host, map that in docker-compose.override.yml
 
 ```
 services:
