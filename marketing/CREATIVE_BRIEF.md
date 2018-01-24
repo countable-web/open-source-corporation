@@ -32,8 +32,9 @@ Companies identified on clutch.io
   * https://www.netsolutions.com/clutch/ - outsourcing
   * https://liftinteractive.com/ - highest billable rates in this list
 
-Other interesting companies
+Companies specialized in Django
   * https://www.caktusgroup.com
+  * https://lincolnloop.com
  
 ### How are We Different?
 
