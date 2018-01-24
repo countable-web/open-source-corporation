@@ -1,5 +1,7 @@
 # Operations
 
+This defines how we intend to set up, run and deploy project runtime environments.
+
 ## Docker
 
 We use Docker to automate managing dev and prod environments. Specific conventions we follow:
@@ -44,6 +46,12 @@ docker-compose exec db psql -f /tmp/<sql filename> -U postgres postgres
 
 Never expose the db management port, it should only be accessible via Docker.
 
+#### Migrations
+
+Migrations should be run as a part of a startup script, so the DB schema is always up to date with the currently running code.
+
+Note: migration conflicts should be resolved when merging `develop` into your working branch and not as part of operations work.
+
 ## Backups
 *ALL* production data of ours and clients' must be backed up. We must have reasonable evidence that backups can actually be restored. For example, periodically update your development environment's database using a backup from production.
 
@@ -70,3 +78,8 @@ docker-compose up --build web
 ```
 
 Some projects use [Jenkins to automatically test and deploy new commits](./JENKINS.md).
+
+### Static Files
+
+nginx may as well always serve all static files in all environments. This prevents us needing to worry about differences in static file serving in various dev environments. To prevent the need to run `collectstatic` constantly in Django projects, static files should be served from a single directory, so that only 3rd party static files need collected. `python manage.py collectstatic --noprompt` should be run as part of the startup script for any Django project.
+
