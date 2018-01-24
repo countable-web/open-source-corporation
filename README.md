@@ -42,3 +42,7 @@ Templates are simply empty documents with no data specific to any Employee or Cl
 
 Memos are unstructured notes that tell the story of what we're trying to do and propose principles supporting those objectives. This is a catch-all for documents which are neither processes nor templates. 
 
+## Similar Efforts
+
+  * Some companies open source aspects such as coding standards, ie [Caktus](https://github.com/caktus/developer-documentation)
+  * TODO: Find more examples.
