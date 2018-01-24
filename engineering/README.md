@@ -11,6 +11,7 @@ We don't want to support every stack, so we chose the best for most cases and wa
   * Node.js
   * Django / Flask / Express
   * Unix (Ubuntu Linux for servers)
+  * PostgreSQL
 
 ## Operations Manuals For Engineering
 
