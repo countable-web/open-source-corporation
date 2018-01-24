@@ -8,7 +8,13 @@ This document outlines our rationale for, and approach to visual design for the 
 
 ### Audience
 
-Medium sized businesses, typically who have no in-house developer team, or small/incomplete one. Also, any business that needs capacity for a one-off need such as a special prototype / project. Businesses who have developer teams but want an outside perspective or skill supplement. In search, we compete for the team "Web Application Firm" and "Web Software Firm" with:
+Medium sized businesses, typically who have no in-house developer team, or small/incomplete one. Also, any business that needs capacity for a one-off need such as a special prototype / project. Businesses who have developer teams but want an outside perspective or skill supplement.
+
+### Competition
+
+Several other categories compete with us, including hiring in-house, freelancers, placement firms and agencies. Of these, we most directly compete with agencies who do end-to-end web based software development work.
+
+In search (SEO) at least, we compete for the terms "Web Application Firm" and "Web Software Firm" with:
   * https://coresolutions.ca/
   * https://www.scnsoft.com/
   * http://www.falcon-software.com/
@@ -25,11 +31,7 @@ Companies identified on clutch.io
   * https://www.oxagile.com/
   * https://www.netsolutions.com/clutch/ - outsourcing
   * https://liftinteractive.com/ - highest billable rates in this list
-
-### Competition
-
-Several other categories compete with us, including hiring in-house, freelancers, placement firms and agencies. Of these, we most directly compete with agencies who do end-to-end web based software development work.
-
+ 
 ### How are We Different?
 
   * Well vetted technicians, tested by very seasoned industry experts.
