@@ -10,6 +10,7 @@ We don't want to support every stack, so we chose the best for most cases and wa
   * Python
   * Node.js
   * Django / Flask / Express
+  * Unix (Ubuntu Linux for servers)
 
 ## Operations Manuals For Engineering
 
