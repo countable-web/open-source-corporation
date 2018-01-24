@@ -31,6 +31,9 @@ Companies identified on clutch.io
   * https://www.oxagile.com/
   * https://www.netsolutions.com/clutch/ - outsourcing
   * https://liftinteractive.com/ - highest billable rates in this list
+
+Other interesting companies
+  * https://www.caktusgroup.com
  
 ### How are We Different?
 
