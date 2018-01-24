@@ -18,7 +18,7 @@ In the spirity of consistency and simplicity, we want our processes themselves t
 ## Improving Processes
 
 1. When a process is used, we may find deficiencies or opportunities for improvement. If so, move to step 2.
-2. Re-do steps 2 through 5 of [Defining Processes]#defining-processes
+2. Re-do steps 2 through 5 of [Defining Processes](#defining-processes)
 
 # TODO
 
