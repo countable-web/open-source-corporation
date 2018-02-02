@@ -1,6 +1,6 @@
 # Scrum
 
-Countable's now using Scrum to manage client work and internal projects.
+Countable's now using [Scrum](https://en.wikipedia.org/wiki/Scrum_(software_development)) to manage client work and internal projects.
 
 We have a 1 week sprint:
   * Monday - For individual projects, do your sprint planning (move cards from the top of Backlog to your Sprint of work for the week)
