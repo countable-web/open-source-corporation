@@ -16,7 +16,7 @@ We use Trello for project management, as it allows unlimited access to boards by
 
 ## Methodology
 
-  * We use a loose agile project management methodology. This is a subset of Scrum.
+  * We use Scrum like [this](./SCRUM.md).
   * Each client should have a priority ordered backlog (either in Trello or Jira)
-  * We encourage active projects to engage in a monthly or biweekly sprint plan and retrospective. This meeting includes discussing what backlog was done, updating the order of the backlog, and raising any problems for the team to address in order to improve our work velocity.
+  * Each Tuesday at 9am we have a retrospective meeting to raise any problems for the team to address, and find ways to improve our work velocity.
 
