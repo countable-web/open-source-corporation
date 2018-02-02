@@ -8,4 +8,6 @@ We have a 1 week sprint:
   * Friday - A weekly email regarding any special or ongoing items and reminders for the next week's meeting agenda.
   * Every weekday - as you complete cards, move them to the Done column.
 
+We do not have daily stand up meetings, although 3 or more of us are collaborating on one thing, we may temporarily form a daily stand up meeting for that project.
+
 For a visual aid of how our work is processed, see this [Business Process Diagram](https://docs.google.com/drawings/d/1UkPeGGzKYWkCsZpkwWB_UJ3JjWJcoT4t8qSU8A0tsy4/edit).
