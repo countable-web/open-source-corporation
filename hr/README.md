@@ -33,4 +33,6 @@ Share your username with your team members on these platforms so you can be invi
   * [GitHub](https://github.com/countable-web)
   * [BitBucket](https://bitbucket.org/countable-web)
 
-See also [Project Management](./PROJECT_MANAGEMENT.md).
+### How to Do Work
+
+See [Project Management](./PROJECT_MANAGEMENT.md).
