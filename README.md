@@ -1,7 +1,7 @@
 # open-source-corporation
 
 ## An Experiment in Transparency
-This is an experiment to "open source" [Countable Web Productions Inc.](http://countable.ca) *operations manual* and several other assets. Like a software project, our processes and other information assets, are publicly available for anyone to use under the MIT license. *However*, just as an open source software project does not disclose its database contents, this repository does not include any of our clients and employees private data.
+This is an experiment to "open source" [Countable Web Productions Inc.](http://countable.ca) as much as possible. This includes our *operations manual* and several other assets. Like a software project, our processes and other information assets, are publicly available for anyone to use under the MIT license. *However*, just as an open source software project does not disclose its database contents, this repository does not include any of our clients and employees private data.
 
 ## Who Started This?
 Countable is a boutique consulting firm which also sells SaaS products and advertising space.
