@@ -20,6 +20,7 @@ We've found the following stack to be very good on these metrics.
   * Django / Flask / Express
   * Unix (Ubuntu Linux for servers)
   * PostgreSQL
+  * Docker
 
 Python in particular is a very strong general purpose stack choice. With "software eating the world", Python's been the condiment of choice, and is appearing in many niche industries. This lets us synergize with other of our clients' projcts, staff and expertise within the same lingua franca.
 
