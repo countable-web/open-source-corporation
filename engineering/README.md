@@ -23,7 +23,7 @@ We've found the following stack to be very good on these metrics.
 
 Python in particular is a very strong general purpose stack choice. With "software eating the world", Python's been the condiment of choice, and is appearing in many niche industries. This lets us synergize with other of our clients' projcts, staff and expertise within the same lingua franca.
 
-![python popularity](https://zgab33vy595fw5zq-zippykid.netdna-ssl.com/wp-content/uploads/2017/09/non_high_income_graph-1-1-1024x731.png)
+![python popularity](https://zgab33vy595fw5zq-zippykid.netdna-ssl.com/wp-content/uploads/2017/09/growth_major_languages-1-1024x878.png)
 
 ## Operations Manuals For Engineering
 
