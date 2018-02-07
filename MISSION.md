@@ -15,5 +15,5 @@ To help us get there:
   * Do work that excites us and has a chance to affect change in its' industry.
   * Keep an updated list of specific opportunities shared with our team.
   * Share everything in the most public place that doesn't endanger someone's privacy or property.
-  * *The Systems Principle* Continuously work on improving our processes to create a productive work environment.
+  * _The Systems Principle_ Continuously work on improving our processes to create a productive work environment.
   * Strive to achieve *clarity* in all that we do. The founder (Clark Van Oyen) believes a lack of clarity (ambiguity, uncertainty and lack of the right communication) to be the number one cause of failure in software projects overall.
