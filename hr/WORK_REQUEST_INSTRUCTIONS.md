@@ -1,5 +1,7 @@
 # Delivery Workflow Documentation (for Clients)
 
+If you're a visual person, process diagram [here](https://docs.google.com/drawings/d/1UkPeGGzKYWkCsZpkwWB_UJ3JjWJcoT4t8qSU8A0tsy4/edit?usp=sharing).
+
 ## Submitting Work Requests to Countable
 
 We use Trello to communicate work items with our clients.
