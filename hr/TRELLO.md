@@ -3,7 +3,7 @@
 We use Trello for project management, as it's simple to set up access to the appropriate boards by partners and clients. See the next section for an explanation of our Trello board conventions.
 
 ### Trello Board Headers
-#### Defer
+#### Deferred
 this column stores requested cards that have been reviewed by the consultant but can't be worked on for some reason. Usually  the card is unclear or conflicts somehow.
 
 #### Requests
