@@ -25,6 +25,8 @@ Please let us know if there's an issue with how your work items are handled. If 
 
 ### How do I budget my work, estimate cost, and estimate timelines?
 
+First of all, the below method takes a little practice, so just ask us to provide an estimate at any time and we'll walk you through it.
+
 We suggest using the `velocity` method to always have an up-to-date timeline and cost, and to respond quickly when off course.
 
 1. Look at your Backlog (list of work to be done), and identify what you need done by what date (we'll call this the `project` parameters)
