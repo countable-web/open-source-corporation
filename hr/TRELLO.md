@@ -1,8 +1,9 @@
 # Trello
 
-We use Trello for project management, as it's simple to set up access to the appropriate boards by partners and clients. See the next section for an explanation of our Trello board conventions.
+We use Trello for project management, as it's simple to set up access to the appropriate boards by partners and clients. A Trello board consists of a set of Cards (tasks) in the following columns.
 
-### Trello Board Headers
+### Trello Board Columns
+
 #### Deferred
 this column stores requested cards that have been reviewed by the consultant but can't be worked on for some reason. Usually  the card is unclear or conflicts somehow.
 
@@ -17,3 +18,7 @@ cards actively being worked on in the current week.
 
 #### Done
 cards that are ready to be tested by the client (and where not possible, the consultant). A test can take the form of a client approval, code review, or automated test written.
+
+### Moving cards between columns
+
+A diagram shows how cards can move from conception to completion [here](https://docs.google.com/drawings/d/1UkPeGGzKYWkCsZpkwWB_UJ3JjWJcoT4t8qSU8A0tsy4/edit).
