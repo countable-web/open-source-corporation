@@ -20,3 +20,19 @@ For more information on how we use Trello, see [here](./TRELLO.md).
 2. Each Monday, we move items from Backlog column into the the Sprint column (meaning it's planned for completion this week). This way we can plan our week and it's clear to clients approximately when things will be done.
 
 Please let us know if there's an issue with how your work items are handled. If you're in a rush to get something done, let us know and we'll try to include it in the earliest possible sprint. Otherwise, we're assuming cards at the top of the Backlog column in Trello are higher priority.
+
+## Frequently Asked Questions ##
+
+### How do I budget my work, estimate cost, and estimate timelines?
+
+We suggest using the `velocity` method to always have an up-to-date timeline and cost, and to respond quickly when off course.
+
+1. Look at your Backlog (list of work to be done), and identify what you need done by what date (we'll call this the `project` parameters)
+2. This allows estimating how many hours per week (and per month) we need, which in turn gives a cost estimate.
+3. Each week (or two) check in and determine whether the volume of tasks completed so far is on course. This will indicate a `velocity` or number of tasks per week. Ask, how can we improve the velocity? Do we need to adjust resources allocated?
+4. The `velocity` also provides a constantly updating estimate of the final project completion and cost. It's simply:
+
+```
+remaining_weeks = number_of_tasks_in_project / tasks_per_week
+total_cost = dollars_per_hour * remaining_weeks / hours_per_week
+```
