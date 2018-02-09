@@ -4,7 +4,7 @@
 These are the reasons for the Company to exist.
 
   * Reach 50 million users on our web widget platform products.
-  * Develop mutually rewarding relationships with clients.
+  * Develop mutually rewarding relationships with clients where we contribute to their successful business outcomes in order to earn our billables and future contracts.
   * Become a workplace that independent-minded, creative, tasteful knowledge workers prefer.
 
 # Principles
