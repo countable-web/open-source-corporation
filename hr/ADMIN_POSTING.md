@@ -4,3 +4,12 @@ We are a boutique, handsome web technology consulting firm. And, we are the best
   * We welcome you to work from home, or rent a desk at the local colo, up to you.
   * We want you to decide your own hours and working style.
   * We will challenge you to build awesome stuff and learn from the best.
+
+These are the reasons for the Company to exist.
+
+  * Reach 50 million users on our web widget platform products.
+  * Develop mutually rewarding relationships with clients where we contribute to their successful business outcomes in order to earn our billables and future contracts.
+  * Become a workplace that independent-minded, creative, tasteful knowledge workers prefer.
+
+
+To apply, please provide a 150 word essay on why we'd be a great fit! You may want to reference our mission statement, here:
