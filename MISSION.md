@@ -1,11 +1,12 @@
 
 # Mission
 
-These are the reasons for the Company to exist.
+These are the reasons for the Company to exist. The mission statement also says a lot what's left out, and that's what makes it useful. It helps us get on the same page regarding what we care about so we can work towards the same things and helps new clients and colleagues decide if we're a good fit.
 
-  * Reach 50 million users on our web widget platform products.
-  * Develop mutually rewarding relationships with clients where we contribute to their successful business outcomes in order to earn our billables and future contracts.
-  * Become a workplace that independent-minded, creative, tasteful knowledge workers prefer.
+ 1. Reach 50 million users on web platform products.
+ 2. Develop mutually rewarding relationships with clients where we contribute to their successful business outcomes in order to earn our billables and future contracts.
+ 3. Re-imagine standard ways companies engage with web technology work, creating a system for web technology contract work that's better for all parties involved.
+ 4. Become a workplace that independent-minded, creative, tasteful knowledge workers prefer.
 
 # Principles
 
