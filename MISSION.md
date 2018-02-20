@@ -31,5 +31,5 @@ This is a list of things we must do a lot of, and well to affect the mission abo
 
 #3 - Developing widgets and improving the tools and ecosystem we provide for this. Capturing feedback and using our own widgets, understanding what our users need. Testing what resonates and helps with pain points. Listening to customers and understanding what they need.
 
-#4 - Encourage a culture of feedback. Learn and understand what our team (and others we'd like to work with) really care about.
+#4 - Encourage a culture of feedback. Learn and understand what our team (and others we'd like to work with) really care about. Be open and transparent about this initiative, and create a welcoming message for new potential members.
 
