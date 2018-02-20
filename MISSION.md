@@ -23,13 +23,14 @@ This addresses some questions raised by the team.
 
 # Key Activities
 
-This is a list of things we must do a lot of, and well to affect the mission above.
+This is a list of things we must do a lot of, and well to affect the mission above. Key roles for understanding and executing these activities are listed alongside.
 
-#1 - We need a friendly and respectful contact for clients, who understand priorities for fostering a good relationship. We need to consider clients' business case behind requirements, and stay ahead of the market in our knowledge depth, methodology and tooling. Maintain a list of what's important to clients.
+#1 - We need to consider clients' long term business goals and align their tech strategy. Incorporate business case behind requirements, and stay ahead of the market in our knowledge depth, methodology and tooling. Maintain a list of what's important to clients. Key role: Tech strategist, branding.
 
-#2 - Continuously understand and assess our performance and efficiency, as well as what can be improved. Systematically question assumptions and explore better solutions for our work delivery. Maintain a list of core problems with contact (and other) web tech delivery systems.
+#2 - Continuously understand and assess our performance and efficiency, as well as what can be improved. Systematically question assumptions and explore better solutions for our work delivery. Maintain a list of core problems with contact (and other) web tech delivery systems. Key role: Operations analyst, manager.
 
-#3 - Developing widgets and improving the tools and ecosystem we provide for this. Capturing feedback and using our own widgets, understanding what our users need. Testing what resonates and helps with pain points. Listening to customers and understanding what they need.
+#3 - Developing widgets and improving the tools and ecosystem we provide for this. Capturing feedback and using our own widgets, understanding what our users need. Testing what resonates and helps with pain points. Listening to customers and understanding what they need. Key role: Widget developer, product manager, designer
 
-#4 - Encourage a culture of feedback. Learn and understand what our team (and others we'd like to work with) really care about. Be open and transparent about this initiative, and create a welcoming message for new potential members.
+#4 - Encourage a culture of feedback. Learn and understand what our team (and others we'd like to work with) really care about. Be open and transparent about this initiative, and create a welcoming message for new potential members. Key role: human resources analyst.
+
 
