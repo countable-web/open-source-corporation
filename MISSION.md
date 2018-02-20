@@ -25,7 +25,7 @@ This addresses some questions raised by the team.
 
 This is a list of things we must do a lot of, and well to affect the mission above. Key roles for understanding and executing these activities are listed alongside.
 
-#1 - Understand clients' long term business goals and align their tech strategy. Incorporate business case behind requirements, and stay ahead of the market in our knowledge depth, methodology and tooling. Maintain a list of what's important to clients. Key role: Tech strategist, branding. docs: [consulting]([https://github.com/countable-web/open-source-corporation/tree/master/consulting), [marketing]([https://github.com/countable-web/open-source-corporation/tree/master/marketing)
+#1 - Understand clients' long term business goals and align their tech strategy. Incorporate business case behind requirements, and stay ahead of the market in our knowledge depth, methodology and tooling. Maintain a list of what's important to clients. Key role: Tech strategist, branding. docs: [consulting](https://github.com/countable-web/open-source-corporation/tree/master/consulting), [marketing](https://github.com/countable-web/open-source-corporation/tree/master/marketing)
 
 #2 - Continuously understand and assess our performance and efficiency, as well as what can be improved. Systematically question assumptions and explore better solutions for our work delivery. Maintain a list of core problems with contact (and other) web tech delivery systems. Key role: Operations analyst, manager. docs: [engineering](https://github.com/countable-web/open-source-corporation/tree/master/engineering)
 
