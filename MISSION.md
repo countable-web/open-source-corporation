@@ -19,3 +19,17 @@ This addresses some questions raised by the team.
 #3 - Based on feedback, we've removed the specific aim of 50 million users, and changed our goal to win a specific market. Getting specific numbers of users is still a useful metric but not really the mission. It was asked what our strategy is for this, and the key strategy is the use of a backlink as marketing in the widget code for non-paying users. This has been effective in other cases. Also, the use of keyword rich domains specific to each widget is very effective for SEO [gr]. Doubling our user base every 3 months is about the right order of magnitude to aim for in terms of velocity. We want to reach that as soon as possible after we shift to this project a bit more, starting soon, in full swing by May. [tj]
 
 #4 - Strategy is mostly pending discussion. Includes the ability to have flexible hours and location, good feedback, good mentorship and guidance, clear objectives, interesting projects. Let's discuss to figure out what we each value most in this regard. [gr]
+
+
+# Key Activities
+
+This is a list of things we must do a lot of, and well to affect the mission above.
+
+#1 - We need a friendly and respectful contact for clients, who understand priorities for fostering a good relationship. We need to consider clients' business case behind requirements, and stay ahead of the market in our knowledge depth, methodology and tooling. Maintain a list of what's important to clients.
+
+#2 - Continuously understand and assess our performance and efficiency, as well as what can be improved. Systematically question assumptions and explore better solutions for our work delivery. Maintain a list of core problems with contact (and other) web tech delivery systems.
+
+#3 - Developing widgets and improving the tools and ecosystem we provide for this. Capturing feedback and using our own widgets, understanding what our users need. Testing what resonates and helps with pain points. Listening to customers and understanding what they need.
+
+#4 - Encourage a culture of feedback. Learn and understand what our team (and others we'd like to work with) really care about.
+
