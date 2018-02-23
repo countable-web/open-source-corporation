@@ -1,11 +1,10 @@
-# Founder Notes
+# Vision Statement
 
+Codify the complex problem of web technology delivery, so it can be abstracted away and simplified to allow everyone to better focus on their customers.
 
 ## Back story
 
-Codify the complex problem of web technology delivery, so it can be abstracted away and simplified to allow everyone to better focus on their customers.
- 
-from Clark Van Oyen
+from Clark Van Oyen, Founder at Countable Web Productions.
 
 Over the last decade my journey has involved bringing web technology to many businesses for a variety of reasons:
 
