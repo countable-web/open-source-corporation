@@ -1,6 +1,6 @@
 # Vision Statement
 
-Codify the many-faceted problem of web technology delivery, so it can be abstracted away and simplified to allow everyone to better focus on their customers.
+Codify the many-faceted problem of web technology delivery, so it can be abstracted away and simplified to allow everyone to better focus on their customers. This should be done in a way that caters to the situation of a business implementing the technology.
 
 ## Back story
 
