@@ -1,5 +1,10 @@
 # Founder Notes
 
+
+## Back story
+
+Codify the complex problem of web technology delivery, so it can be abstracted away and simplified to allow everyone to better focus on their customers.
+ 
 from Clark Van Oyen
 
 Over the last decade my journey has involved bringing web technology to many businesses for a variety of reasons:
@@ -26,5 +31,5 @@ For most businesses, you're lucky enough to get a fizbuzz capable developer who 
 
 What if we could codify web development over time to continuously spend more time on the "good" stuff, of focusing on your customers?
 
-This is the core idea behind Countable Consulting. We're attempting to develop the processes and tools to abstract away the multifaceted problem of building a web technology team.
+This is the core idea behind Countable Consulting. To develop the processes and tools to abstract away the multifaceted problem of building a web technology team.
 
