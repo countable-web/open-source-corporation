@@ -22,13 +22,14 @@ key aspect such as:
   * Properly mentoring others to fill their role later
   * Using techniques, platform, tools and architecture that others can understand and later take over.
   * Having a basic knowledge of security, privacy, copyright law of libraries, and other subtleties.
+  * How to approach Testing, Deployment and Operational pipelines.
 
-Now, assume we strike gold and find someone who can build your technology, and does all these things, and you can retain them.
-Wouldn't it still be much better if this amazing person could focus on the opportunities and technology strategy of your business instead of all these minutiae?
+Now, assume we strike gold and find a team who can build your technology, and does all these things, and you can retain them.
+Wouldn't it still be much better if these amazing people could focus on the opportunities and technology strategy of your business instead of all these minutiae?
 
-For most businesses, you're lucky enough to get a fizbuzz capable developer who can actually develop your product at all, in a world of recruiters who have no idea how to determine developer capability.
+For most businesses, you're lucky enough to get a fiz-buzz capable developer who can actually develop your product at all, in a world of recruiters who have no idea how to determine developer capability. Let alone understanding a huge fast moving ecosystem and riding all the right waves.
 
-What if we could codify web development over time to continuously spend more time on the "good" stuff, of focusing on your customers?
+What if we could codify web development over time to continuously spend more time on the "good" stuff, focusing on your customers and opportunities? What if you could have just a little access to all the right deep domain knowledge in the context of your business? And, what if we could do all the basic things right by default without needing a team of amazing specialists.
 
 This is the core idea behind Countable Consulting. To develop the processes and tools to abstract away the multifaceted problem of building a web technology team.
 
