@@ -1,6 +1,17 @@
 Hi!
 
+`cta`
+
 If you love CSS and HTML (and maybe some javascript and design), let's chat!
+
+`responsibilities and skills`
+
+You will be responsible for:
+
+1. Designs, html, css and javascript for internal projects.
+2. Precision and attention to detail in your designs.
+3. Excellent code quality and standards.
+4. Working on improving our front end work delivery pipeline by finding ways to improve and automate.
 
 You should have a portfolio that demonstrates most if not all of:
 
