@@ -14,10 +14,15 @@ We also expect you to proactively contribute to the team and company based on qu
 
 We are open to a variety of work arrangements and time commitments, let us know what you prefer.
 
+Countable wants to hire people who:
+  * are productive and talented at technical work.
+  * are self-motivated, creative problem solvers.
+  * a continuous, self-motivated learner, and take initiative to improve the environment for yourself and your team members.
+  * experiment with great focus, but know when to investigate a problem deeper yourself, when to ask your team for help.
+  * voice disagreements rather than keeping them to yourself. We need all opinions need to be on the table if they're to be taken into account.
+  * consider both the big picture and minute details, from a client's overall business down to crossing T's and dotting I's.
+  * have excellent written English skills.
+
 Your application must include a resume, and a cover letter. To avoid automated submissions, and to see if you pay attention to detail and follow instructions, your cover letter must have exactly 100 words explaining your back story, and exactly 100 words about your first impression of Countable, and a question about us. I hope you're interested in our being part of our mission (see documentation link above). If you help achieve it, there are stock and cash bonuses available.
-
-Countable wants to hire people who are both technically strong and are self-motivated, creative problem solvers.
-
-You must have excellent written English skills at a minimum, but the better your English, the better your application will be.
 
 I look forward to hearing from you!
