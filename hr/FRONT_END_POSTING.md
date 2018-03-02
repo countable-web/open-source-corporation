@@ -1,6 +1,6 @@
 Hi!
 
-If you're love CSS and HTML (and maybe some javascript and design), let's chat!
+If you love CSS and HTML (and maybe some javascript and design), let's chat!
 
 You should have a portfolio that demonstrates most if not all of:
 
