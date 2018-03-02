@@ -20,6 +20,11 @@ Medium sized businesses, typically who have no in-house developer team, or small
 
 Several other categories compete with us, including hiring in-house, freelancers, placement firms and agencies. Of these, we most directly compete with agencies who do end-to-end web based software development work.
 
+Companies that seem to be aligned with our way of doings and have succeeded in some metric:
+  * https://dockyard.com/ - talent, open source focused, full service.
+  * https://www.caktusgroup.com - django, open source focused.
+  * https://lincolnloop.com - django
+
 In search (SEO) at least, we compete for the terms "Web Application Firm" and "Web Software Firm" with:
   * https://coresolutions.ca/
   * https://www.scnsoft.com/
@@ -38,9 +43,7 @@ Companies identified on clutch.io
   * https://www.netsolutions.com/clutch/ - outsourcing
   * https://liftinteractive.com/ - highest billable rates in this list
 
-Companies specialized in Django
-  * https://www.caktusgroup.com
-  * https://lincolnloop.com
+
  
 ### How are We Different?
 
