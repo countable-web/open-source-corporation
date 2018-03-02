@@ -1,6 +1,8 @@
 Hi!
 
-We are a new-ish, fast moving web agency and SaaS firm. We want you to help us envision and shape the company. Every voice matters and we want to find ways to always improve, push each other to our potential, and be the best solution for our customers. We strive to find work that excites us and ways to make our work exciting. We've open-sourced our company's operations manual here if you want to learn more about our current thinking.
+If you're love CSS and HTML, let's chat!
+
+We are a new-ish, fast moving web agency and SaaS firm based in Vancouver, Canada (but we all work remote). We want you to help us envision and shape the company. Every voice matters and we want to find ways to always improve, push each other to our potential, and be the best solution for our customers. We strive to find work that excites us and ways to make our work exciting. We've open-sourced our company's operations manual here if you want to learn more about our current thinking.
 
 https://github.com/countable-web/open-source-corporation
 
