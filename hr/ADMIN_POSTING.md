@@ -12,8 +12,8 @@ Help us stay organized and grow. You will be responsible for conducting market r
 You must be:
 1. A good writer (in English)
 2. Good with Excel / Google Docs
-3. Attention to detail while always trying to understand and work towards high level goals.
-4. Taking initiative to solve problems and chase opportunities for the company.
+3. Great at paying to detail while always trying to understand and work towards high level goals.
+4. A self-starter who takes initiative to solve problems and chase opportunities for the company.
 
 `test`
 
