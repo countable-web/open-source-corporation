@@ -2,6 +2,10 @@ Hi!
 
 `call to action here "let's chat"`
 
+Want to be challenged by a team who will push you to your potential, and support you along the way? If so, we may be the place for you.
+
+We are a boutique, handsome web technology consulting firm. And, we are the best show in town, when it comes to web technology, as our roster of happy clients will verify! They include the Tesla of boats, a star-trak grade medical devices startup, global comicbook brand, and a next generation of cellular data provider. We help socially responsible, driven, and lucky companies across the globe get their piece of the internet, whatever form that may take. It involves creating amazing things in an environment of your own design.
+
 We are technology consultants and product creators who love to prototype and experiment on the web. We want you to help us envision and shape the company. Every voice matters and we want to find ways to always improve, push each other to our potential, and be the best solution for our customers. We strive to find work that excites us and ways to make our work exciting. We've open-sourced our company's operations manual here if you want to learn more about our current thinking.
 
 https://github.com/countable-web/open-source-corporation
