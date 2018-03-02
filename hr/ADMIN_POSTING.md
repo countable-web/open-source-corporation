@@ -14,3 +14,7 @@ You must be proficient with:
 2. Excel / Google Docs
 3. Attention to detail while always trying to understand and work towards high level goals.
 4. Taking initiative to solve problems and chase opportunities for the company.
+
+`test`
+
+Complete some research on embeddable web based widgets and components. Install 5 on one page using squarespace. Fill a usability report and spreadsheet.
