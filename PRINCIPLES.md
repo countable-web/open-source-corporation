@@ -9,4 +9,4 @@ This is an early draft. it's just notes and not actionable yet.
   * _The Transparency Principle_ - Share everything in the most public place that doesn't endanger someone's privacy or property.
   * _The Systems Principle_ - Continuously work on improving our processes to create a productive work environment.
   * _The Clarity Principle_ - Strive to achieve *clarity* in all that we do. The founder (Clark Van Oyen) believes a lack of clarity (ambiguity, uncertainty and lack of the right communication) to be the number one cause of failure in software projects overall.
-  
+  * _The Value Principle_ - maximize total value creation. Our everyday activities should result in additional content/value shared online.
