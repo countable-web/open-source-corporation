@@ -1,6 +1,6 @@
 Hi!
 
-We are a new-ish, fast moving web agency and SaaS firm. We're currently in the market for a new front end person! We want you to help us envision and shape the company. Every voice matters and we want to find ways to always improve, push each other to our potential, and be the best solution for our customers. We strive to find work that excites us and ways to make our work exciting. We've open-sourced our company's operations manual here if you want to learn more about our current thinking.
+We are a new-ish, fast moving web agency and SaaS firm. We want you to help us envision and shape the company. Every voice matters and we want to find ways to always improve, push each other to our potential, and be the best solution for our customers. We strive to find work that excites us and ways to make our work exciting. We've open-sourced our company's operations manual here if you want to learn more about our current thinking.
 
 https://github.com/countable-web/open-source-corporation
 
@@ -14,7 +14,7 @@ We are open to a variety of work arrangements and time commitments, let us know 
 
 Your application must include a resume, portfolio links, and a cover letter of 200 words explaining why we may be a good fit. Convince me that you're interested in our being part of our mission (see documentation link above). If you help achieve it, there are stock and cash bonuses available.
 
-We are looking for a someone who is very good with at 3 of the following areas. You should have a portfolio that demonstrates it.
+Countable wants to hire people who are both technically strong and are self-motivated, creative problem solvers. We are looking for a someone who is very good with at least 3 of the following skill areas. You should have a portfolio that demonstrates it.
 
 1. CSS and HTML
 2. UI Design in Photoshop, Sketch or other tools for front end mockups.
