@@ -1,5 +1,7 @@
 Hi!
 
+<position CTA here "let's chat>
+
 We are technology consultants and product creators who love to prototype and experiment on the web. We want you to help us envision and shape the company. Every voice matters and we want to find ways to always improve, push each other to our potential, and be the best solution for our customers. We strive to find work that excites us and ways to make our work exciting. We've open-sourced our company's operations manual here if you want to learn more about our current thinking.
 
 https://github.com/countable-web/open-source-corporation
