@@ -6,6 +6,8 @@ If you love CSS and HTML (and maybe some javascript and design), let's chat!
 
 `responsibilities and skills`
 
+Make all our user interfaces look good and be painfully easy to use :)
+
 You will be responsible for:
 
 1. Designs, html, css and javascript for internal projects.
@@ -22,3 +24,7 @@ You should have a portfolio that demonstrates most if not all of:
 5. Excellent english
 
 There will be a technical test on the above skills, so it will save everyone time if you're honest about your abilities.
+
+`test`
+
+Design a UI mockup for (something TBD), convert to responsive html/css, publish on github pages.
