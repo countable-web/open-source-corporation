@@ -24,12 +24,12 @@ Companies that seem to be aligned with our way of doings and have succeeded in s
   * https://dockyard.com/ - talent, open source focused, full service.
   * https://www.caktusgroup.com - django, open source focused.
   * https://lincolnloop.com - django
+  * https://twg.io - agile, canadian, full service.
 
 In search (SEO) at least, we compete for the terms "Web Application Firm" and "Web Software Firm" with:
   * https://coresolutions.ca/
   * https://www.scnsoft.com/
   * http://www.falcon-software.com/
-  * https://twg.io/
   * https://www.cygnismedia.com/web-application/
 
 Companies identified on clutch.io
