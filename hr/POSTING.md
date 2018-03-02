@@ -1,12 +1,16 @@
 Hi!
 
-<position CTA here "let's chat>
+<call to action here "let's chat">
 
 We are technology consultants and product creators who love to prototype and experiment on the web. We want you to help us envision and shape the company. Every voice matters and we want to find ways to always improve, push each other to our potential, and be the best solution for our customers. We strive to find work that excites us and ways to make our work exciting. We've open-sourced our company's operations manual here if you want to learn more about our current thinking.
 
 https://github.com/countable-web/open-source-corporation
 
 We also expect you to proactively contribute to the team and company based on quarterly objectives. This will be a fast paced job that requires juggling several responsibilities but being given the space to do great work.
+
+<specific responsibilities here>
+  
+<specific skills here here>
 
 We are open to a variety of work arrangements and time commitments, let us know what you prefer.
 
