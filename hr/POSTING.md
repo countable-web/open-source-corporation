@@ -1,6 +1,6 @@
 Hi!
 
-`call to action here "let's chat"`
+`cta (call to action) here "let's chat"`
 
 Want to be challenged by a team who will push you to your potential, and support you along the way? If so, we may be the place for you.
 
@@ -12,9 +12,7 @@ https://github.com/countable-web/open-source-corporation
 
 We also expect you to proactively contribute to the team and company based on quarterly objectives. This will be a fast paced job that requires juggling several responsibilities but being given the space to do great work.
 
-`specific responsibilities here`
-  
-`specific skills here here`
+`responsibilities and skills`
 
 We are open to a variety of work arrangements and time commitments, let us know what you prefer.
 
