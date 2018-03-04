@@ -27,7 +27,7 @@ key aspect such as:
 Now, assume we strike gold and find a team who can build your technology, and does all these things, and you can retain them.
 Wouldn't it still be much better if these amazing people could focus on the opportunities and technology strategy of your business instead of all these minutiae?
 
-For most businesses, you're lucky enough to get a fiz-buzz capable developer who can actually develop your product at all, in a world of recruiters who have no idea how to determine developer capability. Let alone understanding a huge fast moving ecosystem and riding all the right waves.
+For most cases, you're lucky enough to get a developer who can even implement [fiz-buzz](https://en.wikipedia.org/wiki/Fizz_buzz) in order to contribute to your product at all, in a world of recruiters who have no idea how to determine developer capability. Let alone understanding a huge fast moving ecosystem and riding all the right waves.
 
 What if we could codify web development over time to continuously spend more time on the "good" stuff, focusing on your customers and opportunities? What if you could have just a little access to all the right deep domain knowledge in the context of your business? And, what if we could do all the basic things right by default without needing a team of amazing specialists.
 
