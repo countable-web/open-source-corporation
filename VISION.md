@@ -6,6 +6,8 @@ Codify the many-faceted problem of web technology delivery, so it can be abstrac
 
 from Clark Van Oyen, Founder at Countable Web Productions.
 
+### Web Technology Is Still A Dark Art
+
 Over the last decade my journey has involved bringing web technology to many businesses for a variety of reasons:
 
   * Web Based Startups - Bring core web technology products to profitability or the next round of funding via prototyping.
@@ -23,6 +25,10 @@ key aspect such as:
   * Using techniques, platform, tools and architecture that others can understand and later take over.
   * Having a basic knowledge of security, privacy, copyright law of libraries, and other subtleties.
   * How to approach Testing, Deployment and Operational pipelines.
+
+### Finding Good Developeris is Hard
+
+Keeping them around, transitioning their knowledge, and aligning their work with product-market fit is harder.
 
 Now, assume we strike gold and find a team who can build your technology, and does all these things, and you can retain them.
 Wouldn't it still be much better if these amazing people could focus on the opportunities and technology strategy of your business instead of all these minutiae?
