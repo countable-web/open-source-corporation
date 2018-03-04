@@ -3,7 +3,7 @@ Add this to the specific jobs section of the [posting](./POSTING.md):
 
 `cta`
 
-If you love helping a team stay organized, online research, and are enthusiastic about communicating with a diverse set of stakeholders, let's chat!
+If you love helping a team stay organised, online research, and are enthusiastic about communicating with a diverse set of stakeholders, let's chat!
 
 `responsibilities and skills`
 
