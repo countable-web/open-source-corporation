@@ -22,10 +22,10 @@ You should have a portfolio that demonstrates most if not all of:
 3. javascript
 4. UX / Usability testing and communication.
 
-Experience with Node.js, Python, Postgres (SQL) and Linux are also an asset.
-
 There will be a technical test on the above skills, so it will save everyone time if you're honest about your abilities.
+
+Experience with Node.js, Python, Postgres (SQL) and Linux are also an asset.
 
 `test`
 
-Design a UI mockup for (something TBD), convert to responsive html/css, publish on github pages.
+Design a UI mockup for (something TBD), convert to responsive html/css, publish on github pages. If you know Node.js or Python, build a backend rest api for the app as well.
