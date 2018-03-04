@@ -1,6 +1,6 @@
 # open-source-corporation
 
-## An Experiment in Transparency
+## Pushing The Boundaries of Transparency
 This is an experiment to "open source" [Countable Web Productions Inc.](http://countable.ca) as much as possible. This includes our *operations manual* and several other assets. Like a software project, our processes and other information assets, are publicly available for anyone to use under the MIT license. *However*, just as an open source software project does not disclose its database contents, this repository does not include any of our clients' and employees' private data.
 
 ## Who Started This?
@@ -10,6 +10,12 @@ Countable is a boutique consulting firm which also sells SaaS products and adver
   * [Mission](./MISSION.md)
 
 ## Purpose
+
+There are data indicating transparency is important:
+"90% of job seekers say that it's important to work for a company that embraces transparency." (Glassdoor U.S. Site Survey, January 2016; *Updated from 96%, Glassdoor survey, October 2014).
+
+What if a company took these really, really seriously from the ground up?
+
 Maximize transparency at the Company while it is small.
   1. Counter Secrecy. Unnecesary secrets have a cost to the organization because everyone must focus on managing information access rather than other business activities (which create net value unlike hiding information).
   2. Trust. Between any parties working with or within the Company.
