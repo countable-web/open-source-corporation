@@ -11,13 +11,14 @@ https://github.com/countable-web/open-source-corporation
 `responsibilities and skills`
 
 You should:
-  * Proactively contribute to the team and company based on quarterly objectives. This will be a fast paced job that requires juggling several responsibilities but being given the space to do great work.
-  * Be a productive, talented and creative with their technical craft.
-  * Be a continuous, self-motivated learner, and take initiative to improve the environment for yourself and your team members.
+  * As this is a remote job, you need to have a suitable workspace available at home, with fast internet suitable for working all day. If you don't, there should be a local work co-op or other location you can work from nearby.
+  * Be a productive, talented and creative with your technical craft.
+  * Be a continuous, self-motivated learner, and take initiative to improve the environment for yourself and your team members based on quarterly objectives.
   * Experiment with great focus, but know when to investigate a problem deeper yourself, when to ask your team for help.
   * Voice disagreements rather than keeping them to yourself. We need all opinions need to be on the table if they're to be taken into account.
   * Consider both the big picture and minute details, from a client's overall business down to crossing T's and dotting I's.
   * Have excellent written English skills.
+  * Be able to juggle several responsibilities in a fast paced in evironment, but carve out the space and time to focus in order to great work.
 
 We are open to a variety of work arrangements and time commitments, let us know what you prefer.
 
