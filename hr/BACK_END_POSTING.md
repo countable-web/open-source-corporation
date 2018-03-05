@@ -6,9 +6,7 @@ If you're a back end coding Guru who loves Node.JS and Linux, let's chat!
 
 `responsibilities and skills`
 
-Make all our user interfaces look good and be painfully easy to use :)
-
-You will be responsible for:
+Keep Linux based systems rock solid, unit tested, and automated. You will be responsible for:
 
 1. Developering back-end features (Node.JS and/or Django) with automated tests (ie, mocha, jasmine)
 2. Rest APIs, backend jobs and queues, Linux server administration, automation jobs.
@@ -17,7 +15,7 @@ You will be responsible for:
 
 You should have a portfolio that demonstrates most if not all of:
 
-1. Node.JS, experience with npm, writing tests, debugging.
+1. Node.JS (Experience with NPM/Yarn, writing tests, debugging)
 2. Python (Django and Flask)
 3. Linux
 4. Docker
