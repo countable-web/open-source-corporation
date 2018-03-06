@@ -4,3 +4,7 @@ Defines how we communicate with potential clients. It screens for clients with s
 
   * [Value Prop for Clients](./VALUE_PROP.md)
   * [Creative Brief](./CREATIVE_BRIEF.md)
+
+Related activities
+  * [Usability](./USABILITY.md)
+ 
