@@ -33,10 +33,9 @@ This repo will contain:
 ## Contributing
 If you want to suggest a change to Countable Web Productions, make a pull request. The rules:
    * *Important: Never commit private data or protected intellectual property. Nothing specific to our employees, clients, or finances should go in here.*
-   * Keep it concise, to-the-point, actionable.
-   * Keep it concrete. If you do use an abstraction, provide a corresponding example.
-   * Don't include every case. Include cases that commonly occur in the company. Clarity over completeness.
-   * Try to maximize "usefulness density", or the total benefit (ie, in saved time, dollars) of the content divided by its length (in characters).
+   * Link prolifically. Wherever you can, link words of your pages to other pages or other websites.
+   * Keep it concise, to-the-point, actionable. If you do use an abstraction, provide a corresponding example.
+   * Each page should state it's purpose for existing, as related to the company's [mission](./MISSION.md). Clarity and utility over completeness. Try to maximize "usefulness density", or the total benefit (ie, in saved time, dollars) of the content divided by its length (in characters).
    * This repository is intended for a specific company (Countable Web Productions Inc.), if you want to use it for another company, please fork it.
 
 ### Processes
