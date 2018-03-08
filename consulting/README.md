@@ -9,7 +9,8 @@ We use Trello because:
   * is simple enough for people to join ad-hoc without training.
 
 ### Billing
-  * Clients are billed monthly based on consultant timesheets.
+  * By default, clients are billed monthly based on consultant timesheets.
+  * In some cases, specific projects may implement a custom billing contract such as a flat rate for a specfic statement of work.
   * Any technical work done for a client is rounded up to the nearest hour. This is intended as a reasonable incentive for clients to help us reduce context switching costs without being long enough to actively encourage context switching on our end.
 
 ### Methodology
