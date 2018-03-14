@@ -43,7 +43,7 @@ Companies identified on clutch.io
  
 ### How are We Different?
 
-  * Well vetted technicians, tested by very seasoned industry experts.
+  * Well vetted technical staff with exposure to diverse teams and projects.
   * The same experts available to help understand how technology fits the big picture of your business strategy.
   * Pre-packaged best practices for avoiding technical debt, helping with succession, scalability and numerous other architecture and people problems.
   * A bias towards putting the client's needs first in the interest of fosternig long term relationships.
