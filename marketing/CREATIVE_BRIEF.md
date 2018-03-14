@@ -52,7 +52,6 @@ Companies identified on clutch.io
 
 ### Tone
 
-  * Depth, confidence in process.
   * Clarity and simplicity.
   * Adaptability.
 
