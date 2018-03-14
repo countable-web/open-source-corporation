@@ -35,7 +35,8 @@ Wouldn't it still be much better if these amazing people could focus on the oppo
 
 For most cases, you're lucky enough to get a developer who can even implement [fiz-buzz](https://en.wikipedia.org/wiki/Fizz_buzz) in order to contribute to your product at all, in a world of recruiters who have no idea how to determine developer capability. Let alone understanding a huge fast moving ecosystem and riding all the right waves.
 
+### The Vision
+
 What if we could codify web development over time to continuously spend more time on the "good" stuff, focusing on your customers and opportunities? What if you could have just a little access to all the right deep domain knowledge in the context of your business? And, what if we could do all the basic things right by default without needing a team of amazing specialists.
 
 This is the core idea behind Countable Consulting. To develop the processes and tools to abstract away the multifaceted problem of building a web technology team.
-
