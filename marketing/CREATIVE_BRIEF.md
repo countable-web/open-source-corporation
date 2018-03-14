@@ -52,7 +52,9 @@ Companies identified on clutch.io
 
 ### Tone
 
-Depth, clarity, simplicity and trust.
+  * Depth, confidence in process.
+  * Clarity and simplicity.
+  * Adaptability.
 
 ### Message
 
