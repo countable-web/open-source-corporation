@@ -4,10 +4,6 @@
 
 This document outlines our rationale for, and approach to visual design for the Countable brand.
 
-## Intro
-
-Countable wants to solve the problem of building a great web technology integration pipeline for your product. Your product needs web applications, APIs, mobile apps, web based automation and operations UI, and the list goes on. Web technology has played a huge underlying role in nearly all facets of an organization's technology so having a great web technologist team is a key competitive advantage. But finding the right people, developing the best practices and processes, researching platforms, integrating with business strategy. The competition for this expertise is enormous, and then you have to retain them with they get emails from recruiters every day. We provide a better option. Get just as much access to experienced web team as you need, with no need to ramp up. If you want, you get open access to all our processes to build your own capacity in parallel and help them become world class. Let us make your web technology excellent!
-
 ## Rationale
 
 Visual design is a communication tool for meeting the right kinds of clients and subcontractors.
