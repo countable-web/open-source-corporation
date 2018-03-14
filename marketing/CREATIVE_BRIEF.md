@@ -52,11 +52,11 @@ Companies identified on clutch.io
 
 ### Tone
 
-Expertise, precision, clarity, simplicity and trust.
+Depth, clarity, simplicity and trust.
 
 ### Message
 
-We'll take the time to understand your business and help you craft the right technology strategy for your needs. Then, we understand all the nuts and bolts for implementation.
+We'll take the time to understand your business and help you craft the right technology strategy for your needs. Then, we have the capacity necessary to understand all the nuts and bolts for implementation.
 
 ## Design Principles
 
