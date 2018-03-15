@@ -17,13 +17,15 @@ We use Docker to automate managing dev and prod environments. Specific conventio
 
 1. [Install Docker on your machine](https://docs.docker.com/engine/installation/)
 
-2. Copy the docker override template: `cp docker-compose.override.yml.template docker-compose.override.yml`
+2. Clone one of our beautiful apps.
 
-3. Run docker-compose: `docker-compose up`
+3. Copy the docker override template: `cp docker-compose.override.yml.template docker-compose.override.yml`
 
-4. Navigate to http://localhost.
+4. Run docker-compose: `docker-compose up`
 
-5. If you want to use a different port on the host, such as when you want to run environments on the same host, map that in docker-compose.override.yml
+5. Navigate to http://localhost.
+
+6. If you want to use a different port on the host, such as when you want to run environments on the same host, map that in docker-compose.override.yml
 
 ```
 services:
