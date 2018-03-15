@@ -67,6 +67,7 @@ Backups mostly go to S3 for projects we manage hosting for. To get a backup:
 aws s3 ls countable/backups/
 aws s3 cp s3://countable/backups/<project>/<date>.tar.lrz .`
 ```
+6. Backups are archived with lrzip, so you'll have to install that (or 7zip)
 
 ## Deploying Updates To Projects
 
