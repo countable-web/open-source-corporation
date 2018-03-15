@@ -59,7 +59,7 @@ Note: migration conflicts should be resolved when merging `develop` into your wo
 Backups mostly go to S3 for projects we manage hosting for. To get a backup:
 
 1. Ask your manager for an AWS IAM account.
-2. Then, make yourself a token [here](https://console.aws.amazon.com/iam/home).
+2. Then, make yourself a token [here](https://console.aws.amazon.com/iam/home). Go to your username -> Security credentials -> Create access key .
 3. To download a backup, you have to install [aws cli](https://docs.aws.amazon.com/cli/latest/userguide/installing.html). You'll be prompted for some information:
 4. Enter your creds you generated in #2 above. The region is us-east-1.
 5. Use the aws cli tools to get a backup.
