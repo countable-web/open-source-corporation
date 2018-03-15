@@ -34,6 +34,12 @@ Python in particular is a very strong general purpose stack choice. With "softwa
 
 ![python popularity](https://zgab33vy595fw5zq-zippykid.netdna-ssl.com/wp-content/uploads/2017/09/growth_major_languages-1-1024x878.png)
 
+### Follow 12 factor principles
+
+These are progressive principles for making your application predictable and scalable.
+
+https://12factor.net/
+
 ### Front end
 
 We have a lot less prescription on the front end, and choices are based on developer skill. However, we observe guidelines:
@@ -42,7 +48,7 @@ We have a lot less prescription on the front end, and choices are based on devel
   * Bias towards small, specific purpose dependencies over frameworks. React, Preact and Riot is better than Angular in this way, for example.
   * Ensure depedencies have healthy community support and/or are small enough to fork if support wavers. Ideally both.
 
-  
+
 ## Operations Manuals For Engineering
 
   * [Coding Standards](./CODING_STANDARDS.md)
