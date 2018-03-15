@@ -14,7 +14,7 @@ To have the strongest web presence and best branding in our class (full service 
 
 ### Audience
 
-Medium sized businesses, typically who have no in-house developer team, or small/incomplete one. Also, any business that needs capacity for a one-off need such as a special prototype / project. Businesses who have developer teams but want an outside perspective or skill supplement.
+Medium sized businesses, typically who have no in-house developer team, or small/incomplete one. Also, startups that needs capacity for a one-off need such as a special prototype / project. Businesses who have developer teams but want an outside perspective or skill supplement.
 
 ### Competition
 
