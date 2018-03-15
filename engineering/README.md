@@ -32,6 +32,7 @@ We've found the following stack to be very good on these metrics.
   * Docker
 
 [1] [Stack overflow dev survey](https://insights.stackoverflow.com/survey/2018/?utm_source=Iterable&utm_medium=email&utm_campaign=dev-survey-2018-promotion)
+
 Python in particular is a very strong general purpose stack choice. With "software eating the world", Python's been the condiment of choice, and is appearing in many niche industries. This lets us synergize with other of our clients' projcts, staff and expertise within the same lingua franca.
 
 ![python popularity](https://zgab33vy595fw5zq-zippykid.netdna-ssl.com/wp-content/uploads/2017/09/growth_major_languages-1-1024x878.png)
