@@ -56,6 +56,18 @@ Note: migration conflicts should be resolved when merging `develop` into your wo
 ## Backups
 *ALL* production data of ours and clients' must be backed up. We must have reasonable evidence that backups can actually be restored. For example, periodically update your development environment's database using a backup from production.
 
+Backups mostly go to S3 for projects we manage hosting for. To get a backup:
+
+1. Ask your manager for an AWS IAM account.
+2. Then, make yourself a token [here](https://console.aws.amazon.com/iam/home).
+3. To download a backup, you have to install [aws cli](https://docs.aws.amazon.com/cli/latest/userguide/installing.html). You'll be prompted for some information:
+4. Enter your creds you generated in #2 above. The region is us-east-1.
+5. Use the aws cli tools to get a backup.
+```
+aws s3 ls countable/backups/
+aws s3 cp s3://countable/backups/<project>/<date>.tar.lrz .`
+```
+
 ## Deploying Updates To Projects
 
 While everything uses Docker as described above, every project is basically a unique unicorn in terms of hosting. We are moving projects to use Jenkins for CI, with 2 automated jobs.
