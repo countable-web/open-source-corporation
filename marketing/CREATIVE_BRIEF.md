@@ -8,6 +8,10 @@ This document outlines our rationale for, and approach to visual design for the 
 
 Visual design is a communication tool for meeting the right kinds of clients and subcontractors.
 
+### Goal
+
+To have the strongest web presence and best branding in our class (full service web firms)
+
 ### Audience
 
 Medium sized businesses, typically who have no in-house developer team, or small/incomplete one. Also, any business that needs capacity for a one-off need such as a special prototype / project. Businesses who have developer teams but want an outside perspective or skill supplement.
@@ -66,3 +70,8 @@ We'll take the time to understand your business and help you craft the right tec
 3. The design need not always follow design trends but should at least indicate we are aware of them. Cherry pick some trends that work.
 4. Advanced technical elements (3d, parralax, etc ) are good because they showcase out technical work but should not be used at the expense of being simple.
 5. Don't try to be clever or subtle, it goes against our desire for clarity.
+
+## Inspiration
+
+Teams on Driible. - https://dribbble.com/teams?sort=trending
+
