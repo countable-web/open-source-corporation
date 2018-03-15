@@ -70,7 +70,11 @@ aws s3 ls countable/backups/
 aws s3 cp s3://countable/backups/<project>/<date>.tar.lrz .`
 ```
 6. Backups are archived with lrzip, so you'll have to install that (or 7zip)
-
+Ubuntu:
+```
+sudo apt-get install lrzip
+lrzip -d $filename
+```
 ## Deploying Updates To Projects
 
 While everything uses Docker as described above, every project is basically a unique unicorn in terms of hosting. We are moving projects to use Jenkins for CI, with 2 automated jobs.
