@@ -14,9 +14,13 @@ To have the strongest web presence and best branding in our class (full service 
 
 ### Audience
 
-Audience #1 - Small businesses (but, bigger ones) or SMEs, typically who have no in-house developer team, or small/incomplete one. Also, funded startups that needs capacity for a one-off need such as a prototype. Businesses who have developer teams but want an outside perspective or skill supplement. These businesses will typically be 10 to 500 employees. The typical decider is the owner or another executive at one of these businesses. They'll likely be someone very immersed in their industry, and use the web for reading trade publications and business publications primarily.
+Audience #1a - Small businesses (but, bigger ones) or SMEs, typically who have no in-house developer team, or small/incomplete one. These businesses will typically be 10 to 500 employees. Businesses may have developer teams but want an outside perspective or skill supplement.  The typical decider is the owner or another executive at one of these businesses. They'll likely be someone very immersed in their industry, and use the web for reading trade publications and business publications primarily.
 
-Audience #2 - developers and creatives like us. We want to attract the best talent by showcasing a interesting place to work.
+Audience #1b - Also, funded startups that needs capacity for a one-off need such as a prototype. 
+
+Audience #2 - Developers and creatives like us. We want to attract the best talent by showcasing a interesting place to work.
+
+Audience #3 - Recruiters, who are usually pitching to group 1. The recruiter's intent is to pitch strong resources for the businesses, so the design approach should still be mostly geared towards the business itself.
 
 ### Competition
 
