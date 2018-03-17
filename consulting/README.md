@@ -15,6 +15,7 @@ We use Trello because:
 
 ### Methodology
   * Understand the client's business.
+  * Answer the question, of new projects: "How will we know if this project's succeeded." Answer it as clearly as possible and write it down in a prominent place. All tasks hence should clearly move us toward the stated result.
   * Develop a clear domain language (words used with the client) and use them throughout the project and codebase.
   * Nurture a relationship of collaboration between all stakeholders to increase the pie rather than worry how to split it.
   * Use agile methodology as a toolkit, where applicable.
@@ -28,4 +29,4 @@ Specific "off the shelf" methodological tools we often reach for are listed [her
 Clients may request a budget in an RFP, or a quote for a specific piece of work. Keep the following in mind:
   * Break the work down into about 1 day line items (8 hours), with appropriate level of detail. On larger projects, up to a week can be in a single line item.
   * Our minimum quotable amount is $3,000. Amounts below this should instead be approved via a simple email message or Trello ticket from someone authorized to approve the work.
-  * Separate quotes or budgets to be completed at different times/phases, or as substantially different projects.
+  * Separate quotes or budgets to be completed at different phases and specify the order (priority).
