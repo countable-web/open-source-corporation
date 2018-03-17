@@ -14,7 +14,7 @@ We use Trello because:
   * Any technical work done for a client is rounded up to the nearest hour. This is intended as a reasonable incentive for clients to help us reduce context switching costs without being long enough to actively encourage context switching on our end.
 
 ### Methodology
-  * Understand the client's business.
+  * Understand the client's business. What is their largest market? How did/does it grow? How do they interact with customers? What are those customers' top benefits, and top concerns?
   * Answer the question, of new projects: "How will we know if this project's succeeded?" Answer it as clearly as possible and write it down in a prominent place. All tasks hence should clearly move us toward the stated result.
   * Develop a clear domain language (words used with the client) and use them throughout the project and codebase.
   * Nurture a relationship of collaboration between all stakeholders to increase the pie rather than worry how to split it.
