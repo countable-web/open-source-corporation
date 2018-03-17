@@ -15,10 +15,10 @@ We use Trello because:
 
 ### Methodology
   * Understand the client's business.
-  * Nurture a clear domain language and use it in software development.
+  * Develop a clear domain language (words used with the client) and use them throughout the project and codebase.
   * Nurture a relationship of collaboration between all stakeholders to increase the pie rather than worry how to split it.
   * Use agile methodology as a toolkit, where applicable.
-  * Build systems which avoid recurring maintenance through choice of stable components and automation. It's best to work ourselves out of a job.
+  * Build systems which avoid recurring maintenance through choice of stable components and automation. It's best to work ourselves out of a job. It always leads to more work.
   * Identify big opportunities for wealth creation and high expected (statistically) ROI. Small risks are worthwhile if there is a high upside.
   * Consultants (technical or non) work directly with clients, and no intermediary. The consultant must learn when is appropriate to escalate, such as: before providing a quote or estimate of new work; when in doubt about the best way to capture ROI; when uncertain about an impactiful decision.
 
