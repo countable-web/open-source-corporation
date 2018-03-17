@@ -15,7 +15,7 @@ We use Trello because:
 
 ### Methodology
   * Understand the client's business.
-  * Answer the question, of new projects: "How will we know if this project's succeeded." Answer it as clearly as possible and write it down in a prominent place. All tasks hence should clearly move us toward the stated result.
+  * Answer the question, of new projects: "How will we know if this project's succeeded?" Answer it as clearly as possible and write it down in a prominent place. All tasks hence should clearly move us toward the stated result.
   * Develop a clear domain language (words used with the client) and use them throughout the project and codebase.
   * Nurture a relationship of collaboration between all stakeholders to increase the pie rather than worry how to split it.
   * Use agile methodology as a toolkit, where applicable.
