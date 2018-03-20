@@ -4,7 +4,7 @@ Codify the many-faceted problem of web technology delivery, so it can be abstrac
 
 ## Back story
 
-from Clark Van Oyen, Founder at Countable Web Productions.
+From Clark Van Oyen, Founder at Countable Web Productions.
 
 ### Web Technology Is Still A Dark Art
 
