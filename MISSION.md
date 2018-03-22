@@ -3,10 +3,10 @@
 
 These are the reasons for the Company to exist. The mission statement also says a lot by what's left out. It helps us work towards the same goals as a team, and helps new clients and colleagues decide if we're a good fit. We should refer to these items to justify our projects and other pages of this manual. The mission should be reviewed at least quarterly.
 
- 1. Develop rewarding relationships with clients in which we contribute to their successful business outcomes. Understand the client's business deeply in order to improve design choices. [gr]
- 2. Re-imagine standard ways companies engage with web technology work, creating a system for web technology contract work that's more transparent, efficient, and effective for all parties involved.
- 3. Become the number one hosted platform (app store) for front end embeddable 3rd party web technologies (widgets). The closest existing thing is like Google Tag Manager. Wordpress plugins are an adjacent but not direct competitior.
- 4. Foster a culture of openness, support, critical thinking, creativity and taste. By taste, we mean people who have opinions about why things should be done a certain way, and who try to see potential and continuously clarify that vision of what's right, and improve towards it at the same time.
+ 1. Understand the client's business deeply in order to improve design choices. Contribute to successful long term business outcomes.[gr]
+ 2. Discover better ways to engage with web technology projects, creating a system that's more transparent, efficient, and effective for all parties involved.
+ 3. Become the biggest hosted platform (app store) for front end embeddable 3rd party web technologies (widgets). The closest existing thing is like Google Tag Manager. Wordpress plugins are an adjacent but not direct competitior.
+ 4. Create a culture of openness, support, critical thinking, creativity and taste. By taste, we mean people who have opinions about why things should be done a certain way, and who try to see potential and continuously clarify that vision of what's right, and improve towards it at the same time.
  5. Become the ideal workplace to support the people who fit into #4 above.
 
 ## Discussion
