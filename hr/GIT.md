@@ -15,7 +15,7 @@ Do your work, commit, update, push.
 
 ```
 git commit -a -m "Added the Fireball ability to wizards, Trello ticket #51"
-git pull origni develop
+git pull origin develop
 git push origin fireball-spell
 ```
 
