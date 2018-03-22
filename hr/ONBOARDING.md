@@ -1,7 +1,7 @@
 
 # Onboarding
 
-  * Get a countable.ca email address.
+  * Get a countable.ca email address (ask your manager to create it)
   * Use your email address to access our [slack](http://countable-web.slack.com).
   * Use our slack to say hi to the team.
   * Use the team to answer your other questions.
