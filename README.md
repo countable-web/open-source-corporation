@@ -11,7 +11,9 @@ Countable is a boutique consulting firm which also sells SaaS products and adver
 
 ## Purpose
 
-There are data indicating transparency is important:
+*First, why does this repository exist?* The purpose of this repository is to document Countable's operations for convenient reference, discussion and amendment.
+
+*Second, why is it open source?* There are data indicating transparency is important:
 "90% of job seekers say that it's important to work for a company that embraces transparency." (Glassdoor U.S. Site Survey, January 2016; *Updated from 96%, Glassdoor survey, October 2014).
 
 What if a company took these really, really seriously from the ground up?
