@@ -35,7 +35,7 @@
    https://github.com/countable-web/open-source-corporation/blob/master/engineering/OPERATIONS.md
    ``
 
-## Setting up a Jenkins node
+## Setting up a Jenkins node & project
 
    1. Create a User
    ```
@@ -50,6 +50,8 @@
    The configuration required for a Node can be easily grabbed from previous Nodes. Refer back to these existing
    nodes to get a sense of what configuration is needed. This node is now what wil be used to deploy project of your choice.
    
+   3. Create a Build Project
+   In Jenkins, click new Item. Refer to existing projects for the configurations.
 
 ## Discussion on Usage of Jenkins
 
