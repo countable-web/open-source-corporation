@@ -17,12 +17,13 @@
 
 ## Setting up a Jenkins node
 
-```
-adduser jenkins
-(enter his password)
-apt-get update
-apt-get install <java, whatever the package is called>
-```
+ 1. Create a User
+  ```
+  adduser jenkins
+  (enter his password)
+  apt-get update
+  apt-get install <java, whatever the package is called>
+  ```
 
 ## Discussion on Usage of Jenkins
 
