@@ -14,18 +14,10 @@
   * Change the repo URL and name of the item to match your repository.
   * Edit the job's commands to run your tests properly.
   * Configure slack to [post job status to the project's channel](https://github.com/jenkinsci/slack-plugin#install-instructions-for-slack).
+ 
+## Prerequisites for the server
 
-## Setting up a Jenkins node
-
-   1. Create a User
-   ```
-   adduser jenkins
-   (enter his password)
-   apt-get update
-   apt-get install <java, whatever the package is called>
-   ```
-
-   2. Install packages
+   1. Install packages
    Usually, Java, Git & Docker is enough.
 
    * Git
@@ -42,7 +34,17 @@
    ``
    https://github.com/countable-web/open-source-corporation/blob/master/engineering/OPERATIONS.md
    ``
- 
+
+## Setting up a Jenkins node
+
+   1. Create a User
+   ```
+   adduser jenkins
+   (enter his password)
+   apt-get update
+   apt-get install <java, whatever the package is called>
+   ```
+   
 
 ## Discussion on Usage of Jenkins
 
