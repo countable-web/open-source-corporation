@@ -18,12 +18,21 @@
 ## Setting up a Jenkins node
 
  1. Create a User
-  ```
-  adduser jenkins
-  (enter his password)
-  apt-get update
-  apt-get install <java, whatever the package is called>
-  ```
+   ```
+   adduser jenkins
+   (enter his password)
+   apt-get update
+   apt-get install <java, whatever the package is called>
+   ```
+ 
+ 2. Install packages
+ Usually, Java, Git & Docker is enough.
+ Git
+ ``
+ sudo apt-get install git
+ ``
+   
+ 
 
 ## Discussion on Usage of Jenkins
 
