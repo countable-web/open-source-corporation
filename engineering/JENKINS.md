@@ -28,17 +28,17 @@
    2. Install packages
    Usually, Java, Git & Docker is enough.
 
-   Git
+   * Git
    ``
    sudo apt-get install git
    ``
 
-   Java
+   * Java
    ``
    sudo apt-get install default-jre
    ``
 
-   Docker
+   * Docker
    ``
    https://github.com/countable-web/open-source-corporation/blob/master/engineering/OPERATIONS.md
    ``
