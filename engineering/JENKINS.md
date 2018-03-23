@@ -27,10 +27,18 @@
  
  2. Install packages
  Usually, Java, Git & Docker is enough.
+ 
  Git
  ``
  sudo apt-get install git
  ``
+ 
+ Java
+ ``
+ sudo apt-get install default-jre
+ ``
+ 
+ Docker
    
  
 
