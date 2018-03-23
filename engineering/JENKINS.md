@@ -46,9 +46,10 @@
    ```
    
    2. Create a Node
+   
    In Jenkins, click Build Executor Status -> New Node.  Give this node a name and select Permanent Agent.
    The configuration required for a Node can be easily grabbed from previous Nodes. Refer back to these existing
-   nodes to get a sense of what configuration is needed.
+   nodes to get a sense of what configuration is needed. This node is now what wil be used to deploy project of your choice.
    
 
 ## Discussion on Usage of Jenkins
