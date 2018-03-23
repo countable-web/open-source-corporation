@@ -51,7 +51,8 @@
    nodes to get a sense of what configuration is needed. This node is now what wil be used to deploy project of your choice.
    
    3. Create a Build Project
-   In Jenkins, click new Item. Refer to existing projects for the configurations.
+   In Jenkins, click new Item. Refer to existing projects for the configurations. 
+   Make sure the node you just created is being used!
 
 ## Discussion on Usage of Jenkins
 
