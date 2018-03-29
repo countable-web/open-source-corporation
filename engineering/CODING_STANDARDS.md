@@ -145,14 +145,14 @@ Good:
 
 ```
 .parent {
-  font-weight: bold;
+    font-weight: bold;
 }
-  .parent .child {
-    color: #FFFFFF;
-  }
+    .parent .child {
+        color: #FFFFFF;
+    }  
 
 .next {
-  color: #0000FF;
+    color: #0000FF;
 }
 ```
  
