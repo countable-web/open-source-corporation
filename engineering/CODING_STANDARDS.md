@@ -92,7 +92,7 @@ Lines of up to 119 chars are ok, instead of the default 79 chars. The reason for
 
 ## HTML Standards
 
-Opening and closing tag should have same indentation level, or on the same line. Use 2 spaces per indent level.
+Opening and closing tag should have same indentation level, or on the same line. Use 4 spaces per indent level.
 Bad:
 ```
 <div>
