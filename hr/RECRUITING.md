@@ -1,11 +1,15 @@
 
 # Recruiting
 
-## Recruiting Process.
+## Recruiting Process
 
-The goal is for us to be continuously looking for the right people. Finding the best people is one of the top challenges in our industry, so we need every advantage we can find in this way. Having the right screening processes in place to those who will succeed at remote work, have the right technical background, and the right cultural fit is helpful. But, all other things equal, we will find better people if we always have postings open for when the right person comes along. We want to do this with a minimum of cost and effort 
+The goal is for us to be continuously looking for the right people. Finding the best people is one of the top challenges in our industry, so we need every advantage we can find in this way. 
 
-## Research.
+  * We should always have active job postings for positions as long as we'd consider the best possible applicant if they did happen to apply.
+  * Screen aggressively for communication ability (hidden question in post required).
+  * Screen aggressively for writing ability. Ensure the cover letter is well written English with no grammar errors.
+
+## Research
 
 Useful stats for our recruiting strategy.
 
