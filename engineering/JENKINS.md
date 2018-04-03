@@ -41,8 +41,9 @@
    ```
    adduser jenkins
    (enter his password)
+   usermod -aG docker jenkins
    apt-get update
-   apt-get install <java, whatever the package is called>
+   apt-get install default-jre
    ```
    
    2. Create a Node
