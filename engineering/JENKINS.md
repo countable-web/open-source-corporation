@@ -27,7 +27,7 @@
 
    * Java
    ``
-   sudo apt-get install default-jdk
+   sudo apt-get install oracle-java8-installer
    ``
 
    * Docker
