@@ -10,9 +10,9 @@ The goal is for us to maximize the talent of our team. Finding the best people i
   
 ### Point system
 
-  * 1 point for communication ability. No point awarded if candidates who miss the hidden question.
+  * 1 point for communication ability. No point awarded if candidates who miss the cover letter formatting requirement.
   * 1 point for for writing ability. Reject if you see poor English, grammar errors, spelling mistakes in the cover letter.
-  * 1 point for having 2 or more years of technical experience in all requested domains/technologies.
+  * 1 point for having 2 or more years of technical experience in all requested domains/technologies. Or, 1 year and a computer science degree (not IT diploma).
   * 1 point for a well designed/formatted resume.
   * 1 point for portfolio links. Candidate should have at least one link to good quality content they built, which looks professional (as if produced by a good quality agency, see dribbble.com, awwwards.com .
   
