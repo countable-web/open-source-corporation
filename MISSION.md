@@ -8,6 +8,7 @@ These are the reasons for the Company to exist. The mission statement also says 
  3. Become the biggest hosted platform (app store) for front end embeddable 3rd party web technologies (widgets). The closest existing thing is like Google Tag Manager. Wordpress plugins are an adjacent but not direct competitior.
  4. Create a culture of openness, support, critical thinking, creativity and taste. By taste, we mean people who have opinions about why things should be done a certain way, and who try to see potential and continuously clarify that vision of what's right, and improve towards it at the same time.
  5. Become the ideal workplace to support the people who fit into #4 above.
+ 6. (more general) Have fun building exciting things that have a chance to make a positive impact.
 
 ## Discussion
 
