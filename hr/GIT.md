@@ -54,7 +54,7 @@ git pull origin master
 git push origin master
 ```
 
-Then deploy the changes (different for every project currently).
+Then deploy the changes (automated by Jenkins in most projects).
 
 ## General Guidelines
 
