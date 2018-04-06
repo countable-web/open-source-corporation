@@ -27,7 +27,7 @@ Share your username with your manager on these platforms so you can be invited i
 
 ### How to Do Work
 
-Read this, and think about it [Project Management](./PROJECT_MANAGEMENT.md).
+Read this, and think about it: [Project Management](./PROJECT_MANAGEMENT.md).
 
 ### Confirm
 
