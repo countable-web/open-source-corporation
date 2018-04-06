@@ -27,4 +27,8 @@ Share your username with your manager on these platforms so you can be invited i
 
 ### How to Do Work
 
-See [Project Management](./PROJECT_MANAGEMENT.md).
+Read this, and think about it [Project Management](./PROJECT_MANAGEMENT.md).
+
+### Confirm
+
+You should now go on the slack #general channel and announce that you've completed onboarding, or we'll assume you havn't and complain.
