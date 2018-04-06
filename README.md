@@ -1,6 +1,6 @@
 # OSCorp aka Open Source Corporation
 
-Important Question: Should we rename this repo to OSCorp, after the fictional spiderman corporation, but also abbreviating "Open Source Corporation"?
+Important Question: Should we rename this repo to [OSCorp](https://theoscorpindustries.weebly.com/), after the fictional spiderman corporation, but also abbreviating "Open Source Corporation"?
 
 ## Pushing The Boundaries of Transparency
 This is an experiment to "open source" [Countable Web Productions Inc.](http://countable.ca) as much as possible. This includes our *operations manual* and several other assets. Like a software project, our processes and other information assets are publicly available for anyone to use under the MIT license. *However*, just as an open source software project does not disclose its database contents, this repository does not include any of our clients' and employees' private data. Further, we do not release our company name "Countable Web Productions Inc." nor our logo under the MIT license. Only materials downloadable directly from this repository are included under the MIT licence.
