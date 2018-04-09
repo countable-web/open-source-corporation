@@ -15,6 +15,7 @@ The goal is for us to maximize the talent of our team. Finding the best people i
   * 1 point for having 2 or more years of technical experience in all requested domains/technologies. Or, 1 year and a computer science degree (not IT diploma).
   * 1 point for a well designed/formatted resume.
   * 1 point for portfolio links. Candidate should have at least one link to good quality content they built, which looks professional (as if produced by a good quality agency, see dribbble.com, awwwards.com .
+  * 1 point for any outstanding item (reviewer's discretion). This could include an open source project or contributions (many GitHub stars), going to a top school and receiving academic honours, having worked at Google, etc.
   
 Candidates with less than 4 points are rejected outright. Those with 4 points other than "communication ability" can be offered a chance to re-read the application and format it correctly, answering the hidden question. This is required for them to advance.
 
