@@ -1,4 +1,6 @@
-Hi!
+`title`
+
+Front End Developer and Designer
 
 `cta`
 
