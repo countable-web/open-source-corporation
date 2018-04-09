@@ -15,13 +15,17 @@ Keep Linux based systems rock solid, unit tested, and automated. You will be res
 3. Excellent code quality and standards.
 4. Working on improving our back end work delivery pipeline by finding ways to improve and automate jobs on servers.
 
-You should have a portfolio that demonstrates most if not all of:
+Core skills:
 
-1. Node.JS (Experience with NPM/Yarn, writing tests, debugging)
-2. Python (Django and Flask)
-3. Linux
-4. Docker
-5. Postgres (SQL)
+1. Python (Django and Flask)
+2. Linux
+
+Bonus skills:
+
+  * Docker
+  * Postgres (SQL)
+  * Node.js
+  * javacript
 
 There will be a technical test on the above skills, so it will save everyone time if you're honest about your abilities.
 
