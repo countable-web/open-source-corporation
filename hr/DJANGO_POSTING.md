@@ -22,9 +22,10 @@ Core skills:
 
 Bonus skills:
 
+  * bash scripting
   * Docker
   * Postgres (SQL)
-  * Node.js
+  * Node.js (npm, mocha, Express)
   * javacript
 
 There will be a technical test on the above skills, so it will save everyone time if you're honest about your abilities.
