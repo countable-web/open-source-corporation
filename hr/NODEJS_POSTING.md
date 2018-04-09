@@ -23,6 +23,8 @@ Core skills:
 
 Bonus skills:
 
+  * bash scripting
+  * Python
   * Docker
   * Postgres
   * MongoDB
