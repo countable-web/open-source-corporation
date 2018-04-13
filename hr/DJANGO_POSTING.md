@@ -4,7 +4,7 @@ Python and Django Developer
 
 `cta`
 
-If you're a back end coding Guru who loves Node.JS and Linux, let's chat!
+If you love hacking with Python and Linux, let's chat!
 
 `responsibilities and skills`
 
