@@ -7,7 +7,7 @@ The purpose of this section is to standardize key (not all) engineering processe
 
 This is how we build things.
 
-  * Build a prototype first to validate everything (market, feasibility, usefulness). It's encouraged to take shortcuts as long as your project is just a prototype and not used in production.
+  * [Build a prototype](./PROTOTYPING.md) first to validate everything (market, feasibility, usefulness). It's encouraged to take shortcuts as long as your project is just a prototype and not used in production.
   * When a prototype is validated, it transitions to a product and must be made maintainable.
   * When working on existing projects (products), always leave things in a little better state than you found it.
 
