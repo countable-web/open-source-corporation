@@ -1,4 +1,6 @@
-# OSCorp aka Open Source Corporation
+# Open Source Operations Manual
+
+## Countable Web Productions
 
 Important Question: Should we rename this repo to [OSCorp](https://theoscorpindustries.weebly.com/), after the fictional spiderman corporation, but also abbreviating "Open Source Corporation"?
 
