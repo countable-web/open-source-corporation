@@ -62,4 +62,4 @@ Then deploy the changes (automated by Jenkins in most projects).
   
 ## Code Reviews
 
-For code reviews, you don't have to spend a ton of time. Just try to understand what the code is doing, and if it looks right. If it's unclear to you, ask in a review comment what it does. If you suspect something's wrong or not following our conventions, then comment on that as well.
+For code reviews, you don't have to spend a ton of time. Just try to understand what the code is doing, and if it looks right. If it's unclear to you, ask in a review comment what it does. If you suspect something's wrong or not following our conventions, then comment on that as well. If you're not in a rush, wait for your buddies to review before merging. Of course, if you're working alone or in a hurry to deploy something, you can merge the PR immediately yourself and respond to comments later. The goal is that at least like half of the time, we read each others code when pushing changes.
