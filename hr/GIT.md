@@ -19,7 +19,7 @@ git pull origin develop
 git push origin fireball-spell
 ```
 
-Submit a pull request from `fireball-spell` targetting `develop`. Another developer on the project should review and comment on your changes. When everyone agrees, anyone can merge the changes. The `fireball-spell` branch is then deleted after being merged.
+Submit a pull request from `fireball-spell` targetting `develop`. Another developer on the project should [review](#Code Reviews) and comment on your changes. When everyone agrees, anyone can merge the changes. The `fireball-spell` branch is then deleted after being merged.
 
 ## Small non-critical patch (update README.md)
 
@@ -59,3 +59,7 @@ Then deploy the changes (automated by Jenkins in most projects).
 ## General Guidelines
 
   * Commit often, with each logical change in its own commit. If for no other reason, developers who commit multiple times per day are nearly 10% more likely to be satisfied with their jobs (Stack Overflow dev survey, 2017). That's crazy correlation for such a simple behaviour!
+  
+## Code Reviews
+
+For code reviews, you don't have to spend a ton of time. Just try to understand what the code is doing, and if it looks right. If it's unclear to you, ask in a review comment what it does. If you suspect something's wrong or not following our conventions, then comment on that as well.
