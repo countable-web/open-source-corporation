@@ -19,7 +19,7 @@ git pull origin develop
 git push origin fireball-spell
 ```
 
-Submit a pull request from `fireball-spell` targetting `develop`. Another developer on the project should [review](#Code Reviews) and comment on your changes. When everyone agrees, anyone can merge the changes. The `fireball-spell` branch is then deleted after being merged.
+Submit a pull request from `fireball-spell` targetting `develop`. Another developer on the project should [review](#code-reviews) and comment on your changes. When everyone agrees, anyone can merge the changes. The `fireball-spell` branch is then deleted after being merged.
 
 ## Small non-critical patch (update README.md)
 
