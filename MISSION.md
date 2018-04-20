@@ -3,12 +3,16 @@
 
 These are the reasons for the Company to exist. The mission statement also says a lot by what's left out. It helps us work towards the same goals as a team, and helps new clients and colleagues decide if we're a good fit. We should refer to these items to justify our projects and other pages of this manual. The mission should be reviewed at least quarterly.
 
- 1. Understand the client's business deeply in order to improve design choices. Contribute to successful long term business outcomes.[gr]
- 2. Discover better ways to engage with web technology projects, creating a system that's more transparent, efficient, and effective for all parties involved.
- 3. Become the biggest hosted platform (app store) for front end embeddable 3rd party web technologies (widgets). The closest existing thing is like Google Tag Manager. Wordpress plugins are an adjacent but not direct competitior.
- 4. Create a culture of openness, support, critical thinking, creativity and taste. By taste, we mean people who have opinions about why things should be done a certain way, and who try to see potential and continuously clarify that vision of what's right, and improve towards it at the same time.
- 5. Become the ideal workplace to support the people who fit into #4 above.
- 6. (more general) Have fun building exciting things that have a chance to make a positive impact.
+A1) *open, supportive, creative culture* - Create a culture of openness, support, critical thinking, creativity and taste. By taste, we mean people who have opinions about why things should be done a certain way, and who try to see potential and continuously clarify that vision of what's right, and improve towards it at the same time.
+A2) *build exciting things with meaningful impact*
+A3) *long term results oriented business relationships*
+
+supported by
+
+B1) *deep domain understanding* (supports A2) Understand clients' business deeply in order to improve design choices.
+B2) *improved web tech machine* (supports A1 and A2 by automating rote work) - Discover better ways to engage with web technology projects, creating a system that's more transparent, efficient, and effective for all parties involved.
+B3) *hosted widget platform* (is an example of A2) - Become the biggest hosted platform (app store) for front end embeddable 3rd party web technologies (widgets). The closest existing thing is like Google Tag Manager. Wordpress plugins are an adjacent but not direct competitior.
+B4) *workplace design* (directly supports A1)
 
 ## Discussion
 
