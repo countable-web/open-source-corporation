@@ -11,6 +11,9 @@ This is how we build things.
   * When a prototype is validated, it transitions to a product and must be made maintainable.
   * When working on existing projects (products), always leave things in a little better state than you found it.
 
+## Stack Chocies
+
+[./STACK_CHOICES.md]
 
 ## Operations Manuals For Engineering
 
