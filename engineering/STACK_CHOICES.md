@@ -34,7 +34,13 @@ Python in particular is a very strong general purpose stack choice. With "softwa
 
 `TODO: add more to the above table`
 
-## Follow 12 factor principles
+## Operations
+
+(Docker.)[./OPERATIONS.md]
+
+Avoid language-specific environmental dependencies that can be met by built in functions or by Docker. ie, you don't need virtualenv, pyenv, grunt, gulp.
+
+### Follow 12 factor principles
 
 These are progressive principles for making your application predictable and scalable.
 
@@ -67,4 +73,8 @@ These tables capture our current thoughts on the outlook for front end dependenc
 | preprocessors (less/sass/stylus) | used rarely  | avoid, slowly migrate away |
 | postCSS       | not used | preferred for complex css needs |
 | CSS vars / scopes | not used | preferred |
+
+### Build System
+
+For front end builds, we're a bit oldschool by intent. We use CDNs, avoid minification of our code (it's tiny compared to libs), and avoid any build process where possible. We don't webpack, but rollup looks good if we need it.
 
