@@ -1,7 +1,5 @@
 # Stack Choices
 
-## Stack Choices
-
 We don't want to support every stack, so we chose the best for most cases and want to pass on the benefits of a superior stack to our clients, rather than them making an uninformed choice. Our stack selection is based on the following (descending importance):
 
 1. Popularity, growth, longevity and community support.
@@ -9,6 +7,8 @@ We don't want to support every stack, so we chose the best for most cases and wa
 3. Open Source, inclusive community.
 4. Ease of use, readability, simplicity.
 5. Performance.
+
+## Back End
 
 We've found the following back end stack to be very good on these metrics.
 
@@ -26,13 +26,21 @@ Python in particular is a very strong general purpose stack choice. With "softwa
 
 ![python popularity](https://zgab33vy595fw5zq-zippykid.netdna-ssl.com/wp-content/uploads/2017/09/growth_major_languages-1-1024x878.png)
 
-### Follow 12 factor principles
+### Django modules
+
+| Technology    | Current | Ideal    |
+| ------------- | ------- | -------- |
+| celery | not used   | avoid, use django_rq |
+
+`TODO: add more to the above table`
+
+## Follow 12 factor principles
 
 These are progressive principles for making your application predictable and scalable.
 
 https://12factor.net/
 
-### Front end
+## Front end
 
 We have a lot less prescription on the front end, and choices are based on developer skill. However, we observe guidelines:
 
@@ -42,7 +50,7 @@ We have a lot less prescription on the front end, and choices are based on devel
 
 These tables capture our current thoughts on the outlook for front end dependencies in our projects.
 
-## JS Frameworks
+### JS Frameworks
 
 | Technology    | Current | Ideal    |
 | ------------- | ------- | -------- |
@@ -52,7 +60,7 @@ These tables capture our current thoughts on the outlook for front end dependenc
 | Riot   | used in some   | preferred for Django projects |
 | Vue    | not used       | preferred for SPA projects |
 
-## CSS
+### CSS
 
 | Technology    | Current | Ideal    |
 | ------------- | ------- | -------- |
@@ -60,8 +68,3 @@ These tables capture our current thoughts on the outlook for front end dependenc
 | postCSS       | not used | preferred for complex css needs |
 | CSS vars / scopes | not used | preferred |
 
-## Django modules
-
-| Technology    | Current | Ideal    |
-| ------------- | ------- | -------- |
-| celery | not used   | avoid, use django_rq |
