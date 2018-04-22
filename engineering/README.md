@@ -13,7 +13,7 @@ This is how we build things.
 
 ## Stack Chocies
 
-[./STACK_CHOICES.md]
+[see here](./STACK_CHOICES.md)
 
 ## Operations Manuals For Engineering
 
