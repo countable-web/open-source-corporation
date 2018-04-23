@@ -4,7 +4,7 @@ The purpose of this section is to provide clear processes to minimize the admini
 
 ## Hiring
 
-  * Countable does not take into account (negatively nor positively for diversity purposes), race and gender in hiring decisions. Some logistical correlations with these attributes may be considered independently however.
+  * Countable does not take into account, race and gender in hiring decisions or salary offers. Hiring should be done as if these attributes are not known at the time of offer.
   * Countable wants to hire people who are both technically strong and are self-motivated, creative problem solvers.
   * We use [this](./POSTING.md) job posting.
-  * We try to be always hiring, and will save resources to snap up the right person if they come along at any time.
+  * We try to be always hiring, in order to snap up the right person if they come along at any time.
