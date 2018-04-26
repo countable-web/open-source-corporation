@@ -23,6 +23,15 @@ cards that are ready to be tested by the client (and where not possible, the con
 
 A diagram shows how cards can move from conception to completion [here](https://docs.google.com/drawings/d/1UkPeGGzKYWkCsZpkwWB_UJ3JjWJcoT4t8qSU8A0tsy4/edit).
 
+### Boards
+
+We typically have one board per codebase with a client, and one per internal product / project. The board background color indicates the following:
+  * Green - nonprofit client (private)
+  * Orange - corporate client (private)
+  * Red - internal operations (private)
+  * Purple - open source project, or other public board (public)
+  * Blue - internal product (private)
+
 ### Getting everything into Trello
 
 Clients will often email you rather than use Trello. This can be fixed by forwarding their email to the trello board. Go to their Trello board, and click settings -> email-to-board settings, and add that email address as a contact in your email. You can then forward emails directly to your trello board. However, it does make a bit of a mess since email signature images and other junk show up in the tickets, so it's nice to clean them up when you look at them in Trello.
