@@ -26,7 +26,7 @@ See [here](./JENKINS.md) for how we use jenkins to automate many environment ins
 
 ### Docker
 
-See [here](./Docker.md) for how we use Docker to manage project environments.
+See [here](./DOCKER.md) for how we use Docker to manage project environments.
 
 ## Backups
 *ALL* production data of ours and clients' must be backed up. We must have reasonable evidence that backups can actually be restored. For example, periodically update your development environment's database using a backup from production.
