@@ -7,6 +7,7 @@ This defines how we intend to manage web technology project environments. High l
   * When something breaks, make it as transparent as possible (easy to see what happened)
   * Save as much time for developers as possible, by automating their deployments, dev env setup, and testing.
   * Eliminate unnecessary differences between projects, and have everything follow convention when there's no reason for deviations.
+  * Reduce and simplify the steps needed to start a new project and integrate with everything (slack, jenkins, sentry)
 
 ## More specific goals (draft, may change)
 
