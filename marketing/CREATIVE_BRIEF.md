@@ -12,6 +12,10 @@ Visual design is a communication tool for meeting the right kinds of clients and
 
 To have the strongest web presence and best branding in our class (full service web firms)
 
+### Offering
+
+We write custom software using web technology, prototypes, automation. No Wordpress generally.
+
 ### Audience
 
 Audience #1a - Small businesses (but, bigger ones) or SMEs, typically who have no in-house developer team, or small/incomplete one. These businesses will typically be 10 to 500 employees. Businesses may have developer teams but want an outside perspective or skill supplement.  The typical decider is the owner or another executive at one of these businesses. They'll likely be someone very immersed in their industry, and use the web for reading trade publications and business publications primarily.
@@ -51,6 +55,7 @@ Companies identified on clutch.io
 
 Similar scope/approach:
   * http://five.agency/how-we-work/
+  * https://breue.com/
  
 ### How we want to Differentiate
 
