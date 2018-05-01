@@ -13,7 +13,7 @@ We use Docker to manage dev, test, stage and prod environments. Specific convent
 
 1. [Install Docker on your machine](https://docs.docker.com/engine/installation/)
 
-2. Clone one of our beautiful apps.
+2. Clone one of our beautiful apps. `git clone <repo>`
 
 3. Copy the docker override template: `cp docker-compose.override.yml.template docker-compose.override.yml`
 
