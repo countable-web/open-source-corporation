@@ -10,7 +10,7 @@ This defines how we intend to manage web technology project environments. High l
 
 ## More specific goals (draft, may change)
 
-  * It would be ideal to bring up a project environment with one short command. (currently, it's `git clone <repo>`, `docker-compose up`), and then you often need to get some test data so 2 or more commands, which is a good start). The easier this is, the more our front end people will be able to work the same way as everyone else.
+  * It would be ideal to bring up a project environment with one short command. (currently, it's `git clone <repo>`, `docker-compose up`, and then you often need to get some test data so 2 or more commands, which is a good start). The easier this is, the more our front end people will be able to work the same way as everyone else.
   * Committing to the master branch should run tests, and if those succeed, deploy to production.
   * Committing to develop should deploy to a staging environment, and run the tests, spamming the comitter of any errors.
   * All deployment configs should be centralized, possibly in the source repo (jenkins breaks this).
