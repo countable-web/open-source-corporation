@@ -18,13 +18,13 @@ We write custom software using web technology, prototypes, automation. No Wordpr
 
 ### Audience
 
-Audience #1a - Small businesses (but, bigger ones) or SMEs, typically who have no in-house developer team, or small/incomplete one. These businesses will typically be 10 to 500 employees. Businesses may have developer teams but want an outside perspective or skill supplement.  The typical decider is the owner or another executive at one of these businesses. They'll likely be someone very immersed in their industry, and use the web for reading trade publications and business publications primarily.
+Audience #1a - Small businesses (but, bigger ones) or SMEs, typically who have no in-house developer team, or an incomplete one that lacks some web tech areas. These businesses will typically be 10 to 500 employees. Businesses may have developer teams but want an outside perspective or skill supplement.  The typical decider is the owner or another executive at one of these businesses. They'll likely be someone very immersed in their industry, and use the web for reading trade publications and business publications primarily. Persona: Barrett runs a private firm that developed a disruptive hardware component but doesn't have web UI, apps or cloud integration.
 
-Audience #1b - Also, funded startups that needs capacity for a one-off need such as a prototype. 
+Audience #1b - Also, funded startups that needs capacity for a one-off need such as a prototype. Persona: Tifa has raised seed funding and needs a prototype for market research, further momentum with funders.
 
-Audience #2 - Developers and creatives like us. We want to attract the best talent by showcasing a interesting place to work.
+Audience #2 - Developers and creatives like us. We want to attract the best talent by showcasing a interesting place to work. Persona: Aeris wants a job that is challenging with lots of autonomy to hone her skills alongside ambitious and skilled peers.
 
-Audience #3 - Recruiters, who are usually pitching to group 1. The recruiter's intent is to pitch strong resources for the businesses, so the design approach should still be mostly geared towards the business itself.
+Audience #3 - Recruiters, who are usually pitching to group 1. The recruiter's intent is to pitch strong resources for the businesses, so the design approach should still be mostly geared towards the business itself. Persona: Sephiroth would like the option to provide a team solution rather than just individual candidates when a fitting situation arises with his clients.
 
 ### Competition
 
