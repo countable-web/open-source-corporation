@@ -9,4 +9,3 @@ Basic company policy goes here. Keep it short and simple.
 ## Co-worker Interaction
 
 1. Always approach co-workers in a respectful and supportive manner.
-
