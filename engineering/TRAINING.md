@@ -18,7 +18,7 @@ Make a pull request to this repository.
 
 # Docker Training
 
-If you're new to Docker, then when you get a chance, please do this tutorial:
+If you're new to Docker, do this. We use Docker for everything so you should get familiar with the basic concepts of running containers from images, and docker-compose which runs multiple containers at once.
 
 https://docs.docker.com/compose/django/
 
@@ -26,9 +26,8 @@ To set up a new django environment in Docker.
 
 # Django Training
 
-If you’re new to Django, then you should do this one
+If you’re new to Django, do this. Most of our back end projects are Django and it's good to know how to structure a back end MVC anyway for any project.
 
 https://docs.djangoproject.com/en/1.11/intro/tutorial01/
 
-To learn more about Django’s structure.
 
