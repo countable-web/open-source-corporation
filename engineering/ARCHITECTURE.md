@@ -2,7 +2,7 @@
 
 This is a guideline on architecture for web applications, with the goal of minimizing technical debt and otherwise saving time.
 
-One practical way to learn about architecture in your domain is to consider the architecture of existing apps. What works best in some, and what works worst in others? What parts of the code are easy versus hard to work on, and why?
+One practical way to learn about architecture in your domain is to consider the architecture of existing apps. What works best in some, and what works worst in others? What parts of the code are easy versus hard to work on, and why? The architecture should create a domain language and API that lets you do common new feature work with minimal code and complexity, essentially specifying a pure declarative specification of the feature in the domain language, flowing as if spoken as a list of clear and logical requirements.
 
 ### Components
 
