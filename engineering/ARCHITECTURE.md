@@ -2,6 +2,11 @@
 
 This is a guideline on architecture for web applications, with the goal of minimizing technical debt and otherwise saving time.
 
+### Components
+
+  * Consider modularity of your application. Django has good conventions built in for this, study those. Use "fat models" and "skinny views" (from 2 Scoops of Django)
+  * Separate components by interface and responsibility. ie) all the dashboard routes should be in one file. All the dashboard utilities should be in another file. All the shared utilities (used by more than one other file) should be stored together according to function.
+
 ### Dependencies
 
 1. See any dependency as a cost. The marginal benefit (so, minus opportunity cost of using no dependency) must be positive, ideally large.
