@@ -14,6 +14,8 @@ As a heuristic, the value of a dependency is:
 
 TOTAL_MARGINAL_BENEFIT / ( SQRT(LIBRARY_API_SIZE) + NUMBER_OF_SUB_DEPENDENCIES)
 
+TODO: this is basically crap. it can never be negative for one thing.
+
 ### Data Model
 
 Spend a lot of time getting the right data model (data structures and DB schema) as all your other application layers tend to have deeper dependencies on this.
