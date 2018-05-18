@@ -18,6 +18,8 @@ TOTAL_MARGINAL_BENEFIT / ( SQRT(LIBRARY_API_SIZE) + NUMBER_OF_SUB_DEPENDENCIES)
 
 Spend a lot of time getting the right data model (data structures and DB schema) as all your other application layers tend to have deeper dependencies on this.
 
+[Normalize](https://en.wikipedia.org/wiki/Database_normalization) your databases. It's better to have a single source of truth by default, and then duplicate storage if and only if you need to for performance reasons
+
 ### Interfaces and Indirection
 
 Interfaces occur when we create a new abstraction which messages others, rather than a single abstraction. Strategy and tactics:
