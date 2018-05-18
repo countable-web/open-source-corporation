@@ -2,6 +2,8 @@
 
 This is a guideline on architecture for web applications, with the goal of minimizing technical debt and otherwise saving time.
 
+One practical way to learn about architecture in your domain is to consider the architecture of existing apps. What works best in some, and what works worst in others? What parts of the code are easy versus hard to work on, and why?
+
 ### Components
 
   * Consider modularity of your application. Django has good conventions built in for this, study those. Use "fat models" and "skinny views" (from 2 Scoops of Django)
