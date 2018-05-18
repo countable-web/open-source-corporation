@@ -1,5 +1,5 @@
 
-# Advice for Success at the Company
+# Promotion Criteria
 
 This page is intended as a guide of what we look for in selection of Junior Partners at the consultancy.
    
