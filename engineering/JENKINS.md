@@ -47,9 +47,7 @@
    ```
    
    2. Create a Node
-   In Jenkins, click Build Executor Status -> New Node.  Give this node a name and select Permanent Agent.
-   The configuration required for a Node can be easily grabbed from previous Nodes. Refer back to these existing
-   nodes to get a sense of what configuration is needed. This node is now what wil be used to deploy project of your choice.
+   In Jenkins, click [Build Executor Status -> New Node](https://jenkins.countable.ca/computer/new).  Give this node a name and select Copy From Existing Node. Choose any existing one. Update the Node IP to your new physical node's public IP. This node is now what wil be used to deploy project of your choice.
    
    3. Create a Build Project
    In Jenkins, click new Item. Refer to existing projects for the configurations. 
