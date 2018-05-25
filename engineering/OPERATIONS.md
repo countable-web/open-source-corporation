@@ -21,6 +21,12 @@ This defines how we intend to manage web technology project environments. High l
 
 ## Current Standards and Conventions
 
+### Servers
+
+Each client typically has a different server environment, and Docker mostly prevents us from caring about the differences.
+
+Jenkins should perform most operations tasks as needed automatically, but sometimes there will be an exception. To access the shell of a server for an app hosted clientdomain.com, you have to `ssh direct.clientdomain.com` as this avoids the CDN intercepting the server IP.
+
 ### Jenkins
 
 See [here](./JENKINS.md) for how we use jenkins to automate many environment instances.
