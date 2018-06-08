@@ -59,4 +59,5 @@ Memos are unstructured notes that tell the story of what we're trying to do and 
 ## Similar Efforts
 
   * Some companies open source aspects such as coding standards, ie [Caktus](https://github.com/caktus/developer-documentation)
+  * [GitLab handbook](https://about.gitlab.com/handbook/)
   * [Remote Only Manifesto](https://www.remoteonly.org/)
