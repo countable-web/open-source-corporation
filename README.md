@@ -10,7 +10,7 @@ This is an experiment to "open source" [Countable Web Productions Inc.](http://c
 ## Who Started This?
 Countable is a boutique consulting firm which also sells SaaS products and advertising space. For more info see our:
 
-  * [Founder's vision](./VISION.md) - A possible future outcome.
+  * [Founder's vision](./VISION.md) - This is a very rough draft and subject to a lot of changes.
   * [Mission](./MISSION.md) - Countable exists to make these happen.
 
 ## Purpose
