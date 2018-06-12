@@ -31,3 +31,14 @@ services:
 ```
 
 And visit http://localhost:9000
+
+## Editing the Dockerfiles
+
+When you change something about the operating system environment your container exposes, such as installing a new package, this is often done in the Dockerfile itself. This will result in changes being propagated to other environments including production when you commit the modified Dockerfile, triggering a Docker build there. However, if you modify a file used during the build step such as requirements.txt , other environments won't be updated by default. To force environments to rebuild, commit a small change to the Dockerfile. Our convention is:
+
+```
+RUN echo "bust cache 33 (version)"
+```
+
+Bumping this version will trigger the rebuild as desired.
+
