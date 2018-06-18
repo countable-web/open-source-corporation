@@ -1,0 +1,3 @@
+However, keep in mind there's nothing about having a job (this one at least) that guarantees anything will be fair. I'm sure things won't always be fair and let's not dwell on that, ever. If that matters to you, you may want to find an employer who agrees about it.
+1. If necessary, the company will purchase a linux computer. The specs will be commensurate with what your manager decides you need after discussing your job. You may not all get the same specs as others at the company.
+2. If you're assigned a change in compensation, that will take a effect starting in your next pay period, not immediately, nor backdated to past hours.
