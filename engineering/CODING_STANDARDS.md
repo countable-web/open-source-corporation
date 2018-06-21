@@ -1,16 +1,15 @@
-# Coding Standards
+# Coding Standards and Style
 
 Coding and other standards and practices at Countable Web Productions.
-  * This document has arisen out of specific cases where different conventions of developers have caused us to waste time. In some cases, standardizing won't give us this benefit so we won't do it. I currently think double versus single qutoes for strings is such a case.
-  * There will be cases where we disagree, but we must all agree that it's more important to be consistent than to follow a particular rule. So, some rules may be arbitrary or even suboptimal, but we follow them so we can stop thinking about them.
-  * Coding standards are only necessary when there are multiple ways to express the same logic (more than one program has the same behaviour). In this sense, they're very uninteresting and ideally would be fully automated away. Golang does this correctly by automating formatting as a core feature. This ideal is what we should aspire to so we can save our neurons for more interesting things. To this end, please use editor plugins that auto-format to our standards where possible.
-  * In the case a project doesn't currently follow our standards but follows a different one, stick with that project's conventions unless we make a conscious decision to refactor the whole thing. Don't mix conventions.
+  * This document has arisen out of specific cases where different conventions of developers have caused us to waste time. 
+  * We use auto-formatters in place of coding standards in every case possible.
+  * In the case some project doesn't currently follow our standards but follows a different one, stick with that project's conventions unless we make a conscious decision to refactor the whole thing. Don't mix conventions.
 
-### Principles
+### Principles on Style
 
   * Make life easier for your team mates and future self by being consistent and thoughtful of what someone unfamiliar would think.
   * The perfect implementation is the one which declaratively encodes the business domain. If code becomes non-trivial, re-write so that domain is expressed in declarative form.
-  * [Composition over inheritance](https://en.wikipedia.org/wiki/Composition_over_inheritance)
+  * Avoid repeated code, except where doing so is much more clear. Keep in mind less code is actually easier to understand, all other things being equal. So, it bears repeating, use the minimum amount of code in declarative domain language.
 
 ### Names
 
@@ -25,7 +24,7 @@ Coding and other standards and practices at Countable Web Productions.
 
 ### Files
 
-  * Filenames should be lowercase with dashes (NOT SPACES) to separate words.
+  * Filenames should be lowercase with dashes (NOT SPACES) to separate words *except* for Python, which uses underscores in place of dashes.
   * The purpose, and contents of any file should be as obvious as possible by its filename and location.
 
 ### Locality
@@ -40,21 +39,22 @@ Functional Modules
   * Do Document the rationale "why", the reason behind an implementation choice.
   * Comment beside anything that's unintutive or unexpected to another reader.
 
-
 ### No tabs
 
 We are a Python shop, and so observance of pep 8 leads us to use 4 spaces for indentation. We carry this convention to other languages, using 4 spaces for indentation in CSS, HTML, Javacript, etc. We never use the tab character.
 
 ### Docker
 
-Please use Docker for any web application project (and other projects where applicable). It should be possible to bring up a new environment by only the following for any of our projects.
+Use [Docker](./DOCKER.md) for any web application project (and other projects where applicable). It should be possible to bring up a new environment by only the following for any of our projects.
 
 ```
 git clone <repo>
 cd <project folder>
-cp docker-compose.override.yml.template docker-compose.override.yml
+cp docker-compose.override.yml.dev.template docker-compose.override.yml
 docker-compose up
 ```
+
+TODO: Write a dotfiles script that does all the following with `getproject <project slug>`.
 
 And browsing to http://localhost
 
@@ -103,7 +103,7 @@ Bad:
 Good:
 ```
 <div>
-  <span></span>
+    <span></span>
 </div>
 ```
 
@@ -122,8 +122,6 @@ Bad:
 ```
 <div>Hi</div>
 
-
-
 <p>and welcome</p>
 ```
 Good:
@@ -137,19 +135,20 @@ Good:
 
 ## CSS Coding Standards
 
+Use the Prettier autoformatter and standard. https://github.com/prettier/prettier
+
   * Break the styles into global.css (styles on all pages), layout.css (outer styles), pages.css (specific page and shared components)
-  * Rules should generally pass on http://csslint.net/
-  * Don't use !important when possible
-  * Don't use capital letters or underscores. Use dashes and lowerase.
-  * Indent scoped rules relative to parents (see below)
+  * Don't use !important
+  * Split your styles into rules specific to a component, and rules that should apply to make the entire site consistent.
+  * Don't use capital letters or underscores for selector (class, id) names. Use dashes and lowerase.
 
 ```
 .parent {
     font-weight: bold;
 }
-    .parent .child {
-        color: #FFFFFF;
-    }  
+.parent .child {
+    color: #FFFFFF;
+}  
 
 .next {
     color: #0000FF;
@@ -158,4 +157,4 @@ Good:
  
 ## Javascript Coding Standards
 
-For javascript, use the Prettier autoformatter and standard. https://github.com/prettier/prettier
+Use the Prettier autoformatter and standard. https://github.com/prettier/prettier
