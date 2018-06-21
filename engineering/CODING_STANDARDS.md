@@ -137,9 +137,8 @@ Good:
 
 Use the Prettier autoformatter and standard. https://github.com/prettier/prettier
 
-  * Break the styles into global.css (styles on all pages), layout.css (outer styles), pages.css (specific page and shared components)
   * Don't use !important
-  * Split your styles into rules specific to a component, and rules that should apply to make the entire site consistent.
+  * Split your styles (at least) into rules specific to a component (pages.css, or <style> tag on the page.), and rules that should apply to make the entire site consistent (global.css).
   * Don't use capital letters or underscores for selector (class, id) names. Use dashes and lowerase.
 
 ```
