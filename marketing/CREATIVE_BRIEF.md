@@ -14,7 +14,7 @@ To have the strongest web presence and best branding in our class (full service 
 
 ### Offering
 
-We write custom software using web technology, prototypes, automation. No Wordpress generally.
+We prototype custom software using web technology to understand domain problems more deeply and demonstrate ROI early on.
 
 ### Audience
 
