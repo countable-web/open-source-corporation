@@ -68,10 +68,6 @@ Similar scope/approach:
   * Clarity and simplicity.
   * Adaptability.
 
-### Message
-
-We'll take the time to understand your business and help you craft the right technology strategy for your needs. Then, we have the capacity necessary to understand all the nuts and bolts for implementation.
-
 ## Design Principles
 
 1. All design elements should be intentional and have an explainable purpose. Less elements emphasizes the best ones. Don't try to be clever or subtle. This symbolizes how we value clarity and simplicity.
