@@ -60,11 +60,8 @@ Similar scope/approach:
 ### How we want to Differentiate
 
   * Expertise in prototyping quickly to test ideas and market response.
-  * Well vetted technical staff with exposure to diverse teams and projects.
-  * The same experts available to help understand how technology fits the big picture of your business strategy.
-  * Pre-packaged best practices for avoiding technical debt, helping with succession, scalability and numerous other architecture and people problems.
-  * A bias towards putting the client's needs first in the interest of fostering long term relationships.
-  * We've spent resources dealing with all the overhead of a technical project in advance, and can collaborate with you to create customer value immediately.
+  * Pre-packaged best practices for avoiding technical debt, helping with succession, scalability, operations.
+  * A focus on big, long term ROI on our billables.
 
 ### Tone
 
