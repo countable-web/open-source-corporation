@@ -35,3 +35,8 @@ We typically have one board per codebase with a client, and one per internal pro
 ### Getting everything into Trello
 
 Clients will often email you rather than use Trello. This can be fixed by forwarding their email to the trello board. Go to their Trello board, and click settings -> email-to-board settings, and add that email address as a contact in your email. You can then forward emails directly to your trello board. However, it does make a bit of a mess since email signature images and other junk show up in the tickets, so it's nice to clean them up when you look at them in Trello.
+
+### Labels
+
+Use a *red* label for bugs. These cards should be done first and can interrupt the current sprint.
+Use a *amber* label for blocked tickets. These are tickets waiting on something and not yet actionable.
