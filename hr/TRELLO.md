@@ -13,7 +13,7 @@ cards the client has reqeusted that are not reviewed by the team yet. This is th
 #### Backlog
 cards that have been understood by the consultant, and could be worked on. This is the traditional Scrum backlog list, ordered by priority (highest on top)
 
-#### Sprint (In Progress)
+#### Sprint
 cards actively being worked on in the current week.
 
 #### Done
