@@ -1,5 +1,7 @@
 
-## Google Drive
+# Design Asset Storage
+
+Official versions of Non-code assets are stored on Google Drive
 
 Every client has a folder in our Company Google Drive named:
 
