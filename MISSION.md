@@ -5,7 +5,7 @@ These are the reasons for the Company to exist. The mission statement also says 
 
 A1) *open, supportive, creative culture* - Create a culture of openness, support, critical thinking, creativity and taste. By taste, we mean people who have opinions about why things should be done a certain way, and who try to see potential and continuously clarify that vision of what's right, and improve towards it at the same time.
 
-A2) *build this with exciting opportunities for big impact*
+A2) *build things with exciting opportunities for big impact*
 
 A3) *long term results oriented business relationships*
 
