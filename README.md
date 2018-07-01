@@ -1,12 +1,11 @@
-# Open Source Operations Manual
+# Countable INC Operations Manual
 
-## Countable Web Productions
+## What Is This?
 
-## Pushing The Boundaries of Transparency
-This is an experiment to "open source" [Countable Web Productions Inc.](http://countable.ca) as much as possible. This includes our *operations manual* and several other assets. Like a software project, our processes and other information assets are publicly available for anyone to use under the MIT license. *However*, just as an open source software project does not disclose its database contents, this repository does not include any of our clients' and employees' private data. Further, we do not release our company name "Countable Web Productions Inc." nor our logo under the MIT license. Any other materials downloadable directly from this repository are included under the MIT licence.
+This is an experiment to "open source" the [Countable Web Productions Inc.](http://countable.ca) *operations manual*. Like a software project, our processes and other information assets are publicly available for anyone to use under the MIT license. *However*, just as an open source software project does not disclose its database contents, this repository does not include any of our clients' and employees' private data.
 
 ## Who Started This?
-Countable is a boutique consulting firm which also sells SaaS products and advertising space. For more info see our:
+Countable is a web tech consulting firm which also sells SaaS products and advertising space. For more info see our:
 
   * [Founder's vision](./VISION.md) - This is a very rough draft and subject to a lot of changes.
   * [Mission](./MISSION.md) - Countable exists to make these happen.
@@ -18,10 +17,8 @@ Countable is a boutique consulting firm which also sells SaaS products and adver
 *Second, why is it open source?* There are data indicating transparency is important:
 "90% of job seekers say that it's important to work for a company that embraces transparency." (Glassdoor U.S. Site Survey, January 2016; *Updated from 96%, Glassdoor survey, October 2014).
 
-What if a company took these really, really seriously from the ground up?
-
-Maximize transparency at the Company while it is small.
-  1. Counter Secrecy. Unnecesary secrets have a cost to the organization because everyone must focus on managing information access rather than other business activities (which create net value unlike hiding information).
+Other reasons:
+  1. To avoid secrets. Unnecesary secrets have a cost to the organization because everyone must focus on managing information access rather than other business activities (which create net value unlike hiding information).
   2. Trust. Between any parties working with or within the Company.
   3. Alignment and Clarity. We will be incentivized to design processes which benefit everyone. And failing this, at least expectations will be laid out.
   4. Learning. To help us learn from others, and others to learn from us.
