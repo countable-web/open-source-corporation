@@ -4,7 +4,7 @@ This document provides examples of common git workflows to show new developers h
 
 ## Working on a feature
 
-If there isn't one already, create a new branch for the feature, based on `develop`.
+If there isn't one already, create a new branch (not a fork) for the feature, based on `develop`.
 
 ```
 git checkout develop
