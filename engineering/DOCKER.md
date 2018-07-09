@@ -1,4 +1,4 @@
-# Docker
+# Countable Docker Guide
 
 We use Docker to manage dev, test, stage and prod environments. Specific conventions we follow:
 
