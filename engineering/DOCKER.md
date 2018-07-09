@@ -19,18 +19,8 @@ We use Docker to manage dev, test, stage and prod environments. Specific convent
 
 4. Run docker-compose: `docker-compose up`
 
-5. Navigate to http://localhost.
+5. Navigate to http://localhost. Ensure only one project is running at a time if you're using port 80 (as we do here)
 
-6. If you want to use a different port on the host, such as when you want to run environments on the same host, map that in docker-compose.override.yml
-
-```
-services:
-  web:
-    ports:
-      -9000:80
-```
-
-And visit http://localhost:9000
 
 ## Editing the Dockerfiles
 
