@@ -6,3 +6,5 @@ ALl projects MUST:
   
 
 ALL projects SHOULD:
+  * Use PORT 80 for http access in development environments.
+  * Use our standard stack choices.
