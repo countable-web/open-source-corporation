@@ -76,6 +76,8 @@ Similar scope/approach:
 4. Advanced technical elements (3d, parralax, etc ) are good because they showcase out technical work but should not be used at the expense of being simple.
 5. Don't try to be clever or subtle, it goes against our desire for clarity.
 
+We like the ideas from [Brutalist Web Design](https://brutalist-web.design/)
+
 ## Inspiration
 
 Teams on Driible. - https://dribbble.com/teams?sort=trending
