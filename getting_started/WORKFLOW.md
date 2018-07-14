@@ -1,7 +1,7 @@
 # Workflow Checklist
 
 ## Every Day You Work
-  * Share something with the team every day. Anything you want, but sometimes should be your actual work. Either in your specific client channel on slack or in #general (the tavern). You can either share a work sample, or tell us something you've learned or are struggling with, or some 3rd party work that inspires you. [Courtesy](../FEEDBACK_LOOPS.md)
+  * Share something with the team every day. Anything you want, but sometimes should be your actual work. Either in your specific client channel on slack or in #general (the tavern). You can either share a work sample, or tell us something you've learned or are struggling with, or some 3rd party work that inspires you. Shooting a quick [screen cap video]() to share is a neat idea. [Courtesy](../FEEDBACK_LOOPS.md)
   * Give honest feedback on some other team member's posts. [Collaboration](../FEEDBACK_LOOPS.md)
   * Fill your timesheet (end of the day) [Courtesy](../FEEDBACK_LOOPS.md)
   * Check your company Email. [Courtesy](../FEEDBACK_LOOPS.md)
