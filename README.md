@@ -14,7 +14,7 @@ Like for an open source software project, our processes and other information as
 
 ## Scope
 This repo will contain:
-  * Business process digrams and definitions.
+  * Business processes and knowledge base.
   * The Articles of Incorporation and other general corporate documents. Countable is a [CCPC](http://www.cra-arc.gc.ca/E/pub/tp/it458r2/it458r2-e.html), but it's possible some of these documents may be useful for other organization structures.
   * Document templates used by the company for accounting and legal.
   * We will not publish information here that would compromise the privacy or property of our employees, clients or customers. For example, _filled_ timesheets, invoices and other documents with monetary specifics of other parties will not be filed here. For these, only empty templates will be provided.
