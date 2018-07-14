@@ -2,7 +2,7 @@
 
 ## What Is This?
 
-This is an experiment to "open source" the [Countable Web Productions Inc.](http://countable.ca) *operations manual*.
+This is the [Countable Web Productions Inc.](http://countable.ca) *operations manual*.
 
 Like for an open source software project, our processes and other information assets are publicly available for anyone to use under the MIT license. *However*, just as an open source software project does not disclose its database contents, this repository does not include any of our clients' and employees' private data.
 
