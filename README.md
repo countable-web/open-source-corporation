@@ -21,7 +21,8 @@ This repo will contain:
 
 ## Contributing
 If you want to suggest a change to Countable Web Productions, make a pull request. The rules:
-   * *Important: Never commit private data or protected intellectual property. Nothing specific to our employees, clients, or finances should go in here.*
+   * *Important*: Never commit private data or protected intellectual property. Nothing specific to our employees, clients, or finances should go in here.
+   * Organize by "context". The documents in here are intended to be actionable. So, for any document, place it with a name and folder structure that matches what someone is *doing when they need this information*. For example, a timesheet template should go in the GETTING_STARTED folder, since it will be used by new employees.
    * Link prolifically. Wherever you can, link words of your pages to other pages or other websites.
    * Keep it concise, to-the-point, actionable. If you do use an abstraction, provide a corresponding example.
    * Each page should state it's purpose for existing, as related to the company's [mission](./MISSION.md). Clarity and utility over completeness. Try to maximize "usefulness density", or the total benefit (ie, in saved time, dollars) of the content divided by its length (in characters).
