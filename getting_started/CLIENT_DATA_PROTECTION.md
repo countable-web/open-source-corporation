@@ -1,4 +1,6 @@
 
+# Client Data Protection
+
 As an open transparent company, we want to minimize the number of assets which need protection. Here's a list of those we can't make excpetions for:
 
   * Any real financial numbers.
