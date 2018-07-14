@@ -59,6 +59,7 @@ Then deploy the changes (automated by Jenkins in most projects).
 ## General Guidelines
 
   * Commit often, with each logical change in its own commit. If for no other reason, developers who commit multiple times per day are nearly 10% more likely to be satisfied with their jobs (Stack Overflow dev survey, 2017). That's crazy correlation for such a simple behaviour!
+  * Use the "imperative voice" for commit messages: *Verb* *noun*. ie) "Remove magic glpyphs from wizard profile card."
   
 ## Code Reviews
 
