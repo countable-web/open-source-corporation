@@ -2,13 +2,9 @@
 
 ## What Is This?
 
-This is an experiment to "open source" the [Countable Web Productions Inc.](http://countable.ca) *operations manual*. Like a software project, our processes and other information assets are publicly available for anyone to use under the MIT license. *However*, just as an open source software project does not disclose its database contents, this repository does not include any of our clients' and employees' private data.
+This is an experiment to "open source" the [Countable Web Productions Inc.](http://countable.ca) *operations manual*.
 
-## Who Started This?
-Countable is a web tech consulting firm which also sells SaaS products and advertising space. For more info see our:
-
-  * [Founder's vision](./VISION.md) - This is a very rough draft and subject to a lot of changes.
-  * [Mission](./MISSION.md) - Countable exists to make these happen.
+Like for an open source software project, our processes and other information assets are publicly available for anyone to use under the MIT license. *However*, just as an open source software project does not disclose its database contents, this repository does not include any of our clients' and employees' private data.
 
 ## Purpose
 
@@ -42,6 +38,12 @@ Templates are simply empty documents with no data specific to any Employee or Cl
 ### Memos
 
 Memos are unstructured notes that tell the story of what we're trying to do and propose principles supporting those objectives. This is a catch-all for documents which are neither processes nor templates. 
+
+## About us
+Countable is a web tech consulting firm which also sells SaaS products and advertising space. For more info see our:
+
+  * [Founder's vision](./VISION.md) - This is a very rough draft and subject to a lot of changes.
+  * [Mission](./MISSION.md) - Countable exists to make these happen.
 
 ## Similar Efforts
 
