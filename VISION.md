@@ -40,3 +40,5 @@ For most cases, you're lucky enough to get a developer who can even implement [f
 What if we could codify web development over time to continuously spend more time on the "good" stuff, focusing on your customers and opportunities? What if you could have just a little access to all the right deep domain knowledge in the context of your business? And, what if we could do all the basic things right by default without needing a team of amazing specialists.
 
 This is the core idea behind Countable Consulting. To develop the processes and tools to abstract away the multifaceted problem of building a web technology team.
+
+
