@@ -14,13 +14,14 @@ You should:
   * You're willing to push yourself to reach the top of your field, and make an impact. We agree with Amazon's philosophy of "You can work long, hard, or smart, but at [Countable] you can’t choose two out of three."
   * You want to be part of our mission to empower creators on the web.
   * As this is a remote job, you need to have a suitable workspace available at home, with fast internet suitable for working all day. If you don't, there should be a local work co-op or other location you can work from nearby.
-  * Be a productive, talented and creative with your technical craft.
   * Be a continuous, self-motivated learner, and take initiative to improve the environment for yourself and your team members based on quarterly objectives.
   * Experiment with great focus, but know when to investigate a problem deeper yourself, when to ask your team for help.
   * Voice disagreements rather than keeping them to yourself. We need all opinions need to be on the table if they're to be taken into account.
   * *Clouds and Dirt* - Consider both the big picture and minute details, from a client's overall business down to crossing T's and dotting I's.
   * Have excellent written English skills.
   * Be able to determine, and focus on, what's really important in a complex environment with many distractions.
+
+Here's a guide to determining if you're a good fit. If these things don't resonate with you, please don't apply. Our screening process will determine you're not a good fit so applying would be a waste of everyone's time. https://github.com/countable-web/open-source-corporation/blob/master/recruiting/FIT.md
 
 We are open to a variety of work arrangements and time commitments, let us know what you prefer.
 
