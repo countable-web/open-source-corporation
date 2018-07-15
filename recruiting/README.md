@@ -15,7 +15,7 @@ The goal is to only accept people who are the best possible fit. Finding the bes
 
 *if* if the candidate didn't correctly format their cover letter, there's no need to respond as it's likely a mass/automated application.
 
-Otherwise, respond as follows:
+Otherwise, respond as follows (subject: `We've Decided On Other Candidates`) :
 ```
 Hello, and thanks again for your application.
 We want to notify you that we won't be moving you to the next step in our selection process.
