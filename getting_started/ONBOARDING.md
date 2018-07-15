@@ -1,6 +1,8 @@
 
 # Onboarding
 
+## Welcome to Countable!
+
 The goal of this guide is to help new members of Countable get connect with the team, efficiently set up accounts, and learn key things to help you get started contributing! If you find a way to improve this document, send a [Pull Request](https://github.com/countable-web/open-source-corporation/pull/new/master)! If anything is unclear, let's fix it so it's clear for the next person.
 
   * Get a countable.ca email address (ask your manager to create it)
