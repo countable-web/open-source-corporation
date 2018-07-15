@@ -17,7 +17,10 @@ The goal is to only accept people who are the best possible fit. Finding the bes
 
 Otherwise, respond as follows:
 ```
-Hello, and thanks again for your application. We want to notify you that we won't be moving you to the next step in our selection process. We have an extremely selective process and less than 1% of candidates are selected so you've done well to make it to this point.
+Hello, and thanks again for your application.
+We want to notify you that we won't be moving you to the next step in our selection process.
+We have an extremely selective process and less than 1% of candidates are selected so you've
+done well to make it to this point. We wish you great luck in future job applications.
 ```
 
 *if* the Candidate has made it to the *Technical Test* stage, the lead of the team they're applying for should also write a personal note with explanation of scoring, how to do better next time, and if they have a 80% or better score that we will consider them for future positions.
