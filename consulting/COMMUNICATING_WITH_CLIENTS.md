@@ -9,3 +9,4 @@
   * Be *concise*. Most clients get a *lot* of email so stick to key points that will matter to them. Be respectful of their time, and avoid asking for something if you've not made an effort to solve it yourself.
   * If something's unclear to you, as very specific (not open ended) questions and state your assumptions so far so they can point out any miscommuniation.
   * Show appreciation for the client's time, and anything they've done to help the project along.
+  * Send the communication to only the people who will find it relevant, and copy all team members who have been involved in the project.
