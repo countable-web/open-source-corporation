@@ -1,5 +1,5 @@
 
-# Promotion Criteria
+# Evaluation
 
 This page is intended as a guide of what we look to trigger promotion at the company. Does the person do these things?
    
