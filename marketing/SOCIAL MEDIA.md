@@ -26,4 +26,6 @@ Re: Clients' privacy:
 - Some clients' work is private, so always check with Clark before posting it
 - Anything already public should be ok
 
+Note:  For the time being, anyone other than Julie who wishes to post on Countable's instagram should save their post as a draft for Julie's review before posting, to ensure the above policy has been followed.
+
 
