@@ -57,3 +57,4 @@ Countable is a web tech consulting firm which also sells SaaS products and adver
   * [GitLab handbook](https://about.gitlab.com/handbook/)
   * [Remote Only Manifesto](https://www.remoteonly.org/)
   * [The Great CEO Within](https://docs.google.com/document/d/1ZJZbv4J6FZ8Dnb0JuMhJxTnwl-dwqx5xl0s65DE3wO8/preview#)
+  * [Buffer](https://open.buffer.com/) Is a radically transparent company that publishes internals too! We love and admire them for it :)
