@@ -12,6 +12,11 @@ Like for an open source software project, our processes and other information as
 
 *Second, why is it open source?* To promote [transparency](./TRANSPARENCY.md).
 
+> Whenever you find yourself saying something for a second time (to a second audience, or in a second situation), it is highly likely that you will end up saying it again and again in the future.  To vastly improve the quality of the communication, and reduce the amount of time that you spend communicating it … write it down.  
+> Then, the next time you need to communicate that message, you can simply share it in written form.  If it is something that all members of the team should know and remember, put it in a company-wide Wiki.  If it is truly seminal to the organization, post it on a wall for all to see.
+
+-- "The Great CEO Within", By Matt Mochary
+
 ## Scope
 This repo will contain:
   * Business processes and knowledge base.
@@ -51,3 +56,4 @@ Countable is a web tech consulting firm which also sells SaaS products and adver
   * Some companies open source aspects such as coding standards, ie [Caktus](https://github.com/caktus/developer-documentation)
   * [GitLab handbook](https://about.gitlab.com/handbook/)
   * [Remote Only Manifesto](https://www.remoteonly.org/)
+  * [The Great CEO Within](https://docs.google.com/document/d/1ZJZbv4J6FZ8Dnb0JuMhJxTnwl-dwqx5xl0s65DE3wO8/preview#)
