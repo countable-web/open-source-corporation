@@ -7,8 +7,8 @@ Purpose of posting:
 - Lead generation via followers
 
 Attribution:
-- In order to avoid confusion between our work and others', all photos and designs not owned by us or in the public domain must be properly attributed to the original owner.
-- This credit can be posted in the image caption.
+- In order to avoid confusion between our work and others', all photos and designs not owned by us or in the public domain must be properly attributed to the original owner
+- This credit can be posted in the image caption
 
 Subjects:
 - Work samples
@@ -22,8 +22,8 @@ Instagram:
 - Wherever possible, use colours close to Countable's brand colours (blues, blue-greens, black and white)
 
 Re: Clients' privacy:
-- No posting screenshots of code.
-- Some clients' work is private, so always check with Clrk before posting it.
-- Anything already public should be ok.
+- No posting screenshots of code
+- Some clients' work is private, so always check with Clark before posting it
+- Anything already public should be ok
 
 
