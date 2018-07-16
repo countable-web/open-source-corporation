@@ -1,5 +1,7 @@
 Countable's Social Media Posting Policy:
 
+
+
 Purpose of posting:
 - Inspiration, for now, to inspire our team mates and clients with our work, and work we admire
 - Lead generation via followers
@@ -16,8 +18,8 @@ Subjects:
 
 Themes/aesthetic:
 Instagram:
-- Our feed is tiled in an alternating dark & light image layout.
-- Wherever possible, use. colours close to Countable's brand colours (blues, blue-greens, black and white)
+- Our feed is tiled in an alternating dark & light image layout
+- Wherever possible, use colours close to Countable's brand colours (blues, blue-greens, black and white)
 
 Re: Clients' privacy:
 - No posting screenshots of code.
