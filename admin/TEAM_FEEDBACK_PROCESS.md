@@ -16,3 +16,7 @@ Put an emoticon under 9 then. :smile_cat: or :smile: or :grin: or :simple_smile:
 high to low. Or use any emote that fits, like :partyparrot: if you're so excited that you have to.
 Please react to max 5 of these. Please consider the items added by other team mates below this as well. (edited)
 
+
+Any items with 25% or more of the team supporting it should be moved into Trello "Company Design" Board requests for discussion on how to implement. Mention all those who voted for the item, in the card. Add the "staff pick" label to the card.
+
+Items with 2 or more votes can be discussed briefly with the voters on how they'd approach it and have them articulate it better. If there's a quick fix, go ahead.
