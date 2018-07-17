@@ -8,6 +8,8 @@ This defines how we intend to manage web technology project environments. High l
   * Save as much time for developers as possible, by automating their deployments, dev env setup, and testing.
   * Eliminate unnecessary differences between projects, and have everything follow convention when there's no reason for deviations.
   * Reduce and simplify the steps needed to start a new project and integrate with everything (slack, jenkins, sentry)
+  * minimize what's on the host server. Dockerize it all so it can be tested fully locally, and host as minimal state. ie, backup jobs are currently done wrong as they use the host's CRON.
+
 
 ## More specific goals (draft, may change)
 
