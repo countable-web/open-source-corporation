@@ -30,4 +30,8 @@ If you’re new to Django, do this. Most of our back end projects are Django and
 
 https://docs.djangoproject.com/en/1.11/intro/tutorial01/
 
+# Javacript Training
 
+   * *intermediate* Functional programming intro - http://reactivex.io/learnrx/
+   * *intermediate* Read "Javascript, The Good Parts"
+   * *advanced* Watch [Hey Underscore, you're Doing it Wrong](https://www.youtube.com/watch?v=m3svKOdZijA)
