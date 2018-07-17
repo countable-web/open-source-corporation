@@ -153,6 +153,8 @@ Use the Prettier autoformatter and standard. https://github.com/prettier/prettie
     color: #0000FF;
 }
 ```
+
+If you want to dive deeper, see https://cssguidelin.es/
  
 ## Javascript Coding Standards
 
