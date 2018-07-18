@@ -25,7 +25,7 @@ This repo will contain:
   * We will not publish information here that would compromise the privacy or property of our employees, clients or customers. For example, _filled_ timesheets, invoices and other documents with monetary specifics of other parties will not be filed here. For these, only empty templates will be provided.
 
 
-# **WELCOME TO COUNTABLE
+# WELCOME TO COUNTABLE
 
 ### *Building a world class web development team and cloud infrastructure is hard. Let us take care of that so it can amplify your business instead of pulling away resources.
 
@@ -33,13 +33,13 @@ This repo will contain:
 ### This is the Countable Web Productions Inc. operations manual.
 ### Like for an open source software project, our processes and other information assets are publicly available for anyone to use under the MIT license. However, just as an open source software project does not disclose its database contents, this repository does not include any of our clients' and employees' private data.
 
-## **Vision Statement
+## Vision Statement
 ### Learn about Countable's vision for an exceptional web technology team.
 
-## **Mission Statement
+## Mission Statement
 ### Find out Countable's goals for their team and their clients.
 
-## ** Getting Started
+## Getting Started
 ### *Get the hang of the Company's enterprise through Countable's Operations Manual that would run you through the basics.
 
 #### What do you need to know before you start?
