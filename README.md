@@ -24,6 +24,7 @@ This repo will contain:
   * Document templates used by the company for accounting and legal.
   * We will not publish information here that would compromise the privacy or property of our employees, clients or customers. For example, _filled_ timesheets, invoices and other documents with monetary specifics of other parties will not be filed here. For these, only empty templates will be provided.
 
+
 ** # WELCOME TO COUNTABLE
 * ### Building a world class web development team and cloud infrastructure is hard. Let us take care of that so it can amplify your business instead of pulling away resources.
 
