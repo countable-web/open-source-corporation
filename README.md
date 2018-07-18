@@ -51,24 +51,23 @@ Get the hang of the Company's enterprise through Countable's Operations Manual t
 
 
 ## Transparency
-### Understand why Countable is adamant about [Transparency](./TRANSPARENCY.md) with and within the Company.
+Understand why Countable is adamant about [Transparency](./TRANSPARENCY.md) with and within the Company.
 
 ## Principles
-### Grasp the fundamentals and [principles](./PRINCIPLES.md) of Countable's Operations.
+Grasp the fundamentals and [principles](./PRINCIPLES.md) of Countable's Operations.
 
 ## Objective
-### Know what are the Countable's [objectives](./2018_SYSTEM_OBJECTIVE.md).
+Know what are the Countable's [objectives](./2018_SYSTEM_OBJECTIVE.md).
 
 ## Recruiting
-### How and why do we [welcome](./RECRUITING.md) more members to the family?
+How and why do we [welcome](./RECRUITING.md) more members to the family?
 
-#### README
-#### [Posting](./POSTING.md)
-#### [Fit](./FIT.md)
-#### [Admin Posting](./ADMIN_POSTING.md)
-#### [Django Posting](./DJANGO_POSTING.md)
-#### [Front_End Posting](./FRONT_END_POSTING.md)
-#### [Nodejs_Posting](./NODEJS_POSTING.md)
+  * [Posting](./POSTING.md)
+  * [Fit](./FIT.md)
+  * [Admin Posting](./ADMIN_POSTING.md)
+  * [Django Posting](./DJANGO_POSTING.md)
+  * [Front_End Posting](./FRONT_END_POSTING.md)
+  * [Nodejs_Posting](./NODEJS_POSTING.md)
 
 ## How Do We Work?
 
