@@ -27,7 +27,7 @@ This repo will contain:
 
 # WELCOME TO COUNTABLE
 
-### *Building a world class web development team and cloud infrastructure is hard. Let us take care of that so it can amplify your business instead of pulling away resources.
+### *Building a world class web development team and cloud infrastructure is hard. Let us take care of that so it can amplify your business instead of pulling away resources.*
 
 ## README
 ### This is the Countable Web Productions Inc. operations manual.
@@ -36,11 +36,11 @@ This repo will contain:
 ## Vision Statement
 ### Learn about Countable's vision for an exceptional web technology team.
 
-## Mission Statement
+## [Mission Statement] (./MISSION.md)
 ### Find out Countable's goals for their team and their clients.
 
 ## Getting Started
-### *Get the hang of the Company's enterprise through Countable's Operations Manual that would run you through the basics.
+### *Get the hang of the Company's enterprise through Countable's Operations Manual that would run you through the basics.*
 
 #### What do you need to know before you start?
 ##### Associate Agreement
@@ -60,15 +60,15 @@ This repo will contain:
 
 
 ## Transparency
-### *Understand why Countable is adamant about Transparency with and within the Company.
+### *Understand why Countable is adamant about Transparency with and within the Company.*
 
 ## Principles
-### *Grasp the fundamentals of Countable's Operations.	
+### *Grasp the fundamentals of Countable's Operations.*
 
 ## 2018_System_Objective
 
 ## Recruiting
-### *How and why do we welcome more members to the family?
+### *How and why do we welcome more members to the family?*
 
 #### README
 #### Posting
@@ -78,7 +78,7 @@ This repo will contain:
 #### Front_End Posting
 #### Nodejs_Posting
 
-## **How Do We Work?
+## How Do We Work?
 
 #### Engineering
 ##### README
@@ -115,7 +115,7 @@ This repo will contain:
 #### Storage
 #### Gathering Team Feedback
 
-### **Administrative Matters
+### **Administrative Matters**
 #### Processes
 #### Accounting
 ##### README
@@ -127,7 +127,7 @@ This repo will contain:
 ##### Bylaws
 ##### Countable Articles
 
-### **License
+### **License**
 
 ## Contributing
 If you want to suggest a change to Countable Web Productions, make a pull request. The rules:
