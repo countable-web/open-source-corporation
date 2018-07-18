@@ -3,21 +3,16 @@
 
 These are the reasons for the Company to exist. The mission statement also says a lot by what's left out. It helps us work towards the same goals as a team, and helps new clients and colleagues decide if we're a good fit. We should refer to these items to justify our projects and other pages of this manual. The mission should be reviewed at least quarterly.
 
-A1) *open, supportive, creative culture* - Create a culture of openness, support, critical thinking, creativity and taste. By taste, we mean people who have opinions about why things should be done a certain way, and who try to see potential and continuously clarify that vision of what's right, and improve towards it at the same time.
+  * *empower creation on the web* by creating better web technology workflow tools.
 
-A2) *build things with exciting opportunities for big impact*
+# Values
 
-A3) *long term results oriented business relationships*
-
-supported by
-
-B1) *deep domain understanding* (supports A2) Understand clients' business deeply in order to improve design choices.
-
-B2) *improved web tech machine* (supports A1 and A2 by automating rote work) - Discover better ways to engage with web technology projects, creating a system that's more transparent, efficient, and effective for all parties involved.
-
-B3) *hosted widget platform* (is an example of A2) - Become the biggest hosted platform (app store) for front end embeddable 3rd party web technologies (widgets). The closest existing thing is like Google Tag Manager. Wordpress plugins are an adjacent but not direct competitior.
-
-B4) *workplace design* (directly supports A1)
+  * *open, supportive, creative culture* - Create an open culture of: feedback and support, critical thinking (asking why?), experimentation and taste. By taste, we mean people who have opinions about why things should be done a certain way, and who try to see potential and continuously clarify that vision of what's right, and improve towards it at the same time.
+  * *build things with exciting opportunities for big impact*
+  * *relationships* built on trust established through shared values and results
+  * *deep domain understanding* (supports A2) Understand clients' long term business goals deeply in order to improve design choices.
+  * *transparency* [more here](./TRANSPARENCY.md)
+  * *flexible work hours and location* - Help remote workers feel comfortable and engaged and have fun.
 
 ## Discussion
 
@@ -31,17 +26,8 @@ B3. Based on feedback, we've removed the specific aim of 50 million users, and c
 
 B4. Includes the ability to have flexible hours and location, good feedback, good mentorship and guidance, clear objectives, interesting projects. Let's discuss to figure out what we each value most in this regard. [gr]
 
+# Questions
 
-# Key Activities and Roles
+We have an [Areas of Responsibility](https://docs.google.com/spreadsheets/d/1S6VesJN11u7oxYceimjOucrW-7Be62JRianhzuy68kQ/edit#gid=0) Document drafted for this.
 
-This is a list of things we must do a lot of, and well to affect the mission above. Key roles for understanding and executing these activities are listed alongside.
-
-B1 - Understand clients' long term business goals and align their tech strategy. Incorporate business case behind requirements, and stay ahead of the market in our knowledge depth, methodology and tooling. Maintain a list of what's important to clients. Key role: Tech strategist, branding. docs: [consulting](https://github.com/countable-web/open-source-corporation/tree/master/consulting), [marketing](https://github.com/countable-web/open-source-corporation/tree/master/marketing)
-
-B2 - Continuously understand and assess our performance and efficiency, as well as what can be improved. Systematically question assumptions and explore better solutions for our work delivery. Maintain a list of core problems with contact (and other) web tech delivery systems. Key role: Operations analyst, manager. docs: [engineering](https://github.com/countable-web/open-source-corporation/tree/master/engineering)
-
-B3 - Developing widgets and improving the tools and ecosystem we provide for this. Capturing feedback and using our own widgets, understanding what our users need. Testing what resonates and helps with pain points. Listening to customers and understanding what they need. Key role: Widget developer, product manager, designer. docs: [product](https://github.com/countable-web/open-source-corporation/tree/master/product)
-
-B4 - Encourage a culture of feedback. Learn and understand what our team (and others we'd like to work with) really care about. Be open and transparent about this initiative, and create a welcoming message for new potential members. Key role: human resources analyst.docs: [hr](https://github.com/countable-web/open-source-corporation/tree/master/hr)
-
-
+What matters most to our clients, customers and employees?
