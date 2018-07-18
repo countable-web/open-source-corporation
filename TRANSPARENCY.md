@@ -9,3 +9,8 @@ Other reasons:
   3. Alignment and Clarity. We will be incentivized to design processes which benefit everyone. And failing this, at least expectations will be laid out.
   4. Learning. To help us learn from others, and others to learn from us.
   5. Experimentation. An experiment on practical corporate transparency limits.
+
+Caveats:
+  1. As mentioned elsewhere, the need to be clear about what information is Confidential and careful it's not released along with everything else.
+  2. The cost of publishing everything on public channels. This should be mitigated by automating by convention an tools.
+  3. The cost of ensuring what's released is clear and interpreted how intended.
