@@ -45,7 +45,8 @@ Candidates with less than 4 points are rejected outright. Those with 4 points ot
 
 ## Reaching Out
 
-We should chat with the candidate and rate their communication ability over Instant Messaging of some kind. They only advance if all these are true:
+Ask the Candidate to meet you on an IM system they suggest, and to schedule the time with you. Chat with the candidate and rate their communication ability. They only advance if all these are true:
+  * The candidate manages to meet you (the interviewer) without exchanging more than 3 messages on each side. They should identify times that work, and you should pick one without any other needless communication. Did they schedule the chat efficiently, and choose an IM system that's easy for you to get into and use?
   * They respond quickly, not making you wait. More than 10s for a response is too long (if it's happening frequently)
   * The english is perfect or near perfect. Not awkward.
   * The conversation flows fluidly.
