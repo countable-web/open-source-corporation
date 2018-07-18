@@ -59,15 +59,15 @@ This repo will contain:
 ##### Trello
 
 
-## **Transparency
+## Transparency
 ### *Understand why Countable is adamant about Transparency with and within the Company.
 
-## **Principles
+## Principles
 ### *Grasp the fundamentals of Countable's Operations.	
 
-## **2018_System_Objective
+## 2018_System_Objective
 
-## **Recruiting
+## Recruiting
 ### *How and why do we welcome more members to the family?
 
 #### README
