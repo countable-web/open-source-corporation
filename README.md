@@ -31,7 +31,7 @@ Learn about Countable's [vision](./VISION.md) for an exceptional web technology 
 Find out Countable's goals and [mission](./MISSION.md) for their team and their clients.
 
 ## Getting Started
-*Get the hang of the Company's enterprise through Countable's Operations Manual that would run you through the basics.*
+Get the hang of the Company's enterprise through Countable's Operations Manual that would run you through the basics.
 
 ## What do you need to know before you start?
   * [Associate Agreement](./ASSOCIATE_AGREEMENT.md)
@@ -51,74 +51,65 @@ Find out Countable's goals and [mission](./MISSION.md) for their team and their 
 
 
 ## [Transparency](./TRANSPARENCY.md)
-### *Understand why Countable is adamant about Transparency with and within the Company.*
+### Understand why Countable is adamant about Transparency with and within the Company.
 
 ## [Principles](./PRINCIPLES.md)
-### *Grasp the fundamentals of Countable's Operations.*
+### Grasp the fundamentals of Countable's Operations.
 
 ## [2018 System Objective](./2018_SYSTEM_OBJECTIVE.md)
 
 ## [Recruiting](./RECRUITING.md)
-### *How and why do we welcome more members to the family?*
+### How and why do we welcome more members to the family?
 
 #### README
 #### [Posting](./POSTING.md)
 #### [Fit](./FIT.md)
 #### [Admin Posting](./ADMIN_POSTING.md)
 #### [Django Posting](./DJANGO_POSTING.md)
-#### [Front_End Posting](./FRONT END POSTING.md)
+#### [Front_End Posting](./FRONT_END_POSTING.md)
 #### [Nodejs_Posting](./NODEJS_POSTING.md)
 
 ## How Do We Work?
 
-##### README
-#### [Engineering](./ENGINEERING.md)
-##### [Code Project Standards](./CODE_PROJECTS_STANDARDS.md)
-##### [Coding Standards](./CODING_STANDARDS.md)
-##### [Operations](./OPERATIONS.md)
-##### [Prototyping](./PROTOTYPING.md)
-##### [Testing](./TESTING.md)
-##### [Training](./TRAINING.md)
-##### [Architechture](./ARCHITECTURE.md)
-###### [Dependencies](./DEPENDENCIES.md)
-###### [Django](./DJANGO.md)
-###### [Docker](./DOCKER.md)
-###### [Git](./GIT.md)
-###### [Jenkins](./JENKINS.md)
-###### [Stack Choices](./STACK_CHOICES.md)
-#### [Marketing](./MARKETING.md)
-##### README
-##### Value Prop
-##### [Creative Brief](./CREATIVE_BRIEF.md)
-##### [Non-code assets](./NON_CODE_ASSETS.md)
-##### [Social Media](./SOCIAL_MEDIA.md)
-##### [2018 Seo Checklist](./2018_SEO_CHECKLIST.md)
-##### [Usability](./USABILITY.md)
-#### [Consulting](./CONSULTING.md)
-##### README
-##### [Priorities](./PRIORITIES.md)
-##### [Methodology](./METHODOLOGY.md)
-##### [Communicating with clients](./COMMUNICATING_WITH_CLIENTS.md)
-##### [Organization chart](./ORG_CHART.md)
-##### [Legal](./LEGAL.md)
-###### [Client Agreement](./CLIENT_AGREEMENT.md)
-#### [Product](./PRODUCT.md)
-#### [Storage](./STORAGE.md)
-#### [Gathering Team Feedback](./GATHERING TEAM FEEDBACK.md)
+### [Engineering](./ENGINEERING.md)
+  * [Code Project Standards](./CODE_PROJECTS_STANDARDS.md)
+  * [Coding Standards](./CODING_STANDARDS.md)
+  * [Operations](./OPERATIONS.md)
+  * [Prototyping](./PROTOTYPING.md)
+  * [Testing](./TESTING.md)
+  * [Training](./TRAINING.md)
+  * [Architechture](./ARCHITECTURE.md)
+  * [Dependencies](./DEPENDENCIES.md)
+  * [Django](./DJANGO.md)
+  * [Docker](./DOCKER.md)
+  * [Git](./GIT.md)
+  * [Jenkins](./JENKINS.md)
+  * [Stack Choices](./STACK_CHOICES.md)
+### [Marketing](./MARKETING.md)
+  * [Value Proposition](./VALUE_PROPOSITIO.md)
+  * [Creative Brief](./CREATIVE_BRIEF.md)
+  * [Non-code assets](./NON_CODE_ASSETS.md)
+  * [Social Media](./SOCIAL_MEDIA.md)
+  * [2018 Seo Checklist](./2018_SEO_CHECKLIST.md)
+  * [Usability](./USABILITY.md)
+### [Consulting](./CONSULTING.md)
+  * [Priorities](./PRIORITIES.md)
+  * [Methodology](./METHODOLOGY.md)
+  * [Communicating with clients](./COMMUNICATING_WITH_CLIENTS.md)
+  * [Organization chart](./ORG_CHART.md)
+  * [Legal](./LEGAL.md)
+    * [Client Agreement](./CLIENT_AGREEMENT.md)
+### [Product](./PRODUCT.md)
+### [Storage](./STORAGE.md)
+### [Gathering Team Feedback](./GATHERING_TEAM_FEEDBACK.md)
 
 ### [**Administrative Matters**](./ADMIN.md)
-#### [Processes](./PROCESSES.md)
-#### [Accounting](./ACCOUNTING.md)
-##### README
-##### [SRED](./SRED.md)
-##### [Taxes](./SRED.md)
-#### [Articles](./SRED.md)
-##### README
-##### [Articles](./ARTICLES.md)
-##### [Bylaws](./BYLAWS.md)
-##### [Countable Articles](./COUNTABLE_ARTICLES.md)
+  * [Processes](./PROCESSES.md)
+  * [Accounting](./ACCOUNTING.md)
+### [Articles](./SRED.md)
 
-### [**License**](./LICENSE.md)
+
+## [**License**](./LICENSE.md)
 
 ## Contributing
 If you want to suggest a change to Countable Web Productions, make a pull request. The rules:
