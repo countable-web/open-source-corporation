@@ -5,8 +5,8 @@ We use Docker to manage dev, test, stage and prod environments. Specific convent
   * It should be as easy and quick as possible to set up a new environment.
   * production and development environments should be as similar as possible (or, as practical anyway).
   * Base your Dockerfiles on official dockerhub.com images where they exist.
-  * docker-compose.yml contains the Docker config which is the same between every environment.
-  * A file called docker-compose.override.yml.template should exist with any settings that vary between environments. In a particular environment, to set up you would copy it and modify it locally. docker-compose.override.yml should be in `.gitignore`
+  * `docker-compose.yml` contains the Docker config which is the same between every environment.
+  * A file called `dc.dev.yml` should exist with any settings that vary between environments. In a dev environment, to set up you would copy it and modify it locally with `cp dc.dev.yml docker-compose.override.yml`. Similar for `dc.stage.yml` and `dc.prod.yml` for other environments respectively. Our CI testing environments can use `dc.dev.yml`. `docker-compose.override.yml` should be in `.gitignore`
   * The docker-compose.override.yml file should only contain differences between dev and prod and other environments. This includes the ports, restart policy, secrets, and normally not much else. If a line doesn't need to be in the overrides for a specific reason, move it to the main docker-compose.yml instead.
 
 ## Setting Up An Environment
