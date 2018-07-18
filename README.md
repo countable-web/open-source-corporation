@@ -34,10 +34,10 @@ This repo will contain:
 ### Like for an open source software project, our processes and other information assets are publicly available for anyone to use under the MIT license. However, just as an open source software project does not disclose its database contents, this repository does not include any of our clients' and employees' private data.
 
 ## Vision Statement
-### Learn about Countable's [vision] (./VISION.md) for an exceptional web technology team.
+### Learn about Countable's [vision](./VISION.md) for an exceptional web technology team.
 
-## [Mission Statement] (./MISSION.md)
-### Find out Countable's goals for their team and their clients.
+## Mission Statement
+### Find out Countable's goals and [mission](./MISSION.md)  for their team and their clients.
 
 ## Getting Started
 ### *Get the hang of the Company's enterprise through Countable's Operations Manual that would run you through the basics.*
