@@ -34,7 +34,7 @@ Find out Countable's goals and [mission](./MISSION.md) for their team and their 
 Get the hang of the Company's enterprise through Countable's Operations Manual that would run you through the basics.
 
 ## What do you need to know before you start?
-  * [Associate Agreement](./ASSOCIATE_AGREEMENT.md)
+  * [Associate Agreement](open-source-corporation/getting_started/ASSOCIATE_AGREEMENT.md)
   * [Policy](./POLICY.md)
   * [Client Data Protection](./CLIENT_DATA_PROTECTION.md)
   * [Onboarding](./ONBOARDING.md)
