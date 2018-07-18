@@ -66,12 +66,13 @@ How and why do we [welcome](./RECRUITING.md) more members to the family?
   * [Fit](./FIT.md)
   * [Admin Posting](./ADMIN_POSTING.md)
   * [Django Posting](./DJANGO_POSTING.md)
-  * [Front_End Posting](./FRONT_END_POSTING.md)
-  * [Nodejs_Posting](./NODEJS_POSTING.md)
+  * [Front End Posting](./FRONT_END_POSTING.md)
+  * [Nodejs Posting](./NODEJS_POSTING.md)
 
 ## How Do We Work?
 
-### [Engineering](./ENGINEERING.md)
+### Engineering
+The purpose of this section is to standardize key (not all) engineering processes in order to improve the team's performance, and take advantage of an experience curve by eliminating arbitrary process differences. See the entire section [here](./ENGINEERING.md).
   * [Code Project Standards](./CODE_PROJECTS_STANDARDS.md)
   * [Coding Standards](./CODING_STANDARDS.md)
   * [Operations](./OPERATIONS.md)
@@ -85,31 +86,42 @@ How and why do we [welcome](./RECRUITING.md) more members to the family?
   * [Git](./GIT.md)
   * [Jenkins](./JENKINS.md)
   * [Stack Choices](./STACK_CHOICES.md)
-### [Marketing](./MARKETING.md)
-  * [Value Proposition](./VALUE_PROPOSITIO.md)
+  
+### Marketing
+Defines how we communicate with potential clients. It screens for clients with similar values, with whom we'd like to collaborate on exciting projects. See the entire section [here](./MARKETING.md).
+  * [Value Proposition](./VALUE_PROPOSITION.md)
   * [Creative Brief](./CREATIVE_BRIEF.md)
   * [Non-code assets](./NON_CODE_ASSETS.md)
   * [Social Media](./SOCIAL_MEDIA.md)
   * [2018 Seo Checklist](./2018_SEO_CHECKLIST.md)
   * [Usability](./USABILITY.md)
-### [Consulting](./CONSULTING.md)
+  
+### Consulting
+The purpose of [this](./CONSULTING.md) section is to share knowledge about providing the best results for clients.
   * [Priorities](./PRIORITIES.md)
   * [Methodology](./METHODOLOGY.md)
   * [Communicating with clients](./COMMUNICATING_WITH_CLIENTS.md)
   * [Organization chart](./ORG_CHART.md)
   * [Legal](./LEGAL.md)
     * [Client Agreement](./CLIENT_AGREEMENT.md)
-### [Product](./PRODUCT.md)
-### [Storage](./STORAGE.md)
-### [Gathering Team Feedback](./GATHERING_TEAM_FEEDBACK.md)
+    
+### Product
 
-### [**Administrative Matters**](./ADMIN.md)
+### Storage
+This [section](./STORAGE.md) explains where and how things should be sorted out and stored.
+
+### Gathering Team Feedback
+This process is important because it lets us gauge whats important to the team while increasing buy-in on each action we take to improve. The goal is to find the changes that will move us towards our mission most quickly. See more of the section [here](./GATHERING_TEAM_FEEDBACK.md).
+
+### Administrative Matters
+This section involves the bureaucratic processes the company carry out. See more of the section [here](./ADMIN.md)
   * [Processes](./PROCESSES.md)
   * [Accounting](./ACCOUNTING.md)
-### [Articles](./SRED.md)
+  * [Articles](./SRED.md)
 
 
-## [**License**](./LICENSE.md)
+## License
+Yep! We operate [legally](./LICENSE.md).
 
 ## Contributing
 If you want to suggest a change to Countable Web Productions, make a pull request. The rules:
