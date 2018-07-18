@@ -24,6 +24,106 @@ This repo will contain:
   * Document templates used by the company for accounting and legal.
   * We will not publish information here that would compromise the privacy or property of our employees, clients or customers. For example, _filled_ timesheets, invoices and other documents with monetary specifics of other parties will not be filed here. For these, only empty templates will be provided.
 
+** # WELCOME TO COUNTABLE
+* ### Building a world class web development team and cloud infrastructure is hard. Let us take care of that so it can amplify your business instead of pulling away resources.
+
+## README
+### This is the Countable Web Productions Inc. operations manual.
+### Like for an open source software project, our processes and other information assets are publicly available for anyone to use under the MIT license. However, just as an open source software project does not disclose its database contents, this repository does not include any of our clients' and employees' private data.
+
+** ## Vision Statement
+### Learn about Countable's vision for an exceptional web technology team.
+
+** ## Mission Statement
+### Find out Countable's goals for their team and their clients.
+
+** ## Getting Started
+* ### Get the hang of the Company's enterprise through Countable's Operations Manual that would run you through the basics.
+#### What do you need to know before you start?
+##### Associate Agreement
+##### Policy
+##### Client Data Protection
+##### Onboarding
+##### Physical Setup
+##### Project Management
+##### Work Request Instructions
+##### Evaluation
+##### Compensation
+##### Recommended Reading
+##### Record Feedback Here
+#### What Websites Do We Use?
+##### Scrum
+##### Trello
+
+
+** ## Transparency
+* ### Understand why Countable is adamant about Transparency with and within the Company.
+
+** ## Principles
+* ### Grasp the fundamentals of Countable's Operations.	
+
+** ## 2018_System_Objective
+
+** ## Recruiting
+* ### How and why do we welcome more members to the family?
+#### README
+#### Posting
+#### Fit
+#### Admin Posting
+#### Django Posting
+#### Front_End Posting
+#### Nodejs_Posting
+
+** ## How Do We Work?
+#### Engineering
+##### README
+##### Code Project Standards
+##### Coding_Standards
+##### Operations
+##### Prototyping
+##### Testing
+##### Training
+##### Architechture
+###### Dependencies
+###### Django
+###### Docker
+###### Git
+###### Jenkins
+###### Stack Choices
+#### Marketing
+##### README
+##### Value_Prop
+##### Creative Brief
+##### Non_code assets
+##### Social Media
+##### 2018_Seo_Checklist
+##### Usability
+#### Consulting
+##### README
+##### Priorities
+##### Methodology
+##### Communicating_with_clients
+##### Org_chart
+##### Legal
+###### Client Agreement
+#### Product
+#### Storage
+#### Gathering Team Feedback
+
+** ### Administrative Matters
+#### Processes
+#### Accounting
+##### README
+##### SRED
+##### Taxes
+#### Articles
+##### README
+##### Articles
+##### Bylaws
+##### Countable Articles
+
+** ### License
+
 ## Contributing
 If you want to suggest a change to Countable Web Productions, make a pull request. The rules:
    * *Important*: Never commit private data or protected intellectual property. Nothing specific to our employees, clients, or finances should go in here.
