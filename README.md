@@ -50,16 +50,17 @@ Get the hang of the Company's enterprise through Countable's Operations Manual t
     * [Trello](./TRELLO.md)
 
 
-## [Transparency](./TRANSPARENCY.md)
-### Understand why Countable is adamant about Transparency with and within the Company.
+## Transparency
+### Understand why Countable is adamant about [Transparency](./TRANSPARENCY.md) with and within the Company.
 
-## [Principles](./PRINCIPLES.md)
-### Grasp the fundamentals of Countable's Operations.
+## Principles
+### Grasp the fundamentals and [principles](./PRINCIPLES.md) of Countable's Operations.
 
-## [2018 System Objective](./2018_SYSTEM_OBJECTIVE.md)
+## Objective
+### Know what are the Countable's [objectives](./2018_SYSTEM_OBJECTIVE.md).
 
-## [Recruiting](./RECRUITING.md)
-### How and why do we welcome more members to the family?
+## Recruiting
+### How and why do we [welcome](./RECRUITING.md) more members to the family?
 
 #### README
 #### [Posting](./POSTING.md)
