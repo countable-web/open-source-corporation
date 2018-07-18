@@ -15,7 +15,7 @@ We use Docker to manage dev, test, stage and prod environments. Specific convent
 
 2. Clone one of our beautiful apps. `git clone <repo>`
 
-3. Copy the docker override template: `cp docker-compose.override.yml.dev.template docker-compose.override.yml`
+3. Copy the docker override template: `cp dc.dev.yml docker-compose.override.yml`
 
 4. Run docker-compose: `docker-compose up`
 
