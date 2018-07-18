@@ -107,13 +107,13 @@ The purpose of [this](./CONSULTING.md) section is to share knowledge about provi
     
 ### Product
 
-### Storage
+## Storage
 This [section](./STORAGE.md) explains where and how things should be sorted out and stored.
 
-### Gathering Team Feedback
+## Gathering Team Feedback
 This process is important because it lets us gauge whats important to the team while increasing buy-in on each action we take to improve. The goal is to find the changes that will move us towards our mission most quickly. See more of the section [here](./GATHERING_TEAM_FEEDBACK.md).
 
-### Administrative Matters
+## Administrative Matters
 This section involves the bureaucratic processes the company carry out. See more of the section [here](./ADMIN.md)
   * [Processes](./PROCESSES.md)
   * [Accounting](./ACCOUNTING.md)
