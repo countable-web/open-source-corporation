@@ -25,21 +25,23 @@ This repo will contain:
   * We will not publish information here that would compromise the privacy or property of our employees, clients or customers. For example, _filled_ timesheets, invoices and other documents with monetary specifics of other parties will not be filed here. For these, only empty templates will be provided.
 
 
-** # WELCOME TO COUNTABLE **
-* ### Building a world class web development team and cloud infrastructure is hard. Let us take care of that so it can amplify your business instead of pulling away resources. *
+# **WELCOME TO COUNTABLE
+
+### *Building a world class web development team and cloud infrastructure is hard. Let us take care of that so it can amplify your business instead of pulling away resources.
 
 ## README
 ### This is the Countable Web Productions Inc. operations manual.
 ### Like for an open source software project, our processes and other information assets are publicly available for anyone to use under the MIT license. However, just as an open source software project does not disclose its database contents, this repository does not include any of our clients' and employees' private data.
 
-** ## Vision Statement
+## **Vision Statement
 ### Learn about Countable's vision for an exceptional web technology team.
 
-** ## Mission Statement
+## **Mission Statement
 ### Find out Countable's goals for their team and their clients.
 
-** ## Getting Started
-* ### Get the hang of the Company's enterprise through Countable's Operations Manual that would run you through the basics.
+## ** Getting Started
+### *Get the hang of the Company's enterprise through Countable's Operations Manual that would run you through the basics.
+
 #### What do you need to know before you start?
 ##### Associate Agreement
 ##### Policy
@@ -57,16 +59,17 @@ This repo will contain:
 ##### Trello
 
 
-** ## Transparency
-* ### Understand why Countable is adamant about Transparency with and within the Company.
+## **Transparency
+### *Understand why Countable is adamant about Transparency with and within the Company.
 
-** ## Principles
-* ### Grasp the fundamentals of Countable's Operations.	
+## **Principles
+### *Grasp the fundamentals of Countable's Operations.	
 
-** ## 2018_System_Objective
+## **2018_System_Objective
 
-** ## Recruiting
-* ### How and why do we welcome more members to the family?
+## **Recruiting
+### *How and why do we welcome more members to the family?
+
 #### README
 #### Posting
 #### Fit
@@ -75,7 +78,8 @@ This repo will contain:
 #### Front_End Posting
 #### Nodejs_Posting
 
-** ## How Do We Work?
+## **How Do We Work?
+
 #### Engineering
 ##### README
 ##### Code Project Standards
@@ -111,7 +115,7 @@ This repo will contain:
 #### Storage
 #### Gathering Team Feedback
 
-** ### Administrative Matters
+### **Administrative Matters
 #### Processes
 #### Accounting
 ##### README
@@ -123,7 +127,7 @@ This repo will contain:
 ##### Bylaws
 ##### Countable Articles
 
-** ### License
+### **License
 
 ## Contributing
 If you want to suggest a change to Countable Web Productions, make a pull request. The rules:
