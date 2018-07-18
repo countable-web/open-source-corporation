@@ -43,6 +43,14 @@ done well to make it to this point. We wish you great luck in future job applica
   
 Candidates with less than 4 points are rejected outright. Those with 4 points other than "communication ability" can be offered a chance to re-read the application and format it correctly, answering the hidden question. This is required for them to advance.
 
+## Reaching Out
+
+We should chat with the candidate and rate their communication ability over Instant Messaging of some kind. They only advance if all these are true:
+  * They respond quickly, not making you wait. More than 10s for a response is too long (if it's happening frequently)
+  * The english is perfect or near perfect. Not awkward.
+  * The conversation flows fluidly.
+  * The candidate answers questions clearly and understands what's been asked.
+
 ## Technical Test
 
 Now, answer their questions about the company. Candidates with 4 or 5 stars may now take the technical screening. This consists of a simulation of the actual work we expect them to be able to do very effectively. If any of these criteria are missed, reject the candidate.
