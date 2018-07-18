@@ -24,110 +24,101 @@ This repo will contain:
   * Document templates used by the company for accounting and legal.
   * We will not publish information here that would compromise the privacy or property of our employees, clients or customers. For example, _filled_ timesheets, invoices and other documents with monetary specifics of other parties will not be filed here. For these, only empty templates will be provided.
 
-
-# WELCOME TO COUNTABLE
-
-### *Building a world class web development team and cloud infrastructure is hard. Let us take care of that so it can amplify your business instead of pulling away resources.*
-
-## README
-### This is the Countable Web Productions Inc. operations manual.
-### Like for an open source software project, our processes and other information assets are publicly available for anyone to use under the MIT license. However, just as an open source software project does not disclose its database contents, this repository does not include any of our clients' and employees' private data.
-
 ## Vision Statement
-### Learn about Countable's [vision](./VISION.md) for an exceptional web technology team.
+Learn about Countable's [vision](./VISION.md) for an exceptional web technology team.
 
 ## Mission Statement
-### Find out Countable's goals and [mission](./MISSION.md)  for their team and their clients.
+Find out Countable's goals and [mission](./MISSION.md) for their team and their clients.
 
 ## Getting Started
-### *Get the hang of the Company's enterprise through Countable's Operations Manual that would run you through the basics.*
+*Get the hang of the Company's enterprise through Countable's Operations Manual that would run you through the basics.*
 
-#### What do you need to know before you start?
-##### Associate Agreement
-##### Policy
-##### Client Data Protection
-##### Onboarding
-##### Physical Setup
-##### Project Management
-##### Work Request Instructions
-##### Evaluation
-##### Compensation
-##### Recommended Reading
-##### Record Feedback Here
-#### What Websites Do We Use?
-##### Scrum
-##### Trello
+## What do you need to know before you start?
+  * [Associate Agreement](./ASSOCIATE_AGREEMENT.md)
+  * [Policy](./POLICY.md)
+  * [Client Data Protection](./CLIENT_DATA_PROTECTION.md)
+  * [Onboarding](./ONBOARDING.md)
+  * [Physical Setup](./PHYSICAL_SETUP.md)
+  * [Project Management](./PROJECT_MANAGEMENT.md)
+  * [Work Request Instructions](./WORK_REQUEST_INSTRUCTIONS.md)
+  * [Evaluation](./EVALUATION.md)
+  * [Compensation](./COMPENSATION.md)
+  * [Recommended Reading](./RECOMMENDED_READING.md)
+  * [Record Feedback Here](./RECORD_FEEDBACK_HERE.md)
+  * What Websites Do We Use?
+    * [Scrum](./SCRUM.md)
+    * [Trello](./TRELLO.md)
 
 
-## Transparency
+## [Transparency](./TRANSPARENCY.md)
 ### *Understand why Countable is adamant about Transparency with and within the Company.*
 
-## Principles
+## [Principles](./PRINCIPLES.md)
 ### *Grasp the fundamentals of Countable's Operations.*
 
-## 2018_System_Objective
+## [2018 System Objective](./2018_SYSTEM_OBJECTIVE.md)
 
-## Recruiting
+## [Recruiting](./RECRUITING.md)
 ### *How and why do we welcome more members to the family?*
 
 #### README
-#### Posting
-#### Fit
-#### Admin Posting
-#### Django Posting
-#### Front_End Posting
-#### Nodejs_Posting
+#### [Posting](./POSTING.md)
+#### [Fit](./FIT.md)
+#### [Admin Posting](./ADMIN_POSTING.md)
+#### [Django Posting](./DJANGO_POSTING.md)
+#### [Front_End Posting](./FRONT END POSTING.md)
+#### [Nodejs_Posting](./NODEJS_POSTING.md)
 
 ## How Do We Work?
 
-#### Engineering
 ##### README
-##### Code Project Standards
-##### Coding_Standards
-##### Operations
-##### Prototyping
-##### Testing
-##### Training
-##### Architechture
-###### Dependencies
-###### Django
-###### Docker
-###### Git
-###### Jenkins
-###### Stack Choices
-#### Marketing
+#### [Engineering](./ENGINEERING.md)
+##### [Code Project Standards](./CODE_PROJECTS_STANDARDS.md)
+##### [Coding Standards](./CODING_STANDARDS.md)
+##### [Operations](./OPERATIONS.md)
+##### [Prototyping](./PROTOTYPING.md)
+##### [Testing](./TESTING.md)
+##### [Training](./TRAINING.md)
+##### [Architechture](./ARCHITECTURE.md)
+###### [Dependencies](./DEPENDENCIES.md)
+###### [Django](./DJANGO.md)
+###### [Docker](./DOCKER.md)
+###### [Git](./GIT.md)
+###### [Jenkins](./JENKINS.md)
+###### [Stack Choices](./STACK_CHOICES.md)
+#### [Marketing](./MARKETING.md)
 ##### README
-##### Value_Prop
-##### Creative Brief
-##### Non_code assets
-##### Social Media
-##### 2018_Seo_Checklist
-##### Usability
-#### Consulting
+##### Value Prop
+##### [Creative Brief](./CREATIVE_BRIEF.md)
+##### [Non-code assets](./NON_CODE_ASSETS.md)
+##### [Social Media](./SOCIAL_MEDIA.md)
+##### [2018 Seo Checklist](./2018_SEO_CHECKLIST.md)
+##### [Usability](./USABILITY.md)
+#### [Consulting](./CONSULTING.md)
 ##### README
-##### Priorities
-##### Methodology
-##### Communicating_with_clients
-##### Org_chart
-##### Legal
-###### Client Agreement
-#### Product
-#### Storage
-#### Gathering Team Feedback
+##### [Priorities](./PRIORITIES.md)
+##### [Methodology](./METHODOLOGY.md)
+##### [Communicating with clients](./COMMUNICATING_WITH_CLIENTS.md)
+##### [Organization chart](./ORG_CHART.md)
+##### [Legal](./LEGAL.md)
+###### [Client Agreement](./CLIENT_AGREEMENT.md)
+#### [Product](./PRODUCT.md)
+#### [Storage](./STORAGE.md)
+#### [Gathering Team Feedback](./GATHERING TEAM FEEDBACK.md)
 
-### **Administrative Matters**
-#### Processes
-#### Accounting
+### [**Administrative Matters**](./ADMIN.md)
+#### [Processes](./PROCESSES.md)
+#### [Accounting](./ACCOUNTING.md)
 ##### README
-##### SRED
-##### Taxes
-#### Articles
+##### [SRED](./SRED.md)
+##### [Taxes](./SRED.md)
+#### [Articles](./SRED.md)
 ##### README
-##### Articles
-##### Bylaws
-##### Countable Articles
+##### [Articles](./ARTICLES.md)
+##### [Bylaws](./BYLAWS.md)
+##### [Countable Articles](./COUNTABLE_ARTICLES.md)
 
-### **License**
+### [**License**](./LICENSE.md)
 
 ## Contributing
 If you want to suggest a change to Countable Web Productions, make a pull request. The rules:
