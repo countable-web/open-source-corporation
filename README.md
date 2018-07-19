@@ -25,13 +25,13 @@ This repo will contain:
   * We will not publish information here that would compromise the privacy or property of our employees, clients or customers. For example, _filled_ timesheets, invoices and other documents with monetary specifics of other parties will not be filed here. For these, only empty templates will be provided.
 
 ## Vision Statement
-Learn about Countable's [vision](./VISION.md) for an exceptional web technology team.
+Codify the many-faceted problem of web technology delivery, so it can be abstracted away and simplified to allow everyone to better focus on their customers. This should be done in a way that caters to the situation of a business implementing the technology. Learn more about Countable's [vision](./VISION.md) for an exceptional web technology team.
 
 ## Mission Statement
-Find out Countable's goals and [mission](./MISSION.md) for their team and their clients.
+It helps us work towards the same goals as a team, and helps new clients and colleagues decide if we're a good fit. Find out more about Countable's goals and [mission](./MISSION.md) for their team and their clients.
 
 ## Getting Started
-Get the hang of the Company's enterprise through Countable's Operations Manual that would run you through the basics.
+The purpose of this section is to provide clear processes to minimize the administrative burden of humans that work for the Company.
 
 ## What do you need to know before you start?
   * [Associate Agreement](./ASSOCIATE_AGREEMENT.md)
@@ -50,17 +50,19 @@ Get the hang of the Company's enterprise through Countable's Operations Manual t
     * [Trello](./TRELLO.md)
 
 
-## [Transparency](./TRANSPARENCY.md)
+## Transparency
+> There are data indicating transparency is important: "90% of job seekers say that it's important to work for a company that embraces transparency." (Glassdoor U.S. Site Survey, January 2016; *Updated from 96%, Glassdoor survey, October 2014).
+
+Why and how important is [Transparency](./TRANSPARENCY.md) to Countable?
 
 ## Principles
 Grasp the fundamentals and [principles](./PRINCIPLES.md) of Countable's Operations.
 
 ## Objective
-Know what are the Countable's [objectives](./2018_SYSTEM_OBJECTIVE.md).
+Know what Countable's [objectives](./2018_SYSTEM_OBJECTIVE.md) are.
 
 ## Recruiting
-How and why do we [welcome](./RECRUITING.md) more members to the family?
-
+The goal is to only accept people who are the best possible fit. Finding the best people is one of the top challenges in our industry, so we need every advantage we can find in this way. See more about this section [here](./RECRUITING.md).
   * [Posting](./POSTING.md)
   * [Fit](./FIT.md)
   * [Admin Posting](./ADMIN_POSTING.md)
@@ -106,9 +108,6 @@ The purpose of [this](./CONSULTING.md) section is to share knowledge about provi
     
 ### Product
 
-## Storage
-This [section](./STORAGE.md) explains where and how things should be organized and stored.
-
 ## Gathering Team Feedback
 This process is important because it lets us gauge whats important to the team while increasing buy-in on each action we take to improve. The goal is to find the changes that will move us towards our mission most quickly. See more of the section [here](./GATHERING_TEAM_FEEDBACK.md).
 
@@ -117,7 +116,11 @@ This section involves the bureaucratic processes the company carry out. See more
   * [Processes](./PROCESSES.md)
   * [Accounting](./ACCOUNTING.md)
   * [Articles](./SRED.md)
-
+  * [Storage](./STORAGE.md)
+  * [Memos](./MEMOS.md)
+  * [Meetings](./MEETINGS.md)
+  * [Areas of Responsibility](./AORS.md)
+  * [Team Feedback Process](./TEAM_FEEDBACK_PROCESS.md)
 
 ## License
 Yep! We operate [legally](./LICENSE.md).
