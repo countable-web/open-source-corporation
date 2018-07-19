@@ -142,12 +142,6 @@ Processes are sequences of steps (like algorithms). Details on defining them [he
 
 Templates are simply empty documents with no data specific to any Employee or Client, and no real financial data. Templates should be markdown, or public [Google Drive](https://drive.google.com/drive/u/0/folders/1JfcXagifO5wmixA-vjI_qgYs1qzw4-dM) charts or sheets.
 
-## About us
-Countable is a web tech consulting firm which also sells SaaS products and advertising space. For more info see our:
-
-  * [Founder's vision](./VISION.md) - This is a very rough draft and subject to a lot of changes.
-  * [Mission](./MISSION.md) - Countable exists to make these happen.
-
 ## Similar Efforts
 
   * Some companies open source aspects such as coding standards, ie [Caktus](https://github.com/caktus/developer-documentation)
