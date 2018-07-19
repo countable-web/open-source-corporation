@@ -103,7 +103,7 @@ The purpose of [this](./consulting.md) section is to share knowledge about provi
 ### Product
 
 ## Administrative Matters
-This section involves the bureaucratic processes the company carry out. See more of the section [here](./ADMIN.md)
+This section involves the bureaucratic processes the company carry out. See more of the section [here](./ADMIN.md).
   * Accounting
   * Articles
   * Memos
