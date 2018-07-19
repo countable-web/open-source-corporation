@@ -56,6 +56,8 @@ From linuxjourney.com - this site's quite a good overall resource of concise, us
   * Networking - https://linuxjourney.com/lesson/network-basics (1, 2, 3, 4) - this one's not great, no explanation of ports.
   * Domain Name System (DNS) - https://linuxjourney.com/lesson/what-is-dns (all) - not great, a bit wordy.
 
+TODO: If someone is feeling energetic, please create an interactive tutorial bash script with key points from the above linuxjourney.com chapters.
+
 From learnshell.org - Good concept but a bit slow and poor choice of material mostly. This page is ok.
   * Variables - https://www.learnshell.org/en/Variables 
 
