@@ -68,7 +68,7 @@ The goal is to only accept people who are the best possible fit. Finding the bes
 
 ### Engineering
 The purpose of this section is to standardize key (not all) engineering processes in order to improve the team's performance, and take advantage of an experience curve by eliminating arbitrary process differences. See the entire section [here](./engineering.md).
-  * [Code Project Standards](./engineering/CODE_PROJECTS_STANDARDS.md)
+  * [Code Project Standards](./engineering/CODE_PROJECT_STANDARDS.md)
   * [Coding Standards](./engineering/CODING_STANDARDS.md)
   * [Operations](./engineering/OPERATIONS.md)
   * [Prototyping](./engineering/PROTOTYPING.md)
@@ -104,12 +104,12 @@ The purpose of [this](./consulting.md) section is to share knowledge about provi
 
 ## Administrative Matters
 This section involves the bureaucratic processes the company carry out. See more of the section [here](./ADMIN.md)
-  * [Processes](./admin/PROCESSES.md)
   * [Accounting](./admin/accounting.md)
   * [Articles](./admin/articles.md)
-  * [Storage](./admin/STORAGE.md)
   * [Memos](./admin/memos.md)
-  * [Meetings](./admin/MEETINGS.md)
+  * [Meetings](./admin/MEETINGS.md)    
+  * [Processes](./admin/PROCESSES.md)
+  * [Storage](./admin/STORAGE.md)
   * [Areas of Responsibility](./admin/AORS.md)
   * [Gathering Team Feedback](./admin/TEAM_FEEDBACK_PROCESS.md)
 
