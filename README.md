@@ -87,7 +87,7 @@ Defines how we communicate with potential clients. It screens for clients with s
   * [Value Proposition](./marketing/VALUE_PROP.md)
   * [Creative Brief](./marketing/CREATIVE_BRIEF.md)
   * [Design Asset Storage](./marketing/NON_CODE_ASSETS.md)
-  * [Social Media Posting Policy](./marketing/SOCIAL MEDIA.md)
+  * [Social Media Posting Policy](./marketing/SOCIAL_MEDIA.md)
   * [2018 Seo Checklist](./marketing/2018_SEO_CHECKLIST.md)
   * [Usability](./marketing/USABILITY.md)
   
