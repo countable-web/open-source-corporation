@@ -1,5 +1,7 @@
 # Developer Training
 
+Tutorials are great to follow through to get the basic operations of any new technology. Find a tutorial that does something you'd like to learn how to do, and with steps that actually work and you can follow yourself, not just read. After that, the best way to learn something is by doing it. Use it for a project, and put in the time tinkering with it. Once you tinker for a while playing with the basics of what you know, you'll start to feel more confident and familiar, have questions about things that you can't resolve through playing around, and want to move on. At this point, find a good tutorial on the next material you want to study.
+
 For this training, be sure to follow the practices [here](../engineering).
 
 # Core Training
