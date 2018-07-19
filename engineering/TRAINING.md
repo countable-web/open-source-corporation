@@ -2,7 +2,11 @@
 
 For this training, be sure to follow the practices [here](../engineering).
 
-# Kick Off
+# Core Training
+
+All developers should do these parts.
+
+## Kick Off
 
 Clone [this repository] (our operations manual).
 
@@ -16,7 +20,7 @@ Find a mistake, or something that could be more clear or useful in this reposito
 
 Make a pull request to this repository.
 
-# Docker Training
+## Docker Training
 
 If you're new to Docker, do this. We use Docker for everything so you should get familiar with the basic concepts of running containers from images, and docker-compose which runs multiple containers at once.
 
@@ -24,19 +28,23 @@ https://docs.docker.com/compose/django/
 
 To set up a new django environment in Docker.
 
-# Django Training
+## Django Training
 
 If you’re new to Django, do this. Most of our back end projects are Django and it's good to know how to structure a back end MVC anyway for any project.
 
 https://docs.djangoproject.com/en/1.11/intro/tutorial01/
 
-# Javacript Training
+# Further Training
+
+These are optional based on what specific gaps you need to fill. I'm starting with a list of resources I've found helpful myself, or have found and can imagine being helpful for our work.
+
+## Javacript Training
 
    * *intermediate* Functional programming intro - http://reactivex.io/learnrx/
    * *intermediate* Read "Javascript, The Good Parts"
    * *advanced* Watch [Hey Underscore, you're Doing it Wrong](https://www.youtube.com/watch?v=m3svKOdZijA)
    
-# Linux
+## Linux
 
 From linuxjourney.com - this site's quite a good overall resource of concise, useful and modular lessons. I've listed the chapters and sections (in parens) that are most useful for our work at Countable here.
   * CLI - https://linuxjourney.com/lesson/the-shell (all)
@@ -51,6 +59,5 @@ From linuxjourney.com - this site's quite a good overall resource of concise, us
 From learnshell.org - Good concept but a bit slow and poor choice of material mostly. This page is ok.
   * Variables - https://www.learnshell.org/en/Variables 
 
-### Linux From Scratch
 If you want to learn Linux deeply after doing the above, it's hard to beat compiling your own kernel and assembling your own userland.
   * LFS The Book http://www.linuxfromscratch.org/lfs/view/stable/
