@@ -1,11 +1,11 @@
 
 Agenda
 
-  * Meetings always need a calendar event with invitees.
+  * Meetings always need a calendar event with invitations to everyone who needs to be there. If someone doesn't need to be at the meeting, dont' invite them..
   * All meetings should have a general agenda or structure to follow.
   * All meetings should also have a specific agenda sent out in advance, with as much detail as possible.
   * If someone is presenting in a meeting, they should send out materials so the attendees can get in the right headspace.
-  * Don't go to meetings unless you have something to contribute. You must share something or facilitate in every meeting.
+  * Don't go to meetings unless you have something specific to contribute to the project.
 
 Minutes should be recorded for each meeting.
 
