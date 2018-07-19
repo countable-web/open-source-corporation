@@ -103,7 +103,7 @@ The purpose of [this](./consulting.md) section is to share knowledge about provi
 ### Product
 
 ## Administrative Matters
-This section involves the bureaucratic processes the company carry out. See more of the section [here](./ADMIN.md).
+This section involves the bureaucratic processes the company carry out.
   * Accounting
   * Articles
   * Memos
@@ -124,10 +124,6 @@ If you want to suggest a change to Countable Web Productions, make a pull reques
    * Keep it concise, to-the-point, actionable. If you do use an abstraction, provide a corresponding example.
    * Each page should state it's purpose for existing, as related to the company's [mission](./MISSION.md). Clarity and utility over completeness. Try to maximize "usefulness density", or the total benefit (ie, in saved time, dollars) of the content divided by its length (in characters).
    * This repository is intended for a specific company (Countable Web Productions Inc.), if you want to use it for another company, please fork it.
-
-### Processes
-
-Processes are sequences of steps (like algorithms). Details on defining them [here](./PROCESSES.md).
 
 ### Templates
 
