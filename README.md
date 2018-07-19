@@ -53,68 +53,65 @@ The purpose of this section is to provide clear processes to minimize the admini
 Grasp the fundamentals and [principles](./PRINCIPLES.md) of Countable's Operations.
 
 ## Objective
-Know what Countable's [objectives](./2018_SYSTEM_OBJECTIVE.md) are.
+Know what Countable's [objectives](./admin/memos/2018_SYSTEM_OBJECTIVE.md) are.
 
 ## Recruiting
 The goal is to only accept people who are the best possible fit. Finding the best people is one of the top challenges in our industry, so we need every advantage we can find in this way. See more about this section [here](./RECRUITING.md).
-  * [Posting](./POSTING.md)
-  * [Fit](./FIT.md)
-  * [Admin Posting](./ADMIN_POSTING.md)
-  * [Django Posting](./DJANGO_POSTING.md)
-  * [Front End Posting](./FRONT_END_POSTING.md)
-  * [Nodejs Posting](./NODEJS_POSTING.md)
+  * [Posting](./recruiting/POSTING.md)
+  * [Fit](./recruiting/FIT.md)
+  * [Admin Posting](./recruiting/ADMIN_POSTING.md)
+  * [Django Posting](./recruiting/DJANGO_POSTING.md)
+  * [Front End Posting](./recruiting/FRONT_END_POSTING.md)
+  * [Nodejs Posting](./recruiting/NODEJS_POSTING.md)
 
 ## How Do We Work?
 
 ### Engineering
-The purpose of this section is to standardize key (not all) engineering processes in order to improve the team's performance, and take advantage of an experience curve by eliminating arbitrary process differences. See the entire section [here](./ENGINEERING.md).
-  * [Code Project Standards](./CODE_PROJECTS_STANDARDS.md)
-  * [Coding Standards](./CODING_STANDARDS.md)
-  * [Operations](./OPERATIONS.md)
-  * [Prototyping](./PROTOTYPING.md)
-  * [Testing](./TESTING.md)
-  * [Training](./TRAINING.md)
-  * [Architechture](./ARCHITECTURE.md)
-  * [Dependencies](./DEPENDENCIES.md)
-  * [Django](./DJANGO.md)
-  * [Docker](./DOCKER.md)
-  * [Git](./GIT.md)
-  * [Jenkins](./JENKINS.md)
-  * [Stack Choices](./STACK_CHOICES.md)
+The purpose of this section is to standardize key (not all) engineering processes in order to improve the team's performance, and take advantage of an experience curve by eliminating arbitrary process differences. See the entire section [here](./engineering.md).
+  * [Code Project Standards](./engineering/CODE_PROJECTS_STANDARDS.md)
+  * [Coding Standards](./engineering/CODING_STANDARDS.md)
+  * [Operations](./engineering/OPERATIONS.md)
+  * [Prototyping](./engineering/PROTOTYPING.md)
+  * [Testing](./engineering/TESTING.md)
+  * [Training](./engineering/TRAINING.md)
+  * [Architechture](./engineering/ARCHITECTURE.md)
+  * [Dependencies](./engineering/DEPENDENCIES.md)
+  * [Django](./engineering/DJANGO.md)
+  * [Docker](./engineering/DOCKER.md)
+  * [Git](./engineering/GIT.md)
+  * [Jenkins](./engineering/JENKINS.md)
+  * [Stack Choices](./engineering/STACK_CHOICES.md)
   
 ### Marketing
-Defines how we communicate with potential clients. It screens for clients with similar values, with whom we'd like to collaborate on exciting projects. See the entire section [here](./MARKETING.md).
-  * [Value Proposition](./VALUE_PROPOSITION.md)
-  * [Creative Brief](./CREATIVE_BRIEF.md)
-  * [Non-code assets](./NON_CODE_ASSETS.md)
-  * [Social Media](./SOCIAL_MEDIA.md)
-  * [2018 Seo Checklist](./2018_SEO_CHECKLIST.md)
-  * [Usability](./USABILITY.md)
+Defines how we communicate with potential clients. It screens for clients with similar values, with whom we'd like to collaborate on exciting projects. See the entire section [here](./marketing.md).
+  * [Value Proposition](./marketing/VALUE_PROPOSITION.md)
+  * [Creative Brief](./marketing/CREATIVE_BRIEF.md)
+  * [Non-code assets](./marketing/NON_CODE_ASSETS.md)
+  * [Social Media](./marketing/SOCIAL_MEDIA.md)
+  * [2018 Seo Checklist](./marketing/2018_SEO_CHECKLIST.md)
+  * [Usability](./marketing/USABILITY.md)
   
 ### Consulting
-The purpose of [this](./CONSULTING.md) section is to share knowledge about providing the best results for clients.
-  * [Priorities](./PRIORITIES.md)
-  * [Methodology](./METHODOLOGY.md)
-  * [Communicating with clients](./COMMUNICATING_WITH_CLIENTS.md)
-  * [Organization chart](./ORG_CHART.md)
-  * [Legal](./LEGAL.md)
-    * [Client Agreement](./CLIENT_AGREEMENT.md)
+The purpose of [this](./consulting.md) section is to share knowledge about providing the best results for clients.
+  * [Priorities](./consulting/PRIORITIES.md)
+  * [Methodology](./consulting/METHODOLOGY.md)
+  * [Communicating with clients](./consulting/COMMUNICATING_WITH_CLIENTS.md)
+  * [Organization chart](./consulting/ORG_CHART.md)
+  * [Legal](./legal.md)
+    * [Client Agreement](./consulting/legal/CLIENT_AGREEMENT.md)
     
 ### Product
 
-## Gathering Team Feedback
-This process is important because it lets us gauge whats important to the team while increasing buy-in on each action we take to improve. The goal is to find the changes that will move us towards our mission most quickly. See more of the section [here](./GATHERING_TEAM_FEEDBACK.md).
-
 ## Administrative Matters
 This section involves the bureaucratic processes the company carry out. See more of the section [here](./ADMIN.md)
-  * [Processes](./PROCESSES.md)
-  * [Accounting](./ACCOUNTING.md)
-  * [Articles](./SRED.md)
-  * [Storage](./STORAGE.md)
-  * [Memos](./MEMOS.md)
-  * [Meetings](./MEETINGS.md)
-  * [Areas of Responsibility](./AORS.md)
-  * [Team Feedback Process](./TEAM_FEEDBACK_PROCESS.md)
+  * [Processes](./admin/PROCESSES.md)
+  * [Accounting](./admin/ACCOUNTING.md)
+  * [Articles](./admin/SRED.md)
+  * [Storage](./admin/STORAGE.md)
+  * [Memos](./admin/MEMOS.md)
+  * [Meetings](./admin/MEETINGS.md)
+  * [Areas of Responsibility](./admin/AORS.md)
+  * [Gathering Team Feedback](./admin/TEAM_FEEDBACK_PROCESS.md)
 
 ## License
 Yep! We operate [legally](./LICENSE.md)!
