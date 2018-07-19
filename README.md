@@ -34,7 +34,7 @@ It helps us work towards the same goals as a team, and helps new clients and col
 The purpose of this section is to provide clear processes to minimize the administrative burden of humans that work for the Company.
 
 ### What do you need to know before you start?
-  * [Associate Agreement](./ASSOCIATE_AGREEMENT.md)
+  * [Associate Agreement](./getting_started/ASSOCIATE_AGREEMENT.md)
   * [Policy](./POLICY.md)
   * [Client Data Protection](./CLIENT_DATA_PROTECTION.md)
   * [Onboarding](./ONBOARDING.md)
