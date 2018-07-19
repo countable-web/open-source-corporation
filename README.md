@@ -35,25 +35,19 @@ The purpose of this section is to provide clear processes to minimize the admini
 
 ### What do you need to know before you start?
   * [Associate Agreement](./getting_started/ASSOCIATE_AGREEMENT.md)
-  * [Policy](./POLICY.md)
-  * [Client Data Protection](./CLIENT_DATA_PROTECTION.md)
-  * [Onboarding](./ONBOARDING.md)
-  * [Physical Setup](./PHYSICAL_SETUP.md)
-  * [Project Management](./PROJECT_MANAGEMENT.md)
-  * [Work Request Instructions](./WORK_REQUEST_INSTRUCTIONS.md)
-  * [Evaluation](./EVALUATION.md)
-  * [Compensation](./COMPENSATION.md)
-  * [Recommended Reading](./RECOMMENDED_READING.md)
-  * [Record Feedback Here](./RECORD_FEEDBACK_HERE.md)
+  * [Policy](./getting_started/POLICY.md)
+  * [Client Data Protection](./getting_started/CLIENT_DATA_PROTECTION.md)
+  * [Onboarding](./getting_started/ONBOARDING.md)
+  * [Physical Setup](./getting_started/PHYSICAL_SETUP.md)
+  * [Project Management](./getting_started/PROJECT_MANAGEMENT.md)
+  * [Work Request Instructions](./getting_started/WORK_REQUEST_INSTRUCTIONS.md)
+  * [Evaluation](./getting_started/EVALUATION.md)
+  * [Compensation](./getting_started/COMPENSATION.md)
+  * [Recommended Reading](./getting_started/RECOMMENDED_READING.md)
+  * [Record Feedback Here](./getting_started/RECORD_FEEDBACK_HERE.md)
   * What Websites Do We Use?
-    * [Scrum](./SCRUM.md)
-    * [Trello](./TRELLO.md)
-
-
-## Transparency
-> There are data indicating transparency is important: "90% of job seekers say that it's important to work for a company that embraces transparency." (Glassdoor U.S. Site Survey, January 2016; *Updated from 96%, Glassdoor survey, October 2014).
-
-Why and how important is [Transparency](./TRANSPARENCY.md) to Countable?
+    * [Scrum](./getting_started/SCRUM.md)
+    * [Trello](./getting_started/TRELLO.md)
 
 ## Principles
 Grasp the fundamentals and [principles](./PRINCIPLES.md) of Countable's Operations.
