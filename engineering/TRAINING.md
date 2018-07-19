@@ -48,7 +48,7 @@ These are optional based on what specific gaps you need to fill. I'm starting wi
    
 ## Linux
 
-From linuxjourney.com - this site's quite a good overall resource of concise, useful and modular lessons. I've listed the chapters and sections (in parens) that are most useful for our work at Countable here.
+From linuxjourney.com - this site's quite a good overall resource of concise, useful and modular lessons. I've listed the chapters and sections (in parens) that are most useful for our work at Countable here. _The key is to do these exercises while following along and trying out the commands in your own linux terminal._ If you just read, you won't retain very well.
   * Command Line Interface (CLI) - https://linuxjourney.com/lesson/the-shell (all)
   * Permissions - https://linuxjourney.com/lesson/file-permissions (1,2,3,4)
   * Text - https://linuxjourney.com/lesson/stdout-standard-out-redirect# (1,2,3,4,5,9,16)
