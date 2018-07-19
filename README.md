@@ -50,8 +50,7 @@ Get the hang of the Company's enterprise through Countable's Operations Manual t
     * [Trello](./TRELLO.md)
 
 
-## Transparency
-Understand why Countable is adamant about [Transparency](./TRANSPARENCY.md) with and within the Company.
+## [Transparency](./TRANSPARENCY.md)
 
 ## Principles
 Grasp the fundamentals and [principles](./PRINCIPLES.md) of Countable's Operations.
@@ -108,7 +107,7 @@ The purpose of [this](./CONSULTING.md) section is to share knowledge about provi
 ### Product
 
 ## Storage
-This [section](./STORAGE.md) explains where and how things should be sorted out and stored.
+This [section](./STORAGE.md) explains where and how things should be organized and stored.
 
 ## Gathering Team Feedback
 This process is important because it lets us gauge whats important to the team while increasing buy-in on each action we take to improve. The goal is to find the changes that will move us towards our mission most quickly. See more of the section [here](./GATHERING_TEAM_FEEDBACK.md).
@@ -139,10 +138,6 @@ Processes are sequences of steps (like algorithms). Details on defining them [he
 ### Templates
 
 Templates are simply empty documents with no data specific to any Employee or Client, and no real financial data. Templates should be markdown, or public [Google Drive](https://drive.google.com/drive/u/0/folders/1JfcXagifO5wmixA-vjI_qgYs1qzw4-dM) charts or sheets.
-
-### Memos
-
-Memos are unstructured notes that tell the story of what we're trying to do and propose principles supporting those objectives. This is a catch-all for documents which are neither processes nor templates. 
 
 ## About us
 Countable is a web tech consulting firm which also sells SaaS products and advertising space. For more info see our:
