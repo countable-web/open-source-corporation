@@ -114,7 +114,7 @@ This section involves the bureaucratic processes the company carry out.
   * [Gathering Team Feedback](./admin/TEAM_FEEDBACK_PROCESS.md)
 
 ## License
-Yep! We operate [legally](./LICENSE.md)!
+Yep! We operate [legally](./LICENSE)!
 
 ## Contributing
 If you want to suggest a change to Countable Web Productions, make a pull request. The rules:
