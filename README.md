@@ -44,7 +44,7 @@ The purpose of this section is to provide clear processes to minimize the admini
   * [Evaluation](./getting_started/EVALUATION.md)
   * [Compensation](./getting_started/COMPENSATION.md)
   * [Recommended Reading](./getting_started/RECOMMENDED_READING.md)
-  * [Record Feedback Here](./getting_started/RECORD_FEEDBACK_HERE.md)
+  * [Recording Feeback](./getting_started/RECORD_FEEDBACK_HERE.md)
   * What Websites Do We Use?
     * [Scrum](./getting_started/SCRUM.md)
     * [Trello](./getting_started/TRELLO.md)
@@ -57,12 +57,12 @@ Know what Countable's [objectives](./admin/memos/2018_SYSTEM_OBJECTIVE.md) are.
 
 ## Recruiting
 The goal is to only accept people who are the best possible fit. Finding the best people is one of the top challenges in our industry, so we need every advantage we can find in this way. See more about this section [here](./RECRUITING.md).
-  * [Posting](./recruiting/POSTING.md)
-  * [Fit](./recruiting/FIT.md)
-  * [Admin Posting](./recruiting/ADMIN_POSTING.md)
-  * [Django Posting](./recruiting/DJANGO_POSTING.md)
-  * [Front End Posting](./recruiting/FRONT_END_POSTING.md)
-  * [Nodejs Posting](./recruiting/NODEJS_POSTING.md)
+  * [General Posting](./recruiting/POSTING.md)
+  * [Are You A Good Fit For Countable?](./recruiting/FIT.md)
+  * [Administrative Posting](./recruiting/ADMIN_POSTING.md)
+  * [Python and Django Developer Posting](./recruiting/DJANGO_POSTING.md)
+  * [Front End Developer and Designer Posting](./recruiting/FRONT_END_POSTING.md)
+  * [Node.js Developer Posting](./recruiting/NODEJS_POSTING.md)
 
 ## How Do We Work?
 
@@ -86,8 +86,8 @@ The purpose of this section is to standardize key (not all) engineering processe
 Defines how we communicate with potential clients. It screens for clients with similar values, with whom we'd like to collaborate on exciting projects. See the entire section [here](./marketing.md).
   * [Value Proposition](./marketing/VALUE_PROPOSITION.md)
   * [Creative Brief](./marketing/CREATIVE_BRIEF.md)
-  * [Non-code assets](./marketing/NON_CODE_ASSETS.md)
-  * [Social Media](./marketing/SOCIAL_MEDIA.md)
+  * [Design Asset Storage](./marketing/NON_CODE_ASSETS.md)
+  * [Social Media Posting Policy](./marketing/SOCIAL_MEDIA.md)
   * [2018 Seo Checklist](./marketing/2018_SEO_CHECKLIST.md)
   * [Usability](./marketing/USABILITY.md)
   
