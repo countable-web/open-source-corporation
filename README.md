@@ -84,10 +84,10 @@ The purpose of this section is to standardize key (not all) engineering processe
   
 ### Marketing
 Defines how we communicate with potential clients. It screens for clients with similar values, with whom we'd like to collaborate on exciting projects. See the entire section [here](./marketing.md).
-  * [Value Proposition](./marketing/VALUE_PROPOSITION.md)
+  * [Value Proposition](./marketing/VALUE_PROP.md)
   * [Creative Brief](./marketing/CREATIVE_BRIEF.md)
   * [Design Asset Storage](./marketing/NON_CODE_ASSETS.md)
-  * [Social Media Posting Policy](./marketing/SOCIAL_MEDIA.md)
+  * [Social Media Posting Policy](./marketing/SOCIAL MEDIA.md)
   * [2018 Seo Checklist](./marketing/2018_SEO_CHECKLIST.md)
   * [Usability](./marketing/USABILITY.md)
   
@@ -97,7 +97,7 @@ The purpose of [this](./consulting.md) section is to share knowledge about provi
   * [Methodology](./consulting/METHODOLOGY.md)
   * [Communicating with clients](./consulting/COMMUNICATING_WITH_CLIENTS.md)
   * [Organization chart](./consulting/ORG_CHART.md)
-  * [Legal](./legal.md)
+  * Legal Matters
     * [Client Agreement](./consulting/legal/CLIENT_AGREEMENT.md)
     
 ### Product
@@ -105,10 +105,10 @@ The purpose of [this](./consulting.md) section is to share knowledge about provi
 ## Administrative Matters
 This section involves the bureaucratic processes the company carry out. See more of the section [here](./ADMIN.md)
   * [Processes](./admin/PROCESSES.md)
-  * [Accounting](./admin/ACCOUNTING.md)
-  * [Articles](./admin/SRED.md)
+  * [Accounting](./admin/accounting.md)
+  * [Articles](./admin/articles.md)
   * [Storage](./admin/STORAGE.md)
-  * [Memos](./admin/MEMOS.md)
+  * [Memos](./admin/memos.md)
   * [Meetings](./admin/MEETINGS.md)
   * [Areas of Responsibility](./admin/AORS.md)
   * [Gathering Team Feedback](./admin/TEAM_FEEDBACK_PROCESS.md)
