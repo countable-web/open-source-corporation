@@ -35,3 +35,22 @@ https://docs.djangoproject.com/en/1.11/intro/tutorial01/
    * *intermediate* Functional programming intro - http://reactivex.io/learnrx/
    * *intermediate* Read "Javascript, The Good Parts"
    * *advanced* Watch [Hey Underscore, you're Doing it Wrong](https://www.youtube.com/watch?v=m3svKOdZijA)
+   
+# Linux
+
+From linuxjourney.com - this site's quite a good overall resource of concise, useful and modular lessons. I've listed the chapters and sections (in parens) that are most useful for our work at Countable here.
+  * CLI - https://linuxjourney.com/lesson/the-shell (all)
+  * Permissions - https://linuxjourney.com/lesson/file-permissions (1,2,3,4)
+  * Text - https://linuxjourney.com/lesson/stdout-standard-out-redirect# (1,2,3,4,5,9,16)
+  * Users - https://linuxjourney.com/lesson/users-and-groups (1,2)
+  * Processes - https://linuxjourney.com/lesson/monitor-processes-ps-command (1,7)
+  * Filesystem - https://linuxjourney.com/lesson/filesystem-hierarchy (1, 9)
+  * Networking - https://linuxjourney.com/lesson/network-basics (1, 2, 3, 4) - this one's not great, no explanation of ports.
+  * DNS - https://linuxjourney.com/lesson/what-is-dns (all) - not great, a bit wordy.
+
+From learnshell.org - Good concept but a bit slow and poor choice of material mostly. This page is ok.
+  * Variables - https://www.learnshell.org/en/Variables 
+
+### Linux From Scratch
+If you want to learn Linux deeply after doing the above, it's hard to beat compiling your own kernel and assembling your own userland.
+  * LFS The Book http://www.linuxfromscratch.org/lfs/view/stable/
