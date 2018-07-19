@@ -67,7 +67,7 @@ The goal is to only accept people who are the best possible fit. Finding the bes
 ## How Do We Work?
 
 ### Engineering
-The purpose of this section is to standardize key (not all) engineering processes in order to improve the team's performance, and take advantage of an experience curve by eliminating arbitrary process differences. See the entire section [here](./engineering.md).
+The purpose of this section is to standardize key (not all) engineering processes in order to improve the team's performance, and take advantage of an experience curve by eliminating arbitrary process differences.
   * [Code Project Standards](./engineering/CODE_PROJECT_STANDARDS.md)
   * [Coding Standards](./engineering/CODING_STANDARDS.md)
   * [Operations](./engineering/OPERATIONS.md)
@@ -83,7 +83,7 @@ The purpose of this section is to standardize key (not all) engineering processe
   * [Stack Choices](./engineering/STACK_CHOICES.md)
   
 ### Marketing
-Defines how we communicate with potential clients. It screens for clients with similar values, with whom we'd like to collaborate on exciting projects. See the entire section [here](./marketing.md).
+Defines how we communicate with potential clients. It screens for clients with similar values, with whom we'd like to collaborate on exciting projects.
   * [Value Proposition](./marketing/VALUE_PROP.md)
   * [Creative Brief](./marketing/CREATIVE_BRIEF.md)
   * [Design Asset Storage](./marketing/NON_CODE_ASSETS.md)
@@ -92,7 +92,7 @@ Defines how we communicate with potential clients. It screens for clients with s
   * [Usability](./marketing/USABILITY.md)
   
 ### Consulting
-The purpose of [this](./consulting.md) section is to share knowledge about providing the best results for clients.
+The purpose of section is to share knowledge about providing the best results for clients.
   * [Priorities](./consulting/PRIORITIES.md)
   * [Methodology](./consulting/METHODOLOGY.md)
   * [Communicating with clients](./consulting/COMMUNICATING_WITH_CLIENTS.md)
