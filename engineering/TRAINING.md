@@ -47,14 +47,14 @@ These are optional based on what specific gaps you need to fill. I'm starting wi
 ## Linux
 
 From linuxjourney.com - this site's quite a good overall resource of concise, useful and modular lessons. I've listed the chapters and sections (in parens) that are most useful for our work at Countable here.
-  * CLI - https://linuxjourney.com/lesson/the-shell (all)
+  * Command Line Interface (CLI) - https://linuxjourney.com/lesson/the-shell (all)
   * Permissions - https://linuxjourney.com/lesson/file-permissions (1,2,3,4)
   * Text - https://linuxjourney.com/lesson/stdout-standard-out-redirect# (1,2,3,4,5,9,16)
   * Users - https://linuxjourney.com/lesson/users-and-groups (1,2)
   * Processes - https://linuxjourney.com/lesson/monitor-processes-ps-command (1,7)
   * Filesystem - https://linuxjourney.com/lesson/filesystem-hierarchy (1, 9)
   * Networking - https://linuxjourney.com/lesson/network-basics (1, 2, 3, 4) - this one's not great, no explanation of ports.
-  * DNS - https://linuxjourney.com/lesson/what-is-dns (all) - not great, a bit wordy.
+  * Domain Name System (DNS) - https://linuxjourney.com/lesson/what-is-dns (all) - not great, a bit wordy.
 
 From learnshell.org - Good concept but a bit slow and poor choice of material mostly. This page is ok.
   * Variables - https://www.learnshell.org/en/Variables 
