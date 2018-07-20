@@ -33,11 +33,10 @@ It helps us work towards the same goals as a team, and helps new clients and col
 ## Getting Started
 If you're new, start here!
 
-### What do you need to know before you start?
+  * [Onboarding](./getting_started/ONBOARDING.md)
   * [Associate Agreement](./getting_started/ASSOCIATE_AGREEMENT.md)
   * [Policy](./getting_started/POLICY.md)
   * [Client Data Protection](./getting_started/CLIENT_DATA_PROTECTION.md)
-  * [Onboarding](./getting_started/ONBOARDING.md)
   * [Physical Setup](./getting_started/PHYSICAL_SETUP.md)
   * [Project Management](./getting_started/PROJECT_MANAGEMENT.md)
   * [Work Request Instructions](./getting_started/WORK_REQUEST_INSTRUCTIONS.md)
