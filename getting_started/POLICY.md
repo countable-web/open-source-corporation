@@ -4,7 +4,7 @@ Basic company policy goes here. Keep it short and simple.
 
 ## Work Scheduling
 
-1. Choose core hours with at least 2h/day overlap with PST per day you work. Any deviation from your core hours should be notified in the #general slack channel.
+1. Choose core hours with at least 2h/day overlap with PST per day you work. Any deviation from your core hours should be notified in the #general slack channel. Please message someone about your work (share something, ask a question) at least once each day on slack. It's best to message people on project channels or #general if it's not something that needs to be private.
 2. Your are responsible for scheduling deliverables with your project team and the client.
 
 ## Co-worker Interaction
