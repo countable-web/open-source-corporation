@@ -50,7 +50,7 @@ The purpose of this section is to provide clear processes to minimize the admini
     * [Trello](./getting_started/TRELLO.md)
 
 ## Principles
-Grasp the fundamentals and [principles](./PRINCIPLES.md) of Countable's Operations.
+Early draft of [principles](./PRINCIPLES.md), needs refining.
 
 ## Recruiting
 The goal is to only accept people who are the best possible fit. Finding the best people is one of the top challenges in our industry, so we need every advantage we can find in this way. See more about this section [here](./RECRUITING.md).
