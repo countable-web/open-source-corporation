@@ -2,7 +2,7 @@
 
 The purpose of this section is to share knowledge about providing the best results for clients.
 
-### Project Management
+### Managing Work Tasks With Clients
 
 We use Trello because:
   * it allows collaboration with clients on assignments.
