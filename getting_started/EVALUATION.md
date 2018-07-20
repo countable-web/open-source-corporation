@@ -7,7 +7,7 @@ Does the person do these things?
    * Set an example of high standards in productivity and quality of work, and share with the team in the #showoff channel. Seeing great work raises the bar for everyone and is very motivational.
    * Take ownership of our mission (always push it forward, and question/clarify it)
    * Take responsibility for clients' results. Work towards a clear, shared goal with the client. Follow up on discussions in a constructive way (with respect to objectives). Once it's clear, prototype something to validate assumptions as quickly as possible.
-   * Support your team members and help them improve. Provide honest negative feedback where due, both positive and negative (but do so with empathy, clear examples and focus on the work not the person who produced it).
+   * Support your team members and help them improve. Provide honest feedback where due, both positive and negative (but do so with empathy, clear examples and focus on the work not the person who produced it).
    * Make consistent improvements of any size (many small ones is easier) to the systems around you. Make a PR to clarify a document or code.
    * Get very good at knowing when to escalate (ask for help) from your colleagues and client, and when to just dig deeper on your own.
    * Read the entire operations manual, ask questions about things that are hard to understand or you disagree with, index things that are hard to find when you need them, improve clarity.
