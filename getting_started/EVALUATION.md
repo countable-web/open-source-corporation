@@ -20,7 +20,3 @@ Does the person avoid these things?
    * Produce low quality work that's not thoughtful of our future selves and which the team wouldn't be proud of.
    * Avoid hard discussions and be a "yes man" without thinking about what you're agreeing to.
    * Go "dark" so clients and team mates are unclear about the project status.
-
-Want to read more?
-
-You could do a lot worse than to follow [Amazon's leadship principles](https://www.amazon.jobs/principles).
