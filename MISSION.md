@@ -25,8 +25,6 @@ B3. Based on feedback, we've removed the specific aim of 50 million users, and c
 
 # Questions
 
-We have an [Areas of Responsibility](https://docs.google.com/spreadsheets/d/1S6VesJN11u7oxYceimjOucrW-7Be62JRianhzuy68kQ/edit#gid=0) Document drafted for dealing with these questions.
-
 What matters most to our clients?
   * Strategic business goals
   * Increasing ROI, saving costs.
