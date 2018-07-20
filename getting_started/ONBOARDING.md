@@ -17,6 +17,8 @@ The goal of this guide is to help new members of Countable get connect with the 
   * Describe the work in a few words that indicate specific things you worked on for most of that day. Between 3 and 20 words is the right level of detail. If you're entering the same phrase every day, you're not being specific enough. Enter detail that reminds you exactly what pieces you worked on that day.
   * If you don't know the project, put "Countable" in that column.
   * Also include at least one of: references to issues in Trello, Commit IDs.
+  * Countable pays for your time training and learning things you need for your job, up to 20%
+  * We don't pay for your time at conferences or social events.
 
 ### Environment
   
