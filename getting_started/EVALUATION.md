@@ -15,6 +15,7 @@ Does the person do these things?
 
 Does the person avoid these things?
    * Missing meetings or appointments
+   * Dodging responsibility by passing on work to others without attempting themselves first.
    * Lose track of client requests because they're not properly logged in Trello, or backlog's not monitored
    * Produce low quality work that's not thoughtful of our future selves and which the team wouldn't be proud of.
    * Avoid hard discussions and be a "yes man" without thinking about what you're agreeing to.
