@@ -21,7 +21,7 @@ We use Trello because:
   * Use agile methodology as a toolkit, where applicable.
   * Build systems which avoid recurring maintenance through choice of stable components and automation. It's best to work ourselves out of a job. It always leads to more work.
   * Identify big opportunities for wealth creation and high expected (statistically) ROI. Small risks are worthwhile if there is a high upside.
-  * Consultants (technical or non) work directly with clients, and no intermediary. The consultant must learn when is appropriate to escalate, such as: before providing a quote or estimate of new work; when in doubt about the best way to capture ROI; when uncertain about an impactiful decision.
+  * Consultants (technical or non) work directly with clients, and no intermediary. The consultant must learn when is appropriate to escalate, such as: before providing a quote or estimate of new work; when in doubt about the best way to capture ROI; when uncertain about an impactiful decision. A more senior staff person will provide mentorship when escalation occurs.
 
 Specific "off the shelf" methodological tools we often reach for are listed [here](./METHODOLOGY.md).
 
@@ -30,3 +30,5 @@ Clients may request a budget in an RFP, or a quote for a specific piece of work.
   * Break the work down into about 1 day line items (8 hours), with appropriate level of detail. On larger projects, up to a week can be in a single line item.
   * Our minimum quotable amount is $3,000. Amounts below this should instead be approved via a simple email message or Trello ticket from someone authorized to approve the work.
   * Separate quotes or budgets to be completed at different phases and specify the order (priority).
+  * The quote should provide a clear scope of functional specification, and list assumptions it is based on in order to simplify determining whether later changes are in scope or not.
+
