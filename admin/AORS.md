@@ -1,9 +1,7 @@
 
 # Areas of Responsibility
 
-[spreadsheet here](https://docs.google.com/spreadsheets/d/1S6VesJN11u7oxYceimjOucrW-7Be62JRianhzuy68kQ/edit#gid=0)
-
-We want to list all the activities needed to reach our company mission, and who's accountable for each.
+This [spreadsheet](https://docs.google.com/spreadsheets/d/1S6VesJN11u7oxYceimjOucrW-7Be62JRianhzuy68kQ/edit#gid=0) lists the responsibilities necessary for Countable to achieve its' mission, and who's accountable for them.
 
 ## Owning an AOR
   * Owning an AOR comes with great power and responsibility. Most of the time, you may manage this area as you see fit.
