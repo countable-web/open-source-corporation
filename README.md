@@ -31,7 +31,7 @@ Codify the many-faceted problem of web technology delivery, so it can be abstrac
 It helps us work towards the same goals as a team, and helps new clients and colleagues decide if we're a good fit. Find out more about Countable's goals and [mission](./MISSION.md) for their team and their clients.
 
 ## Getting Started
-The purpose of this section is to provide clear processes to minimize the administrative burden of humans that work for the Company.
+If you're new, start here!
 
 ### What do you need to know before you start?
   * [Associate Agreement](./getting_started/ASSOCIATE_AGREEMENT.md)
