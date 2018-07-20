@@ -28,7 +28,7 @@ This repo will contain:
 Codify the many-faceted problem of web technology delivery, so it can be abstracted away and simplified to allow everyone to better focus on their customers. This should be done in a way that caters to the situation of a business implementing the technology. Learn more about Countable's [vision](./VISION.md) for an exceptional web technology team.
 
 ## Mission Statement
-It helps us work towards the same goals as a team, and helps new clients and colleagues decide if we're a good fit. Find out more about Countable's goals and [mission](./MISSION.md) for their team and their clients.
+A common goal to align and evaluate other elements of the company. [Read the mission](./MISSION.md).
 
 ## Getting Started
 If you're new, start here!
@@ -79,7 +79,7 @@ The purpose of this section is to standardize key (not all) engineering processe
   * [Stack Choices](./engineering/STACK_CHOICES.md)
   
 ### Marketing
-Defines how we communicate with potential clients. It screens for clients with similar values, with whom we'd like to collaborate on exciting projects.
+Helps us find the best clients and staff who share our passion.
   * [Value Proposition](./marketing/VALUE_PROP.md)
   * [Creative Brief](./marketing/CREATIVE_BRIEF.md)
   * [Design Asset Storage](./marketing/NON_CODE_ASSETS.md)
@@ -88,7 +88,7 @@ Defines how we communicate with potential clients. It screens for clients with s
   * [Usability](./marketing/USABILITY.md)
   
 ### Consulting
-The purpose of section is to share knowledge about providing the best results for clients.
+How to provide the best results for clients.
   * [Priorities](./consulting/PRIORITIES.md)
   * [Methodology](./consulting/METHODOLOGY.md)
   * [Communicating with clients](./consulting/COMMUNICATING_WITH_CLIENTS.md)
@@ -100,17 +100,11 @@ The purpose of section is to share knowledge about providing the best results fo
 
 ## Administrative Matters
 This section involves the bureaucratic processes the company carry out.
-  * Accounting
-  * Articles
-  * Memos
   * [Meetings](./admin/MEETINGS.md)    
   * [Processes](./admin/PROCESSES.md)
   * [Storage](./admin/STORAGE.md)
   * [Areas of Responsibility](./admin/AORS.md)
   * [Gathering Team Feedback](./admin/TEAM_FEEDBACK_PROCESS.md)
-
-## License
-Yep! We operate [legally](./LICENSE)!
 
 ## Contributing
 If you want to suggest a change to Countable Web Productions, make a pull request. The rules:
