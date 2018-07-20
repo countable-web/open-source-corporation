@@ -3,16 +3,17 @@
 
 These are the reasons for the Company to exist. The mission statement also says a lot by what's left out. It helps us work towards the same goals as a team, and helps new clients and colleagues decide if we're a good fit. We should refer to these items to justify our projects and other pages of this manual. The mission should be reviewed at least quarterly.
 
-  * *empower creation on the web* by creating better web technology workflow tools.
+  * *empower creation on the web*
+  * *A widget in every website* become the go-to platform for publishing and installing web widgets.
 
 # Values
 
-  * *open, supportive, creative culture* - Create an open culture of: feedback and support, critical thinking (asking why?), experimentation and taste. By taste, we mean people who have opinions about why things should be done a certain way, and who try to see potential and continuously clarify that vision of what's right, and improve towards it at the same time.
-  * *build things with exciting opportunities for big impact*
+  * *culture* - Create an open culture of: feedback and support, critical thinking (asking why?), experimentation and taste. By taste, we mean people who have opinions about why things should be done a certain way, and who try to see potential and continuously clarify that vision of what's right, and improve towards it at the same time.
+  * *prototyping* exciting opportunities for big impact.
   * *relationships* built on trust established through shared values and results
   * *deep domain understanding* (supports A2) Understand clients' long term business goals deeply in order to improve design choices.
   * *transparency* [more here](./TRANSPARENCY.md)
-  * *flexible work hours and location* - Help remote workers feel comfortable and engaged and have fun.
+  * *make remote work better* ie.) Flexible work hours and location.
 
 ## Discussion
 
