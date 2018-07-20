@@ -22,7 +22,7 @@ This repo will contain:
   * Business processes and knowledge base.
   * The Articles of Incorporation and other general corporate documents. Countable is a [CCPC](http://www.cra-arc.gc.ca/E/pub/tp/it458r2/it458r2-e.html), but it's possible some of these documents may be useful for other organization structures.
   * Document templates used by the company for accounting and legal.
-  * We will not publish information here that would compromise the privacy or property of our employees, clients or customers. For example, _filled_ timesheets, invoices and other documents with monetary specifics of other parties will not be filed here. For these, only empty templates will be provided.
+  * We will *not* publish information here that would compromise the privacy or property of our employees, clients or customers. For example, _filled_ timesheets, invoices and other documents with monetary specifics of other parties will not be filed here. For these, only empty templates will be provided.
 
 ## Vision Statement
 Codify the many-faceted problem of web technology delivery, so it can be abstracted away and simplified to allow everyone to better focus on their customers. This should be done in a way that caters to the situation of a business implementing the technology. Learn more about Countable's [vision](./VISION.md) for an exceptional web technology team.
