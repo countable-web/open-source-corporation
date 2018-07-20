@@ -15,14 +15,6 @@ These are the reasons for the Company to exist. The mission statement also says 
   * *transparency* [more here](./TRANSPARENCY.md)
   * *make remote work better* ie.) Flexible work hours and location.
 
-## Discussion
-
-This addresses some questions raised by the team.
-
-B2. Web technology work includes usability and other practical delivery considerations [jvo]. The strategy is to systematically review what we spend our time on and try to automate it and make it disappear through convention and best practices. This doesn't mean we'll use the word "web technology" with customers at all [hk]. It's an internal and accurate term. For marketing speak, a better catchall for web tech is "cloud".
-
-B3. Based on feedback, we've removed the specific aim of 50 million users, and changed our goal to win a specific market. Getting specific numbers of users is still a useful metric but not really the mission. It was asked what our strategy is for this, and the key strategy is the use of a backlink as marketing in the widget code for non-paying users. This has been effective in other cases. Also, the use of keyword rich domains specific to each widget is very effective for SEO [gr]. Doubling our user base every 3 months is about the right order of magnitude to aim for in terms of velocity. We want to reach that as soon as possible after we shift to this project a bit more, starting soon, in full swing by July. [tj]
-
 # Questions
 
 What matters most to our clients?
