@@ -9,6 +9,7 @@ This document summarizes project management tooling and practices at Countable t
   * Automate timesheets, and invoices using Trello card data.
   * Simple to explain to new people. Mostly automated. Avoid slowing down developers who are less oriented to PM process.
   * Link bitbuckets commits.
+  * Easy for clients to submit a ticket. Bug or Feature, URL, screenshot.
 
 ### GIT
 
