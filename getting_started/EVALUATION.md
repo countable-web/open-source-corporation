@@ -14,9 +14,10 @@ Does the person do these things?
    * Show gratitude to your team in the #thanks channel.
 
 Does the person avoid these things?
+   * Fail to take responsibility when you make a mistake, and learn how to prevent it next time.
    * Miss meetings or appointments
    * Dodge responsibility by passing on work to others without attempting themselves first.
-   * Lose track of client requests because they're not properly logged in Trello, or backlog's not monitored
+   * Lose track of client requests because they're not properly logged in Trello, or backlog's not monitored.
    * Produce low quality work that's not thoughtful of our future selves and which the team wouldn't be proud of.
    * Avoid hard discussions and be a "yes man" without thinking about what you're agreeing to.
    * Go "dark" so clients and team mates are unclear about the project status.
