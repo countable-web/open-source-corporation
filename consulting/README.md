@@ -31,4 +31,5 @@ Clients may request a budget in an RFP, or a quote for a specific piece of work.
   * Our minimum quotable amount is $3,000. Amounts below this should instead be approved via a simple email message or Trello ticket from someone authorized to approve the work.
   * Separate quotes or budgets to be completed at different phases and specify the order (priority).
   * The quote should provide a clear scope of functional specification, and list assumptions it is based on in order to simplify determining whether later changes are in scope or not.
+  * Use [this template](https://docs.google.com/spreadsheets/d/1Gc_xjX-SnOvQ9QemLBrsYtPrBZISqT4H7qFw_Wkn3Co/edit#gid=0).
 
