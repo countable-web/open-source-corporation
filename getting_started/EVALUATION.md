@@ -1,7 +1,7 @@
 
 # Evaluation
 
-This page is intended as a guide of what we look to trigger promotion at the company.
+This page is intended as a guide of what we look for to trigger promotion at the company.
 
 Does the person do these things?   
    * Set an example of high standards in productivity and quality of work, and share with the team in the #showoff channel. Seeing great work raises the bar for everyone and is very motivational.
