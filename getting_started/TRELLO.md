@@ -33,6 +33,7 @@ A diagram shows how cards can move from conception to completion [here](https://
 1) Take screenshots of finished progress (when applicable) and post on your trello ticket.
 2) Use checklists for keeping track of what's being done.
 3) Use of an "Ongoing..." tag, on the ticket that you're currently working on.
+4) Use of "Screencastify" chrome extension for recording short screencasts and attaching into your trello ticket
 
 ### Proper use of tags (labels)
 
