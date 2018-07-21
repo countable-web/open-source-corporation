@@ -25,7 +25,7 @@ Cards that are ready to be tested by the client (and where not possible, the con
 
 ### Moving cards between columns
 
-A diagram shows how cards can move from conception to completion [here](https://drive.google.com/drive/u/2/folders/18l75uP6wDwx8YITlCF5V7zBbCSEHall8).
+A diagram shows how cards can move from conception to completion [here](https://drive.google.com/open?id=1VrniT1lRqVu9sJr0ZMK1aQLnFwEuFIQD).
 
 ### Progress Awareness
 
