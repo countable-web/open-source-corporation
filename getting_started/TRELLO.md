@@ -1,6 +1,6 @@
 # Trello
 
-We use Trello for project management    , as it's simple to set up access to the appropriate boards by partners and clients. A Trello board consists of a set of Cards (tasks) in the following columns.
+We use Trello for project management, as it's simple to set up access to the appropriate boards by partners and clients. A Trello board consists of a set of Cards (tasks) in the following columns.
 
 ### Trello Board Columns
 
@@ -25,11 +25,11 @@ Cards that are ready to be tested by the client (and where not possible, the con
 
 ### Moving cards between columns
 
-A diagram shows how cards can move from conception to completion [here](https://drive.google.com/open?id=1oBP3EALKOD2OkGpdAvIC9aNfSJ25E2rh).
+A diagram shows how cards can move from conception to completion [here](https://drive.google.com/drive/u/2/folders/18l75uP6wDwx8YITlCF5V7zBbCSEHall8).
 
-### Client Progress Awareness
+### Progress Awareness
 
-It's essential to maintain our clients informed about our current progress on particular tasks, so our professional relationship is strengthened and trust is built. For this objective, we suggest that you:
+**It's essential to maintain our clients informed about our current progress** on particular tasks, so our professional relationship is strengthened and trust is built. For this objective, we suggest that you:
 1) Take screenshots of finished progress (when applicable) and post on your trello ticket.
 2) Use checklists for keeping track of what's being done.
 3) Use of an "Ongoing..." tag, on the ticket that you're currently working on.
