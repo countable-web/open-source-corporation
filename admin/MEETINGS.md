@@ -15,3 +15,4 @@ Minutes should be recorded for each meeting.
   * Mention any notes on KPIs, OKRs
   * Mention anything with a followup required.
   * List items to come back to on the next meeting.
+  * Send a follow-up email with the minutes/notes and highlight any immediate action items
