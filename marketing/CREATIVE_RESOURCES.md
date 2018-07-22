@@ -3,8 +3,8 @@ A list of sites, tools and creative inspiration
 RESOURCES:
 
 Fonts:
-https://fonts.google.com/
-http://thestocks.im/
+* https://fonts.google.com/
+* http://thestocks.im/
 
 Stock photos:
 https://unsplash.com/
