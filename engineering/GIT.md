@@ -60,7 +60,9 @@ Then deploy the changes (automated by Jenkins in most projects).
 
   * Commit often, with each logical change in its own commit. If for no other reason, developers who commit multiple times per day are nearly 10% more likely to be satisfied with their jobs (Stack Overflow dev survey, 2017). That's crazy correlation for such a simple behaviour!
   * Use the "imperative voice" for commit messages: *Verb* *noun*. ie) "Remove magic glpyphs from wizard profile card."
-  
+  * Don't commit example code. Remove or gitignore it.
+  * Don't comment commented code, unless you have another English comment above it explaining why it's commented out, and not deleted.
+
 ## Code Reviews
 
 For code reviews, you don't have to spend a ton of time. Just try to understand what the code is doing, and if it looks right. If it's unclear to you, ask in a review comment what it does. If you suspect something's wrong or not following our conventions, then comment on that as well. If you're not in a rush, wait for your buddies to review before merging. Of course, if you're working alone or in a hurry to deploy something, you can merge the PR immediately yourself and respond to comments later. The goal is that at least like half of the time, we read each others code when pushing changes.
