@@ -15,7 +15,7 @@ Coding and other standards and practices at Countable Web Productions.
 
   This section refers to the names of variables, database columns, classes, and any other case where a name is chosen in code.
 
-  * Names should be the most obvious thing possible (as opposed to clever or arbitrary).
+  * Names should indicate *what* a function does in _business domain language_.
   * Name length should be proportional to the variable's scope size. `x` is ok in a one liner, but not a global.
   * When an industry jargon (domain language) term is available, use that.
   * ClassNames - Classes should use an upper camel case string of nouns
