@@ -42,3 +42,10 @@ Read this, and think about it: [Project Management](./PROJECT_MANAGEMENT.md).
 ### Confirm
 
 You should now go on the slack #general channel and announce that you've completed onboarding, or we'll assume you havn't and complain.
+
+### Advice For Starting At Countable
+  * Skim this entire manual and take notes so you know what's in here.
+  * If something *specific to our company* isn't in here, ask team mates for help liberally and ensure it gets documented concisely in the right place.
+  * Before you ask for help on technical work: Google it; do your research and try every reasonable simple step to narrow it down; Look in our documentation; Finally, ask as specific a question you can.
+  * As a new person, your job is mostly to catch balls (not pass them on or throw them to others). So, try to execute work quickly, save others time as opposed to costing their time. Remember, you're already using time on the above items (teaching, documentation, and support) but these are a very good use of their time. So, don't be shy to ask for help, but do so respectfully and consciously of the other party's time.
+
