@@ -18,7 +18,10 @@ The goal of this guide is to help new members of Countable get connect with the 
   * If you don't know the project, put "Countable" in that column.
   * Also include at least one of: references to issues in Trello, Commit IDs.
   * Countable pays for your time training and learning things you need for your job, up to 20%
-  * We don't pay for your time at conferences or social events.
+  * Be default we don't pay for your time at conferences or social events, but generally pay any expenses or admission necessary to attend.
+
+### Payment Info
+  * Provide a void cheque (in Canada this includes your bank account number, routing/transit number and institution number) to our accounting staff.
 
 ### Environment
   
