@@ -1,7 +1,7 @@
 
 # Evaluation
 
-This page lists "job levels". Each employee should be assigned a level based on the behaviours listed below from levels 1 to 4.
+The purpose of this policy is to "get and keep the right people on the bus" [1]. This page lists "job levels". Each employee should be assigned a level based on the behaviours listed below from levels 1 to 4.
 
 
 ## Technical Tracks
@@ -50,6 +50,7 @@ Given equity offer.
    * Track and improve a KPI.
    * Evaluate technical work complexity for proposals/quotes and can delegate work appropriately.
 
+### Dismissal
 
 Things that could result in you being dismissed:
    * Fail to exhibit the behaviours listed at and below your current job level.
@@ -61,3 +62,4 @@ Things that could result in you being dismissed:
    * Go "dark" so clients and team mates are unclear about the project status.
    
  
+[1] Jim Collins, "Good to Great".
