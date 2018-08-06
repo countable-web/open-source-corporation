@@ -17,14 +17,12 @@ Things that could result in you being dismissed:
 ## Job Levels
 
 ### Level 1
-An internship position, person is being evaluated for potential.
+An internship position, person is being evaluated for potential. All their work is reviewed by team members before entering production. They review higher level team members' work to learn from it.
 
-   * Should know and be able follow basic processes (memorize ops manual)
-   * All work is code-reviewed.
-   * Should always try to solve problems yourself, and ask specific questions after doing initial investigation. Clarify and state your assumptions when you ask for help.
+   * Know and are able follow basic processes. Read the entire operations manual, ask questions about things that are hard to understand or you disagree with, index things that are hard to find when you need them, improve clarity.
+   * Should always try to solve problems yourself, ask specific questions after doing initial investigation. Clarify and state your assumptions when you ask for help.
    * Make consistent improvements of any size (many small ones is easier) to the systems around you. Make a PR to clarify a document or code.
    * Get very good at knowing when to escalate (ask for help) from your colleagues and client, and when to just dig deeper on your own.
-   * Read the entire operations manual, ask questions about things that are hard to understand or you disagree with, index things that are hard to find when you need them, improve clarity.
    * Show gratitude to your team in the #thanks channel.
    * Take ownership of our mission (always push it forward, and question/clarify it)
    * Set an example of high standards in productivity and quality of work, and share with the team in the #showoff channel. Seeing great work raises the bar for everyone and is very motivational.
@@ -42,22 +40,21 @@ Considered a permanent position.
 ### Level 3
 May be given equity offer
 
-   * Helps to support and teach other team members technical track.
+   * Help to support and teach other team members with things inside your technical track.
    * Take responsibility for clients' results. Work towards a clear, shared goal with the client. Follow up on discussions in a constructive way (with respect to objectives). Once it's clear, prototype something to validate assumptions as quickly as possible.
-   * Takes accountability for our team's role in business objectives and project health.
-   * Is competent of more than 1 technical track, and has basic knowledge of all 4.
+   * Take accountability for our team's role in business objectives and project health.
+   * Be competent of more than 1 technical track, and has basic knowledge of all 4.
    * Has an AOR, makes progress on it.
-   * Takes responsibility for 
+   * Takes responsibility for clients' results. Don't blame the client, or external factors. Find a way to achieve the desired outcome regardless.
 
 ### Level 4
 Given equity offer.
 
-   * Sets standards for whole team in their technical track. Makes sure documentation is clear, and the team is improving.
-   * maintains learning materials, standards, 
-   * Stays on top of industry trends in their technical track. Understands trade-offs of competing solutions.
-   * Works to integrate teir technical area with the other technical tracks seamlessly.
-   * Has multiple AORs.
-   * Responsible for a KPI.
+   * Set standards for whole team in their technical track. Makes sure documentation is clear, and the team is improving.
+   * Stay on top of industry trends in their technical track. Understands trade-offs of competing solutions.
+   * Work to integrate teir technical area with the other technical tracks seamlessly.
+   * Have multiple AORs. Maintains learning materials, standards, and process documents.
+   * Track and improve a KPI.
    * Evaluates technical work complexity for proposals/quotes and can delegate work appropriately.
    
    
