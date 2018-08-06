@@ -19,7 +19,7 @@ git pull origin develop
 git push origin fireball-spell
 ```
 
-Submit a pull request from `fireball-spell` targetting `develop`. Another developer on the project should [review](#code-reviews) and comment on your changes. When everyone agrees, anyone can merge the changes. The `fireball-spell` branch is then deleted after being merged.
+Submit a pull request from `fireball-spell` targetting `develop`. Another developer on the project should [review](#code-reviews) and comment on your changes. When everyone agrees, anyone can merge the changes. The `fireball-spell` branch is then deleted after being merged. Delete the fireball-spell branch (BitBucket has an option to do that automatically when you PR)
 
 ## Small non-critical patch (update README.md)
 
@@ -62,6 +62,7 @@ Then deploy the changes (automated by Jenkins in most projects).
   * Use the "imperative voice" for commit messages: *Verb* *noun*. ie) "Remove magic glpyphs from wizard profile card."
   * Don't commit example code. Remove or gitignore it.
   * Don't comment commented code, unless you have another English comment above it explaining why it's commented out, and not deleted.
+  * Prefer small, short lived branches.
 
 ## Code Reviews
 
