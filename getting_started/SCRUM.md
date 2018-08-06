@@ -8,10 +8,6 @@ The simplest definition would be a list of all the things that needs to be done 
 #### Sprint
 A sprint is our regular repeatable 1-week work cycle during which work is completed and made ready for review. 
  
-#### Burndown chart
-At the moment, we do not use burndown charts.
-
-
 ### Weekly Activities
 
 We have a 1-week sprint:
@@ -31,7 +27,7 @@ For a visual aid of how our work is processed, see this [Business Process Diagra
 
 Our scrum meetings are made on Tuesday -within a 1 hour timeframe - where we must answer the following questions:
 
-1) What did you do this week?
+1) What will you do this week?
 2) What will you do on the next days?
 3) Are there any obstacles in your way?
 
