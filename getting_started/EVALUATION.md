@@ -31,7 +31,7 @@ Considered a permanent position.
    * Takes responsibility for client's expectation of deliverables and timelines. Is aware of bigger picture of project, and helps the team course correct to stay on track.
 
 ### Level 3
-May be given equity offer
+May be given equity offer, and/or substantial pay raise.
 
    * Help to support and teach other team members with things inside your technical track.
    * Take responsibility for clients' results. Work towards a clear, shared goal with the client. Follow up on discussions in a constructive way (with respect to objectives). Once it's clear, prototype something to validate assumptions as quickly as possible.
