@@ -52,10 +52,10 @@ Given equity offer.
 
    * Set standards for whole team in their technical track. Makes sure documentation is clear, and the team is improving.
    * Stay on top of industry trends in their technical track. Understands trade-offs of competing solutions.
-   * Work to integrate teir technical area with the other technical tracks seamlessly.
+   * Work to integrate teir technical area with the other technical tracks seamlessly in a ways that help the whole team. Be aware of how your work impacts other areas.
    * Have multiple AORs. Maintains learning materials, standards, and process documents.
    * Track and improve a KPI.
-   * Evaluates technical work complexity for proposals/quotes and can delegate work appropriately.
+   * Evaluate technical work complexity for proposals/quotes and can delegate work appropriately.
    
    
  
