@@ -8,7 +8,7 @@ Things that could result in you being dismissed:
    * Miss meetings or appointments
    * Lose track of client requests because they're not properly logged in Trello, or backlog's not monitored.
    * Produce low quality work that's not thoughtful of our future selves and which the team wouldn't be proud of.
-   * Avoid hard discussions and be a "yes man" without thinking about what you're agreeing to.
+   * Avoid hard discussions and be a "yes person" without thinking about what you're agreeing to.
    * Go "dark" so clients and team mates are unclear about the project status.
 
 ## Technical Tracks
