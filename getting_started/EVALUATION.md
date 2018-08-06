@@ -28,6 +28,7 @@ An internship position, person is being evaluated for potential.
    * Show gratitude to your team in the #thanks channel.
    * Take ownership of our mission (always push it forward, and question/clarify it)
    * Set an example of high standards in productivity and quality of work, and share with the team in the #showoff channel. Seeing great work raises the bar for everyone and is very motivational.
+   * Takes responsibility for specific tasks you are assigned.
 
 ### Level 2
 Considered a permanent position.
@@ -36,6 +37,7 @@ Considered a permanent position.
    * Is capable of high quality high throughput work in their technical track in the absence of distractions.
    * Support your team members and help them improve. Provide honest feedback where due, both positive and negative (but do so with empathy, clear examples and focus on the work not the person who produced it).
    * Is completely fluent with our team's approach and process (ops manual)
+   * Takes responsibility for deliverables and timelines. Is aware of bigger picture of project, and helps the team course correct to stay on track.
 
 ### Level 3
 May be given equity offer
@@ -45,6 +47,7 @@ May be given equity offer
    * Takes accountability for our team's role in business objectives and project health.
    * Is competent of more than 1 technical track, and has basic knowledge of all 4.
    * Has an AOR, makes progress on it.
+   * Takes responsibility for 
 
 ### Level 4
 Given equity offer.
