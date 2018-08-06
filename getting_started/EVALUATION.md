@@ -3,13 +3,6 @@
 
 This page lists "job levels". Each employee should be assigned a level based on the behaviours listed below from levels 1 to 4.
 
-Things that could result in you being dismissed:
-   * Fail to take responsibility when you make a mistake, and learn how to prevent it next time.
-   * Miss meetings or appointments
-   * Lose track of client requests because they're not properly logged in Trello, or backlog's not monitored.
-   * Produce low quality work that's not thoughtful of our future selves and which the team wouldn't be proud of.
-   * Avoid hard discussions and be a "yes person" without thinking about what you're agreeing to.
-   * Go "dark" so clients and team mates are unclear about the project status.
 
 ## Technical Tracks
   * (ops, backend, frontend, ux/design, content/research).
@@ -56,6 +49,15 @@ Given equity offer.
    * Have multiple AORs. Maintains learning materials, standards, and process documents.
    * Track and improve a KPI.
    * Evaluate technical work complexity for proposals/quotes and can delegate work appropriately.
-   
+
+
+Things that could result in you being dismissed:
+   * Fail to exhibit the behaviours listed at and below your current job level.
+   * Fail to take responsibility when you make a mistake, and learn how to prevent it next time.
+   * Miss meetings or appointments.
+   * Lose track of client requests because they're not properly logged in Trello, or backlog's not monitored.
+   * Produce low quality work that's not thoughtful of our future selves and which the team wouldn't be proud of.
+   * Avoid hard discussions and be a "yes person" without thinking about what you're agreeing to.
+   * Go "dark" so clients and team mates are unclear about the project status.
    
  
