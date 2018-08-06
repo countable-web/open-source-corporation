@@ -35,7 +35,7 @@ Considered a permanent position.
    * Is capable of high quality high throughput work in their technical track in the absence of distractions.
    * Support your team members and help them improve. Provide honest feedback where due, both positive and negative (but do so with empathy, clear examples and focus on the work not the person who produced it).
    * Is completely fluent with our team's approach and process (ops manual)
-   * Takes responsibility for deliverables and timelines. Is aware of bigger picture of project, and helps the team course correct to stay on track.
+   * Takes responsibility for client's expectation of deliverables and timelines. Is aware of bigger picture of project, and helps the team course correct to stay on track.
 
 ### Level 3
 May be given equity offer
