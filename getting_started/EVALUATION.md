@@ -42,10 +42,10 @@ May be given equity offer
 
    * Help to support and teach other team members with things inside your technical track.
    * Take responsibility for clients' results. Work towards a clear, shared goal with the client. Follow up on discussions in a constructive way (with respect to objectives). Once it's clear, prototype something to validate assumptions as quickly as possible.
-   * Take accountability for our team's role in business objectives and project health.
    * Be competent of more than 1 technical track, and has basic knowledge of all 4.
    * Has an AOR, makes progress on it.
-   * Takes responsibility for clients' results. Don't blame the client, or external factors. Find a way to achieve the desired outcome regardless.
+   * Takes responsibility for clients' results. Don't blame the client, or external factors. Find a way to achieve the desired outcome regardless. Take accountability for our team's role in business objectives and project health.
+
 
 ### Level 4
 Given equity offer.
