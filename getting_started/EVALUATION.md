@@ -26,7 +26,7 @@ An internship position, person is being evaluated for potential. All their work 
    * Show gratitude to your team in the #thanks channel.
    * Take ownership of our mission (always push it forward, and question/clarify it)
    * Set an example of high standards in productivity and quality of work, and share with the team in the #showoff channel. Seeing great work raises the bar for everyone and is very motivational.
-   * Takes responsibility for specific tasks you are assigned.
+   * Take responsibility for specific tasks you are assigned.
 
 ### Level 2
 Considered a permanent position.
