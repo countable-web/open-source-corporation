@@ -26,6 +26,11 @@ The goal of this guide is to help new members of Countable get connect with the 
   * Countable pays for your time training and learning things you need for your job, up to 20%
   * Be default we don't pay for your time at conferences or social events, but generally pay any expenses or admission necessary to attend.
 
+### Team Calendar
+  * Go to calendar.google.com from your Countable Google Apps account.
+  * You should see our team calendar with meetings to attend.
+  * When you are travelling, create an event indicating your time away and whether you're working 50% or 0%.
+
 ### Payment Info
   * Provide a void cheque (in Canada this includes your bank account number, routing/transit number and institution number) to our accounting staff.
 
