@@ -4,9 +4,6 @@ We use Trello for project management, as it's simple to set up access to the app
 
 ### Trello Board Columns
 
-#### Deferred
-This column stores requested cards that have been reviewed by the consultant but can't be worked on for some reason. Usually  the card is unclear or conflicts somehow with current priorities.
-
 #### Requests
 Cards the client has requested that are not reviewed by the team yet. This is the starting point for anyone to add cards. We shouldn't leave cards here for long. If they're actionable, move them to Backlog. If they're not, write a comment to the client asking for more information in order to make it actionable, and leave it in the deferred column. If any additional requirements steps such as a mockup are required, mention that in the card. Attach any additional examples and/or specifications to the card.
 
