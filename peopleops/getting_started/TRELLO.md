@@ -7,7 +7,7 @@ We use Trello for project management, as it's simple to set up access to the app
 #### Requests
 Cards the client has requested that are not reviewed by the team yet. This is the starting point for anyone to add cards. We shouldn't leave cards here for long. If they're actionable, move them to Backlog. If they're not, write a comment to the client asking for more information in order to make it actionable, and leave it in the deferred column. If any additional requirements steps such as a mockup are required, mention that in the card. Attach any additional examples and/or specifications to the card.
 
-#### Waiting for Feedback
+#### Feedback
 
 On this column, we may store cards that somehow needs our clients or manager review before proceeding into accomplishment. In practical terms, we use this section whenever we need some client data or feedback to proceed with our current task.
 
