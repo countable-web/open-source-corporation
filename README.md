@@ -33,50 +33,49 @@ A common goal to align and evaluate other elements of the company. [Read the mis
 ## Getting Started
 If you're new, start here!
 
-  * [Onboarding](./getting_started/ONBOARDING.md)
-  * [Associate Agreement](./getting_started/ASSOCIATE_AGREEMENT.md)
-  * [Policy](./getting_started/POLICY.md)
-  * [Client Data Protection](./getting_started/CLIENT_DATA_PROTECTION.md)
-  * [Physical Setup](./getting_started/PHYSICAL_SETUP.md)
-  * [Project Management](./getting_started/PROJECT_MANAGEMENT.md)
-  * [Work Request Instructions](./getting_started/WORK_REQUEST_INSTRUCTIONS.md)
-  * [Evaluation](./getting_started/EVALUATION.md)
-  * [Compensation](./getting_started/COMPENSATION.md)
-  * [Recommended Reading](./getting_started/RECOMMENDED_READING.md)
-  * [Recording Feeback](./getting_started/RECORD_FEEDBACK_HERE.md)
-  * What Websites Do We Use?
-    * [Scrum](./getting_started/SCRUM.md)
-    * [Trello](./getting_started/TRELLO.md)
+  * [Onboarding](./peopleops/getting_started/ONBOARDING.md)
+  * [Associate Agreement](./peopleops/getting_started/ASSOCIATE_AGREEMENT.md)
+  * [Policy](./peopleops/getting_started/POLICY.md)
+  * [Client Data Protection](./peopleops/getting_started/CLIENT_DATA_PROTECTION.md)
+  * [Physical Setup](./peopleops/getting_started/PHYSICAL_SETUP.md)
+  * [Project Management](./peopleops/getting_started/PROJECT_MANAGEMENT.md)
+  * [Work Request Instructions](./peopleops/getting_started/WORK_REQUEST_INSTRUCTIONS.md)
+  * [Evaluation](./peopleops/getting_started/EVALUATION.md)
+  * [Compensation](./peopleops/getting_started/COMPENSATION.md)
+  * [Recommended Reading](./peopleops/getting_started/RECOMMENDED_READING.md)
+  * [Recording Feeback](./peopleops/getting_started/RECORD_FEEDBACK_HERE.md)
+  * [Scrum](./peopleops/getting_started/SCRUM.md)
+  * [Trello](./peopleops/getting_started/TRELLO.md)
 
 ## Principles
 Early draft of [principles](./PRINCIPLES.md), needs refining.
 
 ## Recruiting
 The goal is to only accept people who are the best possible fit. Finding the best people is one of the top challenges in our industry, so we need every advantage we can find in this way. See more about this section [here](./RECRUITING.md).
-  * [General Posting](./recruiting/POSTING.md)
-  * [Are You A Good Fit For Countable?](./recruiting/FIT.md)
-  * [Administrative Posting](./recruiting/ADMIN_POSTING.md)
-  * [Python and Django Developer Posting](./recruiting/DJANGO_POSTING.md)
-  * [Front End Developer and Designer Posting](./recruiting/FRONT_END_POSTING.md)
-  * [Node.js Developer Posting](./recruiting/NODEJS_POSTING.md)
+  * [General Posting](./peopleops/recruiting/POSTING.md)
+  * [Are You A Good Fit For Countable?](./peopleops/recruiting/FIT.md)
+  * [Administrative Posting](./peopleops/recruiting/ADMIN_POSTING.md)
+  * [Python and Django Developer Posting](./peopleops/recruiting/DJANGO_POSTING.md)
+  * [Front End Developer and Designer Posting](./peopleops/recruiting/FRONT_END_POSTING.md)
+  * [Node.js Developer Posting](./peopleops/recruiting/NODEJS_POSTING.md)
 
 ## How Do We Work?
 
 ### Engineering
-The purpose of this section is to standardize key (not all) engineering processes in order to improve the team's performance, and take advantage of an experience curve by eliminating arbitrary process differences.
-  * [Code Project Standards](./engineering/CODE_PROJECT_STANDARDS.md)
-  * [Coding Standards](./engineering/CODING_STANDARDS.md)
-  * [Operations](./engineering/OPERATIONS.md)
-  * [Prototyping](./engineering/PROTOTYPING.md)
-  * [Testing](./engineering/TESTING.md)
-  * [Training](./engineering/TRAINING.md)
-  * [Architechture](./engineering/ARCHITECTURE.md)
-  * [Dependencies](./engineering/DEPENDENCIES.md)
-  * [Django](./engineering/DJANGO.md)
-  * [Docker](./engineering/DOCKER.md)
-  * [Git](./engineering/GIT.md)
-  * [Jenkins](./engineering/JENKINS.md)
-  * [Stack Choices](./engineering/STACK_CHOICES.md)
+The purpose of this section is to standardize key (not all) product/engineering processes in order to improve the team's performance, and take advantage of an experience curve by eliminating arbitrary process differences.
+  * [Code Project Standards](./product/engineering/CODE_PROJECT_STANDARDS.md)
+  * [Coding Standards](./product/engineering/CODING_STANDARDS.md)
+  * [Operations](./product/engineering/OPERATIONS.md)
+  * [Prototyping](./product/engineering/PROTOTYPING.md)
+  * [Testing](./product/engineering/TESTING.md)
+  * [Training](./product/engineering/TRAINING.md)
+  * [Architechture](./product/engineering/ARCHITECTURE.md)
+  * [Dependencies](./product/engineering/DEPENDENCIES.md)
+  * [Django](./product/engineering/DJANGO.md)
+  * [Docker](./product/engineering/DOCKER.md)
+  * [Git](./product/engineering/GIT.md)
+  * [Jenkins](./product/engineering/JENKINS.md)
+  * [Stack Choices](./product/engineering/STACK_CHOICES.md)
   
 ### Marketing
 Helps us find the best clients and staff who share our passion.
@@ -89,12 +88,12 @@ Helps us find the best clients and staff who share our passion.
   
 ### Consulting
 How to provide the best results for clients.
-  * [Priorities](./consulting/PRIORITIES.md)
-  * [Methodology](./consulting/METHODOLOGY.md)
-  * [Communicating with clients](./consulting/COMMUNICATING_WITH_CLIENTS.md)
-  * [Organization chart](./consulting/ORG_CHART.md)
+  * [Priorities](./admin/consulting/PRIORITIES.md)
+  * [Methodology](./admin/consulting/METHODOLOGY.md)
+  * [Communicating with clients](./admin/consulting/COMMUNICATING_WITH_CLIENTS.md)
+  * [Organization chart](./admin/consulting/ORG_CHART.md)
   * Legal Matters
-    * [Client Agreement](./consulting/legal/CLIENT_AGREEMENT.md)
+    * [Client Agreement](./admin/consulting/legal/CLIENT_AGREEMENT.md)
     
 ### Product
 
