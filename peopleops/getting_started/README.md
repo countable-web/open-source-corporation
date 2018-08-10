@@ -4,7 +4,7 @@ The purpose of this section is to make Countable a great place to work!
 
 ## Onboarding
 
-  * Go through each step of [./ONBOARDING.md]
+  * Go through each step of [the onboarding guide](./ONBOARDING.md)
   
 ## Hiring
 
