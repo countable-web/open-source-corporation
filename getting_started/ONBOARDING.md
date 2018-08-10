@@ -7,7 +7,13 @@ The goal of this guide is to help new members of Countable get connect with the 
 
   * Get a countable.ca email address (ask your manager to create it)
   * Use your email address to access our [slack](http://countable-web.slack.com).
-  * Use our slack to say hi to the team.
+  * Use our slack to say hi to the team. Share your:
+     * New Title
+     * Last Company
+     * Hometown
+     * School
+     * Hobbies
+     * Two True things about you, and a Lie (let the team guess which).
   * Use the team to answer your other questions.
 
 ### Set up a Timesheet
