@@ -17,4 +17,3 @@ Some of our team work as subcontrators rather than employees.
 1. You should supply your own computer equipment
 2. You should determine where, when and how the work will be done.
 3. Bears risk of loss, damage or delay.
-4. 
