@@ -34,8 +34,8 @@ Considered a permanent position.
 May be given equity offer, and/or substantial pay raise.
 
    * Help to support and teach other team members with things inside your technical track.
-   * Take responsibility for clients' results. Work towards a clear, shared goal with the client. Follow up on discussions in a constructive way (with respect to objectives). Once it's clear, prototype something to validate assumptions as quickly as possible.
-   * Be competent of more than 1 technical track, and has basic knowledge of all 4.
+   * Work towards a clear, shared goal with the client. Follow up on discussions in a constructive way (with respect to objectives). Once it's clear, prototype something to validate assumptions as quickly as possible.
+   * Be competent in more than 1 technical track, and has basic knowledge of all 4.
    * Has an AOR, makes progress on it.
    * Takes responsibility for clients' results. Don't blame the client, or external factors. Find a way to achieve the desired outcome regardless. Take accountability for our team's role in business objectives and project health.
 
