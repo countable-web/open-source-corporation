@@ -12,16 +12,15 @@ You can check our current KPI Dashboard by clicking here: XXXXXXXXX
 
 #### Sales
 
-* Pipeline growth (%)
 * Pipeline active projects
+* Pipeline growth (%)
 * Total leads
 * Total closed deals
-* Average contract value
-* Customer lifetime value
 * Conversion rate
-* % New customers
-* % Existent customers
-
+* Average contract value
+<!--* Customer lifetime value-->
+<!--* % New customers-->
+<!-- * Existent customers-->
 #### Finances
 
 * Total Revenue
