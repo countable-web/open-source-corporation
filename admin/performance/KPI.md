@@ -12,6 +12,8 @@ You can check our current KPI Dashboard by clicking here: XXXXXXXXX
 
 #### Sales
 
+* Pipeline growth (%)
+* Pipeline active projects
 * Total leads
 * Total closed deals
 * Average contract value
@@ -64,7 +66,4 @@ Ps: Whenever a project is closed, we send to our customer's a **feedback form** 
 
 * Countable related work-hours
 * Countable client's related work-hours
-* Pipeline growth (%)
-* Pipeline active projects
-* Pipeline size
-* Pipeline leads
+
