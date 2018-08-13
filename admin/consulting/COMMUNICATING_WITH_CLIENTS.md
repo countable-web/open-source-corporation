@@ -5,7 +5,7 @@
   
   * Use Trello for quick updates, mention all relevant parties so they get a notification.
   * Email may be appropriate as well for more substantial updates that deal with several Trello cards.
-  * Show the clients you work for something at least once a week.
+  * Show the clients you work for something at least once a week. You can use **Screencastify chrome extension** for it ([More details](../../peopleops/getting_started/PROJECT_MANAGEMENT.md)).
   * Keep it visual. Use screenshots, mockups, videos, and links to staged apps as the primary way to demonstrate work to clients.
   * Try to anticipate what problems they will have when using the app, and test the ways you expect them to use it in order to make a seamless experience.
   * When reporting on work to clients, re-state what your commitments were and how much is done.
