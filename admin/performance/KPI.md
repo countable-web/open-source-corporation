@@ -31,8 +31,8 @@ You can check our current KPI Dashboard by clicking here: XXXXXXXXX
 
 E-mail list
 
-* E-mail list (leads) size
-* E-mail list growth
+* Total Leads
+* Total lead's growth (%)
 
 Website
 
