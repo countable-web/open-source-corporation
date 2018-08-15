@@ -8,3 +8,6 @@ We currently have 2.
 
 The mission statement also says a lot by what's left out. It helps us work towards the same goals as a team, and helps new clients and colleagues decide if we're a good fit. We should refer to this mission to justify our projects and other pages of this manual. The mission should be reviewed at least quarterly. 
 
+A 3rd candidate mission:
+
+  * _Make it great to work remotely_
