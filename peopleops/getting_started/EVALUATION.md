@@ -28,7 +28,8 @@ Considered a permanent position.
    * Is capable of high quality high throughput work in their technical track in the absence of distractions.
    * Support your team members and help them improve. Provide honest feedback where due, both positive and negative (but do so with empathy, clear examples and focus on the work not the person who produced it).
    * Is completely fluent with our team's approach and process (ops manual)
-   * Takes responsibility for client's expectation of deliverables and timelines. Is aware of bigger picture of project, and helps the team course correct to stay on track.
+   * Take responsibility for higher level technical results (as opposed to specific tasks).
+   * Manages client's expectation of deliverables and timelines. Is aware of bigger picture of project, and helps the team course correct to stay on track.
 
 ### Level 3
 May be given equity offer, and/or substantial pay raise.
@@ -37,7 +38,7 @@ May be given equity offer, and/or substantial pay raise.
    * Work towards a clear, shared goal with the client. Follow up on discussions in a constructive way (with respect to objectives). Once it's clear, prototype something to validate assumptions as quickly as possible.
    * Be competent in more than 1 technical track, and has basic knowledge of all 4.
    * Has an AOR, makes progress on it.
-   * Takes responsibility for clients' results. Don't blame the client, or external factors. Find a way to achieve the desired outcome regardless. Take accountability for our team's role in business objectives and project health.
+   * Takes responsibility for clients' business results. Don't blame the client, or external factors. Find a way to achieve the desired outcome regardless. Maximize iteration speed to get closer quickly. Take accountability for our team's role in business objectives and project health.
 
 
 ### Level 4
