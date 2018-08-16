@@ -1,4 +1,4 @@
-HR Policies
+# HR Policies
 
 Purpose: Rather than draw attention to our differences, let's focus on building a shared culture we all love that's respectful of, but doesn't overly dwell on, all our diverse cultural values.
 
