@@ -26,7 +26,9 @@ Make a pull request to this repository.
 
 If you're new to Docker, do this. We use Docker for everything so you should get familiar with the basic concepts of running containers from images, and docker-compose which runs multiple containers at once.
 
-https://docs.docker.com/compose/django/
+Watch this: https://hackr.io/tutorial/learn-docker-in-12-minutes
+
+Do this tutorial: https://docs.docker.com/compose/django/
 
 To set up a new django environment in Docker.
 
