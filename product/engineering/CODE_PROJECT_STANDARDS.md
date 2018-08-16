@@ -28,5 +28,7 @@ If you go wrong here, it does not matter how good your website is, if you left o
 My two cents on how I believe the process should be. Not much of a operation guide. Feel free to edit.
 
 By the way, you can take this a step further and also include
+
  4. WAI-ARIA (Web Accessbility Initiative)
+ 
 But usually this is a very specific domain, or you are a very large website, like google.
