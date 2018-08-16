@@ -5,4 +5,4 @@
 2. As a designer, you are the most important gatekeeper of visual appeal and user experience. It's better to err towards being a perfectionist here. It's your job to do so, and clients/colleagues understand that. Ask for better input assets if needed, and indicate any design problems (regardless of the cause). Take ownership of the quality control process.
 3. When defining a project, determine any hard deadlines like printing and distribution. Plan to provide a "final" draft 24h before this date. Implies we should have a version 48h in advance that is the last chance for client to give feedback. The goal is no changes are needed to this draft, but if so, we have a buffer.
 4. For new work that has complex information, start with a wireframe.
-5. Then do a simple visual mockup, with a few variants if possible to compare various good ideas.
+5. Then do a simple visual mockup, with a few variants if possible to compare various good ideas. The goal is conceptual agreement on the look. Use example links and cherry pick elements from other sites.
