@@ -41,5 +41,5 @@ TLDR: Your website needs to work on the browsers that the client needs them to w
 
   **CSS**
   
-    1. **SASS**
+    1. SASS
  
