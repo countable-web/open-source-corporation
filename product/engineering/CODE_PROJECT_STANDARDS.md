@@ -11,7 +11,7 @@ ALL projects SHOULD:
   * Use our standard stack choices.
   
   
- FRONT END DEVELOPMENT:
+ **FRONT END DEVELOPMENT:
  
   Front-end development is exciting, but also a challenge. This is due to the fact that there are so many tools available for   so many different things. However, there are few key requirements for every front end project in my opinion. I (Aaron) always try to stay relevant since this side of the world moves fast. On every single project however, there are core requirements that  in my opinion should be taken care of for the sake of professionalism.
   
@@ -34,3 +34,10 @@ By the way, you can take this a step further and also include
 But usually this is a very specific domain, or you are a very large website, like google.
 
 TLDR: Your website needs to work on the browsers that the client needs them to work in. Countable's website should be a flawless experience in ALL platforms.
+
+**Tools**
+ We have standardized a tool for our CSS for all projects and should only deviate from for a very specific reason.
+ 
+ **CSS**
+   1. **SASS**
+ 
