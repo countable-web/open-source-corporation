@@ -7,6 +7,7 @@ This document summarizes project management tooling and practices at Countable t
   * Increase transparency of our work to clients, team mates, managers. Dashboard for client.
   * Performance metrics, data for retrospectives.
   * Automate timesheets, and invoices using Trello card data.
+  * Automate moving trello cards based on commits.
   * Simple to explain to new people. Mostly automated. Avoid slowing down developers who are less oriented to PM process.
   * Link bitbuckets commits.
   * Easy for clients to submit a ticket. Bug or Feature, URL, screenshot.
