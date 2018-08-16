@@ -6,3 +6,5 @@
 3. When defining a project, determine any hard deadlines like printing and distribution. Plan to provide a "final" draft 24h before this date. Implies we should have a version 48h in advance that is the last chance for client to give feedback. The goal is no changes are needed to this draft, but if so, we have a buffer.
 4. For new work that has complex information, start with a wireframe.
 5. Then do a simple visual mockup, with a few variants if possible to compare various good ideas. The goal is conceptual agreement on the look. Use example links and cherry pick elements from other sites.
+
+[Design Process Diagram](https://drive.google.com/open?id=1zNzPbZLEUcmclpJukXI5UashcI0_gbpC)
