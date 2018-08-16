@@ -32,3 +32,5 @@ By the way, you can take this a step further and also include
  4. WAI-ARIA (Web Accessbility Initiative)
  
 But usually this is a very specific domain, or you are a very large website, like google.
+
+TLDR: Your website needs to work on the browsers that the client needs them to work in. Countable's website should be a flawless experience in ALL platforms.
