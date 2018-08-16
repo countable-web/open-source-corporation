@@ -23,7 +23,7 @@ ALL projects SHOULD:
   
 Now a days, you don't necessarily need to CODE for this, since there are tools like Babel, Normalize.css, Autoprefixer which help make this happen. Those 3 tools have been at the core of every project that I have been involved in. And it doesn't have to be Babel or Normalize. Just something to automate and standardize your workflow for most browsers and devices out there. This is the first step towards launching a professional web page in my opinion.
 
-If you go wrong here, it does not matter how good your website is, if you left out a portion of population because of your incompetence, then that is on you (At least this is the way I think). You can think of this as "web racism" (Haha). It's a different story if the client is OK with it, but if you use the tools, it doesn't matter if the client is okay with it or not, because it will work great anyway even on the things they don't have to support.
+If you go wrong here, it does not matter how good your website is, if you left out a portion of population because of your incompetence, then that is on you (At least this is the way I think as a web developer). You can think of this as "web racism" (Haha). It's a different story if the client is OK with it, but if you use the tools, it doesn't matter if the client is okay with it or not, because it will work great anyway even on the things they don't have to support.
 
 My two cents on how I believe the process should be. Not much of a operation guide. Feel free to edit.
 
