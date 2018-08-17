@@ -87,3 +87,7 @@ Research on the #1 thing developers look for in a job:
   * Opportunities for professional development - 16.0%
   * The office environment or company culture - 13.6%
   * The opportunity to work from home/remotely - 10.3%
+
+### Refences
+
+[1] https://hbr.org/2018/01/how-to-hire
