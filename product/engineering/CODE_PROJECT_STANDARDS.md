@@ -1,6 +1,6 @@
 
 
-ALl projects MUST:
+ALL projects MUST:
   * Have a README.md file with all information and/or links required for a new person to run the project locally.
   * Be Dockerized, if they have more than a single service.
   * Not reference the production URL in code. Save this in the docker-compose.override.yml for the specific ENV.
