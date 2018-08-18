@@ -21,7 +21,7 @@ ALL projects SHOULD:
   
   Does the website look good on Chrome? Firefox? Vivaldi? Ipad? Galaxy? iPhone? Nokia? on monitors that are not 1080p?, Small resolution? 10 inch laptops?
   
-Now a days, you don't necessarily need to CODE for this, since there are tools like Babel, Normalize.css, Autoprefixer which help make this happen. Those 3 tools have been at the core of every project that I have been involved in. And it doesn't have to be Babel or Normalize. Just something to automate and standardize your workflow for most browsers and devices out there. This is the first step towards launching a professional web page in my opinion.
+Now a days, you don't necessarily need to CODE for this, since there are tools like Babel, Normalize.css, Autoprefixer which help make this happen.
 
 On larger sites with an accessibility budget:
 
