@@ -15,11 +15,11 @@ ALL projects SHOULD:
  
   Front-end development is exciting, but also a challenge. This is due to the fact that there are so many tools available for   so many different things, and this side of the world moves fast. Main considerations:
   
-  1. Browser compability
-  2. Device compatibility (Responsive Design)
+  1. Browser compability - Does the website look good on Chrome? Firefox? Ipad? Galaxy? iPhone?
+  2. Device compatibility (Responsive Design) - On monitors that are not 1080p? 10 inch laptops at 1280 x 720?
   3. Automation
   
-  Does the website look good on Chrome? Firefox? Vivaldi? Ipad? Galaxy? iPhone? Nokia? on monitors that are not 1080p?, Small resolution? 10 inch laptops?
+   
   
 Now a days, you don't necessarily need to CODE for this, since there are tools like Babel, Normalize.css, Autoprefixer which help make this happen.
 
