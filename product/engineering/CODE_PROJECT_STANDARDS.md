@@ -26,7 +26,7 @@ Now a days, you don't necessarily need to CODE for this, since there are tools l
 
 If you go wrong here, it does not matter how good your website is, if you left out a portion of population because of your incompetence, then that is on you (At least this is the way I think as a web developer). You can think of this as "web racism" (Haha). It's a different story if the client is OK with it, but if you use the tools, it doesn't matter if the client is okay with it or not, because it will work great anyway even on the things they don't have to support.
 
-On larger sits with an accessibility budget:
+On larger sites with an accessibility budget:
 
  4. WAI-ARIA (Web Accessbility Initiative)
 
