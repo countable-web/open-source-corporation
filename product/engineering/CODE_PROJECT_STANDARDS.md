@@ -1,4 +1,5 @@
 
+## Project Structure and Ops
 
 ALL projects MUST:
   * Have a README.md file with all information and/or links required for a new person to run the project locally.
@@ -11,7 +12,7 @@ ALL projects SHOULD:
   * Use our standard stack choices.
   
   
- **FRONT END DEVELOPMENT:**
+## Front End Development
  
   Front-end development is exciting, but also a challenge. This is due to the fact that there are so many tools available for   so many different things. However, there are few key requirements for every front end project in my opinion. I (Aaron) always try to stay relevant since this side of the world moves fast. On every single project however, there are core requirements that  in my opinion should be taken care of for the sake of professionalism.
   
@@ -25,21 +26,20 @@ Now a days, you don't necessarily need to CODE for this, since there are tools l
 
 If you go wrong here, it does not matter how good your website is, if you left out a portion of population because of your incompetence, then that is on you (At least this is the way I think as a web developer). You can think of this as "web racism" (Haha). It's a different story if the client is OK with it, but if you use the tools, it doesn't matter if the client is okay with it or not, because it will work great anyway even on the things they don't have to support.
 
-My two cents on how I believe the process should be. Not much of a operation guide. Feel free to edit.
-
-By the way, you can take this a step further and also include
+On larger sits with an accessibility budget:
 
  4. WAI-ARIA (Web Accessbility Initiative)
- 
-But usually this is a very specific domain, or you are a very large website, like google.
 
 TLDR: Your website needs to work on the browsers that the client needs them to work in. Countable's website should be a flawless experience in ALL platforms.
 
  **Tools**
  
-  We have standardized a tool for our CSS for all projects and should only deviate from for a very specific reason.
+Tooling for different areas can be in any of the following status:
+  * Unspecified - Use whatever you want as long as it's well supported.
+  * Recommendation - We recommend using a specific tool, but developer expertise or another reason could override this.
+  * Standard - You should only deviate from this tooling choice for a specific reason.
 
   **CSS**
   
-    1. SASS https://sass-lang.com/
+    _Unspectified_ - We are evaluating SASS https://sass-lang.com/
  
