@@ -32,6 +32,8 @@ Do this tutorial: https://docs.docker.com/compose/django/
 
 To set up a new django environment in Docker.
 
+To go further, consider this course: https://diveintodocker.com/
+
 ## Django Training
 
 If you’re new to Django, do this. Most of our back end projects are Django and it's good to know how to structure a back end MVC anyway for any project.
