@@ -39,5 +39,5 @@ Tooling for different areas can be in any of the following status:
   **CSS**
   
     Preprocessor: _Unspectified_ - We are evaluating SASS https://sass-lang.com/
-    Reset: _Unspecified_ - Use one though, as opposed to none.
+    CSS Reset: _Unspecified_ - Use one though, as opposed to none.
  
