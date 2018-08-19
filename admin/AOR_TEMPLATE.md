@@ -11,7 +11,7 @@ This document standardizes the process of _______________. *List things we parti
 
 ## How To ___________
 
-The following are rules for __________________. *You don't need to follow the bullets exactly, it's just an example with a rationale, a citation, and neither.*
+The following are rules for __________________. *You don't need to follow the bullets exactly, it's just an example with a rationale, a citation to an external document, and neither.*
 
 You MUST:
   * __________ because _________
