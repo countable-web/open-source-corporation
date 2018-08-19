@@ -1,10 +1,10 @@
 
 # Areas of Responsibility (AOR)
 
-## Purpose
+## Purpose (Why)
 To determine the work we do that matter to Countable's mission, and make specific team members accountable for each. An AOR is an area of work that we've identified that someone should be responsible for. That person is the Directly Responsible Individual for the AOR, and ensures that it's cleary why the AOR is important, determines the top priority for doing better in that AOR, and tracks progress towards that priority.
 
-## Scope
+## Scope (What)
 This document is intended to standardize and clarify the process of owning an AOR. This [spreadsheet](https://docs.google.com/spreadsheets/d/1S6VesJN11u7oxYceimjOucrW-7Be62JRianhzuy68kQ/edit#gid=0) lists the responsibilities necessary for Countable to achieve its' mission, and who's accountable for them. Each responsibility is assigned an owner (directly responsible individual or DRI), and an heir who is shadowing and assisting the owner.
 
 ## How to Manage an AOR
