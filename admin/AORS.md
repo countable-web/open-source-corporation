@@ -10,13 +10,12 @@ This document is intended to standardize and clarify the process of owning an AO
 ## How to Manage an AOR
   * Owning an AOR comes with great power and responsibility. Within the constraints of the AOR framework, you may manage your area as you see fit.
   * You MUST document and approve the AOR purpose (pertaining to mission) and objectives (for improving it) with your manager, as well as how success can be measured, in our Ops manual.
-  * You MUST document any processeses the team is required to follow under your AOR in the Ops manual. Keep them concise and simple, don't add anything unnecessary. Your core AOR process document should fit on one page. It may reference other materials with guidelines or examples, but not required processes.
+  * You MUST document any processeses the team is required to follow under your AOR in the Ops manual.
   * You MUST champion your AOR and ensure everyone follows its process. If someone doesn't follow the process you're overseeing, you must send them a link to the documentation page.
   * Quarterly: You MUST evaluate how aligned the AOR's processes are with our values and mission.
   * Quarterly: You SHOULD measure how effectively the AOR is contributing to our mission.
 
 ## Writing Ops Manual Pages
-   
   * An Ops Manual page should guide employees in how to work becasue we want to document what we learn about how to better create value for our customers.
   * You MUST have a Purpose heading which concisely summarizes why the document exists, because we want to ensure the area is important to our mission.
   * You SHOULD have a Scope section that identifies what area of work is being discussed, and any definitions to clarify what follows, because we want each process document to be focused on a specific area of work.
