@@ -15,7 +15,7 @@ This document is intended to standardize and clarify the process of owning an AO
   * Quarterly: You SHOULD measure how effectively the AOR is contributing to our mission.
 
 ## Writing Ops Manual Pages
-  * An Ops Manual page MUST help employees achieve our mission and create value for our customers.
+  * An Ops Manual page MUST be written to help employees achieve our mission and create value for our customers.
   * An Ops Manual page SHOULD consist of bulleted lists of processes. (Use this document as a template)
   * You MUST have a "Purpose" heading which concisely summarizes why the document exists, because we want to ensure the area is important to our mission. This SHOULD indicate how we can measure success.
   * You SHOULD have a Scope section that identifies what area of work is being discussed, and any definitions to clarify what follows, because we want each process document to be focused on a specific area of work.
