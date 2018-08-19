@@ -1,12 +1,23 @@
 
-# Areas of Responsibility
+# Areas of Responsibility (AOR)
 
-This [spreadsheet](https://docs.google.com/spreadsheets/d/1S6VesJN11u7oxYceimjOucrW-7Be62JRianhzuy68kQ/edit#gid=0) lists the responsibilities necessary for Countable to achieve its' mission, and who's accountable for them.
+## Purpose
+To determine the work we do that matter to Countable's mission, and make specific team members accountable for each. An AOR is an area of work that we've identified that someone should be responsible for. That person is the Directly Responsible Individual for the AOR, and ensures that it's cleary why the AOR is important, determines the top priority for doing better in that AOR, and tracks progress towards that priority.
 
-## Owning an AOR
-  * Owning an AOR comes with great power and responsibility. Most of the time, you may manage this area as you see fit.
-  * You must document and approve the AOR purpose (pertaining to mission) and objectives (for improving it) with your manager, as well as how success can be measured, in our Ops manual.
-  * You must document any processeses the team is required to follow under your AOR in the Ops manual. Keep them concise and simple, don't add anything unnecessary. Your core AOR process document should fit on one page. It may reference other materials with guidelines or examples, but not required processes.
-  * You must champion your AOR and ensure everyone follows its process. If someone doesn't follow the process you're overseeing, you must send them a link to the documentation page.
-  * Quarterly: You must evaluate how aligned the AOR's processes are with our values and mission.
-  * Quarterly: You must evaluate how effectively the AOR is contributing to our mission.
+## Scope
+This document is intended to standardize and clarify the process of owning an AOR. This [spreadsheet](https://docs.google.com/spreadsheets/d/1S6VesJN11u7oxYceimjOucrW-7Be62JRianhzuy68kQ/edit#gid=0) lists the responsibilities necessary for Countable to achieve its' mission, and who's accountable for them. Each responsibility is assigned an owner (directly responsible individual or DRI), and an heir who is shadowing and assisting the owner.
+
+## How to Manage an AOR
+  * Owning an AOR comes with great power and responsibility. Within the constraints of the AOR framework, you may manage your area as you see fit.
+  * You MUST document and approve the AOR purpose (pertaining to mission) and objectives (for improving it) with your manager, as well as how success can be measured, in our Ops manual.
+  * You MUST document any processeses the team is required to follow under your AOR in the Ops manual. Keep them concise and simple, don't add anything unnecessary. Your core AOR process document should fit on one page. It may reference other materials with guidelines or examples, but not required processes.
+  * You MUST champion your AOR and ensure everyone follows its process. If someone doesn't follow the process you're overseeing, you must send them a link to the documentation page.
+  * Quarterly: You MUST evaluate how aligned the AOR's processes are with our values and mission.
+  * Quarterly: You SHOULD measure how effectively the AOR is contributing to our mission.
+
+## Writing Ops Manual Pages
+   
+  * An Ops Manual page should guide employees in how to work in the various activities Countable untakes to create value for our customers.
+  * You MUST begin the page with the purpose and/or goal of the document. any definitions to clarify what follows.
+  * You SHOULD use clear language, with the keywords MUST and SHOULD where applicable. ie, "Developers MUST use Docker for apps with more than a single process, and SHOULD use Python on Node.js for web application back ends". "MUST" means the DRI should track and work towards compliance of the process. "SHOULD" means it's a recommendation to follow when reasonably convenient.
+  * Keep your writing as concise as possible. A few great process rules is better than many good rules. State the rules declaratively, as a matter of fact, not opinion. You SHOULD add some logical purpose, evidence or citation that indicates how the rule helps our mission.
