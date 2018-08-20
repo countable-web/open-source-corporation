@@ -53,6 +53,8 @@ Tooling for different areas can be in any of the following status:
   5. Mithril JS
   6. Vue
   7. Preact
+  8. Backbone
+  9. Knockout
   
   This list is in no particular order. Angular variants are the biggest in size which is a huge downside. Since we only leverage small portions of their features. In an enterprise application, it may make sense. However, my opinion stands on a lightweight-get the job done-style framework which comes down to Vue, React & Mithril JS. I've seen many projects that use different frameworks for certain subset of the pages. This is the one thing we want to avoid. Ideally, we want a one project, one framework. If you're converting frameworks, the process should be atomic (Convert all or none).
  
