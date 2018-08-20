@@ -42,7 +42,7 @@ Tooling for different areas can be in any of the following status:
     CSS Reset: _Unspecified_ - Use one though, as opposed to none.
     
     
-  **MV* Framework**
+  **MV\* Framework**
   
   I also believe using a framework such as React, Angular or what not reduces re-inventing the wheel. Also, front end projects using a framework is easier to maintain. Unless the website is small and does not require data flowing from back end to the front end, a usage of MV* framework is highly recommended. We currently do not have a framework of choice at the moment as of yet.
   
