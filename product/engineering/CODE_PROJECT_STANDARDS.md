@@ -58,5 +58,5 @@ Tooling for different areas can be in any of the following status:
   
   This list is in no particular order. Angular variants are the biggest in size which is a huge downside. Since we only leverage small portions of their features. In an enterprise application, it may make sense. However, my opinion stands on a lightweight-get the job done-style framework which comes down to Vue, React & Mithril JS. I've seen many projects that use different frameworks for certain subset of the pages. This is the one thing we want to avoid. Ideally, we want a one project, one framework. If you're converting frameworks, the process should be atomic (Convert all or none).
   
-  TLDR: Use a framework to build UI unless the website is very small. It forms a standard. It promotes code re-use. Easier to maintain. Higher chance of cleaner code. Less error prone.
+  TLDR: Use a framework to build UI unless the website is very small. It forms a standard. It promotes code re-use. Easier to maintain. Higher chance of cleaner code. Less error prone. There are very good reasons why most popular, well made webistes use one.
  
