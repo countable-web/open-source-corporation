@@ -20,6 +20,8 @@ You SHOULD:
 
 ## Writing Ops Manual Pages
 
+This is *draft*. Please take these as a rough guide for now, and let me (cvo) know what works and what doesn't. You can add sections not documented here.
+
 An Ops Manual page MUST:
   * be written to help employees achieve our mission and create value for our customers.
   * have a "Purpose" heading which concisely summarizes why the document exists, because we want to ensure the area is important to our mission. This SHOULD indicate how we can measure success.
