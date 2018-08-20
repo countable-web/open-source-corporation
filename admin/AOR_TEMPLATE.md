@@ -1,7 +1,7 @@
 
 # Title
 
-* Italics are notes for you, don't include them in your manual pages. Please take these as a rough guide for now, and let me know what works and what doesn't. You can add sections not documented here. *
+*Italics are notes for you, don't include them in your manual pages. Please take these as a rough guide for now, and let me know what works and what doesn't. You can add sections not documented here.*
 ## Purpose
 
 The purpose of this document is to help us _____________. This helps us achieve our mission because ______________. The top priority is currently to _______________________. We'll know we've succeeded when ____________________.
