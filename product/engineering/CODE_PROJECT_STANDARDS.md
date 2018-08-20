@@ -44,7 +44,7 @@ Tooling for different areas can be in any of the following status:
     
   **MV\* Framework**
   
-  I also believe using a framework such as React, Angular or what not reduces re-inventing the wheel. Also, front end projects using a framework is easier to maintain. Unless the website is small and does not require data flowing from back end to the front end, a usage of MV* framework is highly recommended. We currently do not have a framework of choice at the moment as of yet.
+  I also believe using a framework such as React, Angular or what not reduces re-inventing the wheel, promotes code reuse, a forms a standard for all developers. Also, front end projects using a framework is easier to maintain and harder to screw up. Unless the website is small and does not require data flowing from back end to the front end, a usage of MV* framework is highly recommended. We currently do not have a framework of choice at the moment as of yet.
   
   1. React
   2. AngularJS
@@ -53,5 +53,5 @@ Tooling for different areas can be in any of the following status:
   5. Mithril JS
   6. Vue
   
-  This list is in no particular order. Angular variants are the biggest in size which is a huge downside. Since we only leverage small portions of their features. In an enterprise application, it may make sense.
+  This list is in no particular order. Angular variants are the biggest in size which is a huge downside. Since we only leverage small portions of their features. In an enterprise application, it may make sense. However, my opinion stands on a lightweight-get the job done- style framework which comes down to Vue, React & Mithril JS.
  
