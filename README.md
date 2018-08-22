@@ -43,7 +43,7 @@ If you're new, start here!
   * [Evaluation](./peopleops/getting_started/EVALUATION.md)
   * [Compensation](./peopleops/getting_started/COMPENSATION.md)
   * [Recommended Reading](./peopleops/getting_started/RECOMMENDED_READING.md)
-  * [Recording Feeback](./peopleops/getting_started/RECORD_FEEDBACK_HERE.md)
+  * [Recording Feedback](./peopleops/getting_started/RECORD_FEEDBACK_HERE.md)
   * [Scrum](./peopleops/getting_started/SCRUM.md)
   * [Trello](./peopleops/getting_started/TRELLO.md)
 
