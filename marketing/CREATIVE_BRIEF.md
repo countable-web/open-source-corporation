@@ -57,7 +57,10 @@ Similar scope/approach:
   * http://five.agency/how-we-work/
   * https://breue.com/
   * https://andyet.com/ - likes bleeding edge front end web tech, novel approach.
- 
+
+Competed on Contracts with:
+  * https://freshworks.io/
+
 ### How we want to Differentiate
 
   * Expertise in prototyping quickly to test ideas and market response.
