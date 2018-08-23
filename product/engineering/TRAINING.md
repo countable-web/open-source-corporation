@@ -32,7 +32,7 @@ Do this tutorial: https://docs.docker.com/compose/django/
 
 To set up a new django environment in Docker.
 
-To go further, consider this course: https://diveintodocker.com/
+[More on Docker](./DOCKER_TRAINING.md)
 
 ## Django Training
 
