@@ -14,7 +14,7 @@ Docker is a command line interface (CLI), and also a Linux daemon for running co
 
 A Docker container is:
   * Like a lightweight virtual machine (VM), so in some ways Docker is comparable to Vagrant or other VM scripting environment.
-  * A single chrooted process, run when the container is created. It's just like any process in the operating system, but it has its own filesystem.
+  * A single [chrooted](https://en.wikipedia.org/wiki/Chroot) process, run when the container is created. It's just like any process in the operating system, but it has its own filesystem.
   * Created from an image.
 
 A Docker image is:
