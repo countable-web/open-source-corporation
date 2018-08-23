@@ -18,7 +18,7 @@ A Docker container is:
   * Created from an image.
 
 A Docker image is:
-  * A template for a container.
+  * Used to create and run containers.
   * The filesystem the container runs in, together with what command it runs. For example, run the command `pwd` in a stock Ubuntu filesystem would be a container.
   * Defined by a Dockerfile, a text file that indicates what's in the image and what command it runs. ie) Ubuntu, with Python 3 installed, which opens a Python prompt by default.
 
