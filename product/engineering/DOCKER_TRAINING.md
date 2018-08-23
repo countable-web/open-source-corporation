@@ -1,5 +1,11 @@
 # Docker Training
 
+## Purpose
+
+This explains the basics of using Docker, specifically written for Countable devs. If you want to know WHY we use docker, see [A Pure Docker Workflow](https://docs.google.com/document/d/1F_LvoR1R6_GEiwqBWviYVXLUuOnzSl-q5WcFspYqmUY/edit#heading=h.dgi1cb6nx4tu) and [The Allure Of Docker](https://docs.google.com/document/d/1aWJFw5DcBC0sj1x2UukruNSldfxMAJqO3fBqzx6ubDQ/edit)
+
+## Docker 101
+
 Docker is a command line interface (CLI), and also a Linux daemon for running containers from images. Let's define those two terms:
 
 A Docker container is:
