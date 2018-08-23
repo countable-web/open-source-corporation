@@ -1,4 +1,7 @@
+
 # Countable Docker Guide
+
+We have some training materials on Docker [here](./DOCKER_TRAINING.md)
 
 We use Docker to manage dev, test, stage and prod environments. Specific conventions we follow:
 
