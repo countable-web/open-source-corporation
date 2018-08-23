@@ -44,6 +44,7 @@ This just prints out the help, and list of commands available for managing conta
   * `docker ps` - shows currently running containers.
   * `docker ps -a` - shows all existing containers.
   * `docker exec` - executes a shell command inside a specified running container.
+  * *BONUS* `docker cp` - copies a file into or out of a container.
 
 This is mostly what we as web developers know as a CRUD (Create, Read, Update, Delete) for containers.
 
