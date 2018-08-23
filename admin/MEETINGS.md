@@ -16,3 +16,4 @@ Minutes should be recorded for each meeting.
   * Mention anything with a followup required.
   * List items to come back to on the next meeting.
   * Send a follow-up email with the minutes/notes and highlight any immediate action items
+  * Correct any inaccuracies in the google doc with a strikethrough of what's written, the correct info added, and then your initials in brackets
