@@ -24,7 +24,9 @@ A Docker image is:
 
 Functionally, the most obvious difference with a container is that it starts up very quickly, in seconds instead of minutes.
 
-First, install Docker. It's really easy on Linux, which you should be using. You should add yourself to the docker group.
+First, install Docker. It's really easy on Linux, which you should be using. You could also consider using [the official sandbox](https://training.play-with-docker.com/ops-s1-hello/) for this similar lab hosted by Docker the company.
+
+You should add yourself to the docker group.
 
 ```
 usermod -aG `whoami` docker
