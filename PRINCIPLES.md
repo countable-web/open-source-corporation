@@ -12,7 +12,8 @@ This is an early draft. it's just notes and not actionable yet.
   * _The Consistency Principle_ - Avoid arbitrary inconsistency. Create tools to automate and enforce consistency.
 
 # Values
-
+  
+  * *modelling* - Reduce complex phenonemna to simple predictive models.
   * *culture* - Create an open culture of: feedback and support, critical thinking (asking why?), experimentation and taste. By taste, we mean people who have opinions about why things should be done a certain way, and who try to see potential and continuously clarify that vision of what's right, and improve towards it at the same time.
   * *prototyping* exciting opportunities for big impact.
   * *relationships* built on trust established through shared values and results
