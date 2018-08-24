@@ -66,6 +66,7 @@ Competed on Contracts with:
   * Expertise in prototyping quickly to test ideas and market response.
   * Pre-packaged best practices for avoiding technical debt, helping with succession, scalability, operations.
   * A focus on big, long term ROI on our billables.
+  * Focus on our versatility, and successes in many different industries.
 
 ### Tone
 
