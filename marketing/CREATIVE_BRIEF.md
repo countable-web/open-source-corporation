@@ -26,6 +26,8 @@ Audience #2 - Developers and creatives like us. We want to attract the best tale
 
 Audience #3 - Recruiters, who are usually pitching to group 1. The recruiter's intent is to pitch strong resources for the businesses, so the design approach should still be mostly geared towards the business itself. Persona: Sephiroth would like the option to provide a team solution rather than just individual candidates when a fitting situation arises with his clients.
 
+Consulting Customer Peronsa - we'd especially love to work with busiensses who offer free web based tools to large audiences.
+
 ### Competition
 
 Several other categories compete with us, including hiring in-house, freelancers, placement firms and agencies. Of these, we most directly compete with agencies who do end-to-end web based software development work.
