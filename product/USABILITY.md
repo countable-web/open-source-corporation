@@ -12,6 +12,6 @@ This document standardizes the process of Usability Testing. The process aims to
 
 The following are questions to ask while Usability Testing:
 
-Is the product under evaluation efficient enough (Are the users able to carry out their task while expending reasonable resources such as time, cognitive or physical demand)?
-Is it effective enough (Can the user complete the tasks they are supposed to perform with the tool? Is their performance complete and accurate?)?
-Is it sufficiently satisfactory for the users (What is the users’ attitude towards the system? Do they experience discomfort?)?
+* Is the product under evaluation efficient enough (Are the users able to carry out their task while expending reasonable resources such as time, cognitive or physical demand)?
+* Is it effective enough (Can the user complete the tasks they are supposed to perform with the tool? Is their performance complete and accurate?)?
+* Is it sufficiently satisfactory for the users (What is the users’ attitude towards the system? Do they experience discomfort?)?
