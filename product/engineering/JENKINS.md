@@ -8,7 +8,7 @@
 ## Setting up a new project.
 
   * Test that a fresh clone of your project works with `docker-compose up` and the tests pass.
-  * Items in Jenkins (jobs) are named after their repository name. Each repo gets 2 items in jenkins. For a repo called <repo name>, the Jenkins items are <repo-name>-test and <repo-name>-deploy.
+  * Items in Jenkins (jobs) are named after their repository name. Each repo gets 2 items in jenkins. For a repo called wizards, the Jenkins items are wizards-test and wizards-deploy.
   * Create a new "item" and choose the option to clone an existing item called <repo name> and <repo name>-deploy.
   * Restrict the job to run on a specific node.
   * Change the repo URL and name of the item to match your repository.
