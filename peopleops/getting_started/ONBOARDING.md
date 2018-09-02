@@ -63,3 +63,11 @@ You should now go on the slack #general channel and announce that you've complet
   * Before you ask for help on technical work: Google it; do your research and try every reasonable simple step to narrow it down; Look in our documentation; Finally, ask as specific a question you can.
   * As a new person, your job is mostly to catch balls (not pass them on or throw them to others). So, try to execute work quickly, save others time as opposed to costing their time. Remember, you're already using time on the above items (teaching, documentation, and support) but these are a very good use of their time. So, don't be shy to ask for help, but do so respectfully and consciously of the other party's time.
 
+### How to ask for help:
+See https://www.youtube.com/watch?v=hY14Er6JX2s, skip to 11 minute mark and watch steps for asking for help. Summary.
+  * If you struggle more than 15 mins, ask for help. (if you're waiting for a response, move to something else meanwhile.)
+  * Demonstrate competence - Be clear. 
+  * Indicate what % done you are on the project. "I'm 30% done this, and stuck on X. I already tried A and B."
+  * Show what you've already tried.
+
+
