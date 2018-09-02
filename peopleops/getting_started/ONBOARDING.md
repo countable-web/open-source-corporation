@@ -69,5 +69,6 @@ See https://www.youtube.com/watch?v=hY14Er6JX2s, skip to 11 minute mark and watc
   * Demonstrate competence - Be clear. 
   * Indicate what % done you are on the project. "I'm 30% done this, and stuck on X. I already tried A and B."
   * Show what you've already tried.
+  * After you get a response, say it back to the mentor to demonstrate your understanding.
 
 
