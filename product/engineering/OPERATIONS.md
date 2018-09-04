@@ -66,7 +66,7 @@ We use postgres and occasionally mongodb. You can restore a postgres DB in our p
 ```
 docker cp <sql filename> <project slug>_db_1:/tmp/
 docker-compose exec db dropdb -U postgres postgres
-docker-compose exec db createdb -U postgres [-T template_postgis ]postgres
+docker-compose exec db createdb -U postgres [-T template_postgis postgres
 docker-compose exec db psql -f /tmp/<sql filename> -U postgres postgres
 ```
 
