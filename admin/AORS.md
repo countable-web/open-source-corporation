@@ -13,7 +13,7 @@ Owning an AOR comes with great power and responsibility. Within the constraints 
 You MUST:
   * Document any processeses the team is required to follow under your AOR in the Ops manual.
   * Champion your AOR and ensure everyone follows its process. If someone doesn't follow the process you're overseeing, you must send them a link to the documentation page.
-  * Evaluate and report to the team on how aligned the AOR's processes are with our values and mission, at least every 3 months.
+  * Evaluate and report to the team. Report on any KPI.
 
 You SHOULD:
   * Measure how effectively the AOR is contributing to our mission at least every 3 months.
