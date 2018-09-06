@@ -59,6 +59,14 @@ sudo apt-get install lrzip
 lrzip -d $filename
 ```
 
+Mac OSX:
+(assumes you already have [brew](https://brew.sh/) installed)
+```
+brew install lrzip
+lrzip -d $filename
+```
+
+
 ### Databases
 
 We use postgres and occasionally mongodb. You can restore a postgres DB in our projects as follows. Include this portion `-T template_postgis ` if you have a postgis (as opposed to plain postgres) db image in your docker definitions. You may need to stop your other containers to abort their connections to the db first.
