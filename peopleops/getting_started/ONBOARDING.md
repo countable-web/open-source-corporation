@@ -24,7 +24,7 @@ The goal of this guide is to help new members of Countable get connect with the 
   * If you don't know the project, put "Countable" in that column.
   * Also include at least one of: references to issues in Trello, Commit IDs.
   * Countable pays for your time training and learning things you need for your job, up to 20%
-  * Be default we don't pay for your time at conferences or social events, but generally pay any expenses or admission necessary to attend.
+  * If you're not sure what's billable, generally anything we ask you to do is billable, and anything we "invite" you to do is optional and not billable. Training is only billable if it's requested by the company that you complete specific materials, or you're learning something immediately required to solve a problem in your work. Attending events, conferences, etc, is not paid unless we require you to go for marketing or another purpose (but we'll often pay for your tickets in any case).
 
 ### Team Calendar
   * Go to calendar.google.com from your Countable Google Apps account.
