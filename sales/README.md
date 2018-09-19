@@ -28,3 +28,6 @@ TODO: learn about their challenges and determine if we can help.
   * Improve at asking for referrals.
   * Develop some outbound process such as surveying prospective companies we'd like to work with on what solutions they want.
 
+### Research
+
+Some stats to keep in mind: There's a 2% close rate on the first "touch" or contact with a customer. This raises to 80% after the 12th touch.
