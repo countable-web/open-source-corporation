@@ -37,6 +37,10 @@ A diagram shows how cards can move from conception to completion [here](https://
 
 ### Proper use of tags (labels)
 
+Special tags:
+  * #bug . Only for serious bugs, minor ones can just be regular cards. This card should result in a commit to the `master` branch and be deployed directly. It should normally precede other work.
+  * #high-effort (more than a day of work), #medium-effort (4 to 8 hours of work), #low-effort (up to 3 hours of work).
+  * #high-impact, #medium-impact . Any card without an impact assigned is assumed to be LOW impact.
 We highly recommend the usage of Trello tags for a visual organization on cards of different contexts. For example, you may use tags such as front-end, back-end, database, testing, bugs, and information. It makes our work clearer when we filter cards within the same scope, so it increases our productivity and avoids complexity.
 
 #### Conventions
