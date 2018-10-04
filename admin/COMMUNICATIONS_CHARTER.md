@@ -16,7 +16,7 @@ This is currently based on the one published by Evernote's remote team, and is i
   
 ### Email Hygiene and Expectations:
   * We want to minimize email. Most types of things in there should be slowly pulled into other channels.
-  * Email is ok for announcements but should like to something in Trello (if it requires followup) and Google Docs (if it is a resource we may need later)
+  * Email is ok for announcements but should link to something in Trello (if it requires followup) and Google Docs (if it is a resource we may need later)
   * Let’s not discuss via email.
   * The email channel is not urgent: 12h - 24h response time is ok (no need to always have the email open).
   * When a client emails us, we must respond within 24h. Ideally with a solution but otherwise with any information we have and a Trello card link showing we're working on it.
