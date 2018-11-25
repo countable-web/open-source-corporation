@@ -72,9 +72,10 @@ These tables capture our current thoughts on the outlook for front end dependenc
 
 | Technology    | Current | Ideal    |
 | ------------- | ------- | -------- |
-| preprocessors (less/sass/stylus) | used rarely  | avoid, slowly migrate away |
-| postCSS       | not used | preferred for complex css needs |
-| CSS vars / scopes | not used | preferred |
+| postCSS       | may use for complex css needs |
+| CSS vars / scopes | may use for simple projects |
+| SCSS          | preferred |
+| other preprocessors (less/ stylus) | avoid, migrate away |
 
 ### Build System
 
