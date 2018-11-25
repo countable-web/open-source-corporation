@@ -60,13 +60,13 @@ These tables capture our current thoughts on the outlook for front end dependenc
 
 ### JS Frameworks
 
-| Technology    | Current | Ideal    |
-| ------------- | ------- | -------- |
-| jQuery | used in some   | avoid, slowly migrate to native dom |
-| React  | not used       | avoid, prefer preact |
-| Angular | used in some  | avoid, continue in existng usage |
-| Riot   | used in some   | preferred for Django projects |
-| Vue    | not used       | preferred for SPA projects |
+| Technology    | Ideal    |
+| ------------- | -------- |
+| jQuery | avoid, slowly migrate to native dom |
+| React  | avoid, prefer preact or Vue |
+| Angular | avoid, continue in existng usage |
+| Riot   | preferred for Django projects |
+| Vue    | preferred for SPA projects |
 
 ### CSS
 
