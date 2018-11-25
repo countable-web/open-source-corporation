@@ -1,5 +1,7 @@
 # Stack Choices
 
+TLDR, read [this](http://boringtechnology.club/)
+
 We don't want to support every stack, so we chose the best for most cases and want to pass on the benefits of a superior stack to our clients, rather than them making an uninformed choice. Our stack selection is based on the following (descending importance):
 
 1. Popularity, growth, longevity and community support.
