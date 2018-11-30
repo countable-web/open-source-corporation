@@ -70,7 +70,7 @@ If the technical test is completed with a 90% score, the candidate will receive 
 
 ## Final Screening
 
-The team will be shown the candidates original cover letter, technical test, interview notes. Any 2 team members who wouldn't love to work with the candidate may veto their hire.
+The team will be shown the candidates original cover letter, technical test, interview notes. Any 2 team members who wouldn't love to work with the candidate may veto their hire.  “Before you make an offer to someone, think about whether you’d like to have 10 times as many people like them in your company.”
 
 ## Acceptance
 
