@@ -41,8 +41,8 @@ Look at the site (home page, or whichever page you are evaluating) for five seco
 * What do you expect to be able to do on the site?
 * What parts do you expect to be able to click (ie: buttons, links)?  Do they work?
 
-4. Scenario and Tasks:
-* Who is the main user of this site?  If you aren't sure, consult with us.  We will let you know who you should "pretend" to be as you use our site :)
+4. Context and Tasks:
+* Who is the main user of this site?  If you aren't sure, consult with us.  We will let you know who you should "pretend" to be as you use our site
 * What is a scenario you would be using this product in?  If you aren't sure, consult with us.
 * What are the primary tasks you should be able to complete with this site/product?
 * Are you able to complete them?  Please document any issues you have completing these primary tasks.
@@ -53,8 +53,10 @@ Look at the site (home page, or whichever page you are evaluating) for five seco
 6.  Finishing up and debrief:
 * Overall, how would you rate your experience using the product/site?
 * How do you feel now?
+* Were there any moments where you were delighted, or had fun?  When?
 * Were there any moments you felt confused?  When?
+* Were there any moments you felt frustrated?  When?
 * How was your experience usability testing for us?  Please let us know if we can improve the testing process itself.
 
 Thank you!
-* Were there any moments you felt frustrated?  When?
+
