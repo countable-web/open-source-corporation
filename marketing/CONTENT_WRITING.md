@@ -42,5 +42,5 @@ https://www.youtube.com/watch?v=ygiAqYJq8No
 
 If you have any questions, or good resources/tutorials, please contact julie@countable.ca
 
-Please send your first few articles to juile@countable.ca for review before posting.
+Please send your first few articles to julie@countable.ca for review before posting.
 
