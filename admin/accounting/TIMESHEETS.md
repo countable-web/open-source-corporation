@@ -14,7 +14,7 @@ This document standardizes the process of logging timesheets.
     * Enter the time you spent on each project, rounded to the nearest half hour.
     
 ## Extra
-* Do not modify the timesheet template (ex: removing rows from the top of the sheet, changing columns).
+* Do not modify the timesheet template (ex: removing rows from the top of the sheet, changing columns, rename tabs).
 * Changing the colors of cells are ok.
 * Do not merge any cells together.
 * If you would like space between rows, do not have more than 1 row empty.
