@@ -14,11 +14,11 @@ This document standardizes the process of logging timesheets.
     * Enter the time you spent on each project, rounded to the nearest half hour.
     
 ## Extra
-* Do not modify the timesheet template (ex: removing rows from the top of the sheet, changing columns, rename tabs).
+* Do not modify the timesheet template (ex: removing/adding rows at the top of the timesheet, changing existing columns, renaming tabs).
 * Changing the colors of cells are ok.
 * Do not merge any cells together.
 * If you would like space between rows, do not have more than 1 row empty.
-
+* If you would like to add additional information or calculations for yourself, use the empty cells above the table headers or unused columns (F and beyond).
 ## Example
 | Project      | Date       | Description of Work | Trello or BitBucket ref      | Hours Worked |
 |--------------|------------|---------------------|------------------------------|--------------|
