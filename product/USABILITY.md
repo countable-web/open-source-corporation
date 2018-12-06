@@ -41,7 +41,9 @@ Look at the site (home page, or whichever page you are evaluating) for five seco
 * What do you expect to be able to do on the site?
 * What parts do you expect to be able to click (ie: buttons, links)?  Do they work?
 
-4. Tasks:
+4. Scenario and Tasks:
+* Who is the main user of this site?  If you aren't sure, consult with us.  We will let you know who you should "pretend" to be as you use our site :)
+* What is a scenario you would be using this product in?  If you aren't sure, consult with us.
 * What are the primary tasks you should be able to complete with this site/product?
 * Are you able to complete them?  Please document any issues you have completing these primary tasks.
 
