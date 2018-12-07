@@ -54,7 +54,7 @@ Your experience may be interrupted by something on the site being clearly broken
 - List any further steps (specific clicks, etc) to observe the issue.
 - For aesthetic problems, take a screenshot and circle the problem in red.
 - For text problems, quote the problematic text.
-- Add to the Bugs list on BawkBox's Trello board and use a red "bug" label to mark it.
+- Add to the appropriate Trello list/board and use a red "bug" label to mark it.
 - Assign the bug to someone who can either fix or triage it.
 - (from https://github.com/countable-web/open-source-corporation/blob/master/product/engineering/BUG_REPORTING.md)
 
