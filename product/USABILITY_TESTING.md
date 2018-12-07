@@ -49,13 +49,13 @@ Look at the site (home page, or whichever page you are evaluating) for five seco
 
 5. Bugs:
 * Your experience may be interrupted by something on the site being clearly broken of dusfunctional.  These are bigs and are priority fixes!  Please notify us right away if you run into these, byt doing the following (if you've been granted access to Trello):
-a. Briefly describe the current behaviour and how it differs from the desired behaviour.
-b. Include the exact URL where the issue can be observed.
-c. List any further steps (specific clicks, etc) to observe the issue.
-d. For aesthetic problems, take a screenshot and circle the problem in red.
-e. For text problems, quote the problematic text.
-f. Use a red "bug" label in Trello to mark bugs.
-g. Assign the bug to someone who can either fix or triage it.
+- Briefly describe the current behaviour and how it differs from the desired behaviour.
+- Include the exact URL where the issue can be observed.
+- List any further steps (specific clicks, etc) to observe the issue.
+- For aesthetic problems, take a screenshot and circle the problem in red.
+- For text problems, quote the problematic text.
+- Use a red "bug" label in Trello to mark bugs.
+- Assign the bug to someone who can either fix or triage it.
 (from https://github.com/countable-web/open-source-corporation/blob/master/product/engineering/BUG_REPORTING.md)
 
 6.  Finishing up and debrief:
