@@ -48,7 +48,7 @@ Look at the site (home page, or whichever page you are evaluating) for five seco
 * Are you able to complete them?  Please document any issues you have completing these primary tasks.
 
 5. Bugs:
-Your experience may be interrupted by something on the site being clearly broken of dusfunctional.  These are bigs and are priority fixes!  Please notify us right away if you run into these, byt doing the following (if you've been granted access to Trello):
+Your experience may be interrupted by something on the site being clearly broken of dysfunctional.  These are bugs and are priority fixes!  Please notify us right away if you run into these, byt doing the following (if you've been granted access to Trello):
 - Briefly describe the current behaviour and how it differs from the desired behaviour.
 - Include the exact URL where the issue can be observed.
 - List any further steps (specific clicks, etc) to observe the issue.
