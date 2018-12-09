@@ -38,6 +38,7 @@ Functional Modules
   * Do not comment what is obvious from the code. "# Increment the variable." is not a good comment.
   * Do Document the rationale "why", the reason behind an implementation choice.
   * Comment beside anything that's unintutive or unexpected to another reader.
+  * Do not leave actual code commented out unless you have a good reason. If you do have one, document that reason as a comment as well.
 
 ### No tabs
 
