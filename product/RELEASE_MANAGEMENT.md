@@ -16,5 +16,5 @@ Specific processes that help with the above:
   * When approved, anyone may merge the Pull Request into `develop` (never `master` directly)
   * The `develop` branch is automatically staged so we can review the product together and report any bugs prior to it being released.
   * Ideally once per week, `develop` is auto-merged into `master` which triggers a release.
-  * Critical bugfixes may bypass the above process by pushing to `master`. Do this sparingly. 
+  * Critical bugfixes may bypass the above process by pushing [hotfixes](./engineering/GIT.md) to `master`. Do this sparingly. 
   
