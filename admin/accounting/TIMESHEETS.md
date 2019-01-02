@@ -3,7 +3,7 @@ This document standardizes the process of logging timesheets.
 
 ## Timesheet Columns
 *  ### Project:
-    * Write the standardized slug name of the project you worked on. If you don't know the project, put "Countable" in that column.
+    * Write the standardized slug name of the project you worked on. If you don't know the project, put "countable" in that column.
 *  ### Date:
     * Write the date in ISO 8601 format: yyyy-mm-dd.
 *  ### Description of Work:
@@ -15,11 +15,11 @@ This document standardizes the process of logging timesheets.
     
 ## Extra
 * Do not modify the timesheet template (ex: removing/adding rows at the top of the timesheet, changing existing columns).
-* Do not rename the month tabs, but changing their order is fine.
+* Do not rename the month tabs, but changing their order is fine (you can move the current month as your first tab).
 * Changing the colors of cells are ok.
 * Do not merge any cells together.
 * If you would like space between rows, do not have more than 1 empty row inbetween.
-* If you would like to add additional information or calculations for yourself, use the empty cells above the table headers or unused columns (F and beyond).
+* For adding additional information or calculations for yourself, use the empty cells above the table headers or unused columns (F and beyond).
 ## Example
 | Project      | Date       | Description of Work | Trello or BitBucket ref      | Hours Worked |
 |--------------|------------|---------------------|------------------------------|--------------|
