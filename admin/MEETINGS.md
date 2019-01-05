@@ -1,22 +1,20 @@
 
 Agenda
 
-  * Meetings always need a calendar event with invitations to everyone who needs to be there. If someone doesn't need to be at the meeting, dont' invite them..
-  * All meetings should have a general agenda or structure to follow.
-  * All meetings should also have a specific agenda sent out in advance, with as much detail as possible.
-  * If someone is presenting in a meeting, they should send out materials so the attendees can get in the right headspace.
-  * Don't go to meetings unless you have something specific to contribute to the project.
+  * Our calendar is the source of truth regarding meeting times, attendees and cancellation status. Only updates to the calendar event count. Don't transmit this info via email or verbally, use the calendar.
+  * The purpose of the meeting must be clear.
+  * Recurring meetings should review the previous meeting's follow-ups/action items. Open up the last week's minutes and review them.
+  * Meetings must have a general (recurring) or specific (one-off) agenda.
+  * If you are presenting in a meeting, send out materials (such as slides) in advance so the attendees can get in the right headspace.
+  * Remind anyone who is late that this waste's the team's time. They should apologise.
+  * When you are speaking, pause to get feedback and answer questions.
 
-Minutes should be recorded for each meeting.
+Minutes should be recorded for each meeting. This should just be a few bullet points with decisions, action items.
 
-  * capture attendees.
-  * put a note besides names that were late, or had AV issues as a reminder for them to correct it.
   * Mention "headlines" of what we talk about. What's the important point?
-  * Mention any decisions.
-  * Mention any notes on KPIs (Key Performance Indicators), OKRs (Objectives and Key Results)
+  * Mention the "north star" metric of your project and how the meeting relates to it.
   * Mention anything with a followup required.
-  * List items to come back to on the next meeting.
-  * Send a follow-up email with the minutes/notes and highlight any immediate action items
+  * Send a follow-up email with the minutes, and record them in an ongoing google-doc for recurring meetings.
   * Correct any inaccuracies in the google doc with a strikethrough of what's written, the correct info added, and then your initials in brackets
 
 ## One-on-one meetings
