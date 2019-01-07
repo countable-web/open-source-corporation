@@ -1,7 +1,7 @@
 
 # Mission
 
-Overarching mission: Make creating on the web easier.
+Overarching mission: _Make creating on the web easier._
 
 We currently have 2.
 
