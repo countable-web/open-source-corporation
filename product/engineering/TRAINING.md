@@ -1,6 +1,13 @@
-# Developer Training
+# Training
 
-Tutorials are great to follow through to get the basic operations of any new technology. Find a tutorial that does something you'd like to learn how to do, and with steps that actually work and you can follow yourself, not just read. After that, the best way to learn something is by doing it. Use it for a project, and put in the time tinkering with it. Once you tinker for a while playing with the basics of what you know, you'll start to feel more confident and familiar, have questions about things that you can't resolve through playing around, and want to move on. At this point, find a good tutorial on the next material you want to study.
+## How To Learn
+
+  * Peer review - Reviewing the work of others in your field, and getting their feedback on your work is an effective way to learn. [1]
+  * There is an open invitation to suggest training initiatives such as conferences at the Company's expense, use this.
+  * Code reviews - All feature work should go through pull requests and be reviewed by at least one person. Use this time to learn from each other.
+  * Tuesday group code review sessions
+
+The best way to learn something is by doing it. Use it for a project, and put in the time tinkering with it. The goal of accomplishing something with the technology will keep you focused on learning what matters. Once you tinker for a while playing with the basics of what you know, you'll start to feel more confident and familiar, have questions about things that you can't resolve through playing around, and want to move on. At this point, find a good tutorial on the next material you want to study.
 
 For this training, be sure to follow the practices [here](../engineering).
 
@@ -72,6 +79,9 @@ From learnshell.org - Good concept but a bit slow and poor choice of material mo
 If you want to learn Linux deeply after doing the above, it's hard to beat compiling your own kernel and assembling your own userland.
   * LFS The Book http://www.linuxfromscratch.org/lfs/view/stable/
 
-## Startup Tactics
+## Startup School Videos
 
-These apply quite generally to the kind of product development we take on. https://www.startupschool.org/latest
+These apply quite generally to the kind of product development we take on. https://www.startupschool.org/latest. You must take notes and share them with the team.
+
+# References
+[1] [Originals](https://www.amazon.ca/Originals-How-Non-Conformists-Move-World/dp/0525429565)
