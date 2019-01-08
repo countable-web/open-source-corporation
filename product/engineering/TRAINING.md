@@ -4,23 +4,25 @@ Tutorials are great to follow through to get the basic operations of any new tec
 
 For this training, be sure to follow the practices [here](../engineering).
 
+All materials here
+
 # Core Training
 
 All developers should do these parts.
 
 ## Kick Off
 
-Clone [this repository] (our operations manual).
+1. Clone [this repository] (our operations manual).
 
 ```
 git clone https://github.com/countable-web/open-source-corporation.git
 ```
 
-We recommend installing an editor, like Sublime Text, VS Code, or GitHub Atom (my current favourite). PyCharm can also work well if you prefer an IDE. We'll reimburse a licence if you want one Sublime to PyCharm.
+2. Install a code editor. We recommend Sublime Text, VS Code, or GitHub Atom. PyCharm can also work well if you prefer an IDE. We'll reimburse a licence if you want Sublime to PyCharm.
 
-Find a mistake, or something that could be more clear or useful in this repository. Edit the corresponding markdown file you've cloned.
+3. Find a mistake, or something that could be more clear or useful in this repository. Edit the corresponding markdown file you've cloned.
 
-Make a pull request to this repository.
+4. Make a pull request to this repository.
 
 ## Docker Training
 
@@ -69,3 +71,7 @@ From learnshell.org - Good concept but a bit slow and poor choice of material mo
 
 If you want to learn Linux deeply after doing the above, it's hard to beat compiling your own kernel and assembling your own userland.
   * LFS The Book http://www.linuxfromscratch.org/lfs/view/stable/
+
+## Startup Tactics
+
+These apply quite generally to the kind of product development we take on. https://www.startupschool.org/latest
