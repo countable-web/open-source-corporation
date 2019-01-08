@@ -4,7 +4,7 @@ Tutorials are great to follow through to get the basic operations of any new tec
 
 For this training, be sure to follow the practices [here](../engineering).
 
-All materials here
+All training materials here are pre-approved to do on company time.
 
 # Core Training
 
