@@ -31,7 +31,7 @@ These are the duties we must assigned when doing Scrum.
   * Takes responsibility for shipping the work each sprint.
 
 ## Backlog
-A list of all the actions we current believe will accomplish the goal of our project. This should be ordered by impact to effort ratio. That is, items which make the biggest difference in the least time should be done first.
+The Backlog is a list of all the actions we current believe will accomplish the goal of our project. This should be ordered by impact to effort ratio. That is, items which make the biggest difference in the least time should be done first.
  
 We do not have daily stand-up meetings since our team works in different timezones. Instead, we have a slack channel where people should communicate about what they're working on, coordinate code reviews, and figure out logistics to ship their work every week, and generate ideas for the sprint plan meeting.
 
