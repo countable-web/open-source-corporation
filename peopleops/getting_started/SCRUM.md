@@ -16,12 +16,14 @@ A sprint is a period (usually 1 week) during which:
 These are the duties we must assigned when doing Scrum.
 
 ### Product Owner
-Orders the backlog (decides what's important to work, considering input from team). Makes sure items in the backlog are clear. Te product owner is often our client.
+  * Develops User Stories by talking to real users and ensures those users' needs are being met by the team.
+  * Decides what's important to work, considering input from team. (Triage Requests into an Ordered Backlog)
+  * Makes sure items in the backlog are clear to developers. Te product owner is often our client.
 
 ### Scrum Master
+  * Chair the sprint meeting, asking good questions in order to understand our progress towards the project goal.
   * Trains the team on Scrum and makes sure we're following the rules of scrum effectively (shipping each week, continuously learning, making tickets clear)
   * Find problems in workflow and make them visible for the team to work together on during the Sprint Plan meeting.
-  * Chair the sprint meeting, asking good questions in order to understand our progress towards the project goal.
 
 ### Developers (and other technicians)
   * Ensures they have a challenging yet doable amount of work in their sprint each sprint.
