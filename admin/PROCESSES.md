@@ -1,30 +1,20 @@
 
-# Contributing
+# Processes
 
-# OBJECTIVE
+# Processes - Objective
 
-In the spirity of consistency and simplicity, we want our processes themselves to be consistent in form. Processes are algorithms, lists of steps we follow for completing specific tasks.
+Slowly evolve our company's processes to produce better, more meaningful work faster, and have more fun doing it. Processes have a cost, so we want the minimum set to accomplish this.
 
+## Identifying Where We Need Processes
 
-## Defining Processes
+  * The benefit of a proposed process must outweigh its cost substantially. When in doubt, eliminate the process.
+  * Processes should be as simple with the minimum number of steps necessary.
+  * The process should be informed by our own experiences and evidence first, consultation with colleagues second, best practices third (processes well known and contained in multiple industry standards), and specific literature from a single author a distant fourth.
 
-1. If you identify a routine task for which no process is already defined, continue to step 2.
-2. Write down the process as a list of sequential steps.
-3. Try to make the steps are clear, with no room for interpretation.
-4. Ensure the process adds real value. That is, they must be able to justify their existence. Any process document should have a rationale heading.
-5. Try to simplify the process. Seek to eliminate unnecessary steps.
-6. Try to make the process condusive to automation, or convention. It's more important to minimize the number of *manual* checklists and steps.
+## Creating A New Process
 
-## Improving Processes
-
-1. When a process is used, we may find deficiencies or opportunities for improvement. If so, move to step 2.
-2. Re-do steps 2 through 5 of [Defining Processes](#defining-processes)
-
-# TODO
-
-  * [charts](https://www.lucidchart.com/users/registerLevel?pricing=true&tP=1&t10=A&referer=https%3A%2F%2Fwww.lucidchart.com%2Fpages%2Fprocess-documentation%2Fsoftware)
-
-# REFERENCES
-
-  * [intro to process diagrams](https://www.lucidchart.com/pages/process-documentation)
-
+Don't rush a new process. Trial it first:
+  * Document the process in this operations manual as a draft. Be clear about when the process applies, what the roles are and why it's worth having in concise simple language.
+  * Explain it to a select subset of our team, and get feedback. Trailing a process is a consultative decision.
+  * Lead by example, and update your process document as you learn.
+  * Review the process with the team, and submit a draft for approval to roll it out company-wide if you still think it's a good idea.
