@@ -6,7 +6,7 @@ Each project may have some differences by the ideal release management process s
 
   * Allow developers to efficiently commit code knowing it will be tested all at once before release.
   * Implement automated end-to-end (puppeteer) testing of core user flows is first, then other tests as desired.
-  * Focus testing on the version that's about to be released to avoid duplication of testing.
+  * Be able to confidently release every sprint (every week usually).
 
 Specific processes that help with the above:
 
