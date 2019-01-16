@@ -7,7 +7,7 @@ Processes are rules about how we work.
 
 # Purpose
 
-Slowly evolve our company's processes to produce better, more meaningful work faster, and have more fun doing it. Processes have a cost, so we want the minimum set to accomplish this.
+Slowly evolve our company's processes to produce better, more meaningful work faster, achieve our missiong, and have more fun doing it. Processes have a cost, so we want the minimum set to accomplish this.
 
 ## Identifying Where We Need Processes
 
