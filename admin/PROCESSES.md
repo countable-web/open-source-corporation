@@ -9,11 +9,13 @@ Processes are rules about how we work.
 
 Slowly evolve our company's processes to produce better, more meaningful work faster, achieve our missiong, and have more fun doing it. Processes have a cost, so we want the minimum set to accomplish this.
 
-## Identifying Where We Need Processes
+## Identifying A New Process
 
-  * The benefit of a proposed process must outweigh its cost substantially. When in doubt, eliminate the process.
-  * Processes should be as simple with the minimum number of steps necessary.
-  * The process should be informed by our own experiences and evidence first, consultation with colleagues second, best practices third (processes well known and contained in multiple industry standards), and specific literature from a single author a distant fourth.
+The proposed process must:
+  * Have a clear benefit that outweighs its cost substantially. When in doubt, eliminate the process.
+  * Be as simple with the minimum number of steps necessary.
+  * Be informed by our own experiences and evidence first, consultation with colleagues second, best practices third (processes well known and contained in multiple industry standards), and specific literature from a single author a distant fourth.
+  * Be aligned with our mission.
 
 ## Creating A New Process
 
