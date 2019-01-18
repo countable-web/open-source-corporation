@@ -1,21 +1,30 @@
+# Meetings
 
-Agenda
+## Purpose
+
+Ensure meetings actually help accomplish our mission.
+
+## Scope
+
+Define all the meetings at Countable
+
+## All Meetings
 
   * Our calendar is the source of truth regarding meeting times, attendees and cancellation status. Only updates to the calendar event count. Don't transmit this info via email or verbally, use the calendar.
+  * Anyone who is late should notify the team in advance of the meeting.
   * The purpose of the meeting must be clear.
   * Recurring meetings should review the previous meeting's follow-ups/action items. Open up the last week's minutes and review them.
   * Meetings must have a general (recurring) or specific (one-off) agenda.
   * If you are presenting in a meeting, send out materials (such as slides) in advance so the attendees can get in the right headspace.
-  * Remind anyone who is late that this waste's the team's time. They should apologise.
-  * When you are speaking, pause to get feedback and answer questions.
-
-Minutes should be recorded for each meeting. This should just be a few bullet points with decisions, action items.
-
-  * Mention "headlines" of what we talk about. What's the important point?
-  * Mention the "north star" metric of your project and how the meeting relates to it.
-  * Mention anything with a followup required.
+  * When you are speaking, pause to get feedback and answer questions periodically.
+  * Minutes should be recorded for each meeting. This should just be a few bullet points with decisions and action items. We don't need to mention everything that was discussed. Just the "headlines". What's the important point? Action items should be transcribed into Trello.
   * Send a follow-up email with the minutes, and record them in an ongoing google-doc for recurring meetings.
-  * Correct any inaccuracies in the google doc with a strikethrough of what's written, the correct info added, and then your initials in brackets
+
+## Scrum Meetings
+
+All active projects should have a Sprint meeting every 1 or 2 weeks.
+  * Mention the "north star" metric of your project and how the meeting relates to it.
+  * Review the sprint column, and determine why an cards haven't been completed last sprint.
 
 ## One-on-one Meetings
 
