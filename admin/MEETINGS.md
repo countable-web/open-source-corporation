@@ -19,7 +19,7 @@ Minutes should be recorded for each meeting. This should just be a few bullet po
 
 ## One-on-one Meetings
 
-One-on-one meetings between each manager and reports should be once per month.
+One-on-one meetings between each manager and reports should be once per quarter.
 
 For the employees:
 1. This is your time to talk about whatever is on your mind. If you want to talk about the footy over the weekend, that's fine. If you want to talk about work or issues at home or career progression, that's fine.
@@ -34,4 +34,13 @@ As a manager:
 
 ## PD Meeting
 
-We currently have a front end and backend meeting, every 2nd week. 
+We currently have a front end and backend meeting, every 2nd week.  The purpose of this meeting is:
+  * Present and review each others' work from the last week.
+  * "Mob" programming, create something together in the meeting.
+  * Scrum meeting for countable.ca, every 2nd PD Meeting.
+  * Since one-on-one meetings are only once per quarter, this can act as a group therapy session and cover any topics employees are comfortable talking about. Get an update on your team mates' lives outside work, any frustrations and ambitions.
+
+## All-hands Meeting
+
+The entire team meets once per month to plan work pipeline and roadmap at a high level, and practice new processes together.
+
