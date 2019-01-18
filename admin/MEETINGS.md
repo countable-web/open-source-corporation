@@ -17,7 +17,7 @@ Minutes should be recorded for each meeting. This should just be a few bullet po
   * Send a follow-up email with the minutes, and record them in an ongoing google-doc for recurring meetings.
   * Correct any inaccuracies in the google doc with a strikethrough of what's written, the correct info added, and then your initials in brackets
 
-## One-on-one meetings
+## One-on-one Meetings
 
 One-on-one meetings between each manager and reports should be once per month.
 
@@ -30,3 +30,8 @@ As a manager:
 2. I make it quite clear that as far as legally possible, I will maintain confidentiality. The only time that something may be relayed upward is if there is requirement for me to do so (e.g. an employee reporting harassment).
 3. If they don't bring it up on their own I'll ask questions about emotional state and emotional reactions to situations. E.g., "How did you feel about that?" "Are you feeling sufficiently challenged?" "What have you learned this week?"
 4. Keep a list of ongoing themes and to keep returning to them. You can do this when scheduling the next 1-on-1 in the calendar. Otherwise it's easy for an issue to drop into the background. E.g., somebody has an issue with a coworker, or is feeling bored, or thinks we have too many meetings, or thinks we don't take tech debt seriously enough. People mentioning that even once is a gift: I can't fix systemic problems if I don't know about them. And even if the system is fine, I don't want my people just putting up with their jobs. I want them happy.
+5. Review job levels. Employees should check off each job level requirement, and self-promote when they reach completion of their current level.
+
+## PD Meeting
+
+We currently have a front end and backend meeting, every 2nd week. 
