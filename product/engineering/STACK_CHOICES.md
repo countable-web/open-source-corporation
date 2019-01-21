@@ -79,7 +79,7 @@ These tables capture our current thoughts on the outlook for front end dependenc
 
 ### Build System
 
-For front end builds, we always use Parcel and NPM scripts (no webpack, no gulp, no grunt)
+For front end builds, we always use [Parcel.js](https://parceljs.org/) and NPM scripts (no webpack, no gulp, no grunt)
 
 ### Test Framework
 
