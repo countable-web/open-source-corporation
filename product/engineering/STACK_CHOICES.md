@@ -79,5 +79,9 @@ These tables capture our current thoughts on the outlook for front end dependenc
 
 ### Build System
 
-For front end builds, we're a bit oldschool by intent. We use CDNs, avoid minification of our code (it's tiny compared to libs), and avoid any build process where possible. We don't webpack, but rollup looks good if we need it.
+For front end builds, we always use Parcel and NPM scripts (no webpack, no gulp, no grunt)
+
+### Test Framework
+
+We use mocha, native Node.js assert, and puppeteer for e2e tests. Superagent for API tests.
 
