@@ -11,6 +11,7 @@ Some of our team work as subcontrators rather than employees.
 4. Internet, phone, deduct 100%.
 5. Rent, deduct the percentage of the room used for work, times percentage of time working there.
 6. Deduct travel costs when working.
+7. Full list - https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/sole-proprietorships-partnerships/business-expenses.html
 
 ## Categorization as a Subcontractor
 
