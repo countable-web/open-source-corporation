@@ -9,8 +9,8 @@ You have to claim self employment income once per year. We recommend using https
 
 1. We suggest signing up with mint.com, as it makes tracking all your expenses simpler.
 2. Save all receipts for restaurants. You can deduct 50%
-3. Computer equipment, deduct 100% if it's primarily for work.
-4. Internet, phone, deduct 100%.
+3. Computer equipment, deduct % used for work.
+4. Internet, phone, deduct % used for work.
 5. Rent, deduct the percentage of the room used for work, times percentage of time working there.
 6. Deduct travel costs when working.
 7. Full list - https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/sole-proprietorships-partnerships/business-expenses.html
