@@ -5,6 +5,8 @@ Some of our team work as subcontrators rather than employees.
 
 ## Taxes
 
+You have to claim self employment income once per year. We recommend using https://simpletax.ca/
+
 1. We suggest signing up with mint.com, as it makes tracking all your expenses simpler.
 2. Save all receipts for restaurants. You can deduct 50%
 3. Computer equipment, deduct 100% if it's primarily for work.
