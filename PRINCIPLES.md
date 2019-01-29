@@ -1,39 +1,37 @@
 
 # Principles
 
-This is an early draft. it's just notes and not actionable yet.
-  * _The Empowerment Principle_ - Empower people with knowledge of high level goals, and the ability to make progress towards those goals. This includes lending your ear to remove roadblocks.
-  * _The Collaboration Principle_ - Collaborate with clients to exceed (ideally by orders of magniutude) a 300% ROI on the client's investment in our billables.
-  * _The Disrutption Principle_ - Do work that excites us and has a chance to affect change in its' industry.
-  * _The Transparency Principle_ - Share everything in the most public place that doesn't endanger someone's privacy or property.
-  * _The Housekeeping Principle_ - Leave things a little better shape than you found them.
-  * _The Clarity Principle_ - If something is unclear, make some noise about it.
-  * _The Sharing Principle_ - Maximize total value creation for everyone. Our everyday activities should result in additional content/value shared online.
-  * _The Consistency Principle_ - Avoid arbitrary inconsistency. Create tools to automate and enforce consistency.
+  * _Feedback_ - If something is unclear or suboptimal, make some noise about it.
+  * _Mission Driven_ - If in doubt, or principles conflict, go with the choice that is more aligned with our mission.
+  * _Empowerment_ - Empower people with knowledge of high level goals and all the tools they need to work on those, and the ability to frequently share their progress towards those goals. *Sharing progress toward goals increases the chance of completion by 43%.*
+  * _Collaboration_ - Collaborate with clients to exceed (ideally by orders of magniutude) a 300% ROI on the client's investment in our billables.
+  * _Audacity_ - Do work that excites us and has a chance to change its industry.
+  * _Transparency_ - Share everything in the most public place that doesn't endanger someone's privacy or property.
+  * _Housekeeping_ - Leave things a little better shape than you found them.
+  * _Prototyping_ Build things as a part of planning them.
+  * _Wealth_ - Maximize total value creation for everyone. Do things that could benefit lots of people even if they're not paying us. The PR alone is worth it, not to mention to moral obligation.
+  * _Consistency_ - Avoid arbitrary inconsistency. Create tools to automate and enforce consistency.
+  * _Modelling_ - Reduce complex phenonemna to simple predictive models.
+  * _Feedback Loops_ - The output of what you do should be highly visible to those it impacts, and to you.
 
 # Values
-  
-  * *modelling* - Reduce complex phenonemna to simple predictive models.
-  * *culture* - Create an open culture of: feedback and support, critical thinking (asking why?), experimentation and taste. By taste, we mean people who have opinions about why things should be done a certain way, and who try to see potential and continuously clarify that vision of what's right, and improve towards it at the same time.
-  * *prototyping* exciting opportunities for big impact.
-  * *relationships* built on trust established through shared values and results
-  * *deep domain understanding* (supports A2) Understand clients' long term business goals deeply in order to improve design choices.
-  * *transparency* [more here](./TRANSPARENCY.md)
-  * *make remote work better* ie.) Flexible work hours and location.
 
-# Questions
+Challenging each other, supporting each other, critical thinking, continuous improvement, trust built on shared values and results.
+
+# Good Questions To Ask
 
 What matters most to our clients?
   * Strategic business goals
   * Increasing ROI, saving costs.
-*how can we get feedback from clients?*
+  * How can we create feedback loops with clients?
 
-What matters most to our customers?
+What matters most to our widget customers?
   * Ability to seemlessly create
   * High usability
   * Beautiful design
 
-What matters most to our employees?
-  * Includes the ability to have flexible hours and location, good feedback, good mentorship and guidance, clear objectives, interesting projects.
+What do we really want as a team?
+  * Flexible hours and location, good feedback, good mentorship and guidance, clear objectives, interesting projects.
+  * Working to make remote work better.
 
 [1] https://naildrivin5.com/blog/2018/05/06/creating-a-culture-of-consistency.html
