@@ -34,30 +34,21 @@ A common goal to align and evaluate other elements of the company. [Read the mis
 If you're new, start here!
 
   * [Onboarding](./peopleops/getting_started/ONBOARDING.md)
-  * [Associate Agreement](./peopleops/getting_started/ASSOCIATE_AGREEMENT.md)
-  * [Policy](./peopleops/getting_started/POLICY.md)
-  * [Client Data Protection](./peopleops/getting_started/CLIENT_DATA_PROTECTION.md)
+  * [Your Contract](./peopleops/getting_started/ASSOCIATE_AGREEMENT.md)
+  * [Company Policy](./peopleops/getting_started/POLICY.md)
   * [Physical Setup](./peopleops/getting_started/PHYSICAL_SETUP.md)
   * [Project Management](./peopleops/getting_started/PROJECT_MANAGEMENT.md)
-  * [Work Request Instructions](./peopleops/getting_started/WORK_REQUEST_INSTRUCTIONS.md)
   * [Evaluation](./peopleops/getting_started/EVALUATION.md)
   * [Compensation](./peopleops/getting_started/COMPENSATION.md)
   * [Recommended Reading](./peopleops/getting_started/RECOMMENDED_READING.md)
-  * [Recording Feedback](./peopleops/getting_started/RECORD_FEEDBACK_HERE.md)
   * [Scrum](./peopleops/getting_started/SCRUM.md)
   * [Trello](./peopleops/getting_started/TRELLO.md)
-
-## Principles
-Early draft of [principles](./PRINCIPLES.md), needs refining.
+  * [Client Data Protection](./peopleops/getting_started/CLIENT_DATA_PROTECTION.md)
 
 ## Recruiting
 The goal is to only accept people who are the best possible fit. Finding the best people is one of the top challenges in our industry, so we need every advantage we can find in this way. See more about this section [here](./RECRUITING.md).
-  * [General Posting](./peopleops/recruiting/POSTING.md)
+  * [General Posting](./peopleops/recruiting/README.md)
   * [Are You A Good Fit For Countable?](./peopleops/recruiting/FIT.md)
-  * [Administrative Posting](./peopleops/recruiting/ADMIN_POSTING.md)
-  * [Python and Django Developer Posting](./peopleops/recruiting/DJANGO_POSTING.md)
-  * [Front End Developer and Designer Posting](./peopleops/recruiting/FRONT_END_POSTING.md)
-  * [Node.js Developer Posting](./peopleops/recruiting/NODEJS_POSTING.md)
 
 ## How Do We Work?
 
@@ -91,9 +82,6 @@ How to provide the best results for clients.
   * [Priorities](./admin/consulting/PRIORITIES.md)
   * [Methodology](./admin/consulting/METHODOLOGY.md)
   * [Communicating with clients](./admin/consulting/COMMUNICATING_WITH_CLIENTS.md)
-  * [Organization chart](./admin/consulting/ORG_CHART.md)
-  * Legal Matters
-    * [Client Agreement](./admin/consulting/legal/CLIENT_AGREEMENT.md)
     
 ### Product
 
@@ -102,7 +90,6 @@ This section involves the bureaucratic processes the company carry out.
   * [Meetings](./admin/MEETINGS.md)    
   * [Processes](./admin/PROCESSES.md)
   * [Storage](./admin/STORAGE.md)
-  * [Areas of Responsibility](./admin/AORS.md)
   * [Gathering Team Feedback](./admin/TEAM_FEEDBACK_PROCESS.md)
 
 ## Contributing
@@ -113,10 +100,6 @@ If you want to suggest a change to Countable Web Productions, make a pull reques
    * Keep it concise, to-the-point, actionable. If you do use an abstraction, provide a corresponding example.
    * Each page should state it's purpose for existing, as related to the company's [mission](./MISSION.md). Clarity and utility over completeness. Try to maximize "usefulness density", or the total benefit (ie, in saved time, dollars) of the content divided by its length (in characters).
    * This repository is intended for a specific company (Countable Web Productions Inc.), if you want to use it for another company, please fork it.
-
-### Templates
-
-Templates are simply empty documents with no data specific to any Employee or Client, and no real financial data. Templates should be markdown, or public [Google Drive](https://drive.google.com/drive/u/0/folders/1JfcXagifO5wmixA-vjI_qgYs1qzw4-dM) charts or sheets.
 
 ## Similar Efforts
 
