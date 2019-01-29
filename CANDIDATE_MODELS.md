@@ -1,6 +1,8 @@
 
 # Candidate Models
 
+(draft)
+
 These are topics we may want to document in this ops manual in the future.
 
   * Model Based Thinking. Absence of right and wrong, only a shared quest for the best model, trading off between simplicity and power.
