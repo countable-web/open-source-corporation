@@ -29,34 +29,27 @@ On larger sites with an accessibility budget:
 
 TLDR: Your website needs to work on the browsers that the client needs them to work in. Countable's website should be a flawless experience in ALL platforms.
 
- **Tools**
+**Tools**
  
 Tooling for different areas can be in any of the following status:
   * Unspecified - Use whatever you want as long as it's well supported.
   * Recommendation - We recommend using a specific tool, but developer expertise or another reason could override this.
   * Standard - You should only deviate from this tooling choice for a specific reason.
 
-  **CSS**
+**CSS**
+
+  * We prefer SASS https://sass-lang.com/
+  * Use a CSS reset.
+  * *TODO:joao - what are the top 3 most important things to follow for developing CSS.*
   
-    Preprocessor: _Unspectified_ - We are evaluating SASS https://sass-lang.com/
-    CSS Reset: _Unspecified_ - Use one though, as opposed to none.
+**HTML**
+
+  * Always populate the TITLE and META DESCRIPTION tags with a description of what's on the page, as they're critical SEO signals.
     
-    
-  **MV\* Framework / UI Building**
+**Front End Framework**
   
-  I also believe using a framework such as React, Angular or what not reduces re-inventing the wheel, promotes code reuse, and forms one standard for all developers (This is very important). Also, front end projects using a framework is easier to maintain and harder to screw up. Unless the website is small and does not require data flowing from back end to the front end, a usage of MV* framework is highly recommended. We currently do not have a framework of choice at the moment as of yet.
-  
-  1. React
-  2. AngularJS
-  3. Angular
-  4. RiotJS
-  5. Mithril JS
-  6. Vue
-  7. Preact
-  8. Backbone
-  9. Knockout
-  
-  This list is in no particular order. Angular variants are the biggest in size which is a huge downside. Since we only leverage small portions of their features. In an enterprise application, it may make sense. However, my opinion stands on a lightweight-get the job done-style framework which comes down to Vue, React & Mithril JS. I've seen many projects that use different frameworks for certain subset of the pages. This is the one thing we want to avoid. Ideally, we want a one project, one framework. If you're converting frameworks, the process should be atomic (Convert all or none).
-  
-  TLDR: Use a framework to build UI unless the website is very small. It forms a standard. It promotes code re-use. Easier to maintain. Higher chance of cleaner code. Less error prone. There are very good reasons why most popular, well made webistes use one and we should follow.
+  * We currently recommend Vue.js for new projects.
+  * RiotJS is acceptable for lightweight situations with no bundler (NPM) available.
+  * We use Parcel.js as a bundler.
+  * Several older projects use jQuery, Angular and other frameworks.
  
