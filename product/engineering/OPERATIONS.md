@@ -16,18 +16,15 @@ This defines how we intend to manage web technology project environments. High l
   * It would be ideal to bring up a project environment with one short command. (currently, it's `git clone <repo>`, `docker-compose up`, and then you often need to get some test data so 2 or more commands, which is a good start). The easier this is, the more our front end people will be able to work the same way as everyone else.
   * Committing to the master branch should run tests, and if those succeed, deploy to production.
   * Committing to develop should deploy to a staging environment, and run the tests, spamming the comitter of any errors.
-  * All deployment configs should be centralized, possibly in the source repo (jenkins breaks this).
-  * Sentry.countable.ca should have a project for every production environment. This already works fairly well.
-  * Educate the team on linux/unix operating systems and concepts (and even their philolsophy)
-  * Document and template the setup of a new project so it's mostly automated.
+  * All deployment configs should be centralized in the source repository. (ie, `dc.prod.yml`, `dc.stage.yml`)
+  * Sentry.countable.ca should have a project for every production environment, and spam slack with any errors.
+  * TODO: It should be fully automated to create a new jenkins slave server.
 
 ## Current Standards and Conventions
 
 ### Servers
 
 Each client typically has a different server environment, and Docker mostly prevents us from caring about the differences.
-
-Jenkins should perform most operations tasks as needed automatically, but sometimes there will be an exception. To access the shell of a server for an app hosted clientdomain.com, you have to `ssh direct.clientdomain.com` as this avoids the CDN intercepting the server IP.
 
 ### Jenkins
 
