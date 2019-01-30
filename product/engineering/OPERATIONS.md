@@ -37,6 +37,10 @@ See [here](./JENKINS.md) for how we use jenkins to automate many environment ins
 
 See [here](./DOCKER.md) for how we use Docker to manage project environments.
 
+### Cloudflare
+
+We use cloudflare as an SSL proxy and DNS server. Your project should have an A record for its primary domain `project.com` which is proxied through Cloudflare's CDN. You should have a second CNAME record which is NOT proxied for directly accessing the server. `direct.project.com` .
+
 ## Backups
 *ALL* production data of ours and clients' must be backed up. We must have reasonable evidence that backups can actually be restored. For example, periodically update your development environment's database using a backup from production.
 
