@@ -1,7 +1,7 @@
 
 # Mission
 
-Overarching mission: _Empower Creation on the WEb._
+Overarching mission: _Empower Creation on the Web._
 
 We currently have 2.
 
