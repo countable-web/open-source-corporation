@@ -6,7 +6,7 @@ Teams who write down individual goals and regularly report progress to team memb
 
 ## Scope
 
-How do we implement OKRs at Countable?
+Define how we implement OKRs at Countable.
 
 ## Process
 
