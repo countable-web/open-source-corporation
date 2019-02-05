@@ -5,7 +5,7 @@
 Teams who write down individual goals and regularly report progress to team members are 43% more likely to complete them.
 
 At the beginning of the month, in our all-hands:
-  * Each team member shoudl choose one Objective per month.
+  * Each team should choose one Objective per month.
   * It should be the most important thing they could do to improve the company, and should be agreed on with your manager.
   * For inspiration, ask "What challengs are the team facing?", "What are my strengths I could leverage more, or weaknesses I could mitigate?"
   * Write down that Objective in a shared Google Doc.
