@@ -28,7 +28,7 @@ This repo will contain:
 Codify the many-faceted problem of web technology delivery, so it can be abstracted away and simplified to allow everyone to better focus on their customers. This should be done in a way that caters to the situation of a business implementing the technology. Learn more about Countable's [vision](./VISION.md) for an exceptional web technology team.
 
 ## Mission Statement
-A common goal to align and evaluate other elements of the company. [Read the mission](./MISSION.md).
+Empower creation on the web. [Read the mission](./MISSION.md).
 
 ## Getting Started
 If you're new, start here!
@@ -95,6 +95,7 @@ This section involves the bureaucratic processes the company carry out.
 ## Contributing
 If you want to suggest a change to Countable Web Productions, make a pull request. The rules:
    * *Important*: Never commit private data or protected intellectual property. Nothing specific to our employees, clients, or finances should go in here.
+   * The easiest place to contribute an idea is by joining our company's [board of advisors](https://www.reddit.com/r/countableweb) on reddit.
    * Organize by "context". The documents in here are intended to be actionable. So, for any document, place it with a name and folder structure that matches what someone is *doing when they need this information*. For example, a timesheet template should go in the GETTING_STARTED folder, since it will be used by new employees.
    * Link prolifically. Wherever you can, link words of your pages to other pages or other websites.
    * Keep it concise, to-the-point, actionable. If you do use an abstraction, provide a corresponding example.
