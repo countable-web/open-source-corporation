@@ -10,12 +10,12 @@ Like for an open source software project, our processes and other information as
 
 *First, why does this repository exist?* The purpose of this repository is to document Countable's operations for convenient reference, discussion and amendment.
 
-*Second, why is it open source?* To promote [transparency](./TRANSPARENCY.md).
-
 > Whenever you find yourself saying something for a second time (to a second audience, or in a second situation), it is highly likely that you will end up saying it again and again in the future.  To vastly improve the quality of the communication, and reduce the amount of time that you spend communicating it … write it down.  
 > Then, the next time you need to communicate that message, you can simply share it in written form.  If it is something that all members of the team should know and remember, put it in a company-wide Wiki.  If it is truly seminal to the organization, post it on a wall for all to see.
 
 -- "The Great CEO Within", By Matt Mochary
+
+*Second, why is it open source?* To promote [transparency](./TRANSPARENCY.md).
 
 ## Scope
 This repo will contain:
