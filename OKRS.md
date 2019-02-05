@@ -4,15 +4,11 @@
 
 Teams who write down individual goals and regularly report progress to team members are 43% more likely to complete them.
 
-At the beginning of the month, in our all-hands:
-  * Each team should choose one Objective per month.
-  * It should be the most important thing they could do to improve the company, and should be agreed on with your manager.
-  * For inspiration, ask "What challengs are the team facing?", "What are my strengths I could leverage more, or weaknesses I could mitigate?"
-  * Write down that Objective in a shared Google Doc.
-  * Following that, indicate what measurable Key Result would tell you if you met the objective.
-  * During your sprint meetings, you must remind everyone what your OKR is, and describe your progress, whether your tickets are helping, and what you'll do this sprint.
+At the beginning of each month, in our all-hands meeting:
+  * Each team should identify their top objective. It should be ambitious.
+  * Write down that Objective in a shared location.
+  * Following that, indicate what (about 3) measurable Key Results would tell you if you met the objective. These are _sufficient_ conditions for the objective to be met.
+  * During your sprint meetings, review your Objective and Key Results. What percent done are the key results? Is your sprint getting you closer?
 
 At the beginning of the next month:
-  * If designed well, it should be possible to measure you key result as a percentage.
-  * Give yourself a score between 0 and 100% for your key result.
-  * Your manager will also give you a score between 0 and 100% for your key result.
+  * If designed well, it should be possible to objectively measure your Key Result as a percentage done.
