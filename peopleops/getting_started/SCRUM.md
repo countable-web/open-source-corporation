@@ -2,8 +2,8 @@
 
 Countable uses [Scrum](https://en.wikipedia.org/wiki/Scrum_(software_development)) to manage work delivery. Its a framework for helping teams learn to solve problems together. Check out the guide book from the inventor of [Scrum] here(https://www.scrumguides.org/scrum-guide.html).
 
-## Project Goal
-Every project should have a purpose set at the outset. This is a clearly written goal discussed with the team to ensure clarity, and is used by the Product Owner to order the Backlog.
+## Project Objective
+Every project should have an Objective and Key Results. This is a clearly written goal discussed with the team to ensure clarity, and is used by the Product Owner to order the Backlog.
 
 ## Sprint
 A sprint is a period (usually 1 week) during which:
