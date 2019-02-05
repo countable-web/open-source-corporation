@@ -3,7 +3,7 @@
 
 Overarching mission: _Empower Creation on the Web._
 
-We currently have 2.
+We currently have 2 cases.
 
   * _Give our clients the best web technology and web presence in their industry_: Clients should be able to confidently show off their web technology as best in class, and rapidly experiment with new ways to leverage web technology.
   * _A widget in every website_: Empower creation on the web, and become the go-to platform for publishing and installing web widgets.
