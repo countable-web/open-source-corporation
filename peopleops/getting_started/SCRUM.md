@@ -3,22 +3,23 @@
 Countable uses [Scrum](https://en.wikipedia.org/wiki/Scrum_(software_development)) to manage work delivery. Its a framework for helping teams learn to solve problems together. Check out the guide book from the inventor of [Scrum] here(https://www.scrumguides.org/scrum-guide.html).
 
 ## Project Objective
-Every project should have an Objective and Key Results. This is a clearly written goal discussed with the team to ensure clarity, and is used by the Product Owner to order the Backlog.
+Every project should have an [Objective](https://github.com/countable-web/open-source-corporation/blob/master/OKRS.md). This is a written goal discussed with the team to ensure clarity, and is used by the Product Owner to order the Backlog.
 
 ## Sprint
-A sprint is a period (usually 1 week) during which:
-1. We choose some items from the backlog to finish at our sprint plan meeting. Determine if last week's work was effective, had a big impact, and how to do better.
-2. We work all week to finish those chosen items.
-3. We release (ship) our work to real customers at the end of the sprint.
-4. Go back to #1 above for another sprint plan.
+A sprint is a period (1 week to 1 month) during which:
+1. Measure what % done our Key Results are 
+2. Move the Trello Cards that best achieve the project's key results and no more than we can actually do.
+2. We release (ship) our work to real customers at the end of the sprint.
+3. Measure 
 
 ## Roles
 These are the duties we must assigned when doing Scrum.
 
 ### Product Owner
   * Develops User Stories by talking to real users and ensures those users' needs are being met by the team.
-  * Decides what's important to work, considering input from team. (Triage Requests into an Ordered Backlog)
-  * Makes sure items in the backlog are clear to developers. Te product owner is often our client.
+  * Clarifies how to achieve our [Key Results](https://github.com/countable-web/open-source-corporation/blob/master/OKRS.md), while taking input from team.
+  * Triage the Trello Requests column into an Ordered Backlog of work.
+  * Makes sure items in the backlog are clear to developers. The product owner is typically our client.
 
 ### Scrum Master
   * Chair the sprint meeting, asking good questions in order to understand our progress towards the project goal.
