@@ -19,7 +19,7 @@ A sprint is a period (1 week to 1 month) during which:
 1. Measure what % done our Key Results are 
 2. Move the Trello Cards that best achieve the project's key results and no more than we can actually do.
 2. We release (ship) our work to real customers at the end of the sprint.
-3. Measure 
+3. Go to Step 1.
 
 ### Roles
 These are the duties we must assigned when doing Scrum.
