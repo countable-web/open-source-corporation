@@ -5,7 +5,7 @@
 
 The goal of this guide is to help new members of Countable get connect with the team, efficiently set up accounts, and learn key things to help you get started contributing! If you find a way to improve this document, send a [Pull Request](https://github.com/countable-web/open-source-corporation/pull/new/master)! If anything is unclear, let's fix it so it's clear for the next person.
 
-  * Get a countable.ca email address (ask your manager to create it)
+  * Get a countable.ca email address (ask your manager to create it), and [set up your signature](https://youtu.be/hA5cRIDg0Ko)
   * Use your email address to [sign up on our slack](https://join.slack.com/t/countable-web/signup).
   * Use our slack to say hi to the team. Share your:
      * New Title
