@@ -35,12 +35,9 @@ A diagram shows how cards can move from conception to completion [here](https://
 3) Use of an "Ongoing..." tag, on the ticket that you're currently working on.
 4) Use of "Screencastify" chrome extension for recording short screencasts and attaching into your trello ticket
 
-### Proper use of tags (labels)
+### The "critical" label
 
-Special tags:
-  * #critical . Use a *red* label. Only for serious bugs, minor ones can just be regular cards. This card should result in a commit to the `master` branch and be deployed directly. It should normally precede other work.
-  
-We highly recommend the usage of Trello tags for a visual organization on cards of different contexts. For example, you may use tags such as front-end, back-end, database, testing, bugs, and information. It makes our work clearer when we filter cards within the same scope, so it increases our productivity and avoids complexity.
+If you find something that's severly broken in any of our websites, please create a Trello card with a red label `critical`, and tell the developer who you've assigned it to. Do this sparingly, only when it's something we're likely to quickly lose customers over such as a service being down completely or a button not working. For less serious bugs, don't use this label, just make a regular card.
 
 ### Boards
 
