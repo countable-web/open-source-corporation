@@ -1,6 +1,6 @@
 # Scrum
 
-Countable uses [Scrum](https://en.wikipedia.org/wiki/Scrum_(software_development)) to manage work delivery. Its a framework for helping teams learn to solve problems together. Check out the guide book from the inventor of Scrum [here](https://www.scrumguides.org/scrum-guide.html).
+Countable uses [Scrum](https://en.wikipedia.org/wiki/Scrum_(software_development)) to manage work delivery and collaboratively learn about problem domains. Check out the guide book from the inventor of Scrum [here](https://www.scrumguides.org/scrum-guide.html).
 
 ## Purpose
 
