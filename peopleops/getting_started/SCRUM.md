@@ -10,6 +10,8 @@ Learn how to achieve [Key Results](https://github.com/countable-web/open-source-
 
 Define how Countable does Scrum.
 
+## Process
+
 ### Project Objective and Key Results
 
 Every project should have an [Objective](https://github.com/countable-web/open-source-corporation/blob/master/OKRS.md). This is a written goal discussed with the team to ensure clarity, and is used by the Product Owner to order the Backlog.
