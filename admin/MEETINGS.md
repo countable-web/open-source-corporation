@@ -24,7 +24,7 @@ Define all the meetings at Countable
 
 All active projects should have a Sprint meeting every 1 to 4 weeks.
   * Discuss how the current sprint will accomplish our "OKR" for the project.
-  * See [../peopleops/getting_started/SCRUM.md] for full instructions
+  * See [Scrum](../peopleops/getting_started/SCRUM.md) for full instructions
 
 ## One-on-one Meetings
 
