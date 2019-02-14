@@ -22,9 +22,9 @@ Define all the meetings at Countable
 
 ## Scrum Meetings
 
-All active projects should have a Sprint meeting every 1 or 2 weeks.
-  * Mention the "north star" metric of your project and how the meeting relates to it.
-  * Review the sprint column, and determine why an cards haven't been completed last sprint.
+All active projects should have a Sprint meeting every 1 to 4 weeks.
+  * Discuss how the current sprint will accomplish our "OKR" for the project.
+  * See [../SCRUM.md]
 
 ## One-on-one Meetings
 
