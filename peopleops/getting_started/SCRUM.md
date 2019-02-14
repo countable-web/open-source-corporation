@@ -17,11 +17,13 @@ Define how Countable does Scrum.
 Every project should have an [Objective](https://github.com/countable-web/open-source-corporation/blob/master/OKRS.md). This is a written goal discussed with the team to ensure clarity, and is used by the Product Owner to order the Backlog.
 
 ### Sprint
-A sprint is a period (1 week to 1 month) during which:
-1. Measure what % done our Key Results are.
-2. Move the Trello Cards that best achieve the project's key results and no more than we can actually do.
-2. We release (ship) our work to real customers at the end of the sprint.
-3. Go to Step 1.
+A sprint is a period (1 week to 1 month) punctuated by a Sprint meeting where we:
+1. Review and archive all "done" cards.
+2. Measure what % done our Key Results are.
+3. Move the Trello Cards that best achieve the project's key results and no more than we can actually do.
+
+We release (ship) our work to real customers at the end of the sprint.
+
 
 ### Roles
 These are the duties we must assigned when doing Scrum.
