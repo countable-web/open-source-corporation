@@ -5,7 +5,7 @@ Define what we'd like to offer our employees, compared with their other options.
   * You're willing to push yourself and your team mates to reach the top of your field, and make an impact.
   * You want to work closely with customers, understand them, make their pains highly visible to the team in feedback loops, ans solve them.
   * Be part of our mission to make creation on the web easier and better.
-  * If you're a developer, you like Python, Javascript, Postgres.
+  * If you're a developer, you like Python, Javascript and Postgres.
   * You like freelancing but may want more stability, and to be part of a team who deal with the non-technical aspects of freelancing for you.
   * You want more autonomy than most other jobs.
   * You want to become a master at your craft, with exposure to great mentors and team mates to push you to your potential.
