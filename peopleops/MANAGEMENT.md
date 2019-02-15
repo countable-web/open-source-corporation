@@ -1,6 +1,8 @@
 # Management
 
-Some resource in line with our thinking:
+(draft) 
+
+Some resource in line with our thinking.
 
 ## Just Shut Up
   * https://medium.com/datadriveninvestor/are-you-a-manager-shut-up-494616dcea2f
