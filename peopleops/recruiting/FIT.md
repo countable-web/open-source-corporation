@@ -2,7 +2,8 @@
 
 Define what we'd like to offer our employees, compared with their other options. This helps us screen for people who enjoy working this way.
 
-  * You're willing to push yourself to reach the top of your field, and make an impact. We agree with Amazon's philosophy of "You can work long, hard, or smart, but at [Countable] you can’t choose two out of three."
+  * You're willing to push yourself and your team mates to reach the top of your field, and make an impact.
+  * You want to work closely with customers, understand them, make their pains highly visible to the team in feedback loops, ans solve them.
   * Be part of our mission to make creation on the web easier and better.
   * If you're a developer, you like Python, Javascript, Postgres.
   * You like freelancing but may want more stability, and to be part of a team who deal with the non-technical aspects of freelancing for you.
