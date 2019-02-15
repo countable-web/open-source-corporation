@@ -39,7 +39,7 @@ Due to the volume of resumes in initial screenings, we need a quick, quanitiativ
   * 1 point for having 2 or more years of technical experience in all requested domains/technologies. Or, 1 year and a computer science degree (not IT diploma).
   * 1 point for a well designed/formatted resume.
   * 1 point for portfolio links. Candidate should have at least one link to good quality content they built, which looks professional. Great if this is on a platform like Dribbble or Behance. A github.com profile with some projects counts as well.
-  * 1 point for the person having been vetted by a reputable 3rd party. Examples that provide some objective measurement could include an open source project or contributions (GitHub stars), a well-developed professional profile that's been curated with care such as Dribbble, going to a top school and receiving academic honours, having worked somewhere with a stringent screening like Google. Other accomplishments you can identify count too, but may be more difficult to measure quickly.
+  * 1 point for the person having been vetted by a reputable 3rd party. Examples that provide some objective measurement could include increasing company revenue or another metric at their previous job, an open source project or contributions (GitHub stars), a well-developed professional profile that's been curated with care such as Dribbble, going to a top school and receiving academic honours, having worked somewhere with a stringent screening like Google. Other accomplishments you can identify count to but these may be more difficult to measure quickly.
   
 Candidates with less than 4 points are rejected outright. Those with 4 points other than "communication ability" can be offered a chance to re-read the application and format it correctly, answering the hidden question. This is required for them to advance.
 
@@ -62,15 +62,11 @@ Now, answer their questions about the company. Candidates with 4 or 5 stars may 
 
 ## Interview
 
-If the technical test is completed with a 90% score, the candidate will receive a video interview with the leader of the team they're applying for, and with the Director of our company. The selection critieria at this point are for very promising candidates, and are specfic to each team. The guideline for advancement:
+If the technical test is completed with a 90% score, the candidate will receive a video interview with the leader of the team they're applying for, and with the director of our company. The selection critieria at this point are for very promising candidates, and are specfic to each team. The guideline for advancement:
 
-  * The interview criteria should be determined in advance, and candidate must receive a 90% score.
-  * If in doubt, reject the candidate, as type 2 errors are more expensive.
-  * Only accept the candidate if you would love working with them.
-
-## Final Screening
-
-The team will be shown the candidates original cover letter, technical test, interview notes. Any 2 team members who wouldn't love to work with the candidate may veto their hire.  “Before you make an offer to someone, think about whether you’d like to have 10 times as many people like them in your company.”
+  * Interview questions are not open-sourced here, because it was give too much advantage to the people who happen to see this page.
+  * If in doubt, reject the candidate. Hiring the wrong person results in a [type 2 error](https://en.wikipedia.org/wiki/Type_I_and_type_II_errors).
+  * Consider that "before you make an offer to someone, think about whether you’d like to have 10 times as many people like them in your company."
 
 ## Acceptance
 
