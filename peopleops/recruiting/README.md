@@ -30,16 +30,16 @@ done well to make it to this point. We wish you great luck in future job applica
 ## Initial Screening
 
   * We should always have active job postings for positions as long as we'd consider the best possible applicant if they did happen to apply.
-  * We should improve our company profile so the right people will apply.
-  
-### Point system
+  * We should improve our company profile on recruiting platforms (etc) so the right people will apply.
 
-  * 1 point for communication ability. No point awarded if candidates who miss the cover letter formatting requirement
+### Point system
+Due to the volume of resumes in initial screenings, we need a quick, quanitiative way to screen them. This is far from perfect, but early screening is optimized to [avoid "type 2 errors" not "type 1 errors"](https://en.wikipedia.org/wiki/Type_I_and_type_II_errors). This isn't ideal but it's the way things are at the moment.
+  * 1 point for communication ability. No point awarded if candidates who miss the cover letter formatting requirement.
   * 1 point for for writing ability. Reject if you see poor English, grammar errors, spelling mistakes in the cover letter.
   * 1 point for having 2 or more years of technical experience in all requested domains/technologies. Or, 1 year and a computer science degree (not IT diploma).
   * 1 point for a well designed/formatted resume.
   * 1 point for portfolio links. Candidate should have at least one link to good quality content they built, which looks professional. Great if this is on a platform like Dribbble or Behance. A github.com profile with some projects counts as well.
-  * 1 point for any outstanding item. This could include an open source project or contributions (many GitHub stars), many followers on a professional profile like Dribbble, going to a top school and receiving academic honours, having worked at Google, etc.
+  * 1 point for the person having been vetted by a reputable 3rd party. Examples that provide some objective measurement could include an open source project or contributions (GitHub stars), a well-developed professional profile that's been curated with care such as Dribbble, going to a top school and receiving academic honours, having worked somewhere with a stringent screening like Google. Other accomplishments you can identify count too, but may be more difficult to measure quickly.
   
 Candidates with less than 4 points are rejected outright. Those with 4 points other than "communication ability" can be offered a chance to re-read the application and format it correctly, answering the hidden question. This is required for them to advance.
 
