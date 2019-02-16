@@ -1,6 +1,6 @@
 # Diversity and Inclusion
 
-Purpose: To approach our differences in a respectful and positive way and focus on building a shared culture we all love that's respectful of all our diverse cultural values. 
+Purpose: To approach our differences in a respectful and positive way and focus on building a shared culture based on empathy and common values.
 
 1. Countable doese not tolerate non-meritocratic bias. We respect and support everyone the same, regardless of race, gender, religion or other attributes not related to our work. This also means there is as a general rule no special provisions made for these groups except to eliminate specific cases of bias.
 2. Don't conflate ignorance and malice. It's the responsibility of minority groups coach the team on what's considered respectiful, and it's the team's responsibility to listen and make an effort to be culturally respectful.
