@@ -10,6 +10,7 @@ The goal is to only accept people who are the best possible fit. Finding the bes
   * Being clear about our high expectations, compensation range, technology used, culture, and that we're remote in the posting. This will help prevent anyone who doesn't like the above from applying.
   * Having a specific instruction in the application for cover letter formatting to filter mass applications out.
   * Having a friendly letter to acknowledge the people who made it part way into the process. It's great to feel empathy for candidates, and we want to help them with their future applications. This is important because 99% or more candidates won't be accepted, and it reduces pressure on staff to make exceptions to our process.
+  * Avoiding any non-meritocratic bias. Gender, ethnic, and other irrelevant bias are not only unethical, they lower the hiring bar by considering information that's not related to performance.
 
 Another goal is to always try to screen people earlier. The first stages of the screening process are cheaper, so we want to avoid letting anyone into phase 2 if we can somehow tell they'll be rejected there in phase 1, etc. In a perfect "oracle" screening process, our first stage would advance the exact people that will mostly quickly achieve our mission while adhering to our values, and we'd just hire those immediately.
 
