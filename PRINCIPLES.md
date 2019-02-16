@@ -1,10 +1,12 @@
 
 # Principles
 
-# Purpose
+## Purpose
 
 The purpose of this page is to address a specific issue with our [OKR](./OKRS.md) process, wherein by focusing exclusively on some OKR we neglect some important assumption we should have had all along. ie, by releasing fast we neglect privacy. These principles are listed in order of descending priority, but they keywords SHOULD and MUST are used to indicate which principles are require observation and which are guidelines to follow when it's practical.
-  
+
+## Scope
+
   * _Ownership_ - When the word "we" is used below, everyone MUST take responsbility. That means either do it yourself or understand who is doing it. If no one's doing it you MUST do it yourself or make some noise (See Feedback, below).
   * _Privacy through simplicity_ - We MUST alwayas be confident that anyone's private data is secure. When it comes to security private data, you SHOULD use the simplest solution as it's the most likely to be implemented correctly. The best is to never store private data. Then, if you must store it, minimize the number of people who can access it, and the ways the can access it.
   * _Feedback_ - If something is unclear or suboptimal, we SHOULD make some noise about it.
