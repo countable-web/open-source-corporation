@@ -35,7 +35,7 @@ If you're new, start here!
 
   * [Onboarding](./peopleops/getting_started/ONBOARDING.md)
   * [Your Contract](./peopleops/getting_started/ASSOCIATE_AGREEMENT.md)
-  * [Company Policy](./peopleops/getting_started/COMPANY_POLICY.md)
+  * [Diversity and Inclusion](./peopleops/getting_started/DIVERSITY_AND_INCLUSION.md)
   * [Physical Setup](./peopleops/getting_started/PHYSICAL_SETUP.md)
   * [Project Management](./peopleops/getting_started/PROJECT_MANAGEMENT.md)
   * [Evaluation](./peopleops/getting_started/EVALUATION.md)
