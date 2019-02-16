@@ -1,0 +1,26 @@
+
+
+# Values
+
+  * Challenging but supporting each other.
+  * Critical thinking.
+  * Continuous improvement.
+  * Building trust based on shared goals.
+
+# Good Questions To Ask
+
+What matters most to our clients?
+  * Strategic business goals
+  * Increasing ROI, saving costs.
+  * How can we create feedback loops with clients?
+
+What matters most to our widget customers?
+  * Ability to seamlessly create
+  * High usability
+  * Beautiful design
+
+What do we really want as a team?
+  * Flexible hours and location, good feedback, good mentorship and guidance, clear objectives, interesting projects.
+  * Working to make remote work better.
+
+[1] https://naildrivin5.com/blog/2018/05/06/creating-a-culture-of-consistency.html
