@@ -13,25 +13,3 @@
   * _Consistency_ - Avoid arbitrary inconsistency. Create tools to automate and enforce consistency.
   * _Modelling_ - Reduce complex phenonemna to simple predictive models.
   * _Feedback Loops_ - The output of what you do should be highly visible to those it impacts, and to you.
-
-# Values
-
-Challenging each other, supporting each other, critical thinking, continuous improvement, trust built on shared values and results.
-
-# Good Questions To Ask
-
-What matters most to our clients?
-  * Strategic business goals
-  * Increasing ROI, saving costs.
-  * How can we create feedback loops with clients?
-
-What matters most to our widget customers?
-  * Ability to seemlessly create
-  * High usability
-  * Beautiful design
-
-What do we really want as a team?
-  * Flexible hours and location, good feedback, good mentorship and guidance, clear objectives, interesting projects.
-  * Working to make remote work better.
-
-[1] https://naildrivin5.com/blog/2018/05/06/creating-a-culture-of-consistency.html
