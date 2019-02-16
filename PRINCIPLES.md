@@ -20,3 +20,4 @@ The purpose of this page is to address a specific issue with our [OKR](./OKRS.md
   * _Modelling_ - We SHOULD reduce complex phenonemna to simple predictive models.
   * _Feedback Loops_ - The output of what you do SHOULD be highly visible to those it impacts, and to you.
   * _Diversity_ - We MUST treat everyone with respect and work to avoid non-merticratic bias.
+  * _Usability_ - We SHOULD create software which is a strong user experience. Don't make the user have to think, wait, or do a task unnecessarily.
