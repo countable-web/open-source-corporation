@@ -2,6 +2,14 @@
 
 # Values
 
+(draft)
+
+## Purpose
+
+Values are ideals that our team members share. This helps us improve communication among one team. Knowing these values are held, many things go without saying (and that's efficient). Values also help us find customers and new employees who will get along with us.
+
+## Scope
+
   * Challenging but supporting each other.
   * Critical thinking.
   * Continuous improvement.
