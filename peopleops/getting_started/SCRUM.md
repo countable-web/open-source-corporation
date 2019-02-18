@@ -22,9 +22,10 @@ Every project should have an [Objective](https://github.com/countable-web/open-s
 (draft) When/how does the Scrum master review tickets for clarity (if ever)?
 
 A sprint is a period (1 week to 1 month) punctuated by a Sprint meeting where we:
-1. Review and archive all "done" cards.
-2. Measure what % done our Key Results are.
-3. Move the Trello Cards that best achieve the project's key results and no more than we can actually do.
+1. Quickly review our metrics for Key Results in Mixpanel. If we don't have them, take this time to plan them and make tickets for implementing them.
+2. Review and archive all "done" cards.
+3. Measure what % done our Key Results are.
+4. Move the Trello Cards that best achieve the project's key results and no more than we can actually do.
 
 We release (ship) our work to real customers at the end of the sprint.
 
