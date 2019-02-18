@@ -17,6 +17,10 @@ Define how Countable does Scrum.
 Every project should have an [Objective](https://github.com/countable-web/open-source-corporation/blob/master/OKRS.md). This is a written goal discussed with the team to ensure clarity, and is used by the Product Owner to order the Backlog.
 
 ### Sprint
+
+(draft) Should the Product owner order tickets by priority before the sprint meeting?
+(draft) When/how does the Scrum master review tickets for clarity (if ever)?
+
 A sprint is a period (1 week to 1 month) punctuated by a Sprint meeting where we:
 1. Review and archive all "done" cards.
 2. Measure what % done our Key Results are.
