@@ -11,7 +11,8 @@ Define how we implement OKRs at Countable.
 ## Process
 
 At the beginning of each month, in our all-hands meeting:
-  * Each _team_ should identify their top objective. It should be ambitious.
+  * Each _team_ should identify their top objective.
+  * It should be ambitious but possible.
   * Ask, "why" is this your objective? Why not something else?
   * Write down that Objective in the project's Slack Channel Purpose field.
   
