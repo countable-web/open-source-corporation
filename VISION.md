@@ -1,5 +1,17 @@
 # Vision Statement
 
+(draft #2)
+
+Do you have a problem that might be solvable using the internet?
+
+Our technology is an industry-agnostic method for testing solutions quickly on the web. Our team developed and operates a cloud-based solution to user and data management in diverse settings including marine battery control systems, patient care, fisheries data management, medical devices, real estate and more. We've solved the core web technology problems faced by these organizations so they can focus on delivering solutions to their customers. We prototype your solution in weeks instead of months, based on an existing infrastructure that makes it easy to demonstrate benefits immediately.
+
+One of the many deployments we've built and currently maintain in production is a patient engagement and queue system, which likely overlaps the scope with the 'patient gateway' requested by the Ministry of Health. According to its users, this system has dramatically improved automated patient access to health care while reducing per-patient cost by a large fraction.
+
+Another of our products is a web-based widget platform that serves content tens of millions of users per day on over a million webpages.
+
+Our mission is to re-invent how web technology is prototyped and delivered and make it 10x easier for others to deliver their own missions using the internet.
+
 (this is a draft)
 
 Codify the many-faceted problem of web technology delivery, so it can be abstracted away and simplified to allow everyone to better focus on their customers. This should be done in a way that caters to the situation of a business implementing the technology.
