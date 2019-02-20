@@ -17,6 +17,12 @@ We should store things only in the places and ways described below.
 
 ## Folder Structure on Google Drive
 
-  * Files should be stored in an pleasing, intuitive heirarchy.
+### General Guidelines
   * If you're unsure what folders to make, keep in mind what someone will be *doing* when they need the file. What activity does it relate to? Use folders named according to the activity so it's in context for when it's actually being used. ie, for a coding standard, it's needed when `coding` or `setting up`. This is more useful than putting it in a folder called `standards` or even `engineering` for example, because a programmer might not look there as readily.
   * When a file is no longer needed, outdated, or otherwise more likley to confuse than help, move it to a folder named ARCH in the same directory. This allows us to easily find deleted materials if needed and not risk losing them if they turn out important. Knowing this, we'll much more aggressively archive things in order to keep folders "clean".
+
+### Canonical Folders
+  * Each project and client has a specific "slug" or identifying string, and a "acronym" which is a short version to be used throughout the company. [ link ]
+  * Please structure design assets as follows [ image ]
+  * For Reviews, please use the format YYYY.MM.DD_
+  * When creating a new project in Google Drive, copy the template linked [ here ]
