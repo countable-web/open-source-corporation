@@ -8,7 +8,7 @@ Our technology is an industry-agnostic method for testing solutions quickly on t
 
 One of the many deployments we've built and currently maintain in production is a patient engagement and queue system, which likely overlaps the scope with the 'patient gateway' requested by the Ministry of Health. According to its users, this system has dramatically improved automated patient access to health care while reducing per-patient cost by a large fraction.
 
-Another of our products is a web-based widget platform that serves content tens of millions of users per day on over a million webpages.
+Another of our products is a web-based widget platform that serves content to tens of millions of users per day on over a million webpages.
 
 Our mission is to re-invent how web technology is prototyped and delivered and make it 10x easier for others to deliver their own missions using the internet.
 
