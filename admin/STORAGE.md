@@ -22,7 +22,7 @@ We should store things only in the places and ways described below.
   * When a file is no longer needed, outdated, or otherwise more likley to confuse than help, move it to a folder named ARCH in the same directory. This allows us to easily find deleted materials if needed and not risk losing them if they turn out important. Knowing this, we'll much more aggressively archive things in order to keep folders "clean".
 
 ### Canonical Folders
-  * Each project and client has a specific "slug" or identifying string, and a "acronym" which is a short version to be used throughout the company. [ link ]
+  * Each project and client has a specific "slug" or identifying string, and a "acronym" which is a short version to be used throughout the company. [private list of Countable slugs here](https://docs.google.com/spreadsheets/d/11IvCJCtw0iD4vWEOY_tNMvpUnte2eb1Z3exMMtevIzk/edit#gid=279543225)
   * Please structure design assets as follows [ image ]
   * For Reviews, please use the format YYYY.MM.DD_
   * When creating a new project in Google Drive, copy the template linked [ here ]
