@@ -1,20 +1,19 @@
 # Creative Brief
 
-(This is a draft, and may change substantially)
-
 This document outlines our rationale for, and approach to visual design for the Countable brand.
 
-## Rationale
+## Purpose
 
 Visual design is a communication tool for meeting the right kinds of clients and subcontractors.
 
-### Goal
+### Scope
 
-To connect with people who will go the distance to make a big postive impact on the world.
+Establish visual standards to best connect us with people who will go the distance to make a big postive impact on the world.
 
 ### Offering
 
-We rapidly prototype custom software using web technology to understand domain problems more deeply and demonstrate value early on.
+  * We rapidly prototype custom software using web technology to understand domain problems more deeply and demonstrate value early on.
+  * We do our best to embody transparency and maximize value creation for everyone. If you share those values, we may be a good choice.
 
 ### Audience
 
@@ -73,11 +72,16 @@ Competed on Contracts with:
 
   * Expertise in prototyping quickly to test ideas and market response.
   * Pre-packaged best practices for avoiding technical debt, helping with succession, scalability, operations.
-  * A focus on big, long term ROI on our billables.
   * Focus on our versatility, and successes in many different industries.
+  * Specialize in audacity. Help develop a stretch goal that's exciting to collaborate no with clients.
+
+### Impression
+
+This is a web dev firm, that has great technical depth", as soon as the page loads. This technical depth should be apparently simply from the form of the site.
 
 ### Tone
-
+  
+  * Audacity. Big Dreams.
   * Clarity and simplicity.
   * Adaptability.
 
