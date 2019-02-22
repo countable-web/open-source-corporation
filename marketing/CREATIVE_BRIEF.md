@@ -31,7 +31,7 @@ We want to attract ambitious, talented people who are good communicators. *Perso
 
 #### Segmentation
 
-Given our experience range is so broad, it's hard to segment by industry. Instead, we segment by ambition. Our value prop "Look at this wide range of great projects we've done: We can do anything on the web. If you have a moonshot idea, want to go beyond the status quo in our business where no one else has before, do you don't want someone who specializes in your industry's status quo as they'll deliver just that. We've demonstrated the ability to create next-level web technology that disrupts your competitors and breaks your industry's mold. We create leaders on the web."
+Given our experience range is so broad, it's hard to segment by industry. Instead, we segment by ambition. Our value prop "Look at this wide range of great projects we've done: We can do anything on the web. If you have a moonshot idea, want to go beyond the status quo in our business where no one else has before, you don't want someone who specializes in your industry's status quo as they'll deliver just that. We've demonstrated the ability to create next-level web technology that disrupts your competitors and breaks your industry's mold. We create leaders on the web."
 
 ### Competition
 
