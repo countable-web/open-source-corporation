@@ -35,38 +35,30 @@ Given our experience range is so broad, it's hard to segment by industry. Instea
 
 ### Competition
 
-Several other categories compete with us, including hiring in-house, freelancers, placement firms and agencies. Of these, we most directly compete with agencies who do end-to-end web based software development work.
+Several other categories compete with us, including hiring in-house, freelancers, placement firms and agencies. Of these, we most directly compete with agencies who do end-to-end web based software development work. Here are some we admire, and why.
 
-Companies that seem to be aligned with our way of doings and have succeeded in some metric:
-  * https://dockyard.com/ - talent, open source focused, full service.
-  * https://www.caktusgroup.com - django, open source focused.
-  * https://lincolnloop.com - django
-  * https://twg.io - agile, canadian, full service.
+  * https://dockyard.com/ - open source focused, profess to "make an effort to both teach and learn".
+  * https://www.caktusgroup.com - They've focused on a specific technology (Django) to be best at. [Open source](https://www.caktusgroup.com/about/)
+  * https://twg.io - Great services page, [very clear](https://twg.io/services/). Agile, fellow Canadian.
 
-In search (SEO) at least, we compete for the terms "Web Application Firm" and "Web Software Firm" with:
+Top google results for "Web Application Firm" and "Web Software Firm". This means they have pretty effective SEO/copy.
   * https://coresolutions.ca/
   * https://www.scnsoft.com/
   * http://www.falcon-software.com/
-  * https://www.cygnismedia.com/web-application/
 
-Companies identified on clutch.io
-  * http://imagexmedia.com/
-  * https://www.backbonetechnology.com/ - has omepage animation like ours
-  * https://masterofcode.com/ - has homepage animation like ours
-  * https://xsolve.software/
-  * https://nmgtechnologies.com/services/web-application-development/
-  * https://www.merixstudio.com/
-  * https://www.oxagile.com/
-  * https://www.netsolutions.com/clutch/ - outsourcing
-  * https://liftinteractive.com/ - highest billable rates in this list
+Top company identified on clutch.io, Canada (that we actually like)
+  * https://liftinteractive.com/ - Highest billable rates in this list.
 
 Similar scope/approach:
-  * http://five.agency/how-we-work/
-  * https://breue.com/
-  * https://andyet.com/ - likes bleeding edge front end web tech, novel approach.
+  * http://five.agency/how-we-work/ - Good process explanation.
+  * https://breue.com/ - Super clear CTA "Get your free product roadmap today."
+  * https://andyet.com/ - Likes bleeding edge front end web tech, novel approach.
 
-Competed on Contracts with:
-  * https://freshworks.io/
+We admire these teams for beating us on contract bids :)
+  * https://freshworks.io/ - Beat us at the Mines Digital Services contract.
+  * https://www.realfolk.io/ - Beat us at the Concierge (devex) project.
+  * https://www.olivewood.io/ - Beat us at the Queue Management System enhancements contract.
+  * https://www.llamazoo.com/ - Beat us at a VR demo project.
 
 ### How we want to Differentiate
 
