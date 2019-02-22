@@ -10,23 +10,29 @@ Visual design is a communication tool for meeting the right kinds of clients and
 
 ### Goal
 
-To have the strongest web presence and best branding in our class (full service web firms)
+To connect with people who will go the distance to make a big postive impact on the world.
 
 ### Offering
 
-We prototype custom software using web technology to understand domain problems more deeply and demonstrate ROI early on.
+We rapidly prototype custom software using web technology to understand domain problems more deeply and demonstrate value early on.
 
 ### Audience
 
-Audience #1a - Small businesses (but, bigger ones) or SMEs, typically who have no in-house developer team, or an incomplete one that lacks some web tech areas. These businesses will typically be 10 to 500 employees. Businesses may have developer teams but want an outside perspective or skill supplement.  The typical decider is the owner or another executive at one of these businesses. They'll likely be someone very immersed in their industry, and use the web for reading trade publications and business publications primarily. Persona: Barrett runs a private firm that developed a disruptive hardware component but doesn't have web UI, apps or cloud integration.
+#### Clients
 
-Audience #1b - Also, funded startups that needs capacity for a one-off need such as a prototype. Persona: Tifa has raised seed funding and needs a prototype for market research, further momentum with funders.
+  * We are segmenting (filtering for) people and businesses who identify as startups but often exist in other organization structures. People who want to try something new and affect change using the web.
+  * Typically, small enterprises (50 to 500 employees) often with some technical acumen (3 to 5 out of 10), no in-house developer team, or an incomplete one that lacks some web tech areas.
+  * The typical decider is the owner or tech lead of the business. *Persona: Barrett runs a private firm that developed a disruptive hardware component but doesn't have web UI, apps or cloud integration.*
+  * Another example is a funded startup that needs a world class web technology component such as a dashboard, customer interface or API. *Persona: Tifa has raised seed funding and needs a prototype for market research, further momentum with funders.*
+  * Their web app will touch many people. We'd rather build things that are publicly used by millions, because these tend to have higher impact (all other things equal), and create more visibility for us.
 
-Audience #2 - Developers and creatives like us. We want to attract the best talent by showcasing a interesting place to work. Persona: Aeris wants a job that is challenging with lots of autonomy to hone her skills alongside ambitious and skilled peers.
+#### Staff
 
-Audience #3 - Recruiters, who are usually pitching to group 1. The recruiter's intent is to pitch strong resources for the businesses, so the design approach should still be mostly geared towards the business itself. Persona: Sephiroth would like the option to provide a team solution rather than just individual candidates when a fitting situation arises with his clients.
+We want to attract ambitious, talented people who are good communicators. *Persona: Aeris wants a job that is challenging with lots of autonomy to hone her skills alongside ambitious and skilled peers.*
 
-Consulting Customer Peronsa - we'd especially love to work with busiensses who offer free web based tools to large audiences.
+#### Segmentation
+
+Given our experience range is so broad, it's hard to segment by industry. Instead, we segment by ambition. Our value prop "Look at this wide range of great projects we've done: We can do anything on the web. If you have a moonshot idea, want to go beyond the status quo in our business where no one else has before, do you don't want someone who specializes in your industry's status quo as they'll deliver just that. We've demonstrated the ability to create next-level web technology that disrupts your competitors and breaks your industry's mold. We create leaders on the web."
 
 ### Competition
 
