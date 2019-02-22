@@ -91,7 +91,7 @@ We like the ideas from [Brutalist Web Design](https://brutalist-web.design/)
 
 ## Inspiration
 
-Teams on Driible. - https://dribbble.com/teams?sort=trending
+Teams on Dribbble. - https://dribbble.com/teams?sort=trending
 Vector icons/graphics: https://dribbble.com/shots/4391020-Bot-Ai-Hero
 Monochrome: https://dribbble.com/shots/4364906-Aao-Milo-Intro-Screens
 Animated illustrations: https://belichberg.com/en/
