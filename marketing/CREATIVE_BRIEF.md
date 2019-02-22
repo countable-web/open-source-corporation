@@ -70,10 +70,10 @@ Competed on Contracts with:
 
 ### How we want to Differentiate
 
+  * Specialize in audacity. Work with clients to develop a stretch goal that's exciting to collaborate on.
   * Expertise in prototyping quickly to test ideas and market response.
   * Pre-packaged best practices for avoiding technical debt, helping with succession, scalability, operations.
   * Focus on our versatility, and successes in many different industries.
-  * Specialize in audacity. Help develop a stretch goal that's exciting to collaborate no with clients.
 
 ### Impression
 
