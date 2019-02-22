@@ -19,10 +19,12 @@ Establish visual standards to best connect us with people who will go the distan
 
 #### Clients
 
-  * We are segmenting (filtering for) people and businesses who identify as startups but often exist in other organization structures. People who want to try something new and affect change using the web.
+
+  * We are segmenting (filtering for) groups inside organizations who identify as startups but often exist in other organization structures. People who want to try something new and affect change using the web.
   * Typically, small enterprises (50 to 500 employees) often with some technical acumen (3 to 5 out of 10), no in-house developer team, or an incomplete one that lacks some web tech areas.
-  * The typical decider is the owner or tech lead of the business. *Persona: Barrett runs a private firm that developed a disruptive hardware component but doesn't have web UI, apps or cloud integration.*
   * Another example is a funded startup that needs a world class web technology component such as a dashboard, customer interface or API. *Persona: Tifa has raised seed funding and needs a prototype for market research, further momentum with funders.*
+  * Lastly, we'd like to continue to pursue government contracts particuarly when there's a clear agenda for change using the web. There is a movement in BC government to embrace agile methods and improve software that we're excited to support and be part of.
+  * The typical decider is the owner or tech lead of the organization. *Persona: Barrett runs a private firm that developed a disruptive hardware component but doesn't have web UI, apps or cloud integration.*
   * Their web app will touch many people. We'd rather build things that are publicly used by millions, because these tend to have higher impact (all other things equal), and create more visibility for us.
 
 #### Staff
