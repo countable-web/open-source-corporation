@@ -13,7 +13,7 @@ Establish visual standards to best connect us with people who will go the distan
 ### Offering
 
   * We rapidly prototype custom software using web technology to understand domain problems more deeply and demonstrate value early on.
-  * We do our best to embody transparency and maximize value creation for everyone. If you share those values, we may be a good choice.
+  * We do our best to embody transparency and maximize value creation for everyone as a side-effect of creating value for stakeholders.
 
 ### Audience
 
@@ -85,18 +85,19 @@ This is a web dev firm, that has great technical depth", as soon as the page loa
 2. The design should be functional, and facilitate the intended usage.
 3. The design need not always follow design trends but should at least indicate we are aware of them. Cherry pick some trends that work.
 4. Advanced technical elements (3d, parralax, etc ) are good because they showcase out technical work but should not be used at the expense of being simple.
-5. Don't try to be clever or subtle, it goes against our desire for clarity.
+5. We value clarity over cleverness and subtlety.
 
 We like the ideas from [Brutalist Web Design](https://brutalist-web.design/)
 
 ## Inspiration
 
+Three.js examples - https://threejs.org/
+Shader toy - https://www.shadertoy.com/
+Lars Berg - https://www.larsberg.net/#/thumpThump
 Teams on Dribbble. - https://dribbble.com/teams?sort=trending
 Vector icons/graphics: https://dribbble.com/shots/4391020-Bot-Ai-Hero
 Monochrome: https://dribbble.com/shots/4364906-Aao-Milo-Intro-Screens
 Animated illustrations: https://belichberg.com/en/
-
-Professional services on Webby awards - https://www.webbyawards.com/winners/2017/websites/general-website/professional-services/
 
   * http://chloi.io/
   * http://outcrowd.io/
