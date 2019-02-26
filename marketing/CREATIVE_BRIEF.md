@@ -73,6 +73,10 @@ We admire these teams for beating us on contract bids :)
 
 This is a web dev firm, that has great technical depth", as soon as the page loads. This technical depth should be apparently simply from the form of the site.
 
+### Theme
+
+Space + dreams. Space is a little overdone, lean towards the latter going forward. Dreams characterize our values of working for big impact long term, enabling creators on the web, and making a better remote work environment for our team.
+
 ### Tone
   
   * Audacity. Big Dreams.
