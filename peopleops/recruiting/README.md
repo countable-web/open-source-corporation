@@ -71,9 +71,9 @@ If the technical test is completed with a 90% score, the candidate will receive 
   * If in doubt, reject the candidate. Hiring the wrong person results in a [type 2 error](https://en.wikipedia.org/wiki/Type_I_and_type_II_errors).
   * Consider that "before you make an offer to someone, think about whether you’d like to have 10 times as many people like them in your company."
 
-## Acceptance
+## Internship
 
-If the candidate is accepted, they will be given an offer letter written by the team lead and director.
+If the candidate is accepted, they will be given an offer letter to work with us for 3 weeks and both sides can evaluate if they want to continue at the end. We should aim to accept 1 in 3 people in this step of the process overall to ensure we're proactively evaluating.
 
 ## Research
 
