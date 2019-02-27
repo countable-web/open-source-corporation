@@ -3,7 +3,7 @@
 
 ## Recruiting for Staff Contractors
 
-Countable has two "tracks". Outside consultants, and staff contractors. This page is about hiring the latter team members who work a set number of hours per week. The former category are for more specialized people, often with existing consulting businesses, and there's no process for working with them currently but they are typically hired based on a quote for a specific deliverable.
+Countable has two "tracks" for our team members. Outside consultants, and staff contractors. This page is about hiring the latter team members who work a set number of hours per week. The former category are for more specialized people, often with existing consulting businesses, and there's no process for working with them currently but they are typically hired based on a quote for a specific deliverable.
 
 ## Recruiting Process
 
