@@ -1,7 +1,7 @@
 
 # Bug Reporting Process
 
-These are the required steps for reportings bugs at Countable.
+These are the required steps for reportings bugs at Countable. Make on Trello Card per bug.
 
 1. Briefly describe the current behaviour and how it differs from the desired behaviour.
 2. Include the exact URL where the issue can be observed.
