@@ -1,6 +1,6 @@
 # Our Git Flow Usage Examples
 
-This document provides examples of common git workflows to show new developers how we use the [git flow](https://jeffkreeftmeijer.com/git-flow/) branch conventions.
+This document provides examples of common git workflows to show new developers how we use the [git flow](https://jeffkreeftmeijer.com/git-flow/) branch conventions. We also generally observe the [trunk based development](https://trunkbaseddevelopment.com/) methodology. The latter standard is awkwardly written and wordy but the content is good.
 
 ## Working on a feature
 
