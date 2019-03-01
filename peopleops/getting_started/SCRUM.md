@@ -14,21 +14,27 @@ Define how Countable does Scrum.
 
 ### Project Objective and Key Results
 
-Every project should have an [Objective](https://github.com/countable-web/open-source-corporation/blob/master/OKRS.md). This is a written goal discussed with the team to ensure clarity, and is used by the Product Owner to order the Backlog.
+Every team should have one or more [Objective](https://github.com/countable-web/open-source-corporation/blob/master/OKRS.md). This is a written goal discussed with the team to ensure clarity, and is used by the Product Owner to order the Backlog.
 
 ### Sprint
 
-(draft) Should the Product owner order tickets by priority before the sprint meeting?
-(draft) When/how does the Scrum master review tickets for clarity (if ever)?
+A sprint is a period (1 week to 1 month) punctuated by a Sprint meeting.
 
-A sprint is a period (1 week to 1 month) punctuated by a Sprint meeting where we:
-1. Quickly review our metrics for Key Results in Mixpanel. If we don't have them, take this time to plan them and make tickets for implementing them.
-2. Review and archive all "done" cards. Why weren't they done, if any?
-3. Measure what % done our Key Results are.
-4. Move the Trello Cards that best achieve the project's key results and no more than we can actually do.
+The Scrum master must review tickets for clarity (triage them). _When is this scheduled to happen?_
+The Product owner must review tickets for priority (clarify them to be actionable). _When does this happen?_
+
+#### Sprint Meeting Goals
+
+1. Measure what % done our Key Results are. Estimate completion of each KR. Quickly check any metrics necessary.
+2. Each team member takes 2 minutes to what they shipped each week. Don't show work in progress. Screen share or show a visual is possible, only demonstrate what you've made ready to "ship".
+2. Look at any cards left in the sprint column. Why are they there? How can we avoid that?
+3. During or shortly after the sprint meeting, all cards planned for the sprint should be scheduled. _Should the Product owner order tickets by priority before the sprint meeting?_
+4. Move the Trello Cards that best achieve the project's key results and no more than we can actually do, to the sprint column. _when does this happen?_
 
 We release (ship) our work to real customers at the end of the sprint.
 
+#### Stand-up Meetings
+Every day, please share something on your team's public slack channel regarding the work you did. It's best to show a screenshot of your work for feedback.
 
 ### Roles
 These are the duties we must assigned when doing Scrum.
