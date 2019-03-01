@@ -11,8 +11,9 @@ The purpose of this policy is to "get and keep the right people on the bus" [1].
 
 ### Level 1
 An internship position, person is being evaluated for potential. All their work is reviewed by team members before entering production. They review higher level team members' work to learn from it.
-
-   * Know and are able follow basic processes. Read the entire operations manual, ask questions about things that are hard to understand or you disagree with, index things that are hard to find when you need them, improve clarity.
+   
+   * Work with the team to achieve our [OKRs](../../OKRS.md).
+   * Know and are able follow the processes in this operations manual, ask questions about things that are hard to understand or you disagree with, index things that are hard to find when you need them, improve clarity.
    * Should always try to solve problems yourself, ask specific questions after doing initial investigation. Clarify and state your assumptions when you ask for help.
    * Make consistent improvements of any size (many small ones is easier) to the systems around you. Make a PR to clarify a document or code.
    * Get very good at knowing when to escalate (ask for help) from your colleagues and client, and when to just dig deeper on your own.
