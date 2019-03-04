@@ -8,8 +8,7 @@ Some resources in line with our thinking.
   * https://medium.com/datadriveninvestor/are-you-a-manager-shut-up-494616dcea2f
 
 ## One Minute Manager
-  * https://www.amazon.ca/Minute-Manager-Johnson-Spencer-Blanchard/dp/8172234996/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=
-  
+  * https://www.amazon.ca/Minute-Manager-Johnson-Spencer-Blanchard/dp/8172234996/ref=tmm_pap_swatch_0  
 Quotes from the book
 
 ### One minute goals
