@@ -16,7 +16,7 @@ Team performance can be predicted by:
 3. Members communicate directly with each other
 4. Members break from the team to focus or explore, and bring skills back to the team
 
-These are more important for individual performance, so a manager's job is to create "belonging cues" which foster the above behaviours. These things also happen to make it more enjoyable to work together, which is also important. We need to build trust in each other that Countable is a safe place to try your hardest, knowing the team will support you whether you succeed or fail. We need to trust each other enough to give honest feedback when it's hard, so we can help one another improve to the next level without getting stuck in a rut.
+These are more important for individual performance, so a manager's job is to create "belonging cues" which foster the above behaviours. These things also happen to make it more enjoyable to work together, which is also important. We need to build trust in each other that Countable is a safe place to try your hardest, knowing the team will support you whether you succeed or fail. We need to trust each other enough to give honest feedback when it's hard, so we can help one another improve to the next level without getting stuck in a rut. We push each other because we have high expectations for the team, and trust each other to reach them.
 
 ## "One Minute Manager"
   * https://www.amazon.ca/Minute-Manager-Johnson-Spencer-Blanchard/dp/8172234996/ref=tmm_pap_swatch_0  
