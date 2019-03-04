@@ -9,7 +9,10 @@ Some resources in line with our thinking.
 
 ## One Minute Manager
   * https://www.amazon.ca/Minute-Manager-Johnson-Spencer-Blanchard/dp/8172234996/ref=tmm_pap_swatch_0  
-Quotes from the book
+
+This book is weird and "culty" but it's very concise and actionable, and focuses on the time managers spend interacting with staff (actual interactions). The fact that it reads strangely makes it more memorable so may be a net positive.
+
+Quotes from the book:
 
 ### One minute goals
 
