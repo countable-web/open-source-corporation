@@ -12,3 +12,4 @@ Books that heavily influenced this manual are listed here. They are recommended 
 8. The Culture Code, Daniel Coyle
 9. Javascript, The Good Parts
 10. 12factor.net
+11. The Great CEO Within, Matt Mochary
