@@ -7,10 +7,21 @@ Some resources in line with our thinking.
 ## Just Shut Up
   * https://medium.com/datadriveninvestor/are-you-a-manager-shut-up-494616dcea2f
 
-## One Minute Manager
+## "The Culture Code"
+
+Team performance can be predicted by:
+
+1. All members speak equally
+2. Members maintain eye contact
+3. Members communicate directly with each other
+4. Members break from the team to focus or explore, and bring skills back to the team
+
+These are more important for individual performance, so a manager's job is to create "belonging cues" which foster the above behaviours. These things also happen to make it more enjoyable to work together, which is also important. We need to build trust in each other that Countable is a safe place to try your hardest, knowing the team will support you whether you succeed or fail. We need to trust each other enough to give honest feedback when it's hard, so we can help one another improve to the next level without getting stuck in a rut.
+
+## "One Minute Manager"
   * https://www.amazon.ca/Minute-Manager-Johnson-Spencer-Blanchard/dp/8172234996/ref=tmm_pap_swatch_0  
 
-This book is weird and "culty" but it's very concise and actionable, and focuses on the time managers spend interacting with staff (actual interactions). The fact that it reads strangely makes it more memorable so may be a net positive.
+This book is weird and "culty" but it's very concise and actionable, and focuses on the time managers spend interacting with staff (actual interactions). The fact that it reads strangely makes it more memorable so may be a net positive. It also focuses on management by objectives and creating clear goals (OKRs).
 
 Quotes from the book:
 
