@@ -13,3 +13,4 @@ Books that heavily influenced this manual are listed here. They are recommended 
 9. Javascript, The Good Parts
 10. 12factor.net
 11. The Great CEO Within, Matt Mochary
+12. Measure What Matters, John Doerr
