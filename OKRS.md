@@ -8,6 +8,8 @@ Teams who write down individual goals and regularly report progress to team memb
 
 Define how we implement OKRs at Countable.
 
+Each team should have at least one *objective* or what they want to accomplish together in the short term. It's their strategic focus. Each objective has a few *key results* which are measurable, sufficient condtions for the objective to be met.
+
 ## Process
 
 At the beginning of each month, in our all-hands meeting:
@@ -25,13 +27,6 @@ During your sprint meetings, review your Objective and Key Results for 5 minutes
 At the beginning of the next month:
   * If designed well, it should be possible to objectively measure your Key Result as a percentage done.
 
-## Save each Team's OKRs in Slack
+### Our OKR Spreadsheet
 
-Use the slack "Channel Purpose" field for each channel in slack for our OKRs to keep them visible and make sure we're actually working on them, and don't get distracted. Only #general and #client-<name> channels will have this, where #general is for Countable's OKRs. The format is:
-
-```
-Objective
-   Key Result
-   Key Result
-   ...
-```
+Each month's OKRs are captured here, https://docs.google.com/spreadsheets/d/1trSTphquGTPl9-cQKciidLAipuFnYEZHu4MYXuefP8k/edit#gid=1942082043
