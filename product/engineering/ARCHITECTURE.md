@@ -37,4 +37,11 @@ Interfaces occur when we create a new abstraction which messages others, rather 
 2. They should be used whenever it eliminates code duplication unless this would substantially reduce the overall clarity.
 3. Functions should include as few arguments as possible (loose coupling)
 
-TODO: this section needs a lot of work.
+# Implementation Level Stuff
+
+### Server Side Views
+
+API Views and other server side views should take care to return the correct [HTTP status code](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes). At a high level:
+  * Codes that start with "2" (like 200) mean the request succeeded.
+  * Codes that start with "4" (like 400) mean the request is invalid, a problem on the client's side.
+  * Codes that start with "5" (like 500) mean a problem on our end. We should be notified by Sentry so we know we have to look into it.
