@@ -16,7 +16,7 @@ Books that heavily influenced this manual are listed here. They are recommended 
   
   * Scrum: The art of Doing Twice the Work in Half the Time, Jeff Sutherland
   * Originals: How Non-Conformists Move the World, Adam Grant
-  * Javascript, The Good Parts
+  * Javascript: The Good Parts, Douglas Crockford
   * 12factor.net
 
 ### Write Down What You Learn
