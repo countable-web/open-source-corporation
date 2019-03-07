@@ -39,7 +39,7 @@ Interfaces occur when we create a new abstraction which messages others, rather 
 
 # Implementation Level Stuff
 
-### Server Side Views
+### Server Side Views and HTTP
 
 API Views and other server side views should take care to return the correct [HTTP status code](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes). At a high level:
   * Codes that start with "2" (like 200) mean the request succeeded.
