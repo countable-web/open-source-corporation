@@ -93,6 +93,10 @@ Space + dreams. Space is a little overdone, lean towards the latter going forwar
 
 We like the ideas from [Brutalist Web Design](https://brutalist-web.design/)
 
+## Evaluation of Creative Ideas
+
+To evaluate creative ideas, first spend 6 minutes generating your own ideas for the problem and write them down. Compared to using evaluation criteria, the best ideas are identified 77% of the time instead of 51% of the time this way.
+
 ## Inspiration
 
 Three.js examples - https://threejs.org/
