@@ -2,8 +2,6 @@
 
 ## Purpose
 
-(draft)
-
 We want to restict types of communication by channel so people aren't stressed by having to listen on all channels at all times.
 
 ## Scope
@@ -19,14 +17,16 @@ This is currently based on the one published by Evernote's remote team, and is i
   * We want to minimize email. Most types of things in there should be slowly pulled into other channels.
   * Email is ok for announcements but should link to something in Trello (if it requires followup) and Google Docs (if it is a resource we may need later)
   * Let’s not discuss via email. Use [https://old.reddit.com/r/CountableWeb] for long form discussions that can be public. Slack for private ones.
-  * The email channel is not urgent: 24h response time is ok. We recommend checking email only twice daily, only on weekdays during business hours.
+  * The email channel is not urgent: 24h response time is ok. We recommend checking email only twice daily, only on weekdays during business hours. You must follow-up with any email within 24h of it being sent. If the email is from a colleague, customer, or prospect, you must follow up within 24h of an email being sent. If a task is requested, either complete the task or reply indicating what steps you've taken, what's still needed, and when it will be completed.
   * Respond to emails in a way that minimizes back-and-forth. Don't ask "when can you meet?", for example. Ask "I'm available at 3pm to 4pm tomorrow, does that work? If not, please summarize your requirements via email isntead."
-  * For truly urgent or critical things, we call each other (cell phone). Only do this in the evening or weekend of the recipient's timezone if it's an emergency. This should be RARE.
   * No need to check emails during vacation (unless otherwise agreed upon). => see next line
-  * We all have decent autoresponders when on vacaton: including return date from vacation / back-up contact and details / back-up
- person gets a briefing.
-  * Being brief in email amongst ourselves is ok.
+  * You must have an autoresponder set when on vacaton: including return date from vacation / back-up contact and details / back-up person gets a briefing.
   * No need to reply to an FYI email (e.g. saying thanks) - you can, but don’t have to
+  * Being brief in email amongst ourselves is ok.
+
+### Phone
+  * For truly urgent or critical things, we call each other (cell phone). Only do this in the evening or weekend of the recipient's timezone if it's an emergency. This should be RARE.
+  * Voice (phone or appear.in) is better for complex or emotionally driven discussions.
 
 ### Trello
   * Trello is for everything someone has to remember TO DO. We use variants of Scrum, details [here](../peopleops/getting_started/TRELLO.md).
@@ -37,19 +37,15 @@ This is currently based on the one published by Evernote's remote team, and is i
   * Make sure your calendar is up-to-date and shared/public so we know how to reach someone if urgent
 
 ### Meetings in General
-  * We come prepared to meetings - if not, we tell others (and if needed, reschedule the meeting)
-  * 3W rule: Meeting follow-up actions and/or meeting summaries must contain the three Ws: WHO does WHAT by WHEN
-  * The meeting organiser is responsible for a) taking notes and b) that follow-up actions (acc. to 3W rule) are noted in the minutes, and shared as Trello cards.
-  * Meetings start on time and stop on time
-  * Make sure you leave the meeting room clean - no bottles, no dishes, rearrange things such as keyboard, chairs, mouse, pens, etc.
+See [./MEETINGS.md]
 
 ### Reddit
-  * Use old.reddit.com/CountableWeb for company steering discussions.
+  * Use old.reddit.com/CountableWeb for public discussions. Private discussions can be held on slack. Try to make any discussion you can public, assuming personal and client's competitive information can be left out.
 
 ### Slack Hygiene
   * If the message could be useful to more than one person, post it in the most relevant public or project channel.
   * No instant reply required. Our communication priority order is: 1) Call/Text 2) Slack 3) Email 4) Trello 5) Reddit
-  * Try to be on slack at least 2h per day that overlaps with people you're actively working with.
-  * Post interact with the team at least once per day on slack, but don't leave it open all day, you need some quiet time to focus on work.
-  * if you read something on a public slack channel, understand it, and find it useful, please give a thumbs up :thumbsup: or :heavy_check_mark: or whatever emoticon . It helps the people (especially me) who post in public channels the most to know who's read things and what to post. #thanks for those who have been doing so!
+  * Try to be on slack at least 2h per day that overlaps with people you're actively working with. Interact with the team at least once per work day on slack, but don't leave it open all day, you need some quiet time to focus on work.
+  * if you read something on a public slack channel, understand it, and find it useful, please give a thumbs up :thumbsup: or :heavy_check_mark: or whatever emoticon . It helps the people who post in public channels the most to know who's read things and what to post.
+  * Use emoticon reactions in general, they're great!
 
