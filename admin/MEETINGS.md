@@ -10,15 +10,18 @@ Define all the meetings at Countable
 
 ## All Meetings
 
-  * Our calendar is the source of truth regarding meeting times, attendees and cancellation status. Only updates to the calendar event count. Don't transmit this info via email or verbally, use the calendar.
-  * Anyone who is late should notify the team in advance of the meeting.
-  * The purpose of the meeting must be clear.
+  * Our calendar is the source of truth regarding meeting times, attendees and cancellation status. All updates to meeting times go directly in the calendar.
+  * Meetings start on time and stop on time. If someone is late, start without them.
+  * Anyone who is late should notify the team in advance of the meeting so they can proceed.
+  * The purpose and agenda of the meeting must be clear, and listed in the meeting event details on the calendar.
   * Recurring meetings should review the previous meeting's follow-ups/action items. Open up the last week's minutes and review them.
-  * Meetings must have a general (recurring) or specific (one-off) agenda.
   * If you are presenting in a meeting, send out materials (such as slides) in advance so the attendees can get in the right headspace.
   * When you are speaking, pause to get feedback and answer questions periodically.
+  * Never speak for more than two minutes without pausing and letting people respond, so you can listen to your audience and steer your material to be more helpful. Meetings should be interactive, not monologues.
   * Minutes should be recorded for each meeting. This should just be a few bullet points with decisions and action items. We don't need to mention everything that was discussed. Just the "headlines". What's the important point? Action items should be transcribed into Trello.
   * Send a follow-up email with the minutes, and record them in an ongoing google-doc for recurring meetings.
+  * 3W rule: Meeting follow-up actions and/or meeting summaries must contain the three Ws: WHO does WHAT by WHEN
+  * The meeting organiser is responsible for a) taking notes and b) that follow-up actions (acc. to 3W rule) are noted in the minutes, and shared as Trello cards.
 
 ## Scrum Meetings
 
