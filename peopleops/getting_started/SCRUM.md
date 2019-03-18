@@ -14,7 +14,7 @@ Define how Countable does Scrum.
 
 ### Project Objective and Key Results
 
-Every team should have one or more [Objective](https://github.com/countable-web/open-source-corporation/blob/master/OKRS.md). This is a written goal discussed with the team to ensure clarity, and is used by the Product Owner to order the [Backlog](#backlog).
+Every team should have one or more [Objective](https://github.com/countable-web/open-source-corporation/blob/master/OKRS.md). This is a written goal discussed with the team to ensure clarity, and is used by the [Product Owner](#product-owner) to order the [Backlog](#backlog).
 
 ### Sprint
 
