@@ -26,8 +26,8 @@ The [Product Owner](#product-owner) must review tickets for priority (clarify th
 #### Sprint Meeting Goals
 
 1. Measure what % done our Key Results are. Estimate completion of each KR. Quickly check any metrics necessary.
-2. Each team member takes 2 minutes to what they shipped each week. Don't show work in progress. Screen share or show a visual is possible, only demonstrate what you've made ready to "ship".
-2. Look at any cards left in the sprint column. Why are they there? How can we avoid that?
+2. Each team member takes 2 minutes to what they shipped each week. Don't show work in progress. Screen share or show a visual is possible, only demonstrate what you've made ready to "ship". Then they take 1 minutes to indicate what's blocking their work, and we determine who will help them on it after the meeting.
+3. Review any cards left in the sprint column. Why are they there? How can we avoid that?
 3. During or shortly after the sprint meeting, all cards planned for the sprint should be scheduled. _Should the Product owner order tickets by priority before the sprint meeting?_
 4. Move the Trello Cards that best achieve the project's key results and no more than we can actually do, to the sprint column. _when does this happen?_
 
