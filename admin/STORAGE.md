@@ -21,7 +21,7 @@ We should store things only in the places and ways described below.
   * Our work should be organized based on how how it's used. For example, artwork will typically need an editable copy for developers.
   * The goal is to be able to find the things we need quickly. Things we use more often should take fewer clicks.
   * Make sure your work is stored in a way that is convenient for those who will be using it.
-  * When a file is no longer needed, outdated, or otherwise more likley to confuse than help, move it to a folder named ARCH in the same directory. This allows us to easily find deleted materials if needed and not risk losing them if they turn out important. Knowing this, we'll much more aggressively archive things in order to keep folders "clean".
+  * When a file is no longer needed, outdated, or otherwise more likley to confuse than help, move it to a folder named ARCH in the same directory.
 
 ### Canonical Folders
 (draft)
