@@ -20,8 +20,8 @@ Every team should have one or more [Objective](https://github.com/countable-web/
 
 A sprint is a period (1 week to 1 month) punctuated by a Sprint meeting.
 
-The Scrum master must review tickets for clarity (triage them). _When is this scheduled to happen?_
-The Product owner must review tickets for priority (clarify them to be actionable). _When does this happen?_
+The [Scrum Master](#scrum-master) must review tickets for clarity (triage them). _When is this scheduled to happen?_
+The [Product Owner](#product-owner) must review tickets for priority (clarify them to be actionable). _When does this happen?_
 
 #### Sprint Meeting Goals
 
