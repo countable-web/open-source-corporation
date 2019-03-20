@@ -1,6 +1,10 @@
 
 # Recruiting
 
+## Background
+
+A study of 200 silicon valley startup investigated the effect of 3 hiring policies: The "star" blueprint which sought the best technical candidates; The "commitment" blueprint which hired based on values; And the "professional" blueprint which commoditized skills. The commitment blueprint was starkly the best, with zero failures in the 2000 market bubble and triple the chance of making an IPO the next best model. Two other models, the "autocratic" and "beaurocratic" performed even worse than the aforementioned three.
+
 ## Recruiting for Staff Contractors
 
 Countable has two "tracks" for our team members. Outside consultants, and staff contractors. This page is about hiring the latter team members who work a set number of hours per week. The former category are for more specialized people, often with existing consulting businesses, and there's no process for working with them currently but they are typically hired based on a quote for a specific deliverable.
