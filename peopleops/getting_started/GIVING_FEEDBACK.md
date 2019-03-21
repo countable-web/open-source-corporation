@@ -12,6 +12,7 @@ Our team must provide each other with feedback regularly in order to improve. So
 
   * When someone does something you like, let them know! That's how we get them to do it more.
   * Remember the purpose of feedback. We have a team so we can help each other improve.
+  * Keep it simple and clear. Mention the most important points to avoid overwhelming the recipient.
 
 ### Giving Negative Feedback
 
