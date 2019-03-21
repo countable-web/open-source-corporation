@@ -8,7 +8,7 @@ Our team must provide each other with feedback regularly in order to improve. So
   * Feedback from peers is the most effective way to grow professionally. (Originals)
   * Honest feedback prevents the perils of "group think" that damages teams as they grow. (Culture code)
 
-### Guidelines
+## Guidelines
 
   * When someone does something you like, let them know! That's how we get them to do it more.
   * Remember the purpose of feedback. We have a team so we can help each other improve.
