@@ -8,12 +8,17 @@ We want to restict types of communication by channel so people aren't stressed b
 
 This is currently based on the one published by Evernote's remote team, and is in draft. Please provide feedback if anything seems unideal!
 
-### Calendar Hygiene and Expectations:
+### Guidelines for All Communication
+  * We work in different timezones, and also need time to focus so nearly all communication is `asynchronous`. This means it will often be a few hours to a day before you get a response to Slack or Email messages.
+  * Some communication doesn't work well asynchronously. Such as complex or emotionally charged conversations. For these, use a voice medium (appear.in or phone)
+  * Being brief in email/slack amongst ourselves is ok.
+
+### Calendar Expectations:
   * We do reply to calendar invitations (within 24h, because that's the maximum frequency for checking email)
   * We make our calendars public (to show when we're busy, not exact events).
   * We add our vacations or holidays into the event calendar as following: “Name” vacation (# of days )
 
-### Email Hygiene and Expectations:
+### Email Hygiene:
   * We want to minimize email. Most types of things in there should be slowly pulled into other channels.
   * Email is ok for announcements but should link to something in Trello (if it requires followup) and Google Docs (if it is a resource we may need later)
   * Let’s not discuss via email. Use [https://old.reddit.com/r/CountableWeb] for long form discussions that can be public. Slack for private ones.
@@ -21,12 +26,16 @@ This is currently based on the one published by Evernote's remote team, and is i
   * Respond to emails in a way that minimizes back-and-forth. Don't ask "when can you meet?", for example. Ask "I'm available at 3pm to 4pm tomorrow, does that work? If not, please summarize your requirements via email isntead."
   * No need to check emails during vacation (unless otherwise agreed upon). => see next line
   * You must have an autoresponder set when on vacaton: including return date from vacation / back-up contact and details / back-up person gets a briefing.
-  * No need to reply to an FYI email (e.g. saying thanks) - you can, but don’t have to
-  * Being brief in email amongst ourselves is ok.
+  * No need to reply to an FYI email (e.g. saying thanks) - you can, but don’t have to.
+
+### Text
+  * If you'd like someone's attention because you're blocked and they're not responding on Slack, we recommend you text them. Do this only when necessary.
+
+### Appear.in
+  * Use this 
 
 ### Phone
   * For truly urgent or critical things, we call each other (cell phone). Only do this in the evening or weekend of the recipient's timezone if it's an emergency. This should be RARE.
-  * Voice (phone or appear.in) is better for complex or emotionally driven discussions.
 
 ### Trello
   * Trello is for everything someone has to remember TO DO. We use variants of Scrum, details [here](../peopleops/getting_started/TRELLO.md).
@@ -43,9 +52,9 @@ See [./MEETINGS.md]
   * Use old.reddit.com/CountableWeb for public discussions. Private discussions can be held on slack. Try to make any discussion you can public, assuming personal and client's competitive information can be left out.
 
 ### Slack Hygiene
+  * The expected response time on slack is up to 4 hours.
   * If the message could be useful to more than one person, post it in the most relevant public or project channel.
   * No instant reply required. Our communication priority order is: 1) Call/Text 2) Slack 3) Email 4) Trello 5) Reddit
-  * Try to be on slack at least 2h per day that overlaps with people you're actively working with. Interact with the team at least once per work day on slack, but don't leave it open all day, you need some quiet time to focus on work.
+  * Try to interact with the team about twice per work day on slack, but don't leave it open all day, you need some quiet time to focus on work. Catch up on your channels, skim and respond where needed.
   * if you read something on a public slack channel, understand it, and find it useful, please give a thumbs up :thumbsup: or :heavy_check_mark: or whatever emoticon . It helps the people who post in public channels the most to know who's read things and what to post.
-  * Use emoticon reactions in general, they're great!
 
