@@ -3,7 +3,7 @@
 
 ## Purpose
 
-Make quick progress towards product-market fit on a new project.
+Our first job on a project is to create a clear shared vision. Make quick progress towards product-market fit on a new project.
 
 ## Scope
 
