@@ -1,7 +1,15 @@
 
-# Decision Making at Countable
+# Making Decisions
+
+## Purpose
 
 It can be confusing how decisions are made so let's shed light on it. There are 4 types of decisions and they trade off between efficiency and buy-in from the team:
+
+## Scope
+
+Document the ways in which we make decisions.
+
+## Process
 
 1. Command decision - made by one person in charge of that area of responsiblity (AOR). This is the most efficient and fast but has the least buy-in. An example is when to send invoices. We don't need to discuss that as it only impacts our finances probably.
 2. Consultative decision - made by one person in charge, but they must ask for feedback from their peers who are knowledgeable in that area and consider that feedback. This is probably the most common. An example is what clienst to feature on our website. Julie decides but should probably ask team members what they are ready to show. Setting up a new process is usually consultative as well, someone proposes it and does the homework to get evidence and make a strong case, and gets feedback on their work doing so.
@@ -19,8 +27,11 @@ I hope this clarifies how we approach decision making and if any decison is uncl
 
 Please give feedback! This document is a process proposal, which is a consultative decision so it may be amended if you raise anything about it.
 
-# When Decisions Are Made
+## When Decisions Are Made
 
  * When a decision is made in the meeting, include it in the minutes and inform any other team members outside the meeting.
  * Document the decision in this manual if it's relevant to future work for more than one specific client.
+ 
+## Guidelines for making Good Decisions
+
 
