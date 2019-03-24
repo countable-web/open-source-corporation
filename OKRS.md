@@ -29,3 +29,21 @@ At the beginning of the next month:
 ### Our OKR Spreadsheet
 
 Each month's OKRs are captured here, https://docs.google.com/spreadsheets/d/1trSTphquGTPl9-cQKciidLAipuFnYEZHu4MYXuefP8k/edit#gid=1942082043
+
+### Committed OKRs
+
+The OKRs in our spreadsheet have strategic "one-off" objectives, that represent what we want to change in the world. However, there are also many things that we don't want to change. These "committed OKRs" are things we should.
+
+#### Objective: Availability
+Our web apps should never lose core functionality for more than a few minutes.
+
+  * Key Result: Ensure test e2e coverage of core workflows OR you must test core workflows manually each release.
+  * Key Result: Don't push code that fails tests. If you do, fix it within an hour or roll back.
+
+#### Objective: Responsiveness to Clients
+Clients should perceive us as responsive, reliable and rigorous.
+
+  * Key Result: No client inquiry takes more than one business day to recieve a response.
+  * Key Result: No regression (bug introduced) should exist in production for more than one business day.
+
+
