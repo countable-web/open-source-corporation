@@ -18,5 +18,8 @@ Checklist of key steps when starting a new project.
   * What is your Persona currently doing about this problem (prior to your solution)?
   * Write user stories. This is a functional spec of your software. be clear about what is should do for users.
   * Create wireframes that support the important user stories. Validate these against conversations with the target market.
+
+# For Branding and Visual Design Projects
+  * Get the Product Owner to provide 5 examples of other sites that are close to what they want.
   * If it's in scope, reate brand colors, fonts, logo and visual primitives if new ones needed.
   * Visual mock-ups based on the wireframes using the brand styles.
