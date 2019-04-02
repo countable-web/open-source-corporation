@@ -5,8 +5,8 @@
 
 Countable is a fully remote team, which has certain pros and cons. The top "cons" reported on other remote teams are:
 
-  * Loneliness
-  * Collaborating 
+  * Loneliness / Isolation
+  * Collaborating / Communicating
   
 Things to try.
 
