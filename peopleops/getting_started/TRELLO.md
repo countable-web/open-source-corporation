@@ -4,7 +4,7 @@ We use Trello for project management, as it's simple to set up access to the app
 
 ### Trello Cards
 
-A Trello cards should contain the work for one person required to support a given User Story. A card should typically be between 1 hour and 1 day of work. If it's longer, split it into 2 cards.
+A cards should contain a clear description of the work for one person required to support a given User Story. A card should typically be between 1 hour and 1 day of work. If it's longer, split it into 2 cards.
 
 ### Trello Board Columns
 
