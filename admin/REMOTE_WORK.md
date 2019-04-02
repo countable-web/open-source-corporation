@@ -13,3 +13,4 @@ Things to try.
   * Weekly team Lunch. Can we schedule a video call for a weekly lunch? Figure out what day works for everyone.
   * Shorter coffee-break video call, daily.
   * Video collaboration time on projects. Casual mob coding, async coding allowed too.
+  * review: https://about.gitlab.com/company/culture/all-remote/tips/
