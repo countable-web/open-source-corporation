@@ -2,6 +2,10 @@
 
 We use Trello for project management, as it's simple to set up access to the appropriate boards by partners and clients. A Trello board consists of a set of Cards (tasks) in the following columns.
 
+### Trello Cards
+
+A Trello cards should contain the work for one person required to support a given User Story. A card should typically be between 1 hour and 1 day of work. If it's longer, split it into 2 cards.
+
 ### Trello Board Columns
 
 #### Ideas
@@ -29,11 +33,10 @@ A diagram shows how cards can move from conception to completion [here](https://
 
 ### Progress Awareness
 
-**It's essential to maintain our clients informed about our current progress** on particular tasks, so our professional relationship is strengthened and trust is built. For this objective, we suggest that you:
+**It's essential to keep our clients informed about our current progress** on particular tasks, so our professional relationship is strengthened and trust is built. For this objective, we suggest that you:
 1) Take screenshots of finished progress (when applicable) and post on your trello ticket.
 2) Use checklists for keeping track of what's being done.
-3) Use of an "Ongoing..." tag, on the ticket that you're currently working on.
-4) Use of "Screencastify" chrome extension for recording short screencasts and attaching into your trello ticket
+3) Use of "Screencastify" chrome extension for recording short screencasts and attaching into your trello ticket
 
 ### The "critical" label
 
