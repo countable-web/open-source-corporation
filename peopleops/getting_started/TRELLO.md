@@ -1,6 +1,6 @@
 # Trello
 
-We use Trello for project management, as it's simple to set up access to the appropriate boards by partners and clients. A Trello board consists of a set of [Cards](#trello-cards) (tasks) arranged in Columns](#trello-board-columns].
+We use Trello for project management, as it's simple to set up access to the appropriate boards by partners and clients. A Trello board consists of a set of [Cards](#trello-cards) (tasks) arranged in [Columns](#trello-board-columns).
 
 ### Trello Cards
 
