@@ -20,16 +20,16 @@ Every team should have one or more [Objective](https://github.com/countable-web/
 
 A sprint is a period (1 week to 1 month) punctuated by a Sprint meeting.
 
-The [Scrum Master](#scrum-master) must review tickets for clarity (triage them). _When is this scheduled to happen?_
-The [Product Owner](#product-owner) must review tickets for priority (clarify them to be actionable). _When does this happen?_
+The [Scrum Master](#scrum-master) must review tickets for clarity (triage them) from Requests to Backlog.
+The [Product Owner](#product-owner) must review tickets for priority (order the Backlog).
 
 #### Sprint Meeting Goals
 
 1. Measure what % done our Key Results are. Estimate completion of each KR. Quickly check any metrics necessary.
-2. Each team member takes 2 minutes to what they shipped each week. Don't show work in progress. Screen share or show a visual is possible, only demonstrate what you've made ready to "ship". Then they take 1 minutes to indicate what's blocking their work, and we determine who will help them on it after the meeting.
-3. Review any cards left in the sprint column. Why are they there? How can we avoid that?
-3. During or shortly after the sprint meeting, all cards planned for the sprint should be scheduled. _Should the Product owner order tickets by priority before the sprint meeting?_
-4. Move the Trello Cards that best achieve the project's key results and no more than we can actually do, to the sprint column. _when does this happen?_
+1. Each team member takes 2 minutes to what they shipped each week. Don't show work in progress. Screen share or show a visual is possible, only demonstrate what you've made ready to "ship". Then they take 1 minutes to indicate what's blocking their work, and we determine who will help them on it after the meeting.
+1. Review any cards left in the sprint column. Why are they there? How can we avoid that?
+1. The team moves cards they want to work on during the current sprint into the "sprint" column. They may always take more cards from the backlog later on they finish early.
+1. Move the Trello Cards that best achieve the project's key results and no more than we can actually do, to the sprint column. _when does this happen?_
 
 We release (ship) our work to real customers at the end of the sprint.
 
