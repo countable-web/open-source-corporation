@@ -43,7 +43,7 @@ done well to make it to this point. We wish you great luck in future job applica
   * We should always have active job postings for positions as long as we'd consider the best possible applicant if they did happen to apply.
   * We should improve our company profile on recruiting platforms (etc) so the right people will apply.
 
-### Point system
+### Point System
 Due to the volume of resumes in initial screenings, we need a quick, quanitiative way to screen them. This is far from perfect, but early screening is optimized to [avoid "type 2 errors" not "type 1 errors"](https://en.wikipedia.org/wiki/Type_I_and_type_II_errors). This isn't ideal but it's the way things are at the moment.
   * 1 point for communication ability. No point awarded if candidates who miss the cover letter formatting requirement.
   * 1 point for for writing ability. Reject if you see poor English, grammar errors, spelling mistakes in the cover letter.
@@ -56,12 +56,15 @@ Candidates with less than 4 points are rejected outright. Those with 4 points ot
 
 ## Reaching Out
 
-Ask the Candidate to meet you on an IM system they suggest, and to schedule the time with you. Chat with the candidate and rate their communication ability. They only advance if all these are true:
-  * The candidate manages to meet you (the interviewer) without exchanging more than 3 messages on each side. They should identify times that work, and you should pick one without any other needless communication. Did they schedule the chat efficiently, and choose an IM system that's easy for you to get into and use?
-  * They respond quickly, not making you wait. More than 10s for a response is too long (if it's happening frequently)
-  * The english is perfect or near perfect. Not awkward.
-  * The conversation flows fluidly.
-  * The candidate answers questions clearly and understands what's been asked.
+Ask the Candidate to meet you on appear.in, and to schedule the time with you. Chat with the candidate and rate their communication ability. We are marking their ability to create clarity, and to give and respond to "belonging cues". 
+  * 1 point if the candidate manages to meet you (the interviewer) without exchanging more than 3 messages on each side. They should identify times that work, and you should pick one without any other needless communication. Did they schedule the chat efficiently on appear.in
+  * For the first part of the interview, use video. 1 point if the user maintains eye contact at least 50% of the time, AND you feel they're constructively working to see if there's a fit.
+  * For the second part, use instant messaging with cameras off. The candidate should They respond quickly in IM, not making you wait. More than 10s for a response is too long (if it's happening frequently). This is worth 1 point.
+  * 1 point if the English (written and spoken) is perfect or near perfect. Neither side should need to repeat themselves.
+  * 1 point if the conversation flows fluidly with both sides speaking and the speaker switches frequently. The candidate asks questions on their own to facilitate this.
+  * 1 point if the candidate answers questions clearly and understands what's been asked.
+
+We need at least 5 points to continue to the next round.
 
 ## Technical Test
 
