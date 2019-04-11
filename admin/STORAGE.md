@@ -29,3 +29,11 @@ We should store things only in the places and ways described below.
   * Please structure design assets as follows [ image ]
   * For Reviews, please use the format YYYY.MM.DD_
   * When creating a new project in Google Drive, copy the template linked [ here ]
+
+### Google Drive Folder Standards
+
+TODO: clarify our standards. An example is here, but it's not obvious how to follow it, https://drive.google.com/drive/u/0/folders/1iPhpEg1RuEz_ki4yNgzSOg9Z257Mpa7x?ddrp=1
+
+  * Why were these folder names chosen?
+  * How and where do add new stuff?
+
