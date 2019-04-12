@@ -37,3 +37,13 @@ TODO: clarify our standards. An example is here, but it's not obvious how to fol
   * Why were these folder names chosen?
   * How and where do add new stuff?
 
+Countable Marketing Folder
+Here's the share link to our google drive cwp_marketing folder: https://drive.google.com/drive/folders/1iPhpEg1RuEz_ki4yNgzSOg9Z257Mpa7x?usp=sharing
+
+All the old files are in there, but they've been organized into the following categories:
+
+cwp_logo: in this folder exists our most up-to-date logo, its styleguide, and an _archive folder which houses all previous versions.
+cwp_marketingassets: this folder has a lot of content - any individual assets that have been created for marketing purposes (business cards, social media profile images and banners, brochures, signage, video, team bios, CV, proposals, etc) AND their working files.
+cwp_marketing: this folder includes a folder for our blog and a folder for various tradeshows and other marketing events.
+cwp_website: another big one! This folder includes all of countable.ca's web design files, content strategy, and assets, including sliced images and the logo files specifically used for the website.
+It is based on Felipe's folder design schema (attached) and this article: https://pixeldreams.com/blog/best-practices-folder-structure/
