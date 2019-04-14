@@ -26,6 +26,8 @@ Establish visual standards to best connect us with people who will go the distan
   * Lastly, we'd like to continue to pursue government contracts particuarly when there's a clear agenda for change using the web. There is a movement in BC government to embrace agile methods and improve software that we're excited to support and be part of.
   * The typical decider is the owner or tech lead of the organization. *Persona: Barrett runs a private firm that developed a disruptive hardware component but doesn't have web UI, apps or cloud integration.*
   * Their web app will touch many people. We'd rather build things that are publicly used by millions, because these tend to have higher impact (all other things equal), and create more visibility for us.
+  * We want clients who are interested in "growing the pie" rather than "dividing the pie". A warning sign of a bad client might be someone who thinks our hourly rate is too high for example. An ideal client should be happy that we charge a profitable rate because: We want partners who want to make money together with us, not make money at our expense; We want partners who choose us because of outsized value, not because we're cheapest; We want clients who push us to create more value for them; If we can't provide enough value to charge profitable rates, we shouldn't be hired by that client because both sides should find a more ideal partnership.
+  * We should be able to make _at least_ $100,000 for the client, and should be able to charge a third of that. Our typical minimum contract size should be $30,000, so that they make at least $70,000 in profits.
 
 #### Staff
 
