@@ -26,6 +26,19 @@ During your sprint meetings, review your Objective and Key Results for 5 minutes
 At the beginning of the next month:
   * If designed well, it should be possible to objectively measure your Key Result as a percentage done.
 
+### How To Make Good Objectives
+  * The objective should be the most valuable "wish" the team and client can articulate, that can be accomplished most quickly.
+  * It should have the highest "value velocity" of anything you could work on. "value velocity" is simply the total value of the objective divided by the time it takes to complete: maximize the expression `Vv = Vo / To`
+  * It should (when possible) answer the question: What would success look like? _________ .
+  * It should (when possible) solve the biggest problem for your project's persona.
+  * It should be challenging but possible to accomplish in the allotted time. If it's too easy, just keep adding more objectives, or expand them until they are collectively challenging but still possible to achieve.
+
+### How To Make Good Key Results
+They should:
+  * Be objectively measurable (on a scale of zero to one). Anyone who measures independently should get the same number.
+  * Be sufficient to meet the objective.
+  * Measure the transaction where value is created for real users as closely as possible. Do not measure task completion, measure "number of people helped", "amount of money made/saved", or a worst "amount of actionable information gained".
+
 ### Our OKR Spreadsheet
 
 Each month's OKRs are captured here, https://docs.google.com/spreadsheets/d/1trSTphquGTPl9-cQKciidLAipuFnYEZHu4MYXuefP8k/edit#gid=1942082043
