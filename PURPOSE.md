@@ -1,7 +1,7 @@
 
 # Purpose
 
-_Make It Easier and More Fun To Create Things On The Internet_
+_Make It Easier and More Fun To Create Experiences On The Internet_
 
 Examples of how we embody this purpose:
 
