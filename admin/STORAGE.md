@@ -7,7 +7,10 @@ This page should make it clear where all work is saved.
 
 ## Purpose
 
-To enable anyone to find any file or asset, without having to ask the person who created it where it is.
+To enable anyone to find any file or asset, without having to ask the person who created it where it is. For example:
+  * devs need to find sliced versions of assets
+  * clients and other team members need to find mock-ups, and know which is latest, such as XD links.
+  * artists need to find raw project files in order to be able to take over each others' work.
 
 ## List of Storage Locations
 
