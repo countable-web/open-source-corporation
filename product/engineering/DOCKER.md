@@ -35,3 +35,9 @@ RUN echo "bust cache 33 (version)"
 
 Bumping this version will trigger the rebuild as desired.
 
+## Troubleshooting
+
+When starting with Docker there are a few common issues:
+
+  * A port you need is blocked. Typically our apps run on port 80. To see if something's running there, `sudo lsof -n -i :80 | grep LISTEN` on Linux, Mac.
+  * Make sure you have a docker-compose.override.yml with port 80 mapped to your application.
