@@ -12,6 +12,8 @@ To enable anyone to find any file or asset, without having to ask the person who
   * clients and other team members need to find mock-ups, and know which is latest, such as XD links.
   * artists need to find raw project files in order to be able to take over each others' work.
 
+Every file we create should have one obvious place that it is stored. If there seem to be 2 or more options as to where a file is stored, we should clarify our process.
+
 ## List of Storage Locations
 
 We should store things only in the places and ways described below.
@@ -22,10 +24,10 @@ We should store things only in the places and ways described below.
 | GitHub | Open source code | Everyone in the world |
 | Trello | Work requests, tasks. Never store work deliverables here, only links to Google Drive | The specific client and project staff |
 | Bitbucket | Private source code | The specific client and project staff |
-| Google Drive `/clients/<client name>` folder | Private client files (such as artwork) | The specific client and project staff |
+| Google Drive `/clients/<client slug>/<project slug>` folder | Private client files (such as artwork) | The specific client and project staff |
 | [Google Drive `/team/` folder](https://drive.google.com/drive/folders/12iWzlcOP_qdFlVcM_U1yLVKB6IDq4Uvd) | Private company data (minimize this) | Our staff |
 | [Google Drive `/public/` folder](https://drive.google.com/drive/folders/1Do2l9oaPHlyJ-J6w-BoGAvUmJjK1mDk3) | Any public assets (maximize this) | Everyone in the world |
-| Google Drive (your own folders) | Anything not ready to show off (minimize this) | You |
+| Google Drive (your own folders) | Never store anything here | You |
 | Your local computer | No more than one day's work | You |
 
 Never share work directly in slack by uploading it. Only share links to things stored in the correct place in Google Drive.
