@@ -8,7 +8,7 @@ Define what we'd like to offer our employees, compared with their other options.
 
 ## Factors
 
-  * You're willing to push yourself and your team mates to reach the top of your field, and make an impact.
+  * You're willing to push yourself and your team mates to reach the top of your field and make an impact.
   * You want to work closely with customers, understand them, make their pains highly visible to the team in feedback loops, ans solve them.
   * Be part of our mission to make creation on the web easier and better.
   * If you're a developer, you like Python, Javascript and Postgres.
@@ -19,6 +19,5 @@ Define what we'd like to offer our employees, compared with their other options.
   * You want flexible working hours.
   * You want to be able to work remotely from anywhere you choose, (flexible location).
   * You want exposure to a variety of projects, and a variety of skills (cross-functional overlap)
-  * You want to be paid a fair wage while learning to contribute, and a chance to be compensated well if you make a big contribution.
+  * You want to be paid a fair wage while learning to contribute, and a chance to be compensated generously in proportion to your contribution.
   * You have the discipline to work remotely.
-
