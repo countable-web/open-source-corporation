@@ -7,7 +7,8 @@ This helps us screen for people who enjoy working this way.
 Define what we'd like to offer our employees, compared with their other options. 
 
 ## Factors
-
+  * You have a bias for action, and prefer experimentation and prototyping over planning.
+  * You're a good reader and writer of English, and enjoy writing.
   * You're willing to push yourself and your team mates to reach the top of your field and make an impact.
   * You want to work closely with customers, understand them, make their pains highly visible to the team in feedback loops, ans solve them.
   * Be part of our mission to make creation on the web easier and better.
