@@ -21,7 +21,7 @@ You should:
   * *Clouds and Dirt* - Consider both the big picture and minute details, from a client's overall business down to crossing T's and dotting I's.
   * Be able to uncover, and focus on, what's really important in a complex environment with many distractions.
 
-Here's a guide to determining if you're a good fit. If these things don't resonate with you, please don't apply. Our screening process will determine you're not a good fit so applying would be a waste of everyone's time. https://github.com/countable-web/open-source-corporation/blob/master/recruiting/FIT.md
+Here's a guide to determining if you're a good fit. If these things don't resonate with you, please don't apply. Our screening process will determine you're not a good fit so applying would be a waste of everyone's time. https://github.com/countable-web/open-source-corporation/edit/master/peopleops/recruiting/FIT.md
 
 We are open to a variety of work arrangements and time commitments, let us know what you prefer.
 
