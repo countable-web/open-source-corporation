@@ -1,6 +1,6 @@
 # Estimation
 
-Software project estimation is [notoriously difficult](https://erikbern.com/2019/04/15/why-software-projects-take-longer-than-you-think-a-statistical-model.html).
+Software project estimation is [notoriously difficult](https://erikbern.com/2019/04/15/why-software-projects-take-longer-than-you-think-a-statistical-model.html). A typical problem is the team appears to have 70% of the information when estimating a project, when they really have 30% because by definition, they can't see black swan conditions (unknown unknowns).
 
 # Purpose
 
