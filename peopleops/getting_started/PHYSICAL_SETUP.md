@@ -10,5 +10,6 @@ You'll need:
 ### Equipment Expenses
 
   * Countable will pay for a linux laptop if you use that as your primary work machine. We subsidize Linux because it helps the team learn about our servers, Docker and other critical components of our business that use Linux. We want a bias to moving as much infrastructure in that direction as possible but recognize not everything works there yet (Adobe, I'm looking at you).
-  * For mac laptops, monitors, and any other computer equipment you need, Countable will pay 50% up to $1000 per year.
+  * For mac laptops, monitors, repairs and any other computer equipment you need, Countable will pay 50% up to $1000 per year.
+  * We studiously avoid Microsoft Windows at Countable. It's not as automatable as Linux, and prevents people from learning Linux which is a core competency at Countable.
   * Countable may pay for co-working space if you need one, but it must be approved case-by-case currently.
