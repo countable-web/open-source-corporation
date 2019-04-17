@@ -40,9 +40,20 @@ Never share work directly in slack by uploading it. Only share links to things s
   * Make sure your work is stored in a way that is convenient for those who will be using it.
   * When a file is no longer needed, outdated, or otherwise more likley to confuse than help, move it to a folder named ARCH in the same directory.
 
-### Canonical Folders
-(draft)
-  * Each project and client has a specific "slug" or identifying string, and a "acronym" which is a short version to be used throughout the company. [private list of Countable slugs here](https://docs.google.com/spreadsheets/d/11IvCJCtw0iD4vWEOY_tNMvpUnte2eb1Z3exMMtevIzk/edit#gid=279543225)
+### Standard Folders
+
+#### Client Folders
+
+In `/clients/`, we have a folder for each client, using an [official client slug](https://docs.google.com/spreadsheets/d/11IvCJCtw0iD4vWEOY_tNMvpUnte2eb1Z3exMMtevIzk/edit#gid=279543225). The slug is typically the client's domain name. These folders look like: `/clients/<client slug>`.
+
+#### Project Folders
+
+In each `/clients/<client slug>` folder, we have a folder for each project, using an [official project slug](https://docs.google.com/spreadsheets/d/11IvCJCtw0iD4vWEOY_tNMvpUnte2eb1Z3exMMtevIzk/edit#gid=279543225). A project should be all activity organized around a specific objective (set of problems to solve). These folders look like `/clients/<client slug>/<project slug>`.
+
+#### Standard Folders
+
+  * `preproduction` these are inputs to the project that existed beforehand.
+  * `design` are raw project files designers work on.
   * Please structure design assets as follows [ image ]
   * For Reviews, please use the format YYYY.MM.DD_
   * When creating a new project in Google Drive, copy the template linked [ here ]
