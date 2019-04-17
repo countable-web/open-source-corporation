@@ -1,5 +1,7 @@
 # Estimation
 
+Software project estimation is [notoriously difficult](https://erikbern.com/2019/04/15/why-software-projects-take-longer-than-you-think-a-statistical-model.html).
+
 # Purpose
 
 We don't provide quotes except on large projects. This is because new scope is nearly always added, invalidating the quote and requiring a change management process which wastes time, especially when deadlines are close. The cost of missing a deadline or having to manage updates to a small quote is astronomically higher than the cost of the original work. Worse, it distracts our focus from doing excellent work instead to meeting an arbitrary cost number. Instead, we'd rather offer ballpark estimates, have great communication throughout the project about [velocity](https://www.scruminc.com/velocity/) and then guarantee satisfaction with our work. If we can't do that, the client shouldn't be our client so it helps us stick to work the leverages our strengths and where we can produce fantastic results.
