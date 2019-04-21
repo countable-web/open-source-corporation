@@ -41,3 +41,4 @@ When starting with Docker there are a few common issues:
 
   * A port you need is blocked. Typically our apps run on port 80. To see if something's running there, `sudo lsof -n -i :80 | grep LISTEN` on Linux, Mac.
   * Make sure you have a docker-compose.override.yml with port 80 mapped to your application.
+  * Sometimes, such as when adding dependencies, you may want to rebuild your application. It is worth noting that `docker-compose rm` does not actually rebuild, it merely "removes" existing images. For a full rebuild, run `docker-compose build`.
