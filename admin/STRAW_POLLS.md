@@ -1,5 +1,5 @@
 
-# Gathering Team Feedback
+# Straw Polls
 
 This process is important because it lets us gauge whats important to the team while increasing buy-in on each action we take to improve.
 The goal is to find the changes that will move us towards our mission most quickly.
