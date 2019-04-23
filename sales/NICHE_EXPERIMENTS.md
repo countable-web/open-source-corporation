@@ -1,5 +1,7 @@
 # Niche Experiments
 
+(draft)
+
 ## Purpose
 
 A fundamental challenge in selling the value produced by a company is market segmentation. Here we define some systematic tests to confirm exactly who to optimize our products, services and market funnel for.
