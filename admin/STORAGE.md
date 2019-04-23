@@ -32,3 +32,6 @@ We should store things only in the places and ways described below.
 
 Never share work directly in slack by uploading it. Only share links to things stored in the correct place in Google Drive.
 
+## Google Drive
+
+See [./FILE_ORGANIZATION.md]
