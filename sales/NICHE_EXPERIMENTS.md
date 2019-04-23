@@ -2,7 +2,7 @@
 
 ## Purpose
 
-A fundamental challenge in selling the value produced by a company is market segmentation. How do we know exactly who to optimize our products, services and market funnel for?
+A fundamental challenge in selling the value produced by a company is market segmentation. Here we define some systematic tests to confirm exactly who to optimize our products, services and market funnel for.
 
 ## Scope
 
