@@ -34,4 +34,4 @@ Never share work directly in slack by uploading it. Only share links to things s
 
 ## Google Drive
 
-See [./FILE_ORGANIZATION.md]
+See [File Organizaton](./FILE_ORGANIZATION.md)
