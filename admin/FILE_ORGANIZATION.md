@@ -19,7 +19,7 @@ We list a standard folder structure for Google Drive
 
 ### Standard Folders
 
-  * When creating a new project in Google Drive, copy the template linked [HERE]()
+  * When creating a new project in Google Drive, copy the template linked [HERE](https://drive.google.com/drive/u/0/folders/19uOpYepddtD_fsheccNiAdTOPYYaAymg?ddrp=1)
 
 It is based on Felipe's folder design schema (attached) and this article: https://pixeldreams.com/blog/best-practices-folder-structure/
 
