@@ -1,6 +1,8 @@
 
 # Areas of Responsibility (AOR)
 
+(inactive)
+
 ## Purpose (Why)
 The purpose of AORs is to determine what work matters most to Countable's mission, and make specific team members accountable for improving and tracking progress on each one. An AOR is an area of work that we've identified that someone should be responsible for. That person is the Directly Responsible Individual (DRI) for the AOR, and ensures it's clear why AOR is important, determines the top priority for doing better in that AOR, and tracks progress towards that priority. We'll know that AORs are a success by checking whether employees can easily create process documents that are easy for the team to understand and follow.
 
