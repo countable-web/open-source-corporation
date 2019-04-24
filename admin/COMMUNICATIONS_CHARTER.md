@@ -12,6 +12,7 @@ This is currently based on the one published by Evernote's remote team, and is i
   * We work in different timezones, and also need time to focus so nearly all communication is `asynchronous`. This means it will often be a few hours to a day before you get a response to Slack or Email messages.
   * Some communication doesn't work well asynchronously. Such as complex or emotionally charged conversations. For these, use a voice medium (appear.in or phone)
   * Being brief in email/slack amongst ourselves is ok.
+  * There are arguably two "modes" we work in. "Focus mode" and "Collaboration mode". Slack is great when you're in collaboration mode, but it's ok to turn off all channels and focus on your work too.
 
 ### Calendar Expectations:
   * We do reply to calendar invitations (within 24h, because that's the maximum frequency for checking email)
@@ -31,14 +32,16 @@ This is currently based on the one published by Evernote's remote team, and is i
 ### Text
   * If you'd like someone's attention because you're blocked and they're not responding on Slack, we recommend you text them. Do this only when necessary.
 
-### Appear.in
-  * Use this 
+### Appear.in (Video Chat, and in-perosn meetings)
+Guidlines for communicating face-to-face
+  * Make eye contact 50% of the time when speaking, and 100% of the time when listening.
+  * 
 
 ### Phone
   * For truly urgent or critical things, we call each other (cell phone). Only do this in the evening or weekend of the recipient's timezone if it's an emergency. This should be RARE.
 
 ### Trello
-  * Trello is for everything someone has to remember TO DO. We use variants of Scrum, details [here](../peopleops/getting_started/TRELLO.md).
+  * Trello is for tracking what we need to get done (reminders). We use variants of Scrum, details [here](../peopleops/getting_started/TRELLO.md).
 
 ### Office Hours and Presence:
   * Overall objective: achieving our goals but also balancing work & private life in a meaningful way
@@ -52,7 +55,7 @@ See [./MEETINGS.md]
   * Use old.reddit.com/CountableWeb for public discussions. Private discussions can be held on slack. Try to make any discussion you can public, assuming personal and client's competitive information can be left out.
 
 ### Slack Hygiene
-  * The expected response time on slack is up to 4 hours.
+  * The expected response time on slack is up to 4 hours. When people are in "focus mode", they shouldn't have slack open as it's a distraction.
   * If the message could be useful to more than one person, post it in the most relevant public or project channel.
   * No instant reply required. Our communication priority order is: 1) Call/Text 2) Slack 3) Email 4) Trello 5) Reddit
   * Try to interact with the team about twice per work day on slack, but don't leave it open all day, you need some quiet time to focus on work. Catch up on your channels, skim and respond where needed.
