@@ -13,6 +13,7 @@ This is currently based on the one published by Evernote's remote team, and is i
   * Some communication doesn't work well asynchronously. Such as complex or emotionally charged conversations. For these, use a voice medium (appear.in or phone)
   * Being brief in email/slack amongst ourselves is ok.
   * There are arguably two "modes" we work in. "Focus mode" and "Collaboration mode". Slack is great when you're in collaboration mode, but it's ok to turn off all channels and focus on your work too.
+  * It's always better to speak up if you have a concern, or any information that might be important to the group. If you're worried about how the group will react, say so. We're all commited to speaking up, and listening respectfully. We can't make the right decision without everyone sharing all their information.
 
 ### Calendar Expectations:
   * We do reply to calendar invitations (within 24h, because that's the maximum frequency for checking email)
@@ -35,7 +36,9 @@ This is currently based on the one published by Evernote's remote team, and is i
 ### Appear.in (Video Chat, and in-perosn meetings)
 Guidlines for communicating face-to-face
   * Make eye contact 50% of the time when speaking, and 100% of the time when listening.
-  * 
+  * Never speak for more than 1 minute without pausing for the other person to speak. If they don't, then you can continue.
+  * Get in the habit of repeating things back to people concisely in your own words. It proves you actually heard them and gave it some thought.
+  * Everyone in a group should speak some of the time, with contributions as equal as possible.
 
 ### Phone
   * For truly urgent or critical things, we call each other (cell phone). Only do this in the evening or weekend of the recipient's timezone if it's an emergency. This should be RARE.
