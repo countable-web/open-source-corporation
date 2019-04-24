@@ -16,6 +16,7 @@ This is currently based on the one published by Evernote's remote team, and is i
   * It's always better to speak up if you have a concern, or any information that might be important to the group. If you're worried about how the group will react, say so. We're all commited to speaking up, and listening respectfully. We can't make the right decision without everyone sharing all their information.
 
 ### Calendar Expectations:
+  * The calendar is the single source of truth for meetings. They are only held by people invited to actual calendar events.
   * We do reply to calendar invitations (within 24h, because that's the maximum frequency for checking email)
   * We make our calendars public (to show when we're busy, not exact events).
   * We add our vacations or holidays into the event calendar as following: “Name” vacation (# of days )
