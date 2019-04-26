@@ -34,9 +34,26 @@ Countable is a Web Technology Solutions Development Firm. We build things with w
 
 [Read the mission](./MISSION.md).
 
-### Getting Started
-If you're new, start here!
+## Who is Countable?
 
+We're very selective in order to embody the above values. This starts with hiring, all the way to the kinds of partners we seek out. In the end, we want to bring together people to have a big impact by improving all the industries we engage with, through better technology designed by the end users themselves. Those users are the ones who understand their problems and need to given a voice to control the technology they depend on. Now that's a feedback loop!
+
+### Recruiting
+Finding the right people is one of our biggest challenges, so we need every advantage we can find in this way.
+  * [General Posting](./peopleops/recruiting/README.md)
+  * [Are You A Good Fit For Countable?](./peopleops/recruiting/FIT.md)
+
+### Marketing
+Helps us find the best partners and team members who share our passion.
+  * [Value Proposition](./marketing/VALUE_PROP.md)
+  * [Creative Brief](./marketing/CREATIVE_BRIEF.md)
+  * [Design Asset Storage](./marketing/NON_CODE_ASSETS.md)
+  * [Social Media Posting Policy](./marketing/SOCIAL_MEDIA.md)
+  * [2018 Search Engine Optimization (SEO) Checklist](./marketing/2018_SEO_CHECKLIST.md)
+  * [Usability](./marketing/USABILITY.md)
+
+### Getting Started
+If you're a new Countable team member, start here!
   * [Onboarding](./peopleops/getting_started/ONBOARDING.md)
   * [Your Contract](./peopleops/getting_started/ASSOCIATE_AGREEMENT.md)
   * [Diversity and Inclusion](./peopleops/getting_started/DIVERSITY_AND_INCLUSION.md)
@@ -49,12 +66,9 @@ If you're new, start here!
   * [Trello](./peopleops/getting_started/TRELLO.md)
   * [Client Data Protection](./peopleops/getting_started/CLIENT_DATA_PROTECTION.md)
 
-## Recruiting
-The goal is to only accept people who are the best possible fit. Finding the best people is one of the top challenges in our industry, so we need every advantage we can find in this way. See more about this section [here](./RECRUITING.md).
-  * [General Posting](./peopleops/recruiting/README.md)
-  * [Are You A Good Fit For Countable?](./peopleops/recruiting/FIT.md)
-
-## How Do We Work?
+If you're a new client, start here!
+  * [Scrum](./peopleops/getting_started/SCRUM.md)
+  * [Trello](./peopleops/getting_started/TRELLO.md)
 
 ### Engineering
 The purpose of this section is to standardize key (not all) product/engineering processes in order to improve the team's performance, and take advantage of an experience curve by eliminating arbitrary process differences.
@@ -72,14 +86,7 @@ The purpose of this section is to standardize key (not all) product/engineering 
   * [Jenkins](./product/engineering/JENKINS.md)
   * [Stack Choices](./product/engineering/STACK_CHOICES.md)
   
-### Marketing
-Helps us find the best clients and staff who share our passion.
-  * [Value Proposition](./marketing/VALUE_PROP.md)
-  * [Creative Brief](./marketing/CREATIVE_BRIEF.md)
-  * [Design Asset Storage](./marketing/NON_CODE_ASSETS.md)
-  * [Social Media Posting Policy](./marketing/SOCIAL_MEDIA.md)
-  * [2018 Search Engine Optimization (SEO) Checklist](./marketing/2018_SEO_CHECKLIST.md)
-  * [Usability](./marketing/USABILITY.md)
+
   
 ### Consulting
 How to provide the best results for clients.
