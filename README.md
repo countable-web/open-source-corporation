@@ -2,7 +2,7 @@
 
 ## What Is This?
 
-This is the [Countable Web Productions Inc.](http://countable.ca) *operations manual*.
+This is the [Countable Web Productions Inc.](http://countable.ca) *operations manual*. It's a living record of hour our company works, and is constantly evolving as we learn. Our whole team proposes amendments in order to constantly improve the material here.
 
 Like for an open source software project, our processes and other information assets are publicly available for anyone to use under the MIT license. *However*, just as an open source software project does not disclose its database contents, this repository does not include any of our clients' and employees' private data.
 
@@ -18,6 +18,7 @@ Like for an open source software project, our processes and other information as
 *Second, why is it open source?* To promote [transparency](./TRANSPARENCY.md).
 
 ## Scope
+
 This repo will contain:
   * Business processes and knowledge base.
   * The Articles of Incorporation and other general corporate documents. Countable is a [CCPC](http://www.cra-arc.gc.ca/E/pub/tp/it458r2/it458r2-e.html), but it's possible some of these documents may be useful for other organization structures.
