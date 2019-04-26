@@ -25,13 +25,16 @@ This repo will contain:
   * Document templates used by the company for accounting and legal.
   * We will *not* publish information here that would compromise the privacy or property of our employees, clients or customers. For example, _filled_ timesheets, invoices and other documents with monetary specifics of other parties will not be filed here. For these, only empty templates will be provided.
 
-## Vision Statement
-Codify the many-faceted problem of web technology delivery, so it can be abstracted away and simplified to allow everyone to better focus on their customers. This should be done in a way that caters to the situation of a business implementing the technology. Learn more about Countable's [vision](./VISION.md) for an exceptional web technology team.
+## What is Countable?
 
-## Mission Statement
-Empower creation on the web. [Read the mission](./MISSION.md).
+Countable is a Web Technology Solutions Development Firm. We build things with web technology. There are tens of thousands of companies that do this. What makes us different?
+  * We are obsessed with feedback. A remote team, feedback loops are harder to establish and even more critical to our ability to deliver great work. At Countable, feedback is sacred, and everyone is encouraged to maximize thoughtful feedback to one another as much as possible. We want our clients to see our work as we're doing it and be as visible as possible.
+  * We're built to address the 3 main failure modes of software projects (over budget, overdue, and incorrect requirements). We do this by prototying, the art of simulating an experience with the minimum effort.
+  * We work hard to be transparent, interactive, and have fun.
 
-## Getting Started
+[Read the mission](./MISSION.md).
+
+### Getting Started
 If you're new, start here!
 
   * [Onboarding](./peopleops/getting_started/ONBOARDING.md)
