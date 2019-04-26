@@ -93,11 +93,8 @@ How to provide the best results for clients.
   * [Priorities](./admin/consulting/PRIORITIES.md)
   * [Methodology](./admin/consulting/METHODOLOGY.md)
   * [Communicating with clients](./admin/consulting/COMMUNICATING_WITH_CLIENTS.md)
-    
-### Product
 
-## Administrative Matters
-This section involves the bureaucratic processes the company carry out.
+## Operations
   * [Meetings](./admin/MEETINGS.md)    
   * [Processes](./admin/PROCESSES.md)
   * [Storage](./admin/STORAGE.md)
