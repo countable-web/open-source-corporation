@@ -12,7 +12,7 @@ Define how Countable "follows" Scrum.
 
 ## Principles
 
-1. Ship working code every sprint. Don't allow "work in progress" to not be release. Instead, plan your work so it's releasable every 2 weeks or _ideally, every day_.
+1. Ship working code every sprint, and get feedback from real users. Don't allow "work in progress" to not be released. Instead, plan your work so it's releasable every 2 weeks or _ideally, every day_.
 2. Make sure everyone's clear on the _Objective of the work_.
 3. _Communicate_ with your project team about how you're  least once a day about how you're reaching the objective.
 
