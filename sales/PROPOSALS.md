@@ -6,7 +6,7 @@ Improve the ROI of time spent writing proposals.
 
 ## Scope
 
-Actionable tactics for achieving the above purpose.
+Actionable tactics for achieving the above purpose. The author is most experienced writing proposals for the public sector.
 
 ## Principles
 
@@ -31,7 +31,7 @@ You'll want to ask as many questions an possible before writing in order be conf
 
 ### Research
 
-This is pretty dependent on the proposal, but the main goal is to:
+This is pretty dependent on the proposal, but the main goals are:
 
 1. Further clarify your chances of winning.
 1. Get the information you need to improve your chances of winning.
