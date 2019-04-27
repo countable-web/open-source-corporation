@@ -44,7 +44,11 @@ Are you the frontrunner? If not, can you propose a solution that is better in so
 
 ### Angle
 
-Now that you know the most important thing they want to achieve from your questions, you must create an "angle". This means you should create some uncertainty that competitors will deliver what matters, by emphasizing what's unique about your team's ability to solve the problem. In particular, if you're not the frontrunner, this is critical. Plant a seed of doubt about the frontrunner and build on that. A good one is that as a newcomer you can provide more customization because your product is still more flexible and early in its development lifecycle.
+Now that you know the most important thing they want to achieve from your questions, you must create an "angle". This means you should create some uncertainty that competitors will deliver what matters, by emphasizing what's unique about your team's ability to solve the problem.
+
+In particular, if you're not the frontrunner, this is critical. Plant a seed of doubt about the frontrunner and build on that. A good one is that as a newcomer you can provide more customization because your product is still more flexible and early in its development lifecycle.
+
+If you are the a frontrunner, point to your past successes. Your angle is to create concern that other solutions don't have as much evidence of ability to deliver. 
 
 ### Addressing Criteria
 
