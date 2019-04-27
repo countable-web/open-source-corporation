@@ -40,6 +40,12 @@ This is pretty dependent on the proposal, but the main goals are:
 
 With all the above done, you should now determine whether to write, or move on to a new RFP. You should know your approximate chances of winning, the value of the contract, and your alternatives, and make the best choice.
 
+Are you the frontrunner? If not, can you propose a solution that is better in some way that matters to the prospect? The answer to one of these questions should be YES if you want to write.
+
+### Angle
+
+Now that you know the most important thing they want to achieve from your questions, you must create an "angle". This means you should create some uncertainty that competitors will deliver what matters, by emphasizing what's unique about your team's ability to solve the problem. In particular, if you're not the frontrunner, this is critical. Plant a seed of doubt about the frontrunner and build on that. A good one is that as a newcomer you can provide more customization because your product is still more flexible and early in its development lifecycle.
+
 ### Addressing Criteria
 
 If the RFP has scoring criteria already, this should be your focus. I suggest that you don't try to be clever and make up a proposal structure based on your domain knowledge.
