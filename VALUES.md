@@ -11,7 +11,7 @@ Values are ideals that our team members share. This helps us improve communicati
 ## Scope
 
   * Challenging but supporting each other.
-  * Critical thinking.
+  * Act based on real feedback and data from customers and peers.
   * Continuous improvement.
   * Building trust based on shared goals.
 
