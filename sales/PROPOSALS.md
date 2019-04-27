@@ -54,3 +54,6 @@ For scoring criteria that are clear, focus on creating the most truthful answer 
 
 For scoring criteria that are less clear, there's going to be more subjectivity. Find out what probably matters most to your evaluators, going back to the questions you asked earlier.
 
+### RFPs Without Criteria
+
+When there's no criteria given, that may be a red flag. I'd recommend avoiding this kind of proposal unless you're confident they know what they want, and that you can give it to them better than anyone else, and you can explain how you'll do that in a compelling way. This kind of RFP will still often go to someone they know instead of the best applicant, so it's risky.
