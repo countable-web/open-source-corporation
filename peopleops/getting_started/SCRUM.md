@@ -4,11 +4,17 @@ Countable uses [Scrum](https://en.wikipedia.org/wiki/Scrum_(software_development
 
 ## Purpose
 
-Learn how to achieve [Key Results](https://github.com/countable-web/open-source-corporation/blob/master/OKRS.md) together.
+Learn how to achieve [Key Results](https://github.com/countable-web/open-source-corporation/blob/master/OKRS.md) rapidly together.
 
 ## Scope
 
-Define how Countable does Scrum.
+Define how Countable "follows" Scrum.
+
+## Principles
+
+1. Ship working code every sprint. Don't allow "work in progress" to not be release. Instead, plan your work so it's releasable every 2 weeks or _ideally, every day_.
+2. Make sure everyone's clear on the _Objective of the work_.
+3. _Communicate_ with your project team about how you're  least once a day about how you're reaching the objective.
 
 ## Process
 
@@ -34,7 +40,9 @@ The [Product Owner](#product-owner) must review tickets for priority (order the 
 We release (ship) our work to real customers at the end of the sprint.
 
 #### Stand-up Meetings
-Every day, please share something on your team's public slack channel regarding the work you did. It's best to show a screenshot of your work for feedback.
+Countable doesn't hold synchronous stand-up meetings. Instead, every day, please share something on your team's public slack channel regarding the work you did. It's best to show a screenshot of your work for feedback.
+
+## Reference
 
 ### Roles
 These are the duties we must assigned when doing Scrum.
