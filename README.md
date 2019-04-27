@@ -32,7 +32,7 @@ Countable is a Web Technology Solutions Development Firm. We build things with w
   * We're built to address the 3 main failure modes of software projects (over budget, overdue, and incorrect requirements). We do this by prototying, the art of simulating an experience with the minimum effort.
   * We work hard to be transparent, interactive, and have fun.
 
-[Read the mission](./MISSION.md).
+[Read about the purpose of Countable](./PURPOSE.md).
 
 ## Who is Countable?
 
