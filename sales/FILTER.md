@@ -11,3 +11,19 @@ set of inquiries outlines the filtering steps necessary. Our prospective hires a
 3) Will you help to propel our shared team towards this vision? Do you have the capability (resources, skills, motivation) to do so?
 
 If the answer to all the above, we might do great work together. Let's prototype a relationship - we'll complete a 3 week project together with no commitments. After this, both parties can decide if we want to pursue further work.
+
+# Filtering Proposals
+
+We evaluate the RFP due date for logistics.
+We evaluate the contract size.
+We evaluate the alignment score on a 100% scale.
+  * 50 points for technology. Django, Node, Postgres, Vue, React, javascript are good. .NET, oracle, java, and most others are bad. If it just says "web application" or similar, award 40 points out of 50.
+  * 10 points if it's publicly available.
+  * 10 points for cloud based.
+  * 10 for scoring criteria (present or not)
+  * 30 points for business domain (industry). How much experience do we have in similar industries. Exact match is 30 points.
+  * 10 points for alignment on mission.
+  * 20 points for contract size. 0 for $10k, 5 for $20k, 10 for $50k, 15 for $100k, 20 for $200k and up.
+  * bonus: 10 points if open source is allowed.
+  * bonus: 10 points for mentioning Scrum or Agile.
+  * Any other special circumstances (explain)
