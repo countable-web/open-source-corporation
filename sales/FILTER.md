@@ -17,7 +17,9 @@ If the answer to all the above, we might do great work together. Let's prototype
 We evaluate the RFP due date for logistics.
 We evaluate the contract size.
 We evaluate the alignment score on a 100% scale.
-  * 50 points for technology. Django, Node, Postgres, Vue, React, javascript are good. .NET, oracle, java, and most others are bad. If it just says "web application" or similar, award 40 points out of 50.
+  * 50 points for technology it implies "web application".
+  * -10 points for .NET, oracle, java, and most others are bad. 
+  * Django, Node, Postgres, Vue, React, javascript give an extra 10 points. 
   * 10 points if it's publicly available.
   * 10 points for cloud based.
   * 10 for scoring criteria (present or not)
