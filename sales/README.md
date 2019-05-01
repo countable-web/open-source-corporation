@@ -18,7 +18,7 @@ For our B2B consulting business, we generally work best with:
 
 TODO: sourcing leads.
 TODO: qualifying leads.
-TODO: learn about their challenges and determine if we can help.
+TODO: learn about their challenges and determine if we can help. See [../product/DISCOVERY.md]
 
 ### Day to Day Practices
   * Talk to your clients every week at a minimum. If you've worked on something, ensure you show what you worked on, ask for feedback.
