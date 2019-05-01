@@ -67,3 +67,13 @@ For scoring criteria that are less clear, there's going to be more subjectivity.
 ### RFPs Without Criteria
 
 When there's no criteria given, that may be a red flag. I'd recommend avoiding this kind of proposal unless you're confident they know what they want, and that you can give it to them better than anyone else, and you can explain how you'll do that in a compelling way. This kind of RFP will still often go to someone they know instead of the best applicant, so it's risky.
+
+### Competing With ERPs
+
+Often, we are proposing a Django based project as a more flexible, cheaper, faster and more maintainable alternative to an ERP implementation (Enterprise Resource Planning). Here are some problems with ERPs that we solve for our clients:
+
+  * It takes an average of 11 months after go-live for SMBs to realize benefits from an ERP [1], whereas our implementations typically realize benefits in 6 to 8 weeks due to our rapid prototyping approach in the first 2 weeks.
+  * In an ERP usage survey, only 14 of 287 respondents reported realizing the benefits of "Upgrading Technology" with an ERP, and 34 of 150 respondents realized the "Growth"-related goals they had when implementing ERP. ERP were more effective at realizing "Operational Efficiency" goals, however with 103 of 122 respondents reporting success.
+  
+[1] 2019 ERP Report, Panoram Consulting Solutions.
+  
