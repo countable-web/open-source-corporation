@@ -19,7 +19,20 @@ Actionable tactics for achieving the above purpose. The author is most experienc
 
 ## Process
 
+### RFP Lead Capture
+
+1. 
+
 ### Pre-qualify
+
+1. Is there a strong off-the-shelf solution which is compatible. If so, is there a local supplier? Are they a frontrunner?
+2. Review all evaluation criteria. What is the maximum score we could get on the project? Is it within 5% of frontrunner?
+3. Find frontrunner. What is the industry "state of the art" in this area. What is being used by others? Call local peers of prospect, and ask "we are researching options for X software, what do you use?".
+4. Estimate frontrunner 
+5. Are we required to demo a mature product. Or MVP?
+
+
+### Qualify
 
 You'll want to ask as many questions an possible before writing in order be confident about the project. Ideally, get on the phone with someone in order to make a "conceptual agreement". This won't always be possible.
 
