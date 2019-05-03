@@ -24,7 +24,7 @@ We evaluate the alignment score on a 100% scale.
   * 10 points for cloud based.
   * 10 for scoring criteria (present or not)
   * 20 points for business domain (industry). How much experience do we have in similar industries. Exact match is 20 points. (Queue, medical, seafood/marine, natural resources, )
-  * 30 points if custom solution is allowed (no testing in evaluation), or MVP/PoC allowed, or is a queue systems.
+  * 30 MVP/PoC allowed, or is a queue systems, 20 points if custom solution is allowed (no testing in evaluation).
   * 20 points for contract size. 0 for $10k, 5 for $20k, 10 for $50k, 15 for $100k, 20 for $200k and up, 15 for over $500k, 10 for over $1M.
   * bonus: 10 points if open source is allowed.
   * bonus: 10 points for mentioning Scrum or Agile.
