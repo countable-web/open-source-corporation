@@ -25,12 +25,11 @@ SEE [./FILTER.md]
 
 ### Pre-qualify
 
-1. Is there a strong off-the-shelf solution which is compatible. If so, is there a local supplier? Are they a frontrunner?
-2. Review all evaluation criteria. What is the maximum score we could get on the project? Is it within 5% of frontrunner?
-3. Find frontrunner. What is the industry "state of the art" in this area. What is being used by others? Call local peers of prospect, and ask "we are researching options for X software, what do you use?".
-4. Estimate frontrunner 
-5. Are we required to demo a mature product. Or MVP?
-6. Estimate bid size, based on beating the frontrunner by 5%.
+1. Determine who is the "frontrunner" who is most likely to bid and win the project. Is there a strong off-the-shelf solution which is compatible. If so, is there a local supplier? 
+1. Review all evaluation criteria. What is the estimated score we could get on the project? Is it within 5% of frontrunner's estimated score?
+1. Find frontrunner. What is the industry "state of the art" in this area. What is being used by others? Call local peers of prospect, and ask "we are researching options for X software, what do you use?".
+1. Are we required to demo a mature product. Or MVP?
+1. Estimate bid size, based on beating the frontrunner's score by 5%. If there's no budget for the project, estimate one based on past similar projects by the frontrunner, prospect, and software category.
 
 ### Qualify
 
