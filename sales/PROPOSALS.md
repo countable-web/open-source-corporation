@@ -21,7 +21,7 @@ Actionable tactics for achieving the above purpose. The author is most experienc
 
 ### RFP Lead Capture
 
-1. 
+SEE [./FILTER.md]
 
 ### Pre-qualify
 
@@ -30,7 +30,7 @@ Actionable tactics for achieving the above purpose. The author is most experienc
 3. Find frontrunner. What is the industry "state of the art" in this area. What is being used by others? Call local peers of prospect, and ask "we are researching options for X software, what do you use?".
 4. Estimate frontrunner 
 5. Are we required to demo a mature product. Or MVP?
-
+6. Estimate bid size, based on beating the frontrunner by 5%.
 
 ### Qualify
 
