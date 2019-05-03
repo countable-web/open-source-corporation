@@ -21,7 +21,7 @@ Actionable tactics for achieving the above purpose. The author is most experienc
 
 ### RFP Lead Capture
 
-SEE [./FILTER.md]
+See [Filter](./FILTER.md)
 
 ### Pre-qualify
 
