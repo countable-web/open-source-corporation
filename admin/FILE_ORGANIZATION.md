@@ -44,17 +44,20 @@ The naming convention for folder have the following structure:
 https://github.com/fepirata/final-exam-special-topics/blob/master/public/cwp_naming_guide_folder_v03.jpg?raw=true)
 
 ### Files
+
 The files follow a similar structure, the main difference is that files have versioning section in the end of the name:
 
 ![Countable Web Production, Naming Structure guide for files](
 https://github.com/fepirata/final-exam-special-topics/blob/master/public/cwp_naming_guide_file_v01.jpg?raw=true)
 
 ### Guidelines for naming structure
+
 * Replace spaces and dashes by underlines. <b>E.g.: cpw-donut icon => cwp_donut_icon</b>
 * Always try to use short desccriptions unless is necessary to be more descriptive.
 * Be consistent with your own naming structure. <b>E.g.: if you have a series of icons, don't name them: cwp_icon_pizza, cwp_burger_icon, cwp_hotdog. Instead of that, keep one pattern: cwp_pizza_icon, cwp_burger_icon, cwp_hotdog_icon.</b>
 
 ### Guidelines for folder structure
+
 Sometimes is necessary to create additional folders, because of that a simple series of questions were made to help you to decided if you need or not an additional folder:
 * Are there 10+ files and it makes sense to nest them into other folders? <b>Create a folder</b>
 * Do the files have really distinct content, i.e., doesn't make sense to keep to files together? <b>Create a folder</b>
@@ -63,6 +66,7 @@ Sometimes is necessary to create additional folders, because of that a simple se
 
 
 ### Nice-to-Have when you organize the folder structure
+
 * There's no rule for uppercase or lowercase words, but if you are in doubt, go for lowercase.
 * The versioning is not mandatory for all the files, like documents which most part of the times there's just one version of each file. However, if a second version is created, it needs to be named with the versioning section in the end.
 * the five main folders follow a color structure, which visually helps us to guide through the folders. Is good to keep the color pattern every time is possible.
