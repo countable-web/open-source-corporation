@@ -9,8 +9,9 @@ Our first job on a project is to create a clear shared vision. Make quick progre
 
 Checklist of key steps when starting a new project.
 
-# Required Steps for Project Discovery
+## Required Steps for Project Discovery
   
+  * For this session, meet the product owner (client) in person or over video chat. Text based interaction isn't good enough for these critical questions. [1]
   * What problem does this project solve, for whom? (value hypothesis)
   * What is the most important benefit you expect this project to provide?
   * What is the growth hypothesis? How will the project virally grow (by referrals) to reach more people?
@@ -26,3 +27,7 @@ Checklist of key steps when starting a new project.
   * Get the Product Owner to provide 5 examples of other sites that are close to what they want.
   * If it's in scope, reate brand colors, fonts, logo and visual primitives if new ones needed.
   * Visual mock-ups based on the wireframes using the brand styles.
+
+## References
+
+[1] Interview with Countable team on what helps improve clarity.
