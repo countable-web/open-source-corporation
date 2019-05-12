@@ -19,7 +19,7 @@ The goal of this guide is to help new members of Countable get connect with the 
 ### Set up a Timesheet
 
   * Make your own copy of [this sheet](https://drive.google.com/open?id=1kPxAPNnCAWGFag1zHUttEtScNnVE3gQRjt0wQEFbpwI) and share full access with your manager only. Name the file "<your name>-<year, 4 digits.>-timesheet.".
-  * Filling out your timesheet every day is required. Enter the time you spent on each project, rounded to the nearest half hour. Separate clients or projects go on separate lines, so you may have 3 lines for a single day.
+  * Filling out your timesheet every day is required. Separate clients or projects go on separate lines, so you may have 3 lines for a single day.
   * Describe the work in a few words that indicate specific outcomes you worked on for most of that day, in a language clients will understand. Between 3 and 20 words is the right level of detail. If you're entering the same phrase every day, you're not being specific enough.
   * If you don't know the project, put "Countable" in that column.
   * Also include at least one of: references to issues in Trello, Commit IDs.
