@@ -63,7 +63,8 @@ Then deploy the changes (automated by Jenkins in most projects).
   * Don't commit example code. Remove or gitignore it.
   * Don't comment commented code, unless you have another English comment above it explaining why it's commented out, and not deleted.
   * Prefer small, short lived branches.
-  * Check you've not missed any merge markers still in unmerged files. `grep -r ">>>>>" .` will normally do this for you for example.
+  * When merging, check you've not missed any merge markers still in unmerged files. `grep -r ">>>>>" .` will normally do this for you for example.
+  * We prefer the "monorepo" pattern, which means it's better to have one large repo for a project.
   * Unfinished things (links that go nowhere, or Lorem Ipsum) we don't want to show up live should be moved into their own branch, or commented out. Leave an additional comment indicating why they're commented if you do the latter. These things are fine to commit. Just don't do a Pull Request.
   * Create your pull request and read it on BitBucket yourself before adding reviewers. I catch a ton of my own embarrassing mistakes this way when working with clients' devs.
   * Be careful when merging in the upstream (develop) branch that you don't overwrite anyone else's changes with yours. It pays to look closely at each merge marker.
