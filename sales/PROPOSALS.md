@@ -37,7 +37,7 @@ You'll want to ask as many questions an possible before writing in order be conf
 
 1. Make a super clear, one sentence statement of the real problem the RFP wants to solve, in language you understand. Ask the prospect if this is the most important thing, and if not, what is?
 1. Make a super clear, one sentence statement of your unique approach. Ask the prospect if it's a good approach.
-1. Think of any possible reason your proposal might not be accepted. This is hard, but important. As a question for each uncertainty to determine if it's likely, or not.
+1. Think of any possible reason your proposal might not be accepted. This is hard, but important. Ask a question for each uncertainty to determine if it's likely, or not.
 1. Ask questions to clarify any scoring criteria so you're 100% clear what they each mean.
 1. Ask questions to help you understand what the evaluators are looking for.
 
