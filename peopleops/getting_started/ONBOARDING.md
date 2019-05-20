@@ -15,7 +15,7 @@ The goal of this guide is to help new members of Countable get connect with the 
      * Hobbies
      * Two True things about you, and a Lie (let the team guess which).
   * Use the team to answer your other questions.
-  * Add your approximate work schedule here - https://docs.google.com/spreadsheets/d/1zh6GYex7UtoZGyChRGNy8378brtxvfrOdtedf6z5c5M/edit#gid=0
+  * Add your approximate work availability here - https://docs.google.com/spreadsheets/d/1zh6GYex7UtoZGyChRGNy8378brtxvfrOdtedf6z5c5M/edit#gid=0
 
 ### Set up a Timesheet
 
