@@ -17,7 +17,7 @@ For example, if the key result is to build a web applicaton, the critical path i
   * We want to build a web application.
   * To do that, we need to validate with users (usability test).
   * To complete that, we need to understand the full requirements.
-  * To do that, we need to show users a prototype.
+  * To do that, we need to show all stakeholders a prototype.
   * To do that, we need to build the prototype.
   * To do that, we need wireframes.
   * To do that, we need to write user stories.
