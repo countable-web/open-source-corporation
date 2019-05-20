@@ -13,7 +13,7 @@ This document summarizes project management tooling and practices at Countable t
   * Every project has a "Purpose" which must be documented and visible.
   * Every project has at least one [Objectve and Key Result](../../OKRS.md) every month.
   * We use Scrum like [this](./SCRUM.md).
-  * Every day, try to get some (feedback)[../../FEEDBACK.md] on your work.
+  * Every day, try to get some (feedback)[../FEEDBACK_LOOPS.md] on your work.
   * Every day, coordinate with team mates on slack and (prioritize)[./PRIORITIES.md].
   * Work together to minimize the amount of time anyone is blocked or waiting for someone's output as their input.
 
