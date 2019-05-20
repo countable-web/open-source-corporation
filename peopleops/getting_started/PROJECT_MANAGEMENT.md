@@ -1,20 +1,23 @@
 # Project Management
 
+## Purpose
+
+Set conventions for communication between project stakeholders to maximize our velocity towards objectives.
+
+## Scope
+
 This document summarizes project management tooling and practices at Countable to assist with onboarding.
 
-### Objectives
+## Process
 
-  * Increase transparency of our work to clients, team mates, managers. Dashboard for client.
-  * Performance metrics, data for retrospectives.
-  * Automate timesheets, and invoices using Trello card data.
-  * Automate moving trello cards based on commits.
-  * Simple to explain to new people. Mostly automated. Avoid slowing down developers who are less oriented to PM process.
-  * Link bitbuckets commits.
-  * Easy for clients to submit a ticket. Bug or Feature, URL, screenshot.
-  * Provide our customers with a constant feedback loop, updating them upon a new feature release or any significant changes on their current project.
+  * Every project has a "Purpose" which must be documented and visible.
+  * Every project has at least one [Objectve and Key Result](../../OKRS.md) every month.
+  * We use Scrum like [this](./SCRUM.md).
+  * Every day, try to get some (feedback)[../../FEEDBACK.md] on your work.
+  * Every day, coordinate with team mates on slack and (prioritize)[./PRIORITIES.md].
+  * Work together to minimize the amount of time anyone is blocked or waiting for someone's output as their input.
 
-
-## Tools
+### Tools
 
 #### GIT
 
@@ -33,10 +36,15 @@ Especially when dealing with a remote team, customers tend to be more anxious ab
 * This methodology is particularly useful for front-end changes, since they're visible.
 * In case you're dealing with back-end related work, you can still do the screencast, but your approach should be different: You'll have to explain and summarize what you're working on, and show some important parts of the code that you developed.
 
-## Methodology
 
-#### Scrum
-  * We use Scrum like [this](./SCRUM.md).
-  * Each client should have a priority ordered backlog (either in Trello or Jira)
-  * Each Tuesday at 9am we have a retrospective meeting to raise any problems for the team to address, and find ways to improve our work velocity.
+### Things We Want To Improve
+
+  * Increase transparency of our work to clients, team mates, managers. Dashboard for client.
+  * Performance metrics, data for retrospectives.
+  * Automate timesheets, and invoices using Trello card data.
+  * Automate moving trello cards based on commits.
+  * Simple to explain to new people. Mostly automated. Avoid slowing down developers who are less oriented to PM process.
+  * Link bitbuckets commits.
+  * Easy for clients to submit a ticket. Bug or Feature, URL, screenshot.
+  * Provide our customers with a constant feedback loop, updating them upon a new feature release or any significant changes on their current project.
 
