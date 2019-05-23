@@ -18,3 +18,7 @@ Other associated risks:
   * During offboarding, destroy all client assets on the contractor's computer.
   * Never download any protected information you don't need on your PC. When finished work on a project, delete any protected information you had to store locally. Never save protected information anywhere on the cloud or on storage media other than official company channels without first obtaining approval in writing.
   * Laptop disks should be encrypted with the user's password. This option can be enabled when installing Ubuntu Linux.
+
+
+# Web App Security
+  * Apply "least privilege". Do not open any ports that aren't needed for using the application. If you must open such a port for debugging, do so in your .gitignored environment only, so it's not shared.
