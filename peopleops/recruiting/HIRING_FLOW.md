@@ -4,24 +4,24 @@ This is a suggested hiring flow to make your life easier and standardize our pro
 
 ### Pre-requisites tools
 
-1) Download Upwork app to receive instant notifications from potential leads when they answer to your offer. Its an important step because most freelancers are in different timezones, so you'll have a huge gap in communication if you don't respond them right away.
+1) Download Upwork app to receive instant notifications from potential leads when they answer to your offer. It's an important step because most freelancers are in different timezones, so you'll have a huge gap in communication if you don't respond to them right away.
 
 2) Use a timezone conversion system like [***Savvy Time***](https://savvytime.com/converter/pdt-to-ist), to schedule the meetings that should occur after the initial screening.
 
-3) Use any video-chat service, like [Appear.in](http://appear.in/countable) to schedule a interview with your best candidates.
+3) Use any video-chat service, like [Appear.in](http://appear.in/countable) to schedule an interview with your best candidates.
 
 4) You can check for more tools at our [peopleops folder](https://drive.google.com/drive/folders/1HY7LPI_h5F5WxaTW5v-1_DMUXcJIjjh1)
 
 ## Initial Screening
 
-1) Create an account at ***Upwork*** and click on the CTA "Post a Job" to create a post according to your needs. Make sure you include all relevant keywords in your new ad, since it will improve your lead capturing.
+1) Create an account at ***Upwork*** and click on the CTA "Post a Job" to create a post according to your needs. Make sure you include all relevant keywords in your new ad since it will improve your lead capturing.
 
-2) Once its created, check it by clicking at the navbar: JOBS > MY JOBS. It will appear at "My Postings" section, where you can see how many proposals you received and how many people messaged you.
+2) Once it's created, check it by clicking at the navbar: JOBS > MY JOBS. It will appear at "My Postings" section, where you can see how many proposals you received and how many people messaged you.
 
-3) After some time you'd receive your first leads, if you've set your job post correctly.
+3) After some time you'd receive your first leads if you've set your job post correctly.
      - If not, delete it and create another, making sure you're entering relevant keywords to it. If you're unsure about the job requirements, ask your supervisor's assistance.
 
-4) At "REVIEW PROPOSALS" step, click on "Filters". Now you should ***shortlist***(click on the thumbs-up icon) the candidates that passes the following suggested minimum criteria:
+4) At "REVIEW PROPOSALS" step, click on "Filters". Now you should ***shortlist***(click on the thumbs-up icon) the candidates that pass the following suggested minimum criteria:
  - Earned amount > 10k
  - Job success > 90%
  - Hours billed: 100+
@@ -30,7 +30,7 @@ This is a suggested hiring flow to make your life easier and standardize our pro
 
 5) Now send a message to the selected ones, asking for a quick (15 min) video chat interview. Check what timezone he's in, and use a [***time zone conversion tool***](https://savvytime.com/converter/pdt-to-ist) to make sure it will match yours.
 
-6) Its important to remember scheduling the interview time in a Alarm app (any app that remembers you about it), since once you get 2+ interviews on the same day, you'll have a hard time trying to remember when exactly did you scheduled what meeting.  Be careful to not confusing timezones!
+6) It's important to remember scheduling the interview time in an Alarm app (any app that remembers you about it) since once you get 2+ interviews on the same day, you'll have a hard time trying to remember when exactly did you scheduled what meeting.  Be careful to not confusing timezones!
 
 ## Interviewing
 
@@ -49,7 +49,7 @@ This is a suggested hiring flow to make your life easier and standardize our pro
 - Testing candidates could be done in a variety of ways and it depends upon the position you're hiring for.
 
 #### Options
-1) Small test to deliver at a pre-determined date. (For example, build the application XYZ with the following features until a certain date)
+1) A small test to deliver at a pre-determined date. (For example, build the application XYZ with the following features until a certain date)
 
 2) For developers, one suggestion would be services like:
 
@@ -62,7 +62,7 @@ This is a suggested hiring flow to make your life easier and standardize our pro
 
 - Ask your supervisor to review the contract with you, before sending it to your candidate.
 
-- Once everything is prepared at HelloSign, send the document to signature to your candidate's email.
+- Once everything is prepared at HelloSign, send the document to the signature to your candidate's email.
 
 - Once your contract is signed, ask your ***candidate national ID document***
 
