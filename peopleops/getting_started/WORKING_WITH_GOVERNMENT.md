@@ -12,5 +12,5 @@ When working for the Ministry of the Attorney General:
   * Do not use production data in development, test or training environments without consent from the Province.
   * Use CloudFlare infront of all services deployed, as it provides various security requirements.
   * Automatic security patching must be enabled on all production servers.
-  * Use GitHub's CVE detection system and patch any detected vulnerabilitis in 90 days.
+  * Use GitHub's CVE detection system and patch any detected vulnerabilities prior to launch (use a CD gate).
   
