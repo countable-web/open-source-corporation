@@ -45,3 +45,12 @@ API Views and other server side views should take care to return the correct [HT
   * Codes that start with "2" (like 200) mean the request succeeded.
   * Codes that start with "4" (like 400) mean the request is invalid, a problem on the client's side.
   * Codes that start with "5" (like 500) mean a problem on our end. We should be notified by Sentry so we know we have to look into it.
+  
+### Python
+
+  * Never use a bare try:except block. Always name specific exceptions.
+  * In web apps, keep views' code small, and include more code in models and service classes.
+  * Use `TODO:` comments liberally.
+  * Use docstrings to define the business requirements (user stories) associated with functions/classes.
+  * Learn list comprehensions.
+  * Use `dict` and the slice operator a lot.
