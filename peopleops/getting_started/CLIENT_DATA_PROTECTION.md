@@ -14,6 +14,7 @@ Other associated risks:
 
 # Policies
 
-  * Only provide employees access as needed. Don't provide access to client assets without a good reason.
+  * Only provide team members access as needed. Don't provide access to client assets unless necessary to perform the team member's work.
   * During offboarding, destroy all client assets on the contractor's computer.
-
+  * Never download any protected information you don't need on your PC. When finished work on a project, delete any protected information you had to store locally. Never save protected information anywhere on the cloud or on storage media other than official company channels without first obtaining approval in writing.
+  * Laptop disks should be encrypted with the user's password. This option can be enabled when installing Ubuntu Linux.
