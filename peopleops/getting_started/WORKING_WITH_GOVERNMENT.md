@@ -10,4 +10,6 @@ When working for the Ministry of the Attorney General:
   * You need to go through a process for accessing protected information from the Province, including a criminal background check.
   * We cannot have a terms of use agreement with anyone regarding the work we produce for the Province (6.7, SI Contract).
   * Do not use production data in development, test or training environments without consent from the Province.
+  * Use CloudFlare infront of all services deployed, as it provides various security requirements.
+
   
