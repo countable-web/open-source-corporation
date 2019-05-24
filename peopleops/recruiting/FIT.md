@@ -21,3 +21,4 @@ Define what we'd like to offer our employees, compared with their other options.
   * You want exposure to a variety of projects, and a variety of skills (cross-functional overlap)
   * You want to be paid a fair wage while learning to contribute, and a chance to be compensated generously in proportion to your contribution.
   * You have the discipline to work remotely.
+  * You are a good communicator.
