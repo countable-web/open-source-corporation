@@ -16,11 +16,11 @@ Define all the meetings at Countable
   * The purpose and agenda of the meeting must be clear, and listed in the meeting event details on the calendar.
   * Recurring meetings should review the previous meeting's follow-ups/action items. Open up the last week's minutes and review them.
   * If you are presenting in a meeting, send out materials (such as slides) in advance so the attendees can get in the right headspace.
-  * When you are speaking, pause to get feedback and answer questions periodically.
   * Never speak for more than two minutes without pausing and letting people respond, so you can listen to your audience and steer your material to be more helpful. Meetings should be interactive, not monologues.
   * Minutes should be recorded for each meeting. This should just be a few bullet points with decisions and action items. We don't need to mention everything that was discussed. Just the "headlines". What's the important point? Action items should be transcribed into Trello.
   * Send a follow-up email with the minutes, and record them in an ongoing google-doc for recurring meetings.
   * 3W rule: Meeting follow-up actions and/or meeting summaries must contain the three Ws: WHO does WHAT by WHEN
+  * Do not attend meetings if you don't have a good reason to be there.
   * The meeting organiser is responsible for a) taking notes and b) that follow-up actions (acc. to 3W rule) are noted in the minutes, and shared as Trello cards.
 
 ## Scrum Meetings
