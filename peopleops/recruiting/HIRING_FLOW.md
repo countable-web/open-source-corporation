@@ -32,6 +32,11 @@ This is a suggested hiring flow to make your life easier and standardize our pro
 
 6) It's important to remember scheduling the interview time in an Alarm app (any app that remembers you about it) since once you get 2+ interviews on the same day, you'll have a hard time trying to remember when exactly did you scheduled what meeting.  Be careful to not confusing timezones!
 
+## Scheduling
+
+- Please use [Calendly](https://calendly.com/) to schedule your meetings and avoid timezone issues.
+
+
 ## Interviewing
 
 - Prepare yourself to the interview. Take a look at our standard [interview questions](https://docs.google.com/document/d/130KCrw5WGYTGgJYKBVec3iEXxKkNoEkm1urHzEWznMo/edit#heading=h.7h8atrac1axk) and pick the ones that you find relevant for the situation
