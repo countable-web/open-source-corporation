@@ -42,7 +42,8 @@ As a manager:
 2. The discussion is confidential by default, unless there are suggestions or requests that come out of the discussion to relay to the team.
 3. If they don't bring it up on their own I'll ask questions about emotional state and emotional reactions to situations. E.g., "How did you feel about the changes at Countable last month?", "Are you feeling sufficiently challenged?", "What have you learned this month?", "What are the worst and best thing about Countable?", "What do you find enjoyable and productive at work, andi did you get a chance to do that last month?"
 4. Book the next one-on-one in the Calendar at the end of the current one, and list any issues to follow-up with. People mentioning problems even once is a gift: We can't fix systemic problems if I don't know about them. And even if the system is fine, I don't want my people just putting up with their jobs. I want them happy.
-5. Review job levels. Employees should check off each job level requirement, and self-promote when they reach completion of their current level. Give the employee a simple desription of what you think would really get them "to the next level". Make this as actionable and objective as possible, and frame it as a mentor.
+5. Ask: What are you learning, and from whom? What are you teaching, and to whom?
+6. Review job levels. Employees should check off each job level requirement, and self-promote when they reach completion of their current level. Give the employee a simple desription of what you think would really get them "to the next level". Make this as actionable and objective as possible, and frame it as a mentor.
 
 
 ## PD Meeting
