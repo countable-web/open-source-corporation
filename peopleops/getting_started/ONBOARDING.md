@@ -24,7 +24,7 @@ The goal of this guide is to help new members of Countable get connect with the 
   * Describe the work in a few words that indicate specific outcomes you worked on for most of that day, in a language clients will understand. Between 3 and 20 words is the right level of detail. If you're entering the same phrase every day, you're not being specific enough.
   * If you don't know the project, put "Countable" in that column.
   * Also include at least one of: references to issues in Trello, Commit IDs.
-  * Countable pays for your time training and learning things you need for your job, up to 20%
+  * Countable pays for your time training and learning things you need for your job.
   * If you're not sure what's billable, generally anything we ask you to do is billable, and anything we "invite" you to do is optional and not billable. Training is only billable if it's requested by the company that you complete specific materials, or you're learning something immediately required to solve a problem in your work. Attending events, conferences, etc, is not paid unless we require you to go for marketing or another purpose (but we'll often pay for your tickets in any case).
 
 ### Team Calendar
@@ -37,8 +37,8 @@ The goal of this guide is to help new members of Countable get connect with the 
 
 ### Environment
   
-  * Read about our [ops](../engineering/OPERATIONS.md) and [coding standards](../engineering/CODING_STANDARDS.md).
-  * Complete the [training exercises](../engineering/TRAINING.md) following these practices and get a team member to code review it using a feature branch and pull request.
+  * Read about our [ops](../../engineering/OPERATIONS.md) and [coding standards](../../engineering/CODING_STANDARDS.md).
+  * Complete the [training exercises](../../engineering/TRAINING.md) following these practices and get a team member to code review it using a feature branch and pull request.
 
 Share your username with your manager on these platforms so you can be invited into specific projects:
   * [Trello](https://trello.com/b/gycu4ydQ/opportunity-road-map)
