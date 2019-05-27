@@ -5,7 +5,6 @@
   * Peer review - Reviewing the work of others in your field, and getting their feedback on your work is an effective way to learn. [1]
   * There is an open invitation to suggest training initiatives such as conferences at the Company's expense, use this.
   * Code reviews - All feature work should go through pull requests and be reviewed by at least one person. Use this time to learn from each other.
-  * Tuesday group code review sessions
 
 The best way to learn something is by doing it. Use it for a project, and put in the time tinkering with it. The goal of accomplishing something with the technology will keep you focused on learning what matters. Once you tinker for a while playing with the basics of what you know, you'll start to feel more confident and familiar, have questions about things that you can't resolve through playing around, and want to move on. At this point, find a good tutorial on the next material you want to study.
 
