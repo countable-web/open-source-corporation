@@ -37,8 +37,8 @@ The goal of this guide is to help new members of Countable get connect with the 
 
 ### Environment
   
-  * Read about our [ops](../../engineering/OPERATIONS.md) and [coding standards](../../engineering/CODING_STANDARDS.md).
-  * Complete the [training exercises](../../engineering/TRAINING.md) following these practices and get a team member to code review it using a feature branch and pull request.
+  * Read about our [ops](../../product/engineering/OPERATIONS.md) and [coding standards](../../product/engineering/CODING_STANDARDS.md).
+  * Complete the [training exercises](../../product/engineering/TRAINING.md) following these practices and get a team member to code review it using a feature branch and pull request.
 
 Share your username with your manager on these platforms so you can be invited into specific projects:
   * [Trello](https://trello.com/b/gycu4ydQ/opportunity-road-map)
