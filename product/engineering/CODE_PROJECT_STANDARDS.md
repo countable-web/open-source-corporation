@@ -29,8 +29,11 @@ project-slug/
   nginx/
     Dockerfile
     nginx.conf
+  static/
   docker-compose.yml
 ```
+
+The front-end Dockerfile should run a development server, but for production should just build static files, into the /static folder which is served by nginx.
 
 ## Front End Development
  
