@@ -34,6 +34,8 @@ project-slug/
   docker-compose.yml
 ```
 
+Example (here)[https://github.com/countable-web/countable-modern-django].
+
 The front-end Dockerfile should run a development server, but for production should just build static files, into the /static folder which is served by nginx.
 
 ## Front End Development
