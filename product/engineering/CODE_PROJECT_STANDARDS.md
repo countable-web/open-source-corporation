@@ -17,11 +17,12 @@ We use the monorepo pattern, meaning all files required to run the project (othe
 
 ```
 project-slug/
-  backend/
+  web/
     Dockerfile
     app1/
     app2/
     app3/
+    manage.py
   frontend/
     Dockerfile
     package.json
