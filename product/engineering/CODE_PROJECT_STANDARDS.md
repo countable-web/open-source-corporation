@@ -10,8 +10,31 @@ ALL projects MUST:
 ALL projects SHOULD:
   * Use PORT 80 for http access in development environments.
   * Use our standard stack choices.
-  
+
+## Project Structure
+
+We use the monorepo pattern, meaning all files required to run the project (other than secrets and private data) go in a single GIT repository, structured as:
+
+```
+project-slug/
+  backend/
+    Dockerfile
+    app1/
+    app2/
+    app3/
+  frontend/
+    Dockerfile
+    package.json
+    src/
+  nginx/
+    Dockerfile
+    nginx.conf
+  docker-compose.yml
+```
+
 ## Front End Development
+ 
+ (draft, rfc)
  
   Front-end development is exciting, but also a challenge. This is due to the fact that there are so many tools available for   so many different things, and this side of the world moves fast. Main considerations:
   
