@@ -10,15 +10,25 @@ Our team must provide each other with feedback regularly in order to improve. So
 
 ## Guidelines
 
-  * When someone does something you like, let them know! That's how we get them to do it more.
+  * When someone does something you like, let them know! That's how we get them to do it more. Positive feedback is *easy* to give, everyone feels good!
   * Remember the purpose of feedback. We have a team so we can help each other improve.
-  * Keep it simple and clear. Mention the most important points to avoid overwhelming the recipient. Small bits of frequent feedback are better than a huge essay.
+  * Keep it simple and clear. Mention the most important facts (observations) to avoid overwhelming the recipient. Small bits of frequent feedback are better than a huge essay.
+  * It's not about who's right. Probably the truth is actually somewhere in between your opinions. The process of talking about performance and how do things improves everyone's work and helps us work together constructively. So don't stress. If you can give and receive feedback respectfully we've already won at this no matter what that leads to.
 
-### Giving Negative Feedback
+### Negative Feedback
 
-Giving negative feedback can be hard, as we don't want to offend. The problem is often that people just say "I don't like X" with no explanation. Instead:
+Giving negative feedback can be hard, as we don't want to offend. The problem is often that people just say "I don't like when you cast green fireballs." with no explanation. Instead: "When you cast green fireballs I'm concerned that it makes too much smoke. I've seen this reddit post about it."
 
-  * If you're not sure what the problem is, try being subtle first. Pause to show you're thinking and then ask "does that really work?"
-  * If you do have evidence of what the problem is, be very specific. It's not about your opinion, it's about the facts, so be very clear what your reason is for preferring something else.
-  * Make it clear the goal is to improve the work, and you're giving feedback because you have high expectations, but you think the other person can meet them.
-  * If you can, be constructive, suggest an alternative, and state clearly why you prefer it.
+  * Make it clear the goal is to improve the work, and you're giving feedback because our team has high expectations, but you think the other person can meet them.
+  * Be very respectful, constructive, helpful, humble and never mean or demeaning.
+  * it's ok to be blunt. If you do have evidence of what the problem is, be very specific. It's not about your opinion, it's about the facts, you're just pointing out evidence.
+  * It's also ok to be subtle. Especially if you're not sure what the problem is, try being subtle first. Pause to show you're thinking and then ask "Does that really work?" "I never thought of doing it that way, do you prefer it to my way?". When you question something out of genuine curiousity, the person will stop and do the same, without being offended. They may not change the behaviour right away but it helps more than you think.
+  * It often helps to be clear about the actual problem. "I'm concerned that if we cast green fireballs, it causes too much pollution." This invites them to dismiss you of course, but it will stick in their mind.
+  * Sometimes it helps to suggest an alternative but stick to the facts. "I use blue fireballs because it seems like it saves the environment, have you tried it?"
+
+### Receiving Feedback
+
+  * It's hard for others to give you feedback, and it's precious. Don't bite. You don't have to agree, you just have to listen.
+  * Don't interrupt, dismiss, or show impatience or offence. Show appreciation for them putting themselves out there to help you improve.
+  * Paraphrase in your own words. "It sounds like you're saying blue fireballs produce less harmful carbon, but defeat just as many goblins."
+
