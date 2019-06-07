@@ -9,7 +9,8 @@ Our team must provide each other with feedback regularly in order to improve. So
   * Honest feedback prevents the perils of "group think" that damages teams as they grow. (Culture code)
 
 ## Guidelines
-
+  
+  * Ask your team for feedback. Make it easy for them by sharing a link, getting a code review, making a little demo video of what you did, or just asking a specific question "What could I improve in my fireball casting technique?".
   * When someone does something you like, let them know! That's how we get them to do it more. Positive feedback is *easy* to give, everyone feels good!
   * Remember the purpose of feedback. We have a team so we can help each other improve.
   * Keep it simple and clear. Mention the most important facts (observations) to avoid overwhelming the recipient. Small bits of frequent feedback are better than a huge essay.
