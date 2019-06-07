@@ -14,3 +14,7 @@ Things to try.
   * Shorter coffee-break video call, daily.
   * Video collaboration time on projects. Casual mob coding, async coding allowed too.
   * review: https://about.gitlab.com/company/culture/all-remote/tips/
+
+### References
+
+https://blog.quuu.co/lessons-worth-learning-from-remote-workers/
