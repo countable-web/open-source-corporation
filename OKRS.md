@@ -38,6 +38,7 @@ They should:
   * Be objectively measurable (on a scale of zero to one). Anyone who measures independently should get the same number.
   * Be sufficient to meet the objective.
   * Measure the transaction where value is created for real users as closely as possible. Do not measure task completion, measure "number of people helped", "amount of money made/saved", or a worst "amount of actionable information gained".
+  * It's helpful to include a mix of qualitative and quantitative KRs for your objective.
 
 ### Our OKR Spreadsheet
 
