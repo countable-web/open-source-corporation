@@ -1,7 +1,10 @@
 # Trello
 
+## Purpose
 We use Trello for project management, as it's simple to set up access to the appropriate boards by partners and clients. A Trello board consists of a set of [Cards](#trello-cards) (tasks) arranged in [Columns](#trello-board-columns).
 
+## Scope
+Define how Countable uses Trello to manage our Scrum backlog. [See video version](https://www.youtube.com/watch?v=6X9x4SCLhKs).
 ### Trello Cards
 
 A cards should contain a clear description of work to be done by one person required to support a given User Story. A card should typically be between 1 hour and 1 day of work. If it's longer, split it into 2 cards in that column.
