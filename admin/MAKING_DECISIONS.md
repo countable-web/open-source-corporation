@@ -36,3 +36,9 @@ Please give feedback! This document is a process proposal, which is a consultati
 
   * What is the biggest opportunity, biggest risk, and expected outcome of each path?
   * Consider whether you decision offers and incremental, geometric or exponential benefit.
+
+## How to Share Suggestions
+
+## Rough Consensus
+
+The IETF has a number of principles for flat decision making, written in [RFC 7282](https://tools.ietf.org/html/rfc7282), and summarized [here](https://doist.com/blog/decision-making-flat-organization/). The key point is, make sure people speak up about critical factors and cases where the options are vastly different in value, and avoid discussing subjective factors or solutions which seem a little better. Focus on the really important stuff, not small optimizations and opinions.
