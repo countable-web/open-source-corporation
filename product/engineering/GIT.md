@@ -1,10 +1,12 @@
-# Our Git Flow Usage Examples
+# How Countable Uses GIT
 
 This document provides examples of common git workflows to show new developers how we use the [git flow](https://jeffkreeftmeijer.com/git-flow/) branch conventions. We also generally observe the [trunk based development](https://trunkbaseddevelopment.com/) methodology. The latter standard is awkwardly written and wordy but the content is good.
 
-## Working on a feature
+## Contributing To A Project
 
-If there isn't one already, create a new branch (not a fork) for the feature, based on `develop`.
+We use branches to maximize code stability, and they should be merged back in and destroyed as quickly as possible.
+
+I don't like the word "feature", because it implies you're working on your own, possibly for quite a while, before integrating back with your team. This is a recipe for many problems. When you want to contribute to a project, the goals is to have your branch as short-lived as possible without breaking the `develop` branch your team is using. The only reason you're working on a separate .
 
 ```
 git checkout develop
@@ -19,7 +21,7 @@ git pull origin develop
 git push origin fireball-spell
 ```
 
-Submit a pull request from `fireball-spell` targetting `develop`. Another developer on the project should [review](#code-reviews) and comment on your changes. When everyone agrees, anyone can merge the changes. The `fireball-spell` branch is then deleted after being merged. Delete the fireball-spell branch (BitBucket has an option to do that automatically when you PR)
+Submit a ull request from `fireball-spell` targetting `develop`. Another developer on the project should [review](#code-reviews) and comment on your changes. When everyone agrees, anyone can merge the changes. The `fireball-spell` branch is then deleted after being merged. Delete the fireball-spell branch (BitBucket has an option to do that automatically when you PR)
 
 ## Small non-critical patch (update README.md)
 
