@@ -1,6 +1,10 @@
 # How Countable Uses GIT
 
-This document provides examples of common git workflows to show new developers how we use the [git flow](https://jeffkreeftmeijer.com/git-flow/) branch conventions. We also generally observe the [trunk based development](https://trunkbaseddevelopment.com/) methodology. The latter standard is awkwardly written and wordy but the content is good.
+This document provides examples of common git workflows to show new developers how we use the [git flow](https://jeffkreeftmeijer.com/git-flow/) branch conventions. However, our feature branches are owned by a single person and very short-lived, see [trunk based development](https://trunkbaseddevelopment.com/). From the latter:
+
+> You should do Trunk-Based Development instead of GitFlow and other branching models that feature multiple long-running branches
+> You can either do a direct to trunk commit/push (v small teams) or a Pull-Request workflow as long as those feature branches are short-lived and the product of a single person.
+
 
 ## Contributing To A Project
 
