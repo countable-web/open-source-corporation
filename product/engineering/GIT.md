@@ -76,10 +76,11 @@ Then deploy the changes (automated by Jenkins in most projects).
   * Be careful when merging in the upstream (develop) branch that you don't overwrite anyone else's changes with yours. It pays to look closely at each merge marker.
   
 ## Code Reviews
-
-  * The reviewer doesn't have to spend a ton of time.
+  * The main goal of code reviews is for everyone to learn from each other. So, ask your questions!
+  * We don't rely on reviews to catch bugs (that's a bonus if we find one). We rely on tests and the discipline of the original developer for that.
+  * It's up to the reviewer's judgement how much time they spend on a code review. It could be quick or more in-depth.
   * The reviewer should understand what the code is doing. If it's unclear, ask in a review comment what it does.
   * Reviewer should point out anything that's not following project conventions. Are we doing something a new way, when a perfectly good way existed before, that we should be following?
   * Try to find and remove any repeated code. then comment on that as well.
-  * If you're not in a rush, wait for your buddies to review before merging. Of course, if you're confidnet, and in a hurry to deploy something, you can merge the PR immediately yourself and respond to comments later. Use your judgement. It's better to get a review when possible.
+  * Code reviews are _not a gate_ for deployment. Anyone can merge the code at any time based on the team's needs. Communicate about what you're doing. If code is merged before you review, the reviewer can still add comments and changes can be patched in as needed.
 
