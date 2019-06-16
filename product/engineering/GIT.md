@@ -8,9 +8,7 @@ Countable uses [git flow](https://jeffkreeftmeijer.com/git-flow/) for branch nam
 
 ## Contributing To A Project
 
-We use branches to maximize code stability, and they should be merged back in and destroyed as quickly as possible.
-
-I don't like the word "feature", because it implies you're working on your own, possibly for quite a while, before integrating back with your team. This is a recipe for many problems. When you want to contribute to a project, the goals is to have your branch as short-lived as possible without breaking the `develop` branch your team is using. The only reason you're working on a separate .
+Check out `develop` and make a branch from that.
 
 ```
 git checkout develop
@@ -25,7 +23,9 @@ git pull origin develop
 git push origin fireball-spell
 ```
 
-Submit a ull request from `fireball-spell` targetting `develop`. Another developer on the project should [review](#code-reviews) and comment on your changes. When everyone agrees, anyone can merge the changes. The `fireball-spell` branch is then deleted after being merged. Delete the fireball-spell branch (BitBucket has an option to do that automatically when you PR)
+Test that your changes dont't break anything. Run automated tests and check things you know other team members are actively working on still work.
+
+Submit a pull request from `fireball-spell` targetting `develop`. Another developer on the project should [review](#code-reviews) and comment on your changes. When everyone agrees, anyone can merge the changes. The `fireball-spell` branch is then deleted after being merged.
 
 ## Small non-critical patch (update README.md)
 
