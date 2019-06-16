@@ -67,13 +67,13 @@ Then deploy the changes (automated by Jenkins in most projects).
   * Commit often, with each logical change in its own commit. If for no other reason, developers who commit multiple times per day are nearly 10% more likely to be satisfied with their jobs (Stack Overflow dev survey, 2017). That's crazy correlation for such a simple behaviour!
   * Use the "imperative voice" for commit messages: *Verb* *noun*. ie) "Remove magic glpyphs from wizard profile card."
   * Don't commit example code. Remove or gitignore it.
-  * Don't comment commented code, unless you have another English comment above it explaining why it's commented out, and not deleted.
-  * Prefer small, short lived branches.
+  * Don't commit commented code, unless you have another English comment above it explaining why it's commented out, and not deleted.
+  * Prefer small, short lived branches. _We can't repeat this enough._
   * When merging, check you've not missed any merge markers still in unmerged files. `grep -r ">>>>>" .` will normally do this for you for example.
-  * We prefer the "monorepo" pattern, which means it's better to have one large repo for a project.
-  * Unfinished things (links that go nowhere, or Lorem Ipsum) we don't want to show up live should be moved into their own branch, or commented out. Leave an additional comment indicating why they're commented if you do the latter. These things are fine to commit. Just don't do a Pull Request.
-  * Create your pull request and read it on BitBucket yourself before adding reviewers. I catch a ton of my own embarrassing mistakes this way when working with clients' devs.
-  * Be careful when merging in the upstream (develop) branch that you don't overwrite anyone else's changes with yours. It pays to look closely at each merge marker.
+  * We use the "monorepo" pattern, which means it's better to have one large repo for an entire project. Not multiple small ones for components.
+  * Unfinished things (links that go nowhere, or Lorem Ipsum) we don't want to show up live should be deleted, fixed, or commented out. Leave an additional comment indicating why they're commented if you do the latter. These things are fine to commit, but before you do a Pull Request, please review your own code and clean it up so it's something you're proud to show your team.
+  * Create your pull request and read it on BitBucket yourself first. I catch a ton of my own embarrassing mistakes this way before my team sees the.
+  * Be careful when merging in the upstream (develop) branch that you don't overwrite anyone else's changes with yours. It pays to look closely at each merge marker. Use a [3-way merge tool](https://www.youtube.com/watch?v=GiXGYQ9Ah0U) `git mergetool` if the merge is nontrivial.
   
 ## Code Reviews
   * The main goal of code reviews is for everyone to learn from each other. So, ask your questions!
