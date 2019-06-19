@@ -69,7 +69,7 @@ This is a suggested hiring flow to make your life easier and standardize our pro
 
 - Once your contract is signed, ask your ***candidate national ID document***. 
 
-- Confirm if the name matches with what was inserted into the contract.
+- Confirm if the provided document name matches with what was inserted into the contract.
 
 ### Onboarding
 
