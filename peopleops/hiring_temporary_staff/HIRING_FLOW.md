@@ -1,6 +1,6 @@
 # Hiring Flow
 
-This is a suggested hiring flow to make your life easier and standardize our process. On this case, I'm using Upwork platform to hire temporary staff, but you can adapt this system according to your needs.
+This is a suggested hiring flow to make your life easier and standardize our process while recruiting temporary staff. On this case, I'm using Upwork platform to accomplish this goal, but you can adapt this system according to your needs.
 
 ### Pre-requisites tools
 
@@ -51,25 +51,25 @@ This is a suggested hiring flow to make your life easier and standardize our pro
 
 ## Tests
 
-- Testing candidates could be done in a variety of ways and it depends upon the position you're hiring for.
+- Try to use our internal technical test, if possible.
 
 #### Options
 1) A small test to deliver at a pre-determined date. (For example, build the application XYZ with the following features until a certain date)
 
-2) For developers, one suggestion would be services like:
+2) For developers, one suggestion would be services like (we still exploring options):
 
     2.1) https://www.hackerrank.com
 
 
 ## Contract signature
 
-- Once you and your supervisor selected a candidate, you should proceed with the contract signature. Our service of choice is [HelloSign](https://hellosign.com), that provides legally binding electronic signatures.
-
-- Ask your supervisor to review the contract with you, before sending it to your candidate.
+- Once selected a candidate, your supervisor should proceed with the contract signature by using a [HelloSign](https://hellosign.com) template, that provides legally binding electronic signatures.
 
 - Once everything is prepared at HelloSign, send the document to the signature to your candidate's email.
 
-- Once your contract is signed, ask your ***candidate national ID document***
+- Once your contract is signed, ask your ***candidate national ID document***. 
+
+- Confirm if the name matches with what was inserted into the contract.
 
 ### Onboarding
 
@@ -78,4 +78,6 @@ This is a suggested hiring flow to make your life easier and standardize our pro
 - You should add the candidate to the following services:
     - Project's Trello board
     - Slack (Ask your supervisor to add him, to avoid privacy issues)
+    - Bitbucket
+    - Google Drive folder
 
