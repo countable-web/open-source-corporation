@@ -31,20 +31,20 @@ All active projects should have a Sprint meeting every 1 to 4 weeks.
 
 ## One-on-one Meetings
 
-One-on-one meetings between each manager and reports should be once per quarter.
+One-on-one meetings between each manager and reports should be once per quarter. This is our chance to catch up on what matters most to us, and thinkg about how we can work more better together. People mentioning problems even once is a gift: We can't fix systemic problems if I don't know about them. And even if the system is fine, I don't want my people just putting up with their jobs. I want them happy.
 
 For the employees:
 1. This is your time to talk about whatever is on your mind. If you want to talk about what's going on with your life, hobbies, etc, that's fine. If you want to talk about work or issues at home or career progression, that's fine.
-2. We love feedback about what's good and bad at Countable. What would you change?
+2. Give feedback about the best and worst thing at Countable last month. What would you change?
+3. The discussion is confidential by default, unless there are suggestions or requests that come out of the discussion to relay to the team.
 
 As a manager:
-1. Practice listening. For that reason, I never have an agenda (i.e. things I want to say) at these meetings. Try to contain the impulse to give advice unless they specifically ask for it for at least the first 10 minutes of the meeting.
-2. The discussion is confidential by default, unless there are suggestions or requests that come out of the discussion to relay to the team.
-3. If they don't bring it up on their own I'll ask questions about emotional state and emotional reactions to situations. E.g., "How did you feel about the changes at Countable last month?", "Are you feeling sufficiently challenged?", "What have you learned this month?", "What are the worst and best thing about Countable?", "What do you find enjoyable and productive at work, andi did you get a chance to do that last month?"
-4. Book the next one-on-one in the Calendar at the end of the current one, and list any issues to follow-up with. People mentioning problems even once is a gift: We can't fix systemic problems if I don't know about them. And even if the system is fine, I don't want my people just putting up with their jobs. I want them happy.
+1. Practice listening. Try to contain the impulse to give advice unless they specifically ask for it for at least the first 10 minutes of the meeting. If they go silent, try some of the following questions.
+2. Raise anything you felt was a problem. Say how you feel about it, and let them lead.
+3. If they don't bring it up on their own I'll ask questions about emotional state and emotional reactions to situations. E.g., "How did you feel about the changes at Countable last month?" (be specific), "Are you feeling sufficiently challenged?", "What have you learned this month?", "What are the worst and best thing about Countable?", "What do you find enjoyable and productive at work, and did you get a chance to do that last month?"
+4. Ask: Who did you work with this month, and how did that go?
 5. Ask: What are you learning, and from whom? What are you teaching, and to whom?
-6. Review job levels. Employees should check off each job level requirement, and self-promote when they reach completion of their current level. Give the employee a simple desription of what you think would really get them "to the next level". Make this as actionable and objective as possible, and frame it as a mentor.
-
+6. TBD: Review job levels. Employees should check off each job level requirement, and self-promote when they reach completion of their current level. Give the employee a simple desription of what you think would really get them "to the next level". Make this as actionable and objective as possible, and frame it as a mentor.
 
 ## PD Meeting
 
