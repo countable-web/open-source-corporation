@@ -31,7 +31,7 @@ All active projects should have a Sprint meeting every 1 to 4 weeks.
 
 ## One-on-one Meetings
 
-One-on-one meetings between each manager and reports should be once per quarter. This is our chance to catch up on what matters most to us, and thinkg about how we can work more better together. People mentioning problems even once is a gift: We can't fix systemic problems if I don't know about them. And even if the system is fine, I don't want my people just putting up with their jobs. I want them happy.
+One-on-one meetings between each manager and reports should be once per month. This is our chance to catch up on what matters most to us, and thinkg about how we can work more better together. People mentioning problems even once is a gift: We can't fix systemic problems if I don't know about them. And even if the system is fine, I don't want my people just putting up with their jobs. I want them happy.
 
 For the employees:
 1. This is your time to talk about whatever is on your mind. If you want to talk about what's going on with your life, hobbies, etc, that's fine. If you want to talk about work or issues at home or career progression, that's fine.
