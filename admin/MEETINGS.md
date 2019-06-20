@@ -44,7 +44,8 @@ As a manager:
 3. If they don't bring it up on their own I'll ask questions about emotional state and emotional reactions to situations. E.g., "How did you feel about the changes at Countable last month?" (be specific), "Are you feeling sufficiently challenged?", "What have you learned this month?", "What are the worst and best thing about Countable?", "What do you find enjoyable and productive at work, and did you get a chance to do that last month?"
 4. Ask: Who did you work with this month, and how did that go?
 5. Ask: What are you learning, and from whom? What are you teaching, and to whom?
-6. TBD: Review job levels. Employees should check off each job level requirement, and self-promote when they reach completion of their current level. Give the employee a simple desription of what you think would really get them "to the next level". Make this as actionable and objective as possible, and frame it as a mentor.
+6. Ask: What would you like to learn or experience in the coming months?
+7. TBD: Review job levels. Employees should check off each job level requirement, and self-promote when they reach completion of their current level. Give the employee a simple desription of what you think would really get them "to the next level". Make this as actionable and objective as possible, and frame it as a mentor.
 
 ## PD Meeting
 
