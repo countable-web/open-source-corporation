@@ -7,7 +7,7 @@ Coding and other standards and practices at Countable Web Productions.
 
 ### Principles on Style
 
-  * Make life easier for your team mates and future self by being consistent and thoughtful of what someone unfamiliar would think.
+  * Make life easier for your team mates and future self by being consistent and thoughtful of what someone unfamiliar would think. The goal is your code should be obvious and easy to understand for a new programmer. Stick to conventions, and use comments when your code can't be made obvious.
   * The perfect implementation is the one which declaratively encodes the business domain. If code becomes non-trivial, re-write so that domain is expressed in declarative form.
   * Avoid repeated code, except where doing so is much more clear. Keep in mind less code is actually easier to understand, all other things being equal. So, it bears repeating, use the minimum amount of code in declarative domain language.
 
@@ -37,6 +37,7 @@ Functional Modules
   
   * Do not comment what is obvious from the code. "# Increment the variable." is not a good comment.
   * Do Document the rationale "why", the reason behind an implementation choice.
+  * Use TODO comments to indicate your intent for future work.
   * Comment beside anything that's unintutive or unexpected to another reader.
   * Do not leave actual code commented out unless you have a good reason. If you do have one, document that reason as a comment as well.
 
