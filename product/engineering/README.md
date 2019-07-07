@@ -20,12 +20,11 @@ This is how we build things.
   * Be thoughtful of your fellow developers. The goal is your code should be obvious and easy to understand for a new programmer. Stick to conventions, and use comments when your code can't be made obvious. Use TODOs.
   * Take special care with error condition handling as this a key to stability in the long run. For every error case, is it something we need to know about? If so, log it to sentry. If the application is in an invalid state it's better to crash and restart as early as possible (return 500 HTTP code). For validation problems (user error), return a 400 http code and refuse the operation. We don't generally need to tell the team when this happens.
 
-## Stack Chocies
 
-[see here](./STACK_CHOICES.md)
 
 ## Operations Manuals For Engineering
 
-  * [Coding Standards](./CODING_STANDARDS.md)
-  * [Ops](./OPERATIONS.md)
-  * [Code Project Structure Standards](./CODE_PROJECT_STANDARDS.md)
+  * We have [Coding Standards](./CODING_STANDARDS.md) based on autoformatters where possible.
+  * We operate based on principles in 12factor.net, see [implementation here](./OPERATIONS.md)
+  * We structure projects in a [standard way](./CODE_PROJECT_STANDARDS.md) accoring to what we've learned.
+  * We are intentional about what dependencies we include in [our stack](./STACK_CHOICES.md)
