@@ -28,3 +28,4 @@ This is how we build things.
 
   * [Coding Standards](./CODING_STANDARDS.md)
   * [Ops](./OPERATIONS.md)
+  * [Code Project Structure Standards](./CODE_PROJECT_STANDARDS.md)
