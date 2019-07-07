@@ -2,14 +2,16 @@
 ## Project Structure and Ops
 
 ALL projects MUST:
-  * Have a README.md file with all information and/or links required for a new person to run the project locally.
-  * Be Dockerized, if they have more than a single service.
+  * Have a README.md file with all information and/or links required for a new person to run the project locally, and any special requirements for deploying to production.
+  * Be Dockerized, using docker-compose.yml.
   * Not reference the production URL in code. Save this in the docker-compose.override.yml for the specific ENV.
   * Not save secrets in code. Save these in the specific docker-compose.override.yml for the specific ENV.
 
 ALL projects SHOULD:
-  * Use PORT 80 for http access in development environments.
+  * Use PORT 80 to access via the browser, and to access APIs. This way we never have to think about what port things are on in different environments.
   * Use our standard stack choices.
+  * Automatically run tests, stage the `develop` branch for anyone to look at, and automatically deploy the project to production from the `master` branch.
+
 
 ## Project Structure
 
