@@ -37,6 +37,7 @@ For the employees:
 1. This is your time to talk about whatever is on your mind. If you want to talk about what's going on with your life, hobbies, etc, that's fine. If you want to talk about work or issues at home or career progression, that's fine.
 2. Give feedback about the best and worst thing at Countable last month. What would you change?
 3. The discussion is confidential by default, unless there are suggestions or requests that come out of the discussion to relay to the team.
+4. Give your manager something you'd like them to "continue" doing, and something to "consider" changing.
 
 As a manager:
 1. Practice listening. Try to contain the impulse to give advice unless they specifically ask for it for at least the first 10 minutes of the meeting. If they go silent, try some of the following questions.
@@ -46,6 +47,7 @@ As a manager:
 5. Ask: What are you learning, and from whom? What are you teaching, and to whom?
 6. Ask: What would you like to learn or experience in the coming months?
 7. TBD: Review job levels. Employees should check off each job level requirement, and self-promote when they reach completion of their current level. Give the employee a simple desription of what you think would really get them "to the next level". Make this as actionable and objective as possible, and frame it as a mentor.
+8. Give your manager something you'd like them to "continue" doing, and something to "consider" changing.
 
 ## PD Meeting
 
