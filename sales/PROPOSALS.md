@@ -14,9 +14,8 @@ Actionable tactics for achieving the above purpose. The author is most experienc
   * Specialize! Choose similar projects, so you can re-use bits of old proposals that worked. It's better to solve the same problem really well than to spread yourself thin. Choose an RFP in an area where you have the most expertise, similar work (including successes to hilight), and have a network of people in that area.
   * Use your network's experience. If you know someone who would be really great to add to your team, write them into the proposal too, and give them a small cut just for being present, even if they do very little work. It's better to win more proposals and share the revenue.
   * Find out who the front runner is. Is there an established company other than you that's won similar projects in this area? What vendors have the client used for similar projects before? Who has beat you on similar RFPs before?
-  * Ask questions to qualify or disqualify the project, before writing.
+  * Ask questions to qualify or disqualify the project, before writing. Your questions should also unearth hidden desires behind the RFP. Find out the truth about whether you can knock it out of the park. You may not like the answer but it's better to find out now and save yourself from wasting time being disqualified later. Examples "Would you consider a team outside your industry who can bring fresh ideas, or prefer lots of industry experience?"
   * If there's actual scoring criteria, you can forget much of the above, and just focus nearly 100% on that. But keep in mind those criteria will often overlap with other principles here.
-  * Be sure you understand the hidden needs and desires behind the RFP. Ask questions to determine this.
 
 ## Process
 
