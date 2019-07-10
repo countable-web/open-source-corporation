@@ -62,6 +62,15 @@ In particular, if you're not the frontrunner, this is critical. Plant a seed of 
 
 If you are the a frontrunner, point to your past successes. Your angle is to create concern that other solutions don't have as much evidence of ability to deliver. 
 
+### Proposal Structure
+
+To explore proposal structure, write notes inline to the original RFP and mirror RFP document structure.
+
+### Case Studies
+
+  * Hilight their industry, location and other parts of their identity. Draw attention to the relevance of your prior work to your identity.
+
+
 ### Addressing Criteria
 
 If the RFP has scoring criteria already, this should be your focus. I suggest that you don't try to be clever and make up a proposal structure based on your domain knowledge.
