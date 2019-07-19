@@ -8,3 +8,5 @@ Defines how we communicate with potential clients. It screens for clients with s
 Related activities
   * [Usability](./USABILITY.md)
  
+Guidelines
+  * When referencing Countable, use the domain countable.ca. And, use our simple logo glyph where possible.
