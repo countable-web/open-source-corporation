@@ -14,6 +14,7 @@ This is currently based on the one published by Evernote's remote team, and is i
   * Being brief in email/slack amongst ourselves is ok.
   * There are arguably two "modes" we work in. "Focus mode" and "Collaboration mode". Slack is great when you're in collaboration mode, but it's ok to turn off all channels and focus on your work too.
   * It's always better to speak up if you have a concern, or any information that might be important to the group. If you're worried about how the group will react, say so. We're all commited to speaking up, and listening respectfully. We can't make the right decision without everyone sharing all their information.
+  * Talk to your team and clients every single day you work. You should indicate what you're working on, and keep track of any special deadlines set by your team. For example, when you're blocking someone else or a client requests a special deadline.
 
 ### Calendar Expectations:
   * The calendar is the single source of truth for meetings. They are only held by people invited to actual calendar events.
