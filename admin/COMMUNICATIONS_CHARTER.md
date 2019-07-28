@@ -65,4 +65,4 @@ See [./MEETINGS.md]
   * No instant reply required. Our communication priority order is: 1) Call/Text 2) Slack 3) Email 4) Trello 5) Reddit
   * Try to interact with the team about twice per work day on slack, but don't leave it open all day, you need some quiet time to focus on work. Catch up on your channels, skim and respond where needed.
   * if you read something on a public slack channel, understand it, and find it useful, please give a thumbs up :thumbsup: or :heavy_check_mark: or whatever emoticon . It helps the people who post in public channels the most to know who's read things and what to post.
-
+  * The perfect example of what to use Slack for is: (1) When you're blocked by something, make noise to the team channel. (2) Create clarity around objectives and user stories. State your understanding in your own words so team mates can confirm we're on the same page.
