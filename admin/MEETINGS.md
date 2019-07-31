@@ -25,6 +25,7 @@ Define all the meetings at Countable
   * Work to create an atmosphere of psychological safety. Detect concerns of individuals and shed light on them.
   Maximum attendance of 7 people.
   * In general, try to make meetings shorter and more specific. If possible, make the goal and agenda visible in the meeting.
+  * The maximum number of people at any meeting should be limited to 7 (except occasional company-wide meets).
 
 ## Scrum Meetings
 
