@@ -161,6 +161,8 @@ If you want to dive deeper, see https://cssguidelin.es/
 ## Javascript Coding Standards
 
 Use the Prettier autoformatter and standard. https://github.com/prettier/prettier
+
+For projects using node, and supported editors (like VS Code) you can have a .prettierrc.js in your project root, like this.
 ```
 module.exports = {
   semi: false,
@@ -168,3 +170,5 @@ module.exports = {
   tabWidth: 2
 }
 ```
+
+Alternatively, in VS Code, you can do `ctrl-,` to open settings, and search for "prettier". Scroll down to change the above settings manually.
