@@ -161,3 +161,10 @@ If you want to dive deeper, see https://cssguidelin.es/
 ## Javascript Coding Standards
 
 Use the Prettier autoformatter and standard. https://github.com/prettier/prettier
+```
+module.exports = {
+  semi: false,
+  singleQuote: true,
+  tabWidth: 2
+}
+```
