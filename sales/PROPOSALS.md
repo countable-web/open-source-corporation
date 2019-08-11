@@ -10,7 +10,7 @@ Actionable tactics for achieving the above purpose. The author is most experienc
 
 ## Principles
 
-  * The process starts way before you start writing. You want to make sure the odds are stacked in your favour before you invest in writing anything.
+  * The process starts before you start writing. You want to make sure the odds are stacked in your favour before you invest in writing anything.
   * Specialize! Choose similar projects, so you can re-use bits of old proposals that worked. It's better to solve the same problem really well than to spread yourself thin. Choose an RFP in an area where you have the most expertise, similar work (including successes to hilight), and have a network of people in that area.
   * Use your network's experience. If you know someone who would be really great to add to your team, write them into the proposal too, and give them a small cut just for being present, even if they do very little work. It's better to win more proposals and share the revenue. Also, get them (or someone who understand the client) to review your proposal and give you a score before you submit.
   * Find out who the front runner is. Is there an established company other than you that's won similar projects in this area? What vendors have the client used for similar projects before? Who has beat you on similar RFPs before?
@@ -68,8 +68,11 @@ To explore proposal structure, write notes inline to the original RFP and mirror
 
 ### Case Studies
 
-  * Hilight their industry, location and other parts of their identity. Draw attention to the relevance of your prior work to your identity.
+  * Hilight their industry, location and other parts of their identity. Draw attention to the relevance of your prior work, and leave out details that don't indicate how similar your prior projects are to the current RFP, or how successful they were.
+  
+### Platform
 
+List features of your platform that align with the real problems behind the RFP, and for each feature, list the benefits which solve those problems.
 
 ### Addressing Criteria
 
