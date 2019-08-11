@@ -73,13 +73,13 @@ To explore proposal structure, write notes inline to the original RFP and mirror
 
 ### Addressing Criteria
 
-If the RFP has scoring criteria already, this should be your focus. I suggest that you don't try to be clever and make up a proposal structure based on your domain knowledge.
+If the RFP has scoring criteria already, this should be your focus.
 
-Instead, the sections of your proposal should directly address the scoring criteria. Make it obvious, and re-use the exact words from the criteria in your answers. This makes it easy for the evaluator to mark you (and to give you a great score since they won't miss your answers). When in doubt, be clear, and be obvious about why you should get full marks on the criterion.
+Don't try to be clever and make up a proposal structure based on your domain knowledge. Instead, write your proposal inline to the original RFP, and include the original wording in a different font. This will make it easy to mark, clear you've missed no mandatory criteria, and clear how to score you.
 
 There are usually 2 types of criteria. First, a list of things that could disqualify you. Second, a list of categories where you can score points.
 
-For the first category, make a checklist and make sure you're 100% confident in those items being checked off before you submit.For the actual scoring, it's likely the prospect has a committee reviewing scores, and likely they'll even be "blind". This means they'll be worried about being perceived as unfair, and will usually follow the criteria quite literally.
+For the first category, make a checklist and make sure you're 100% confident in those items being checked off before you submit. For the actual scoring, it's likely the prospect has a committee reviewing scores, and likely they'll even be "blind". This means they'll be worried about being perceived as unfair, and will usually follow the criteria quite literally.
 
 For scoring criteria that are clear, focus on creating the most truthful answer that will get the highest score. Get a "proxy" person to score you, and iterate to improve your score.
 
