@@ -64,7 +64,11 @@ If you are the a frontrunner, point to your past successes. Your angle is to cre
 
 ### Proposal Structure
 
-To explore proposal structure, write notes inline to the original RFP and mirror RFP document structure.
+Write responses inline to the original RFP and mirror RFP document structure.
+
+### Team
+
+Include photos and some personal notes that relate each team member to the project, and their relevant past successes.
 
 ### Case Studies
 
