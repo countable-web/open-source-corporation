@@ -48,6 +48,8 @@ If you’re new to Django, do this. Most of our back end projects are Django and
 
 https://docs.djangoproject.com/en/1.11/intro/tutorial01/
 
+Use this method of setting up Django - https://docs.docker.com/compose/django/
+
 # Further Training
 
 These are optional based on what specific gaps you need to fill. I'm starting with a list of resources I've found helpful myself, or have found and can imagine being helpful for our work. To provide a feedback loop on training efficacy, copy [this Trello Ticket](https://trello.com/c/rUsXiFoO/3-training-session-tracker-replace-title) for each section you begin below.
