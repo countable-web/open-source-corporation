@@ -54,7 +54,7 @@ Guidlines for communicating face-to-face
   * Make sure your calendar is up-to-date and shared/public so we know how to reach someone if urgent
 
 ### Meetings in General
-See [./MEETINGS.md]
+See [meetings](./MEETINGS.md)
 
 ### Reddit
   * Use old.reddit.com/CountableWeb for public discussions. Private discussions can be held on slack. Try to make any discussion you can public, assuming personal and client's competitive information can be left out.
