@@ -23,14 +23,12 @@ Define how we use different communication channels for different purposes.
   * We add our vacations or holidays into the event calendar as following: “Name” vacation (# of days )
 
 ### Email Hygiene:
-  * We want to minimize email. Most types of things in there should be slowly pulled into other channels.
-  * Email is ok for announcements but should link to something in Trello (if it requires followup) and Google Docs (if it is a resource we may need later)
-  * Let’s not discuss via email. Use [reddit](https://old.reddit.com/r/CountableWeb) for long form discussions that can be public. Slack for private ones.
-  * The email channel is not urgent: 24h response time is ok. We recommend checking email only twice daily, only on weekdays during business hours. You must follow-up with any email within 24h of it being sent. If the email is from a colleague, customer, or prospect, you must follow up within 24h of an email being sent. If a task is requested, either complete the task or reply indicating what steps you've taken, what's still needed, and when it will be completed.
-  * Respond to emails in a way that minimizes back-and-forth. Don't ask "when can you meet?", for example. Ask "I'm available at 3pm to 4pm tomorrow, does that work? If not, please summarize your requirements via email isntead."
+  * We recommend you disable email notifications on your phone. It's a non-urgent channel and we don't want to be distracted by it.
+  * Email good for announcements, but should link to something in Trello (if it requires followup), Google Docs (if it is a resource we may need later), or [reddit](https://old.reddit.com/r/CountableWeb) (if it's a discussion).
+  * The email channel is not urgent: 24h response time is ok. We recommend checking email only twice daily, only on weekdays during business hours. If the email is from a colleague, customer, or prospect, you must follow up within 24h of an email being sent if they expect a response. If a task is requested, either complete the task or reply indicating what steps you've taken, what's still needed, and when it will be completed with a link to a Trello card.
+  * Respond to emails in a way that minimizes back-and-forth. Use a calendly link to book meetings if it's with just one other person.
   * No need to check emails during vacation (unless otherwise agreed upon). => see next line
   * You must have an autoresponder set when on vacaton: including return date from vacation / back-up contact and details / back-up person gets a briefing.
-  * No need to reply to an FYI email (e.g. saying thanks) - you can, but don’t have to.
 
 ### Text
   * If you'd like someone's attention because you're blocked and they're not responding on Slack, we recommend you text them. Do this only when necessary.
