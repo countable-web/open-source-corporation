@@ -34,6 +34,7 @@ Define how we use different communication channels for different purposes.
 
 ### Text
   * If you'd like someone's attention because you're blocked and they're not responding on Slack, we recommend you text them. Do this only when necessary.
+  * This means, we should share our phone numbers, but only use them for urgent requests.
 
 ### Appear.in (Video Chat, and in-perosn meetings)
 Guidlines for communicating face-to-face
