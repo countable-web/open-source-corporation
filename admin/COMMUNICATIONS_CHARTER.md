@@ -25,7 +25,7 @@ Define how we use different communication channels for different purposes.
 ### Email Hygiene:
   * We want to minimize email. Most types of things in there should be slowly pulled into other channels.
   * Email is ok for announcements but should link to something in Trello (if it requires followup) and Google Docs (if it is a resource we may need later)
-  * Let’s not discuss via email. Use [https://old.reddit.com/r/CountableWeb] for long form discussions that can be public. Slack for private ones.
+  * Let’s not discuss via email. Use [reddit](https://old.reddit.com/r/CountableWeb) for long form discussions that can be public. Slack for private ones.
   * The email channel is not urgent: 24h response time is ok. We recommend checking email only twice daily, only on weekdays during business hours. You must follow-up with any email within 24h of it being sent. If the email is from a colleague, customer, or prospect, you must follow up within 24h of an email being sent. If a task is requested, either complete the task or reply indicating what steps you've taken, what's still needed, and when it will be completed.
   * Respond to emails in a way that minimizes back-and-forth. Don't ask "when can you meet?", for example. Ask "I'm available at 3pm to 4pm tomorrow, does that work? If not, please summarize your requirements via email isntead."
   * No need to check emails during vacation (unless otherwise agreed upon). => see next line
