@@ -6,11 +6,11 @@ We want to restict types of communication by channel so people aren't stressed b
 
 ## Scope
 
-This is currently based on the one published by Evernote's remote team, and is in draft. Please provide feedback if anything seems unideal!
+Define how we use different communication channels for different purposes.
 
 ### Guidelines for All Communication
-  * We work in different timezones, and also need time to focus so nearly all communication is `asynchronous`. This means it will often be a few hours to a day before you get a response to Slack or Email messages.
-  * Some communication doesn't work well asynchronously. Such as complex or emotionally charged conversations. For these, use a voice medium (appear.in or phone)
+  * Where possible, communication is `asynchronous` because we have different schedules and often timezones too. This means it will often be a few hours or even a day before you get a response to Slack or Email messages.
+  * For complex or emotionally charged conversations us voice (appear.in or phone)
   * Being brief in email/slack amongst ourselves is ok.
   * There are arguably two "modes" we work in. "Focus mode" and "Collaboration mode". Slack is great when you're in collaboration mode, but it's ok to turn off all channels and focus on your work too.
   * It's always better to speak up if you have a concern, or any information that might be important to the group. If you're worried about how the group will react, say so. We're all commited to speaking up, and listening respectfully. We can't make the right decision without everyone sharing all their information.
@@ -60,7 +60,10 @@ See [./MEETINGS.md]
   * Use old.reddit.com/CountableWeb for public discussions. Private discussions can be held on slack. Try to make any discussion you can public, assuming personal and client's competitive information can be left out.
 
 ### Slack Hygiene
-  * The expected response time on slack is up to 4 hours. When people are in "focus mode", they shouldn't have slack open as it's a distraction.
+
+Use the following notification setting. You should only be notified when people direct message or mention you, and only during your work hours. ![Slack Notification Setting](recommended-slack-setting.png)
+
+  * Go straight to the point. Don't send people messages to check if someone's online, like "Clark", "hey, you there?", or "Can I ask you a question?". This sucks, because the person now has to stare at the screen for 2 minutes while you write them a message. Just get to the point and don't worry about when, they'll reply when they can. The expected response time on slack is up to 4 hours. When people are in "focus mode", they shouldn't have slack open as it's a distraction.
   * If the message could be useful to more than one person, post it in the most relevant public or project channel.
   * No instant reply required. Our communication priority order is: 1) Call/Text 2) Slack 3) Email 4) Trello 5) Reddit
   * Try to interact with the team about twice per work day on slack, but don't leave it open all day, you need some quiet time to focus on work. Catch up on your channels, skim and respond where needed.
