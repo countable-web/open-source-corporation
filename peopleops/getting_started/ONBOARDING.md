@@ -36,7 +36,7 @@ The goal of this guide is to help new members of Countable get connect with the 
   * Provide a void cheque (in Canada this includes your bank account number, routing/transit number and institution number) to our accounting staff.
 
 ### Environment
-  
+  * Set up a [physical space and equipment](./PHYSICAL_SETUP.md) to work.
   * Read about our [ops](../../product/engineering/OPERATIONS.md) and [coding standards](../../product/engineering/CODING_STANDARDS.md).
   * Complete the [training exercises](../../product/engineering/TRAINING.md) following these practices and get a team member to code review it using a feature branch and pull request.
 
