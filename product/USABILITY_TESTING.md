@@ -1,5 +1,7 @@
 # Usability Testing
 
+(Draft)
+
 ## Purpose
 
 The purpose of this document is to ensure thorough and standardized usability tests can be followed by any member of the team (or any other user), allowing Countable to better test its products.  The top priority is currently to create a guide which is easy to follow. We'll know we've succeeded when anyone can conduct these tests and give feedback which can be used by the product dev(s) to advance the prototype.
