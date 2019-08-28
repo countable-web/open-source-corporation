@@ -1,19 +1,31 @@
 # Coding Standards and Style
 
-Coding and other standards and practices at Countable Web Productions.
+## Purpose
+
+Encourage consistent and effective coding practices in the team.
+
+## Scope
+
+Coding standards and guidelines at Countable Web Productions.
   * This document has arisen out of specific cases where different conventions of developers have caused us to waste time. 
   * We use auto-formatters in place of coding standards in every case possible.
-  * In the case some project doesn't currently follow our standards but follows a different one, stick with that project's conventions unless we make a conscious decision to refactor the whole thing. Don't mix conventions.
 
-### Principles on Style
+### Principles
 
+  * For projects that do not currently follow our standards (open source, or new projects shared with other dev teams) but follows a different one, stick with that project's conventions unless we make a conscious decision to refactor the whole thing. Don't mix conventions.
   * Make life easier for your team mates and future self by being consistent and thoughtful of what someone unfamiliar would think. The goal is your code should be obvious and easy to understand for a new programmer. Stick to conventions, and use comments when your code can't be made obvious.
-  * The perfect implementation is the one which declaratively encodes the business domain. If code becomes non-trivial, re-write so that domain is expressed in declarative form.
-  * Avoid repeated code, except where doing so is much more clear. Keep in mind less code is actually easier to understand, all other things being equal. So, it bears repeating, use the minimum amount of code in declarative domain language.
+
+### Literature
+We are influenced by the following writing.
+
+  * [Domain Driven Design](https://en.wikipedia.org/wiki/Domain-driven_design).
+  * 12 factor app
+  * Trunk based development
+  * Agile manifesto
 
 ### Names
 
-  This section refers to the names of variables, database columns, classes, and any other case where a name is chosen in code.
+  This section refers to the names of variables, database columns, classes, and any other case where a name is chosen in code. [syin] Consider the book "Clean Code" on this topic and on writing short functions.
 
   * Names should indicate *what* a function does in _business domain language_.
   * Name length should be proportional to the variable's scope size. `x` is ok in a one liner, but not a global.
@@ -26,7 +38,7 @@ Coding and other standards and practices at Countable Web Productions.
 
   * Filenames should be lowercase with dashes (NOT SPACES) to separate words *except* for Python, which uses underscores in place of dashes.
   * The purpose, and contents of any file should be as obvious as possible by its filename and location.
-
+  * Avoid repeated or unnecessary code, except where doing so is much more clear. Keep in mind less code is actually easier to understand, all other things being equal. So, it bears repeating, use the minimum amount of code in declarative domain language. Using the wrong abstraction can be worse than repeated code.
 ### Locality
 
 Functional Modules
