@@ -2,7 +2,7 @@
 
 ## Training
 
-We have official, billable training materials [here](../../product/engineering/TRAINING.md). Bill for your time doing any of these.
+We have official training materials [here](../../product/engineering/TRAINING.md). Bill for your time doing any of these.
 
 ## Books
 
