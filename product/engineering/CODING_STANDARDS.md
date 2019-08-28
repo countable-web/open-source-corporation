@@ -158,11 +158,11 @@ Use the Prettier autoformatter and standard. https://github.com/prettier/prettie
 
 If you want to dive deeper, see https://cssguidelin.es/
  
-## Javascript Coding Standards
+## Javascript, HTML and CSS Formatting
 
 Use the Prettier autoformatter and standard. https://github.com/prettier/prettier
 
-For projects using node, and supported editors (like VS Code) you can have a .prettierrc.js in your project root, like this.
+For projects using node, and supported editors (like VS Code) you can have a `.prettierrc.js` in your project root, like this.
 ```
 module.exports = {
   semi: false,
