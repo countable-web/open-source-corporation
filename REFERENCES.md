@@ -1,6 +1,6 @@
 # References
 
-Books that heavily influenced this manual are listed here. They are recommended as having an influence on our company culture. A general trend is they follow somewhat of a narrative format so are easy to read.
+Books that heavily influenced this manual are listed here. They are recommended as having an influence on our company culture. A general trend is they follow somewhat of a narrative format so are easy to read. Countable will reimburse the purchase of any of these books. For other professional development materials you will usually be approved, but ask first.
 
 ### Understand What Matters
 
