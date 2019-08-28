@@ -8,6 +8,7 @@
   * Monthly company outings
   * Any meals you share with your team members or clients.
   * Some computer equipment, see [physical setup](./PHYSICAL_SETUP.md)
+  * Hotels/flights when travelling for business.
 
 ## Claiming Expenses
 
