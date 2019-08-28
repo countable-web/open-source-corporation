@@ -15,7 +15,7 @@
 For now just note them in your timesheet, a better process is pending.
 
 ## Things You Can Deduct From Taxes
-Countable doesn't reimburse these things but if you're a subcontractor you can deduct them from your income.
+Countable doesn't reimburse these things but if you're a subcontractor you can deduct them from your income to avoid tax.
 
   * The percentage of your rent or mortgage interest used for work (divide the area and time you use by the total, ie 300 square feet out of 900 square feet, times 8 hours a day out of 24 hour a day, is 10% of your rent)
   * Any food or beveraged purchased and consumed during work hours.
