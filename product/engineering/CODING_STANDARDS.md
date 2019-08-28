@@ -14,6 +14,7 @@ Coding standards and guidelines at Countable Web Productions.
 
   * For projects that do not currently follow our standards (open source, or new projects shared with other dev teams) but follows a different one, stick with that project's conventions unless we make a conscious decision to refactor the whole thing. Don't mix conventions.
   * Make life easier for your team mates and future self by being consistent and thoughtful of what someone unfamiliar would think. The goal is your code should be obvious and easy to understand for a new programmer. Stick to conventions, and use comments when your code can't be made obvious.
+  * Choose abstractions and tools based on real problems, not the reverse.
 
 ### Literature
 We are influenced by the following writing.
