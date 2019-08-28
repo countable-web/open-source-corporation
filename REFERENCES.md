@@ -19,6 +19,11 @@ Books that heavily influenced this manual are listed here. They are recommended 
   * Javascript: The Good Parts, Douglas Crockford
   * 12factor.net
 
+### Technical
+
+  * Domain Driven Design
+  * Javascript: The Good Parts
+
 ### Write Down What You Learn
 
   * Principles, Ray Dalio
