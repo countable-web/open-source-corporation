@@ -40,6 +40,7 @@ We are influenced by the following writing.
   * Filenames should be lowercase with dashes (NOT SPACES) to separate words *except* for Python, which uses underscores in place of dashes.
   * The purpose, and contents of any file should be as obvious as possible by its filename and location.
   * Avoid repeated or unnecessary code, except where doing so is much more clear. Keep in mind less code is actually easier to understand, all other things being equal. So, it bears repeating, use the minimum amount of code in declarative domain language. Using the wrong abstraction can be worse than repeated code.
+
 ### Locality
 
 Functional Modules
@@ -47,7 +48,7 @@ Functional Modules
   * Modules should communicate through easily testable interfaces. A huge heirarchy of objects shouldn't be required to test a single method, because the method should only take arguments it actually uses (not a big tree which happens to contain those)
 
 ### Comments
-  
+
   * Do not comment what is obvious from the code. "# Increment the variable." is not a good comment.
   * Do Document the rationale "why", the reason behind an implementation choice.
   * Use TODO comments to indicate your intent for future work.
