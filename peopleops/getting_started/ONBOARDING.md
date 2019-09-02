@@ -47,8 +47,8 @@ Share your username with your manager on these platforms so you can be invited i
   * [BitBucket](https://bitbucket.org/countable-web)
 
 Join these using your Google account.
-  * [Sentry](http://sentry.countable.ca)
-  * [Jenkins](http://jenkins.countable.ca)
+  * [Sentry](http://sentry.countable.ca). Join the `Sentry` team.
+  * [Jenkins](http://jenkins.countable.ca). Ask your manager to be added to projects.
 
 ### How to Do Work
 
