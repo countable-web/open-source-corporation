@@ -20,7 +20,7 @@ The best Key Results quantify our objective with strong evidence:
 
 When we can't do that, the next best thing is to ensure we get feedback and increase evidence on what will meet the objective:
   * Publish a guide to help users get comments, and interview 3 users to see if it helped them.
-  * Perform usability tests of a new user trying to get comments on their site and report to the team on the highest impact usability problems.
+  * Perform 2 usability tests of a new user trying to get comments on their site and report to the team on the highest impact usability problems.
 
 Poor Key Results: 
   * Publish some blog articles (How many? Also, we don't have any evidence this will work)
