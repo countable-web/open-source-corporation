@@ -10,6 +10,22 @@ Define how we implement OKRs at Countable.
 
 Each team should have at least one *objective* or what they want to accomplish together in the short term. It's their strategic focus. Each objective has a few *key results* which are measurable, sufficient condtions for the objective to be met.
 
+## Examples (HTML Comment Box)
+
+Objective: Help more people receive comments on their websites.
+
+The best Key Results quantify our objective with strong evidence:
+  * 50% more traffic on our homepage (which should lead to 50% more installs, all other things being equal).
+  * 30% increase in the percentage of users who receive at least one comment. (More users should mean more people helped.)
+
+When we can't do that, the next best thing is to ensure we get feedback and increase evidence on what will meet the objective:
+  * Publish a guide to help users get comments, and interview 3 users to see if it helped them.
+  * Perform usability tests of a new user trying to get comments on their site and report to the team on the highest impact usability problems.
+
+Poor Key Results: 
+  * Publish some blog articles (How many? Also, we don't have any evidence this will work)
+  * Release 3 new features (How do we know the chosen features will help people get comments?)
+
 ## Process
 
 At the beginning of each month, in our all-hands meeting:
@@ -28,7 +44,7 @@ At the beginning of the next month:
 
 ### How To Make Good Objectives
   * The objective should be the most valuable "wish" the team and client can articulate, that can be accomplished most quickly.
-  * It should have the highest "value velocity" of anything you could work on. "value velocity" is simply the total value of the objective divided by the time it takes to complete: maximize the expression `Vv = Vo / To`
+  * Choose objectives that will have the most postivie impact in the shorted time.
   * It should (when possible) answer the question: What would success look like? _________ .
   * It should (when possible) solve the biggest problem for your project's persona.
   * It should be challenging but possible to accomplish in the allotted time. If it's too easy, just keep adding more objectives, or expand them until they are collectively challenging but still possible to achieve.
