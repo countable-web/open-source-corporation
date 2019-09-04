@@ -15,7 +15,7 @@ Standardize setting up new servers. These steps are generic to AWS, Digital Ocea
 To choose a hosting provider.
 1. Determine if the client is providing servers. If so, work with them to accomodate their process and needs.
 2. If we are providing servers, and there are special needs only provided by AWS, use them (ie, Cognito or RDS).
-3. If the server must be in Canada, use Digital Ocean.
+3. Otherwise, if the server must be in Canada, use Digital Ocean (Toronto region)
 4. If there are no restrictions, use Scaleway.
 
 ### Node Creation
