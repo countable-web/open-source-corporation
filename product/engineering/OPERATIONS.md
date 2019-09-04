@@ -89,14 +89,17 @@ Note: migration conflicts should be resolved when merging `develop` into your wo
 
 ## Deploying Updates To Projects
 
-While everything uses Docker as described above, every project is basically a unique unicorn in terms of hosting. We are moving projects to use Jenkins for CI, with 2 automated jobs.
+While everything uses Docker as described above, every project is basically a unique unicorn in terms of hosting. We use Jenkins for CI, with 3 automated jobs.
 
 1. Automatically test any change to the `develop` branch
 2. Automatically deploy any change to the `master` branch
+3. Automatically run tests on any change to `develop` branch.
 
-Generally, deploying involves updatnig the code from the known stable branch
+Generally, deploying involves updating the code from the known stable branch
 ```
-git pull origin master
+git checkout master
+git merge develop
+git push origin master
 ```
 
 Restart the main application container, and ideally your migrations and staticfiles operations should be taken care of by an entrypoint script.
