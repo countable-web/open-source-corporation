@@ -105,15 +105,6 @@ git merge develop
 git push origin master
 ```
 
-Restart the main application container, and ideally your migrations and staticfiles operations should be taken care of by an entrypoint script.
-```
-docker-compose exec restart web
-```
-
-Or, if a rebuild is needed.
-```
-docker-compose up --build web
-```
 
 Some projects use [Jenkins to automatically test and deploy new commits](./JENKINS.md).
 
