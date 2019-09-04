@@ -67,6 +67,9 @@ brew install lrzip
 lrzip -d $filename
 ```
 
+### Servers
+
+Go [here](./SERVERS.md) to learn how to deploy a new node.
 
 ### Databases
 
