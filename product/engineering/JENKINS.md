@@ -7,14 +7,17 @@
 
 ## Setting up a new project.
 
-  * Test that a fresh clone of your project works with `docker-compose up` and the tests pass.
   * Items in Jenkins (jobs) are named after their repository name. Each repo gets 2 items in jenkins. For a repo called wizards, the Jenkins items are wizards-test and wizards-deploy.
   * Create a new "item" and choose the option to clone an existing item called <repo name> and <repo name>-deploy.
   * Restrict the job to run on a specific node.
   * Change the repo URL and name of the item to match your repository.
   * Edit the job's commands to run your tests properly.
   * Configure slack to [post job status to the project's channel](https://github.com/jenkinsci/slack-plugin#install-instructions-for-slack).
- 
+
+## Troubleshooting
+  * Look at the console log from your Jenkins Job
+  * Test that a fresh clone of your project works with the commands your Jenkins job runs.
+
 ## Prerequisites for the server
 
    1. Install packages
@@ -37,7 +40,9 @@
 
 ## Setting up a Jenkins node & project
 
-   1. Create a User
+Create a [new server](./SERVERS.md) first.
+
+   1. Create a User on the slave.
    ```
    adduser jenkins
    (enter his password)
