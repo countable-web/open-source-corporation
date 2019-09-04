@@ -27,11 +27,16 @@ To choose a hosting provider.
 
 ### Bootstrapping
   
-  * Log in as root (or ec2-user on AWS), and create a user for yourself in the `sudo` and `dev` groups.
+  * Log in as root (or ec2-user on AWS), and create a user for yourself in the `sudo`, `dev`, and `docker` groups.
 
 ```
 ssh root@IP.ADDRESS
 adduser myname
+
+# create groups if they don't exist
+groupadd dev
+groupadd docker
+
 usermod -aG dev myname
 usermod -aG sudo myname
 ```
