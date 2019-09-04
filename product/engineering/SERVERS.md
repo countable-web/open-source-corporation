@@ -23,7 +23,7 @@ To choose a hosting provider.
   * For Digital Ocean, choose "create->Droplet".
   * Choose the latest LTS Ubuntu as the OS.
   * Choose an amount of RAM and Disk space by consulting the developers of the system you are installing. For a Django application with low traffic (under 1000 visits/day, and no special compute tasks like video transcoding) 2GB of RAM is ok. For most systems about 50GB of disk space is recommended.
-  * Choose a name for the node that uses the project slug, ie `cortico` as the name. If the Node is only used in a subset of cases, indicate that, ie `cortico-clientname`.
+  * Choose a name for the node that uses the project slug (e.g. `cortico`) as the name. If the Node is only used in a subset of cases, indicate that, e.g. `cortico-clientname`.
 
 ### Bootstrapping
   
