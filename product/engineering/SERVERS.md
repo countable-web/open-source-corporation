@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Improve consistency between our servers.
+Improve consistency between our servers and establish best practices for deployment.
 
 ## Scope
 
@@ -35,7 +35,11 @@ usermod -aG sudo myname
 ```
 
   * Install [dotfiles](https://github.com/countable-web/dotfiles)
-  * Set up [Jenkins](#) if needed.
+  * Set up [Jenkins](./JENKINS.md) if needed.
   * Create an account for any team member who needs access, and add them to the `dev` `sudo` and `docker` groups.
   
  Run your jenkins job to test the software works.
+ 
+ ### Future Work
+ 
+   * This process should be replaced with an IAS solution (Terraform + Ansible for example)
