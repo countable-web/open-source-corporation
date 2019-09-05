@@ -26,6 +26,7 @@ The goal of this guide is to help new members of Countable get connect with the 
   * Also include at least one of: references to issues in Trello, Commit IDs.
   * Countable pays for your time training and learning things you need for your job.
   * If you're not sure what's billable, generally anything we ask you to do is billable, and anything we "invite" you to do is optional and not billable. Training is only billable if it's requested by the company that you complete specific materials, or you're learning something immediately required to solve a problem in your work. Attending events, conferences, etc, is not paid unless we require you to go for marketing or another purpose (but we'll often pay for your tickets in any case).
+  * Billing for travel time: If we meet each other only, or go to a workspace with no clients, transit time is not billable. When visiting clients, it is billable.
 
 ### Team Calendar
   * Go to calendar.google.com from your Countable Google Apps account.
