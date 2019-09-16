@@ -13,9 +13,9 @@ Checklist of key steps when starting a new project.
   
   * For this session, meet the product owner (client) in person or over video chat. Text based interaction isn't good enough for these critical questions. [1]
   * What problem does this project solve, for whom? (value hypothesis)
-  * What is the most important benefit you expect this project to provide?
+  * What is the most important benefit you expect this project to provide to the user?
   * What is the growth hypothesis? How will the project virally grow (by referrals) to reach more people?
-  * What does success look like? Provide as much detail as possible about that vision.
+  * What does success look like for you? Provide as much detail as possible about that vision.
   * How will success be measured?
   * Identify the target market (persona). ideally, find a real person who embodies the persona.
   * What problem are you solving for the persona? Why does that problem matter to them? What words do they use to describe the problem?
