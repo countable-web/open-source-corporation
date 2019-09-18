@@ -42,10 +42,8 @@ The goal of this guide is to help new members of Countable get connect with the 
   * Complete the [training exercises](../../product/engineering/TRAINING.md) following these practices and get a team member to code review it using a feature branch and pull request.
   * Order a book that will help you learn your job, and bill the company for it.
 
-Share your username with your manager on these platforms so you can be invited into specific projects:
-  * [Trello](https://trello.com/b/gycu4ydQ/opportunity-road-map)
-  * [GitHub](https://github.com/countable-web)
-  * [BitBucket](https://bitbucket.org/countable-web)
+Fill this onboarding form. It contains information we need for you to start work at Countable
+  * https://docs.google.com/forms/d/e/1FAIpQLScYLUdoD5z1OhMNbhXC4G3GDLVbumoPH9X-mnNPDRaR2YQiwA/viewform?usp=sf_link
 
 Join these using your Google account.
   * [Sentry](http://sentry.countable.ca). Join the `Sentry` team.
