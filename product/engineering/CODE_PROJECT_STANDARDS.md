@@ -12,6 +12,14 @@ ALL projects SHOULD:
   * Use our standard stack choices.
   * Automatically run tests, stage the `develop` branch for anyone to look at, and automatically deploy the project to production from the `master` branch.
 
+## Automation
+
+Never block the developer. We own our tools, not the other way around.
+
+The core principle of Countable's code projects is they automate everything other than the core domain problems the developer is working on. The developer should never have to take an extra manual step to start up a project, deploy, debug, or restart in order to apply changes. Any extra steps that interrupt development flow should be automated. For example:
+  * Linters should auto-fix issues, and only issue warnings in the case of issues that can't be auto-fixed.
+  * Minimize startup time. It should only take a few seconds or less to start up a project after the first installation.
+  * Migrations should be run automatically on startup, not require a manual step.
 
 ## Project Structure
 
