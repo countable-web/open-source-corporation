@@ -18,26 +18,6 @@
   * Look at the console log from your Jenkins Job
   * Test that a fresh clone of your project works with the commands your Jenkins job runs.
 
-## Prerequisites for the server
-
-   1. Install packages
-   Usually, Java, Git & Docker is enough.
-
-   * Git
-   ``
-   sudo apt-get install git
-   ``
-
-   * Java
-   ``
-   sudo apt-get install oracle-java8-installer
-   ``
-
-   * Docker
-   ``
-   https://github.com/countable-web/open-source-corporation/blob/master/engineering/OPERATIONS.md
-   ``
-
 ## Setting up a Jenkins node & project
 
 Create a [new server](./SERVERS.md) first.
