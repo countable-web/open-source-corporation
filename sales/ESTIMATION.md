@@ -11,9 +11,19 @@ Define our approach and guidelines for software project cost estimation.
 # Effort Estimation Process
 
 For all projects:
-  * Make sure you summarize the purpose of the work at the top of any estimation document. You can't repeat this too many times.
+  * Make sure you summarize the purpose of the work at the top of any estimation document.
   * Tell the client what you need by when to finish within the budget (data, access, creds).
   * Determine their deadline, and build a prototype that captures the general idea of the system within 25% of the alloted time.
+  
+# Quoting
+
+Some companies require a quote in order to issue a purchase order. This is appropriate when:
+  * The amount is at least $5,000.
+  * The work is very well understood. We've done something very similar before, and understand the steps clearly.
+  
+A template is [here](https://docs.google.com/spreadsheets/d/10IJtCsBL-rHwEkd0tcScvZM3IO5Auq3BLQeJSMywc8k/edit?usp=sharing). To fill it:
+  * Fill in 1 to 5 days of effort per line item. Don't separate items which are under a day, batch them.
+  * Each line item should be for a different team member. To get the day rate, multiply that person's standard hourly rate by 8 hours. The standard hourly rate (as with other agencies) is around 2.5 times the team member's hourly salary, although this varies. You can get the hourly rate from our accounting team.
   
 ## Billing
 
