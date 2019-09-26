@@ -62,7 +62,7 @@ See [meetings](./MEETINGS.md)
 
 Use the following notification setting. You should only be notified when people direct message or mention you, and only during your work hours. ![Slack Notification Setting](recommended-slack-setting.png)
 
-  * Go straight to the point. Don't send people messages to check if someone's online, like "Clark", "hey, you there?", or "Can I ask you a question?". This sucks, because the person now has to stare at the screen for 2 minutes while you write them a message. Just get to the point and don't worry about when, they'll reply when they can. The expected response time on slack is up to 4 hours. When people are in "focus mode", they shouldn't have slack open as it's a distraction.
+  * Go straight to the point. Don't send people messages to check if someone's online, like "Clark", "hey, you there?", or "Can I ask you a question?". This sucks, because the person now has to stare at the screen for 2 minutes while you write them a message. Just get to the point and don't worry about when, they'll reply when they can. The expected response time on slack is up to 4 hours during the recipient's work hours, so they should check it twice a day. When people are in "focus mode", they shouldn't have slack open as it's a distraction.
   * If the message could be useful to more than one person, post it in the most relevant public or project channel.
   * No instant reply required. Our communication priority order is: 1) Call/Text 2) Slack 3) Email 4) Trello 5) Reddit
   * Try to interact with the team about twice per work day on slack, but don't leave it open all day, you need some quiet time to focus on work. Catch up on your channels, skim and respond where needed.
