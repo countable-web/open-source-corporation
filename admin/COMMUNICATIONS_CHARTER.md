@@ -10,10 +10,10 @@ Define how we use different communication channels for different purposes.
 
 ### Guidelines for All Communication
   * Where possible, communication is `asynchronous` because we have different schedules and often timezones too. This means it will often be a few hours or even a day before you get a response to Slack or Email messages.
-  * For complex or emotionally charged conversations us voice (appear.in or phone)
+  * For complex or emotionally charged conversations use voice (appear.in or phone)
   * Being brief in email/slack amongst ourselves is ok.
-  * There are arguably two "modes" we work in. "Focus mode" and "Collaboration mode". Slack is great when you're in collaboration mode, but it's ok to turn off all channels and focus on your work too.
-  * It's always better to speak up if you have a concern, or any information that might be important to the group. If you're worried about how the group will react, say so. We're all commited to speaking up, and listening respectfully. We can't make the right decision without everyone sharing all their information.
+  * There are arguably two "modes" that people work in. "Focus mode" and "Collaboration mode". Slack is great when you're in collaboration mode, but it's ok to turn off all channels and focus on your work too.
+  * It's always better to speak up if you have a concern, or any information that might be important to the group. If you're worried about how the group will react, say so. We're all commited to speaking up, and listening respectfully. We can't make the right decision without everyone sharing all their information. Find a way to share your concern, that you are most comfortable with.
   * Talk to your team and clients every single day you work. You should indicate what you're working on, and keep track of any special deadlines set by your team. For example, when you're blocking someone else or a client requests a special deadline.
 
 ### Calendar Expectations:
