@@ -9,6 +9,12 @@ One practical way to learn about architecture in your domain is to consider the 
   * Consider modularity of your application. Django has good conventions built in for this, study those. Use "fat models" and "skinny views" (from 2 Scoops of Django)
   * Separate components by interface and responsibility. ie) all the dashboard routes should be in one file. All the dashboard utilities should be in another file. All the shared utilities (used by more than one other file) should be stored together according to function.
 
+## Architecture Models
+Here are some bodies of literature for thinking about architecture of interest. Many of these are focused in the Java world, since that ecosystem is both very mature (preceeded more modern languages). Java also both has more cultural awareness of software architecture and the language itself imposes more weight than modern languages on developers so necessitates considering macrostructure and strategy earlier than (say) you can get away with using Python.
+  * [Microservices](https://dwmkerr.com/the-death-of-microservice-madness-in-2018/) . This model had many drawbacks if overused. It proposes a bias towards breaking up your application at the HTTP level (at least for our purposes). At Countable, the decision to split off an HTTP service is made with a full consideration of the costs of doing so. A new HTTP service is usually not our first choice for adding a new function to an application.
+  * [Domain Driven Design](https://dddcommunity.org/book/evans_2003/) - A set of models for thinking about software architecture in a business context, and therefore quite appropriate for practitioners who deliver real systems day to day.
+  * MVC - The convention Django uses to separate modules. This (and its' relatives) appear frequently throughout web development.
+ 
 ### Dependencies
 
 1. See any dependency as a cost. The marginal benefit (so, minus opportunity cost of using no dependency) must be positive, ideally large.
