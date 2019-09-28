@@ -83,4 +83,4 @@ Then deploy the changes (automated by Jenkins in most projects).
   * Reviewer should point out anything that's not following project conventions. Are we doing something a new way, when a perfectly good way existed before, that we should be following?
   * Try to find and remove any repeated code. then comment on that as well.
   * Code reviews are _not a gate_ for deployment. Anyone can merge the code at any time based on the team's needs. Communicate about what you're doing. If code is merged before you review, the reviewer can still add comments and changes can be patched in as needed.
-
+  * Review these [Code Review Guidelines](https://phauer.com/2018/code-review-guidelines/)
