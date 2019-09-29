@@ -40,6 +40,7 @@ You'll want to ask as many questions an possible before writing in order be conf
 1. Think of any possible reason your proposal might not be accepted. This is hard, but important. Ask a question for each uncertainty to determine if it's likely, or not.
 1. Ask questions to clarify any scoring criteria so you're 100% clear what they each mean.
 1. Ask questions to help you understand what the evaluators are looking for.
+1. If the project solves a real problem, there should be an existing (partial, bad) solution. Ask "How are you currently getting by without this solution? What process will we be replacing?".
 
 ### Research
 
