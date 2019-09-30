@@ -8,7 +8,26 @@ Improve consistency between our servers and establish best practices for deploym
 
 Standardize setting up new servers. These steps are generic to AWS, Digital Ocean, and Scaleway currently. 
 
-## Process.
+## Process For Troubleshooting Production Servers
+
+Nodes are typically accessible directly with a `direct` prefix the following forms.
+  * cryptsend.io can open a shell on direct.cryptsend.io (add initial `direct.` to access the server IP)
+  * kmc.countable.ca can open a shell on kmc-direct.countable.ca (for domains under our TLD, use the `-direct` suffix on the first token.
+  
+To access the node:
+```
+ssh direct.cryptsend.io
+```
+
+You can sign directly into our production nodes with SSH. We recommend using SSH keys, so if you don't have one already, do this for example.
+
+```
+ssh-copy-id direct.cryptsend.io
+```
+
+You can now SSH in from this device without a password.
+
+## Process For Creating Nodes
 
 ### Providers
 
