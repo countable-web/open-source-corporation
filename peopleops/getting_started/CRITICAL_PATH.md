@@ -10,9 +10,9 @@ Identify dependencies to complete a finished product, and make sure the "critica
 
 ## Process
 
-The "critical path" is the *longest* list of dependencies to completing a project. To find this, work back from the key result you want.
+The "critical path" is the *longest* list of dependencies to completing a project. To find this, work back from the goal.
 
-For example, if the key result is to build a web applicaton, the critical path is something like this:
+For example, if the goal is to build a web applicaton, the critical path is something like this:
   
   * We want to build a web application.
   * To do that, we need to validate with users (usability test).
