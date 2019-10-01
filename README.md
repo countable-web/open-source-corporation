@@ -1,5 +1,7 @@
 # Countable Web Productions Inc Operations Manual
 
+TODO: port this to use a documentation generator, like https://readthedocs.org/dashboard/
+
 ## What Is This?
 
 This is the [Countable Web Productions Inc.](http://countable.ca) *operations manual*. It's a living record of how our company works, and is constantly evolving as we learn. Our whole team proposes amendments in order to constantly improve the material here.
