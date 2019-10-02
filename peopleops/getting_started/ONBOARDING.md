@@ -64,6 +64,12 @@ You should now go on the slack #general channel and announce that you've complet
   * As a new person, your job is mostly to catch balls (not pass them on or throw them to others). So, try to execute work quickly, save others time as opposed to costing their time. Remember, you're already using time on the above items (teaching, documentation, and support) but these are a very good use of their time. So, don't be shy to ask for help, but do so respectfully and consciously of the other party's time.
   * Review the [staff homepage](https://sites.google.com/countable.ca/countable-staff/home), for commonly used resources including the Google Drive stuff you can access. Sign in as countable email to view this page. 
 
+### When you start working:
+You'll be learning a lot, and we don't expect you to necessarily complete tasks every day when you work. But, you are expected to:
+   * Let your team know what you did and what you struggled with, on Slack every day, because we need to know that in order to help you learn. It doesn't help anyone if you're stuck, and we want to help.
+   * Commit your code and push it to `develop` or a new branch with a Pull Request every day.
+   * Try your best to complete a tiny task, rather than partially finishing a big task.
+
 ### How to ask for help:
 See https://www.youtube.com/watch?v=hY14Er6JX2s, skip to 11 minute mark and watch steps for asking for help. Summary.
   * If you struggle more than 15 mins, ask for help. (if you're waiting for a response, move to something else meanwhile.)
