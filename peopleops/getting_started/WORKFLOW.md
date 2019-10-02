@@ -12,11 +12,11 @@ These are mostly things we should already be doing. If it's something we're stil
   * If you're not going to meet a commitment, tell the team as early as possible, and explain what the gap will be, and how close you are. Explain what else you can do to help.
 
 ## Every Day You Work
-  * Share something with the team every day. Anything you want, but sometimes should be your actual work. Either in your specific client channel on slack or in #general (the tavern). You can either share a work sample, or tell us something you've learned or are struggling with, or some 3rd party work that inspires you. Shooting a quick [screen cap video]() to share is a neat idea.
-  * Give honest feedback on some other team member's posts. [Collaboration](../FEEDBACK_LOOPS.md)
-  * Fill your timesheet (end of the day) [Courtesy](../FEEDBACK_LOOPS.md)
-  * Check your company Email. [Courtesy](../FEEDBACK_LOOPS.md)
-
+  * Share something with the team every day. The simplest way to do this is to report what you did on Slack in your team's channel, and anything you're stuck on. Shooting a quick [screen cap video]() to share is a great idea to try out.
+  * Check slack twice a day at least, and react/respond to some other team members' posts.
+  * Commit your code and push it to bitbucket every day.
+  * Fill your timesheet (end of the day)
+  * Check your company Email
 ## Every Week
   * Communicate with each client you are working with. Send them an update on what's done and what's pending out of their current expectations. Include a link to staged work, and a screenshot or video. It's best to do this Friday or Monday. [Transparency](../TRANSPARENCY.md)
 
