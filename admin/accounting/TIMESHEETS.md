@@ -20,6 +20,7 @@ This document standardizes the process of logging timesheets.
 ## Figuring Out What To Bill
 
   * Describe the work in a few words that indicate specific outcomes you worked on for most of that day, in a language clients will understand. Between 3 and 20 words is the right level of detail. If you're entering the same phrase every day, you're not being specific enough.
+  * Do not enter the same description for multiple days. Indicate what was different about each day you worked. This is easy if you enter your time every day.
   * If you don't know the project, put "Countable" in that column.
   * The `countable` project pays for your time training and learning things you need for your job.
   * Use the `countable` project for time discussing how Countable operates with team members.
