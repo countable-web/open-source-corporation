@@ -38,7 +38,7 @@ This document standardizes the process of logging timesheets.
 ## Example
 | Project      | Date       | Description of Work | Trello or BitBucket ref      | Hours Worked |
 |--------------|------------|---------------------|------------------------------|--------------|
-| project_slug | 2019-01-01 | Describe work done  | abc1234                      | 1            |
-| countable    | 2019-01-02 | Describe work done  | https://trello.com/c/abc1234 | 2            |
+| project_slug | 2019-01-01 | Sprint meeting, discussed objectives, updated KRs | abc1234                      | 1            |
+| countable    | 2019-01-02 | Worked on my objective to publish 3 new widgets, finished UI for 2nd one.  | https://trello.com/c/abc1234 | 2            |
 | &nbsp;       |            |                     |                              |              |
-| countable    | 2019-01-03 | Describe work done  | xyz1234                      | 3            |
+| countable    | 2019-01-03 | Improved html tags / copy to help with SEO throughout site. | xyz1234                      | 3            |
