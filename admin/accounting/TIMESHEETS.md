@@ -15,7 +15,7 @@ This document standardizes the process of logging timesheets.
 *  ### Trello or BitBucket ref:
     * Also include at least one of: references to issues in Trello, Commit IDs. Link to trello cards can be found in "Share and more..." after opening a card.
 *  ### Hours Worked: 
-    * Enter the time you spent on each project, rounded to the nearest half hour.
+    * Enter the time you spent on each project.
 
 ## Figuring Out What To Bill
 
