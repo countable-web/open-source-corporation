@@ -13,7 +13,7 @@ Coding standards and guidelines at Countable Web Productions.
 ### Principles
 
   * For projects that do not currently follow our standards (open source, or new projects shared with other dev teams) but follows a different one, stick with that project's conventions unless we make a conscious decision to refactor the whole thing. Don't mix conventions.
-  * Make life easier for your team mates and future self by being consistent and thoughtful of what someone unfamiliar would think. The goal is your code should be obvious and easy to understand for a new programmer. Stick to conventions, and use comments when your code can't be made obvious.
+  * Make life easier for your team mates and future self by being consistent and thoughtful of what someone unfamiliar would think. The goal is your code should be obvious and easy to understand for a new programmer. Stick to conventions, and use comments to explain the story of your code, and why things are done a particular way.
   * Choose abstractions and tools based on real problems, not the reverse.
 
 ### Literature
@@ -154,9 +154,10 @@ Good:
 Use the Prettier autoformatter and standard. https://github.com/prettier/prettier
 
   * Don't use !important
+  * Separate globally applicable CSS by typography, colors, layout and reset.
   * Break CSS up by component. Some frameworks encourage or endorce this, but it's a good practice for all projects.
   * Don't use capital letters or underscores for selector (class, id) names. Use dashes and lowerase.
-
+  * Avoid inline styling, use classes instead.
 ```
 .parent {
     font-weight: bold;
@@ -171,7 +172,13 @@ Use the Prettier autoformatter and standard. https://github.com/prettier/prettie
 ```
 
 If you want to dive deeper, see https://cssguidelin.es/
- 
+
+## SCSS
+We prefer to use SCSS over bare CSS. This enabled the following:
+  * Use mixins to avoid repeating code, but take care to avoid the output CSS getting too large.
+  * Define variables globally with brand colors.
+  * Make modular files for each concern, and have SCSS combine them.
+
 ## Javascript, HTML and CSS Formatting
 
 Use the Prettier autoformatter and standard. https://github.com/prettier/prettier
