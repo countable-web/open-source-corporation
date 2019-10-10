@@ -154,6 +154,7 @@ Good:
 Use the Prettier autoformatter and standard. https://github.com/prettier/prettier
 
   * Don't use !important
+  * Use `.class` not `#id` for styling, because it is more reusable.
   * Separate globally applicable CSS by typography, colors, layout and reset.
   * Break CSS up by component. Some frameworks encourage or endorce this, but it's a good practice for all projects.
   * Don't use capital letters or underscores for selector (class, id) names. Use dashes and lowerase.
