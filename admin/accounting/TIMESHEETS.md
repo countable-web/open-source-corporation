@@ -15,7 +15,15 @@ This document standardizes the process of logging timesheets.
 *  ### Trello or BitBucket ref:
     * Also include at least one of: references to issues in Trello, Commit IDs. Link to trello cards can be found in "Share and more..." after opening a card.
 *  ### Hours Worked: 
-    * Enter the time you spent on each project.
+    * Enter the time you spent on each project. Enter time in decimal format (1 hour and 30 mins should be entered as 1.5 hours). Total should be summed in cell E1. 
+*  ### Expenses:
+    * See below
+    
+## Expenses: 
+* Expenses can be included on your timesheet below your time entries. Use a similar format as for time entries for each column. 
+* Descriptions of expenses can be brief but should be detailed enough that it is understandable to your manager and accounting. If expenses were not incurred in Canadian Dollars please include the original currency amount in the description as well. 
+* Enter the expenses amount in the ‘Expenses’ (F) column. Total should be summed in cell F1
+
 
 ## Figuring Out What To Bill
 
