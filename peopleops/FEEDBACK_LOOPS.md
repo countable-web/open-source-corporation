@@ -40,3 +40,37 @@ This is a list of the different places you can get feedback from, depending on w
   * Your manager can give you feedback sometimes, but their more important job is to help you get feedback from the real word (see above)
 
 
+## Forward Feedback (Status Reporting)
+
+You should update your team and clients each day with what you've been working on via Slack, Email and Trello. For the latter 2, these are some guidelines to help ensure effective reporting.
+
+  * Make sure the business goal under discussion is clear, mention it directly.
+  * Indicate what steps you've taken.
+  * It's great to provide an example (stage site link, screenshot, video, etc) of your work.
+  * Ask any questions you have, or anything you're unsure about.
+  * Indicate your assumptions about the questions, and how you'll proceed by default because this way you make it easy for the person reading the update to respond. They can say "That's right", or "Yes, except..." or "No, I meant this other thing." or "No, let's have a quick chat on the phone, something's been missed.".
+  * Use the language of your user (user stories) in the update.
+  
+For example, updating a client:
+
+```
+Hi Merlin (client name);
+
+I worked on helping increasing customer signups (business goal) today, and fixed a number of small usability issues (steps taken). See stage.countable.ca and let me know how it looks (example of work)!
+
+I assume it's ok in the signup form to ask for a phone number after they've already given an email, so we don't lose the customer, right (question with default assumption)?
+
+As always, let me know if you have any questions!
+```
+
+Nervous? Just send it to your team first and they'll tell you if it sounds good for the client.
+
+Example of updating your team:
+
+```
+Hey team,
+
+Signup flow UX fixes are staged, I hope it will help us improve signup metrics (business goal), any feedback much appreciated! See stage.countable.ca (work example)
+
+What do you guys think of moving the phone number after the initial signup form? I'm assuming it's better and will go ahead if no one objects.
+```
