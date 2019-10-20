@@ -20,5 +20,12 @@ Other associated risks:
   * Laptop disks should be encrypted with the user's password. This option can be enabled when installing Ubuntu Linux.
   * Do not share accounts where protected information is present. Each user has their own account.
 
+## Endpoint Physical Protection Policy
+  * Any confidential data should reside only on an encrypted disk of your computer.
+  * Confidential data must not be synced to personal cloud accounts.
+  * Do not leave your work computer unattended outside your home.
+  * Your work computer must switch to a password lockscreen after waking up from sleep mode, and should enter sleep mode within half an hour of being idle.
+
 # Web App Security
   * Apply "least privilege". Do not open any ports that aren't needed for using the application. If you must open such a port for debugging, do so in your .gitignored environment only, so it's not shared.
+  * Use our DevOps templates so all servers observe a single secured provisioning strategy.
