@@ -62,7 +62,7 @@ Ask the Candidate to meet you on appear.in, and to schedule the time with you. C
   * 1 point if the candidate manages to meet you (the interviewer) without exchanging more than 3 messages on each side. They should identify times that work, and you should pick one without any other needless communication. Did they schedule the chat efficiently on appear.in
   * For the first part of the interview, use video. 1 point if the user maintains eye contact at least 50% of the time, AND you feel they're constructively working to see if there's a fit.
   * For the second part, use instant messaging with cameras off. The candidate should They respond quickly in IM, not making you wait. More than 10s for a response is too long (if it's happening frequently). This is worth 1 point.
-  * 1 point if the English (written and spoken) is perfect or near perfect. Neither side should need to repeat themselves.
+  * 1 point if the English (written and spoken) is perfect or near perfect. Neither side should need to repeat themselves, and communication is very clear. You know what the person means when they speak.
   * 1 point if the conversation flows fluidly with both sides speaking and the speaker switches frequently. The candidate asks questions on their own to facilitate this.
   * 1 point if the candidate answers questions clearly and understands what's been asked.
 
