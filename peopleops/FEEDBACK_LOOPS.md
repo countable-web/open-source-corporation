@@ -4,6 +4,8 @@
 
 Help everyone at Countable get feedback on our work every day, and give clients visibility of our work.
 
+One of our core principles at Countable is to shorten feedback loops. There is overwhelming evidence of the benefits of this. One example is the biggest predictor of happiness in the YCombinator Startup School program was that startups who talked to users. They were 12.8% happier.
+
 ## Scope
 
 Specific tactics for getting feedback.
