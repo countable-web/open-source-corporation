@@ -17,13 +17,14 @@ If the answer to all the above, we might do great work together. Let's prototype
 We evaluate the RFP due date for logistics.
 We evaluate the contract size.
 We evaluate the alignment score on a 100% scale.
-  * 40 points for technology it implies "web application". 30 if it seems a web app would work.
+  * 40 points if the proposal asks for a "web application" explicitly. 30 if it seems a web app would work.
   * -20 points for .NET, oracle, java, and most others are bad. 
   * Mention of any from: Django, Node, Postgres, Vue, React, javascript give an extra 10 points.
-  * 10 points if it's publicly browsable.
-  * 10 for scoring criteria (present or not)
+  * 10 points if the final result publicly browsable, for portfolio value.
+  * 10 points if the RFP offers losing proposals a debrief on the scoring.
+  * 10 if scoring criteria is explained in the RFP.
   * 20 points for business domain (industry). How much experience do we have in similar industries. Exact match is 20 points. (Queue, medical, seafood/marine, natural resources, )
-  * 30 MVP/PoC allowed, or is a queue systems, 20 points if custom solution is allowed (no testing in evaluation).
+  * 30 MVP/PoC phase is an option mid-project to get feedback from users.
   * 20 points for contract size. 0 for $10k, 5 for $20k, 10 for $50k, 15 for $100k, 20 for $200k and up, 15 for over $500k, 10 for over $1M.
   * bonus: 10 points if open source is allowed.
   * bonus: 10 points for mentioning Scrum or Agile.
