@@ -27,42 +27,12 @@ Test that your changes dont't break anything. Run automated tests and check thin
 
 Submit a pull request from `fireball-spell` targetting `develop`. Another developer on the project should [review](#code-reviews) and comment on your changes. When everyone agrees, anyone can merge the changes. The `fireball-spell` branch is then deleted after being merged.
 
-## Small non-critical patch (update README.md)
-
-A small documentation changes and tests don't always need a feature branch. It's up to your judgement to decide if it's worth someone else reviewing small changes. If not, commit right to develop.
-
-```
-git checkout develop
-```
-
-make changes to README.md
-
-```
-git commit -a -m "Document deployment steps for trolls."
-git pull origin develop
-git push origin develop
-```
-
 ## Hotfix
 
-If production is broken, you want to fastrack a fix into master. Only for emergencies.
+If production is broken, you want to fastrack a fix into master. Only for emergencies. Your PR will be made against master instead of develop in this case.
 
 
-```
-git checkout master
-```
-
-make your bugfix (and no other changes here.)
-
-```
-git commit -a -m "Hotfix broken CSS on elven smartphone resolutions."
-git pull origin master
-git push origin master
-```
-
-Then deploy the changes (automated by Jenkins in most projects).
-
-## General Guidelines
+## General GIT Guidelines
 
   * Commit often, with each logical change in its own commit. If for no other reason, developers who commit multiple times per day are nearly 10% more likely to be satisfied with their jobs (Stack Overflow dev survey, 2017). That's crazy correlation for such a simple behaviour!
   * Use the "imperative voice" for commit messages: *Verb* *noun*. ie) "Remove magic glpyphs from wizard profile card."
@@ -75,12 +45,12 @@ Then deploy the changes (automated by Jenkins in most projects).
   * Create your pull request and read it on BitBucket yourself first. I catch a ton of my own embarrassing mistakes this way before my team sees the.
   * Be careful when merging in the upstream (develop) branch that you don't overwrite anyone else's changes with yours. It pays to look closely at each merge marker. Use a [3-way merge tool](https://www.youtube.com/watch?v=GiXGYQ9Ah0U) `git mergetool` if the merge is nontrivial.
 
-## Creating A Pull Request
+## Tips for Creating A Pull Request
   * It's a good idea when creating a pull request to point out specific lines of interest to the reviewer.
   * Check the box to automatically delete the branch after merge.
   * Code reviews are _not a gate_ for deployment. The submitter merge the code at any time based on the team's needs. Communicate about what you're doing. If code is merged before you review, the reviewer can still add comments and changes can be patched in as needed.
 
-## Code Reviews
+## Tips for Code Reviews
   * The main goal of code reviews is for everyone to learn from each other. So, ask your questions!
   * We don't rely on reviews to catch bugs (that's a bonus if we find one). We rely on tests and the discipline of the original developer for that.
   * It's up to the reviewer's judgement how much time they spend on a code review. It could be quick or more in-depth.
