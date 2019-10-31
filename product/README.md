@@ -1,2 +1,4 @@
 
-TODO: include information on htmlcommentbox.com and bawkbox.com here.
+# Product
+
+Start here for a new [project](./DISCOVERY.md).
