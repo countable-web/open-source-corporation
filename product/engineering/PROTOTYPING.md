@@ -2,7 +2,7 @@
 
 Prototyping is the essence of our approach, of doing quick experiments with minimal planning. A prototype is the ultimate plan.
 
-A prototype consists of a very small, intentional, subset of core functionality. This will usually include only the core feature needed to solve the domain problem, and skip anything else possible. We will typically skip any graphic design at this point and stick with a wireframed UI.
+Start with a "low fidelity" prototype which does nothing except that absolute minimum it could do in order to be useful at all for the domain problem, and skip anything else possible. Skip any graphic design at this point and stick with a wireframed UI.
 
 All work should initially be treated with the intention to throw it away, until you start experimenting with real usage, and you should invest nothing in things like code quality and scalability. This doesn't mean you'd deliberately make a mess, but the prototyping process is:
 
