@@ -36,7 +36,8 @@ Interviews should be the primary source of information about your users, but you
   
 ## Prototyping
   * Create wireframes that support the important user stories. Validate these against conversations with the target market.
-  * Validate your stories with the product owner and users, and adjust.
+  * Depending on the project, you may also want to develop a process diagram to capture sequences of interactions over time, an information architecture diagram to show how different user interfaces are linked, or other project-specific resources as needed to get everyone on the same page about any aspect of the user experience which is important to more than one the stakeholders.
+  * Validate your wireframes and other planning materials with the product owner and users, and adjust.
   * You're now ready to hand off the wireframes to technical team members to build a [functional prototype](./engineering/PROTOTYPING.md).
 
 ## Feedback
