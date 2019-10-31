@@ -1,6 +1,6 @@
 # Prototyping
 
-Prototyping is the essence of our approach, of doing quick experiments with minimal planning. A prototype is the ultimate plan.
+Prototyping is the essence of our approach. Do quick experiments with minimal planning. A prototype is the ultimate plan.
 
 Start with a "low fidelity" prototype which does nothing except that absolute minimum it could do in order to be useful at all for the domain problem, and skip anything else possible. Skip any graphic design at this point and stick with a wireframed UI.
 
