@@ -4,7 +4,9 @@ Prototyping is the essence of our approach, of doing quick experiments with mini
 
 Start with a "low fidelity" prototype which does nothing except that absolute minimum it could do in order to be useful at all for the domain problem, and skip anything else possible. Skip any graphic design at this point and stick with a wireframed UI.
 
-All work should initially be treated with the intention to throw it away, until you start experimenting with real usage, and you should invest nothing in things like code quality and scalability. This doesn't mean you'd deliberately make a mess, but the prototyping process is:
+All work should initially be treated with the intention to throw it away, until you start experimenting with real usage, and you should invest nothing in things like code quality and scalability. This doesn't mean you should make a mess, it means you should keep it simple and *leave things out when in doubt*.
+
+## Get A Prototype in Front of Real Users ASAP.
 
 1) *Get a prototype in front of real users ASAP*. All that matters is the absolutely most core functions work reasonably well, and it's easy to understand. So put effort into clear design and the most basic feature set. Not into scalability, code quality, or anything else.
 2) If you receive a positive market response, THEN refactor and clean up your code and add tests, and move to a larger user base, step 4.
