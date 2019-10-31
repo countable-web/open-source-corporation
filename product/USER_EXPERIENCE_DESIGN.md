@@ -35,10 +35,24 @@ Interviews should be the primary source of information about your users, but you
   * Validate your stories with the product owner and users, and adjust.
   
 ## Prototyping
-  * Create wireframes that support the important user stories. Validate these against conversations with the target market.
-  * Depending on the project, you may also want to develop a process diagram to capture sequences of interactions over time, an information architecture diagram to show how different user interfaces are linked, or other project-specific resources as needed to get everyone on the same page about any aspect of the user experience which is important to more than one the stakeholders.
-  * Validate your wireframes and other planning materials with the product owner and users, and adjust.
+It's beneficial to involve your personas and other stakeholders in the below steps where practical (co-design workshop). This speeds up the "validation" step, below.
+
+  * For any project with a user interface, create wireframes that support the important user stories. Validate these against conversations with the target market.
+
+Depending on the project, you may also want to develop:
+
+  * For projects with nontrivial sequences of interactions over time, consider a customer journey map, or process diagram (BPD).
+  * For projects with many user interfaces or many views, develop an Information Architecture diagram to show how different user interfaces are linked.
+  * For projects with nontrivial off-screen actions, consider storyboarding the actions a user must take related to their use of the product.
+  * Other project-specific resources as needed to get everyone on the same page about any aspect of the user experience which is important to more than one the stakeholders.
+
+### Validation
+  * Validate your wireframes and other planning materials with the product owner and users, adjust, and repeat until everyone on your team has a clear shared vision.
   * You're now ready to hand off the wireframes to technical team members to build a [functional prototype](./engineering/PROTOTYPING.md).
 
 ## Feedback
+While user experience design can be front-loaded in a project somewhat, it's critical to continue throughout the project to ensure incremental improvements are made and a great end result is achieved.
   * Conduct [usability tests](./USABILITY_TESTING.md) of the functional prototype as you iterate on it, each sprint.
+  * Perform follow-up interviews on users after they've tried the product.
+  * Build a feedback mechanism (chat widget, form, etc) into the User Interface for a quick easy way to get contextual feedback from users.
+  * Ensure developers understand the critical user flows in order to align with acceptance criteria for automated tests.
