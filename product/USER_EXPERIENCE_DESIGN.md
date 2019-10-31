@@ -30,7 +30,7 @@ Interview representatives of each Persona to answer the following:
 ## Prototyping
   * Create wireframes that support the important user stories. Validate these against conversations with the target market.
   * Validate your stories with the product owner and users, and adjust.
-  * You're now ready to hand off the wireframes to technical team members to develop a [functional prototype](./PROTOTYPING.md)
+  * You're now ready to hand off the wireframes to technical team members to build a [functional prototype](./engineering/PROTOTYPING.md).
 
 ## Feedback
-  * Conduct [usability tests](./USABILITY_TESTING.md).
+  * Conduct [usability tests](./USABILITY_TESTING.md) of the functional prototype as you iterate on it, each sprint.
