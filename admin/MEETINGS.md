@@ -46,6 +46,8 @@ As a manager:
 1. Raise anything you felt was a problem. Say how you feel about it, and let them lead.
 1. If they don't bring it up on their own I'll ask questions about emotional state and emotional reactions to situations. E.g., "How did you feel about what happened at Countable last month?" (be specific), "Are you feeling sufficiently challenged?", "What would you like to learn?", "What do you enjoy most at work?", "What made you feel motivated?"
 1. TBD: Review job levels. Employees should check off each job level requirement, and self-promote when they reach completion of their current level. Give the employee a simple desription of what you think would really get them "to the next level". Make this as actionable and objective as possible, and frame it as a mentor.
+1. On first one-on-one, ask "tell me about your life starting in kindergarten". Write down moments of change, decisions on direction and why they were made. 45 mins discussion.
+1. What are the person's dreams? Ask "what would you like to do most after Countable, if anything was possible? Provide 3 possible visions". Make dreams columns and put rows for skills necessary for each vision. Ask questions about everything fits together. What skills can be developed in their role?
 
 Themes:
 Some ideas to pick from, not needed every month.
