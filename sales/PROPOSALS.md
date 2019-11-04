@@ -1,4 +1,4 @@
-# How To Write Good Proposals
+# How To Increase Proposal Win Rate
 
 ## Purpose
 
