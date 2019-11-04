@@ -33,7 +33,7 @@ See [Filter](./FILTER.md)
 
 ### Qualify
 
-You'll want to ask as many questions an possible before writing in order be confident about the project. Ideally, get on the phone with someone in order to make a "conceptual agreement". This won't always be possible.
+You'll want to ask 2 or 3 questions before writing in order be confident about the project. Ideally, get on the phone with someone in order to make a "conceptual agreement". This won't always be possible.
 
 1. Make a super clear, one sentence statement of the real problem the RFP wants to solve, in language you understand. Ask the prospect if this is the most important thing, and if not, what is?
 1. Make a super clear, one sentence statement of your unique approach. Ask the prospect if it's a good approach.
