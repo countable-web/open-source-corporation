@@ -195,3 +195,7 @@ For projects using node, and supported editors (like VS Code) you can have a `.p
 ```
 
 Alternatively, in VS Code, you can do `ctrl-,` to open settings, and search for "prettier". Scroll down to change the above settings manually.
+
+## Javascript Guidelines
+
+  * Prefer ES6 template strings to other methods of string concatenation.
