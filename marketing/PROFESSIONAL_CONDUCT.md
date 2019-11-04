@@ -8,7 +8,7 @@ Establish best practices on how to act around clients in order to maintain a pro
 
 How to communicate with clients, and general practices. TLDR: Act professionally with clients. You're given flexibility (schedule, location, school) at Countable because we trust you to minimize the impact of those things on clients.
 
-## Maintaining Professionalism
+## Maintaining Professionalism with Clients
 
 As a team, Countable leans towards being casual with one another. In general, we believe this is a strength. However, 
 we must keep in mind that we are also a *consultancy*, which means we offer high value knowledge based services
