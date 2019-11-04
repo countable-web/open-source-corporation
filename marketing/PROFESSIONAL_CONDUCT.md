@@ -25,3 +25,4 @@ However, we are very serious about doing high quality work for our users and cli
   * If you can't make a specific meeting time, do not offer the reason. The client does not need to know it's because you have another business meeting, classes, or it's the middle of the night where you are.
   * When meeting clients over video, work from a well-lit room, and wear clean, reasonable clothing that you'd wear to a job interview.
   * Never be late (even a few minutes) for meetings, especially when clients are involved. If you are, apologize because the reality is you've just wasted people's time.
+  * Always reply to clients' emails or Trello comments within 24 hours with a resolution. This means, it should be clear what the next step is, by whom. If the item doesn't require action, say so - "We can revisit this in the future."
