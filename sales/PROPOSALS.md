@@ -85,6 +85,8 @@ If the RFP has scoring criteria already, this should be your focus.
 
 Don't try to be clever and make up a proposal structure based on your domain knowledge. Instead, write your proposal inline to the original RFP, and include the original wording in a different font. This will make it easy to mark, clear you've missed no mandatory criteria, and clear how to score you.
 
+In each section, the person creating the outline should make a note of the person from our team best qualified to write that section so it's very clear who is contributing each section of the proposal.
+
 There are usually 2 types of criteria. First, a list of things that could disqualify you. Second, a list of categories where you can score points.
 
 For the first category, make a checklist and make sure you're 100% confident in those items being checked off before you submit. For the actual scoring, it's likely the prospect has a committee reviewing scores, and likely they'll even be "blind". This means they'll be worried about being perceived as unfair, and will usually follow the criteria quite literally.
