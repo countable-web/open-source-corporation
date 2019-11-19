@@ -18,16 +18,10 @@ Here are some bodies of literature for thinking about architecture of interest. 
 ### Dependencies
 
 1. See any dependency as a cost. The marginal benefit (so, minus opportunity cost of using no dependency) must be positive, ideally large.
-2. The Python ecosystem does dependencies well. Node.js has gone overboard.
-3. Avoid dependencies that themselves depend on other optional dependencies where possible. ie) django-celery-tags depends on django AND celery which increases the risk of support blackout periods for new versions of Django and Celery.
-4. If you must use a dependency, in general you should use the one that does the least additional things you're not going to use.
-5. As an extension of the above, prefer micro-libraries which provide a small number of tools to accomplish a lot in your application's domain.
-
-As a heuristic, the value of a dependency is:
-
-TOTAL_MARGINAL_BENEFIT / ( SQRT(LIBRARY_API_SIZE) + NUMBER_OF_SUB_DEPENDENCIES)
-
-TODO: this is basically crap. it can never be negative for one thing.
+2. When adding a new dependency, try to use one we've used in another project before.
+3. Failing that, choose a popular dependency with lots of github stars, ad test coverage. When adding a new dependency, share it in the #tech slack channel to see if anyone knows of a better option. Indicate what you need the dependency for.
+4. Avoid dependencies that themselves depend on other optional dependencies where possible. ie) django-celery-tags depends on django AND celery which increases the risk of support blackout periods for new versions of Django and Celery.
+5. If you must use a dependency, in general you should use the one that does the least additional things you're not going to use. Prefer micro-libraries which provide a small number of tools to accomplish a lot in your application's domain.
 
 ### Data Model
 
