@@ -19,7 +19,7 @@ Here are some bodies of literature for thinking about architecture of interest. 
 
 1. See any dependency as a cost. The marginal benefit (so, minus opportunity cost of using no dependency) must be positive, ideally large.
 2. When adding a new dependency, try to use one we've used in another project before.
-3. Failing that, choose a popular dependency with lots of github stars, ad test coverage. When adding a new dependency, share it in the #tech slack channel to see if anyone knows of a better option. Indicate what you need the dependency for.
+3. Failing that, choose a popular dependency with lots of github stars, ad test coverage. When adding a new dependency, share it in the #tech slack channel (or ask another dev on your team directly) to see if anyone knows of a better option. Indicate what you need the dependency for.
 4. Avoid dependencies that themselves depend on other optional dependencies where possible. ie) django-celery-tags depends on django AND celery which increases the risk of support blackout periods for new versions of Django and Celery.
 5. If you must use a dependency, in general you should use the one that does the least additional things you're not going to use. Prefer micro-libraries which provide a small number of tools to accomplish a lot in your application's domain.
 
