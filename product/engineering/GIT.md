@@ -34,7 +34,7 @@ If production is broken, you want to fastrack a fix into master. Only for emerge
 
 ## General GIT Guidelines
 
-  * Commit often, with each logical change in its own commit. If for no other reason, developers who commit multiple times per day are nearly 10% more likely to be satisfied with their jobs (Stack Overflow dev survey, 2017). That's crazy correlation for such a simple behaviour!
+  * Commit often, with each logical change in its own commit. If for no other reason, developers who commit multiple times per day are nearly 10% more likely to be satisfied with their jobs (Stack Overflow dev survey, 2017). That's one crazy correlation for such a simple behaviour!
   * Use the "imperative voice" for commit messages: *Verb* *noun*. ie) "Remove magic glpyphs from wizard profile card."
   * Don't commit example code. Remove or gitignore it.
   * Don't commit commented code, unless you have another English comment above it explaining why it's commented out, and not deleted.
