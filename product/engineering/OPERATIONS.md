@@ -5,6 +5,7 @@ This defines how we intend to manage web technology project environments. High l
   * Subscribe to the [12 factor methodology](https://12factor.net/)
   * Automate operations to make our work more efficient, secure, consistent, predictable and reliable.
   * When something breaks, make it as transparent as possible (easy to see what happened)
+  * When something breaks, find the root cause and prevent it next time.
   * Save as much time for developers as possible, by automating their deployments, dev env setup, and testing.
   * Eliminate unnecessary differences between projects, and have everything follow convention when there's no reason for deviations.
   * Reduce and simplify the steps needed to start a new project and integrate with everything (slack, jenkins, sentry)
