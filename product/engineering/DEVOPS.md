@@ -19,3 +19,20 @@ This page introduces the areas we call DevOps at countable.
 1. Setting up a new server or developer laptop should be quick and painless.
 1. We should have a collecting of shared scripts that automate any tedious task developers need to accomplish.
 
+## CI/CD (Jenkins)
+
+For every project, we should typically have 3 jenkins jobs, a `<projectname-stage`, `<projectname>-prod`, and `<projectname>-test`. These use docker-compose configs from the project repo, `dc.stage.yml`, `dc.prod.yml` and `dc.test.yml` respectively. Here is a [video on Countable standard proeject structure](https://www.youtube.com/watch?v=8ms2YQtURXM) that explains these compose templates.
+
+Ideally, each Jenkins job simply clones the appropriate branch onto a node and runs `cp dc.<env>.yml && docker-compose up`, but in practice there may be a few extra steps. One day we may be able to have every environment just use these two commands in order to deploy.
+
+1. The "stage" environment automatically deploys the `develop` branch.
+1. The "prod" environment automatically deploys the `master` branch.
+1. The "test" environment automatically runs the tests on any change in the `develop` branch and posts the results in Slack.
+
+Tips for debugging CI/CD jobs.
+  * First, look at the `console` section of your jenkins job to indentify the failure.
+  * Try reproducing it locally `cp dc.prod.yml docker-compose.override.yml`, and `docker-compose up` (including any other steps the jenkins job does).
+
+## Provisioning (Terraform, Ansible)
+
+We are currently using these tools in some projects to set up nodes to run our software on.
