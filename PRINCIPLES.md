@@ -14,7 +14,7 @@ The purpose of this page is to address a specific issue with our [OKR](./OKRS.md
   * _Feedback_ - If something is unclear or suboptimal, we SHOULD make some noise about it. Also, we should ensure there is a strong feedback loop between peers in a team, and between us, our clients and their customers. The output of what you do SHOULD be highly visible to those it impacts, and to you. Give, receive, and act on feedback as frequently and immediately as you can.
   * _Audacity_ - We SHOULD do work that excites us and has a chance to change its industry.
   * _Transparency_ - We SHOULD do everything in the most public place that doesn't endanger someone's privacy or property.
-  * _Housekeeping_ - We SHOULD frequently leave things a little better shape than you we them.
+  * _Continuous Improvement_ - Always work to make things a little better than you found them. Many small improvements add up.
   * _Prototyping_ We SHOULD build simple but working models of things as a part of planning them.
   * _Wealth_ - We SHOULD maximize total value creation for everyone. Do things that could benefit lots of people even if they're not paying us. The PR alone is worth it, not to mention to moral obligation.
   * _Consistency_ - We SHOULD avoid arbitrary inconsistency. Create tools to automate and enforce consistency.
