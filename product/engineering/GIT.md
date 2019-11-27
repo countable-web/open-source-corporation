@@ -49,6 +49,7 @@ If production is broken, you want to fastrack a fix into master. Only for emerge
   * It's a good idea when creating a pull request to point out specific lines of interest to the reviewer.
   * Check the box to automatically delete the branch after merge.
   * Code reviews are _not a gate_ for deployment. The submitter merge the code at any time based on the team's needs. Communicate about what you're doing. If code is merged before you review, the reviewer can still add comments and changes can be patched in as needed.
+  * Do not merge unless the tests are passing. Don't break the tests in `develop`. If you do, fix them ASAP because other devs will be unable to test their work otherwise.
 
 ## Tips for Code Reviews
   * The main goal of code reviews is for everyone to learn from each other. So, ask your questions!
