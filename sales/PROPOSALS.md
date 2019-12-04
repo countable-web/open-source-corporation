@@ -34,7 +34,7 @@ See [Filter](./FILTER.md)
 
 ### Qualify
 
-You'll want to ask 2 or 3 questions before writing in order be confident about the project. Ideally, get on the phone with someone in order to make a "conceptual agreement". This won't always be possible. The goals are to get the interest and then the guidance of the buyer, and understand their priorities.
+You'll want to ask 2 or 3 questions before writing in order be confident about the project. Ideally, get on the phone with someone in order to make a "conceptual agreement". This won't always be possible. The goals are to get the interest and then the guidance of the buyer, and understand their priorities. Demonstrate a genuine interest in the outcome of the project.
 
 1. Make a super clear, one sentence statement of the real problem the RFP wants to solve, in language you understand. Ask the prospect if this is the most important thing, and if not, what is?
 1. Make a super clear, one sentence statement of your unique approach. Ask the prospect if it's a good approach.
@@ -54,7 +54,13 @@ This is pretty dependent on the proposal, but the main goals are:
 
 With all the above done, you should now determine whether to write, or move on to a new RFP. You should know your approximate chances of winning, the value of the contract, and your alternatives, and make the best choice.
 
-Are you the frontrunner? If not, can you propose a solution that is better in some way that matters to the prospect? The answer to one of these questions should be YES if you want to write.
+Are you the frontrunner? If not, can you propose a solution that is better in some way that matters to the prospect? The answer to one of these questions should be YES if you want to write. You must believe you have a good chance of winning based on all the information so far.
+
+### Outline
+
+Copy most if not all of the original proposal into a Google Doc, invite everyone who will work on it, and proceed to copy the structure of the original RFP as your proposal structure. Write your proposal inline to the original RFP.
+
+Write responses inline to the original RFP and mirror RFP document structure.
 
 ### Angle
 
@@ -64,9 +70,6 @@ In particular, if you're not the frontrunner, this is critical. Plant a seed of 
 
 If you are the a frontrunner, point to your past successes. Your angle is to create concern that other solutions don't have as much evidence of ability to deliver. 
 
-### Proposal Structure
-
-Write responses inline to the original RFP and mirror RFP document structure.
 
 ### Team
 
@@ -86,7 +89,7 @@ If the RFP has scoring criteria already, this should be your focus.
 
 Don't try to be clever and make up a proposal structure based on your domain knowledge. Instead, write your proposal inline to the original RFP, and include the original wording in a different font. This will make it easy to mark, clear you've missed no mandatory criteria, and clear how to score you.
 
-In each section, the person creating the outline should make a note of the person from our team best qualified to write that section so it's very clear who is contributing each section of the proposal.
+In each section, the person creating the outline should make a note of the person from our team best qualified to write that section so it's very clear who is contributing each section of the proposal. Mention and assign that person using a Google Docs comment.
 
 There are usually 2 types of criteria. First, a list of things that could disqualify you. Second, a list of categories where you can score points.
 
