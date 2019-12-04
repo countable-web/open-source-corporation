@@ -42,6 +42,7 @@ You'll want to ask 2 or 3 questions before writing in order be confident about t
 1. Ask questions to clarify any scoring criteria so you're 100% clear what they each mean.
 1. Ask questions to help you understand what the evaluators are looking for.
 1. If the project solves a real problem, there should be an existing (partial, bad) solution. Ask "How are you currently getting by without this solution? What process will we be replacing?".
+1. Get clarity on anything that might disqualify you.
 
 ### Research
 
@@ -60,7 +61,12 @@ Are you the frontrunner? If not, can you propose a solution that is better in so
 
 Copy most if not all of the original proposal into a Google Doc, invite everyone who will work on it, and proceed to copy the structure of the original RFP as your proposal structure. Write your proposal inline to the original RFP.
 
-Write responses inline to the original RFP and mirror RFP document structure.
+Write responses inline to the original RFP and mirror RFP document structure. Then, add the following sections if they're not already there, but keep them very small/simple.
+  * In the intro, summarize the real needs underlying the proposal.
+  * Indicate why your company is specifically interested in this project and its results.
+  * What makes your solution unique?
+  * High level summary of your approach, with evidence from past projects that it will work.
+  * How will a successful outcome be measured?
 
 ### Angle
 
