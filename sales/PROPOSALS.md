@@ -16,14 +16,8 @@ Actionable tactics for achieving the above purpose. The author is most experienc
   * Find out who the front runner is. Is there an established company other than you that's won similar projects in this area? What vendors have the client used for similar projects before? Who has beat you on similar RFPs before? An easy way to find the frontrunner is to look at the addendum which is usually submitted shortly after the RFP is posted with an answer to questions asked by proponents.
   * Ask questions to qualify or disqualify the project, before writing. Your questions should also unearth hidden desires behind the RFP. Find out the truth about whether you can knock it out of the park. You may not like the answer but it's better to find out now and save yourself from wasting time being disqualified later. Examples "Would you consider a team outside your industry who can bring fresh ideas, or prefer lots of industry experience?"
   * If there's actual scoring criteria, you can forget much of the above, and just focus nearly 100% on that. But keep in mind those criteria will often overlap with other principles here.
-
-## Tips
+  * Keep the proposal as short as possible while addressing the criteria and building trust.
   * Focus on how you can differentiate.
-  * Build trust before, during and after the proposal.
-  * Get interest and then guidance from the buyer.
-  * Understand the funder's priorities.
-  * Proposal must be clear, concise and attractive.
-  * Get an external reviewer to represent the buyer, and then refine before sending.
 
 ## Process
 
@@ -33,14 +27,14 @@ See [Filter](./FILTER.md)
 
 ### Pre-qualify
 
-1. Determine who is the "frontrunner" ,most likely to bid and win the project. Is there a strong off-the-shelf solution which is compatible. If so, is there a local supplier? Find frontrunner. What is the industry "state of the art" in this area. What is being used by others?
-1. Review all evaluation criteria. What is the estimated score we could get on the project? Is it within 5% of frontrunner's estimated score?
-1. Does the RFP lean towards a custom software solution or off-the-shelf existing product?
-1. Estimate bid size, based on beating the frontrunner's score by 5%. If there's no budget for the project, estimate one based on past similar projects by the frontrunner, prospect, and software category.
+1. Determine who is the "frontrunner" ,most likely to bid and win the project. Is there a strong off-the-shelf solution which is compatible. If so, is there a local supplier? Find frontrunner. What is the industry "state of the art" in this area. What is being used by others? What companies have won similar projects in the past. If you can't see an applicant list, assume such a company will be applying.
+1. Review all evaluation criteria. What is the estimated score we could get on the project? Is it within 5% of frontrunner's estimated score? If not, move on.
+1. Does the RFP lean towards a custom software solution or off-the-shelf existing product? Based on that, can we deliver what they prefer? If not, move on.
+1. Estimate bid size, based on beating the frontrunner's score by 5%. If there's no budget for the project, estimate one based on past similar projects by the frontrunner, prospect, and software category. Is this amount profitable? If not, move on.
 
 ### Qualify
 
-You'll want to ask 2 or 3 questions before writing in order be confident about the project. Ideally, get on the phone with someone in order to make a "conceptual agreement". This won't always be possible.
+You'll want to ask 2 or 3 questions before writing in order be confident about the project. Ideally, get on the phone with someone in order to make a "conceptual agreement". This won't always be possible. The goals are to get the interest and then the guidance of the buyer, and understand their priorities.
 
 1. Make a super clear, one sentence statement of the real problem the RFP wants to solve, in language you understand. Ask the prospect if this is the most important thing, and if not, what is?
 1. Make a super clear, one sentence statement of your unique approach. Ask the prospect if it's a good approach.
@@ -102,11 +96,14 @@ For scoring criteria that are clear, focus on creating the most truthful answer 
 
 For scoring criteria that are less clear, there's going to be more subjectivity. Find out what probably matters most to your evaluators, going back to the questions you asked earlier.
 
-### RFPs Without Criteria
+### External Review Step
+  * Get an external reviewer to pretend to be the buyer.
+  * They must evaluate according to the official Criteria.
+  * Refine before sending.
 
-When there's no criteria given, that may be a red flag. I'd recommend avoiding this kind of proposal unless you're confident they know what they want, and that you can give it to them better than anyone else, and you can explain how you'll do that in a compelling way. This kind of RFP will still often go to someone they know instead of the best applicant, so it's risky.
+### Specific Proposal Types:
 
-### Bidding Against ERPs
+#### Bidding Against ERPs
 
 Often, we are proposing a Django based project as a more flexible, cheaper, faster and more maintainable alternative to an ERP implementation (Enterprise Resource Planning). Here are some problems with ERPs that we solve for our clients:
 
@@ -117,4 +114,4 @@ you’re talking about an implementation budget, 24% is a lot of money. On avera
 reported an expected budget of $1,007,767 and an actual budget of $1,247,859." [1]
 
 [1] 2019 ERP Report, Panoram Consulting Solutions.
-  
+
