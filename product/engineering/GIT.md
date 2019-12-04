@@ -1,6 +1,6 @@
 # How Countable Uses GIT
 
-Countable uses [git flow](https://jeffkreeftmeijer.com/git-flow/) for branch naming. But, the big problem with Git Flow is it seems to encourage huge feature branches, which are a bad idea. Our feature branches are owned by a single person and very short-lived, see [trunk based development](https://paulhammant.com/2013/04/05/what-is-trunk-based-development/). From the latter:
+Countable uses [git flow](https://jeffkreeftmeijer.com/git-flow/) for branch naming. But, the big problem with Git Flow on its own is it allows (encourages?) feature branches that live more than a day, which cause a whole slew of problems. Our feature branches are owned by a single person and very short-lived, see [trunk based development](https://paulhammant.com/2013/04/05/what-is-trunk-based-development/). From the latter:
 
 > You should do Trunk-Based Development instead of GitFlow and other branching models that feature multiple long-running branches. 
 > You can either do a direct to trunk commit/push (v small teams) or a Pull-Request workflow as long as those feature branches are short-lived and the product of a single person.
