@@ -32,8 +32,8 @@ The goal of this guide is to help new members of Countable get connect with the 
 
 ### Environment
   * Set up a [physical space and equipment](./PHYSICAL_SETUP.md) to work.
-  * Read about our [ops](../../product/engineering/OPERATIONS.md) and [coding standards](../../product/engineering/CODING_STANDARDS.md).
-  * Complete the [training exercises](../../product/engineering/TRAINING.md) following these practices and get a team member to code review it using a feature branch and pull request.
+  * devs only - Read about our [ops](../../product/engineering/OPERATIONS.md) and [coding standards](../../product/engineering/CODING_STANDARDS.md).
+  * devs only - Complete the [training exercises](../../product/engineering/TRAINING.md) following these practices and get a team member to code review it using a feature branch and pull request.
   * Order a book that will help you learn your job, and bill the company for it.
 
 Fill this onboarding form. It contains information we need for you to start work at Countable
