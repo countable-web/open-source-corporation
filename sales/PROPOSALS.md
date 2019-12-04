@@ -63,6 +63,7 @@ Copy most if not all of the original proposal into a Google Doc, invite everyone
 
 Write responses inline to the original RFP and mirror RFP document structure. Then, add the following sections if they're not already there, but keep them very small/simple.
   * In the intro, summarize the real needs underlying the proposal.
+  * Who is the buyer's customer and how will they benefit?
   * Indicate why your company is specifically interested in this project and its results.
   * What makes your solution unique?
   * High level summary of your approach, with evidence from past projects that it will work.
