@@ -17,6 +17,14 @@ Actionable tactics for achieving the above purpose. The author is most experienc
   * Ask questions to qualify or disqualify the project, before writing. Your questions should also unearth hidden desires behind the RFP. Find out the truth about whether you can knock it out of the park. You may not like the answer but it's better to find out now and save yourself from wasting time being disqualified later. Examples "Would you consider a team outside your industry who can bring fresh ideas, or prefer lots of industry experience?"
   * If there's actual scoring criteria, you can forget much of the above, and just focus nearly 100% on that. But keep in mind those criteria will often overlap with other principles here.
 
+## Tips
+  * Focus on how you can differentiate.
+  * Build trust before, during and after the proposal.
+  * Get interest and then guidance from the buyer.
+  * Understand the funder's priorities.
+  * Proposal must be clear, concise and attractive.
+  * Get an external reviewer to represent the buyer, and then refine before sending.
+
 ## Process
 
 ### RFP Lead Capture
@@ -25,10 +33,9 @@ See [Filter](./FILTER.md)
 
 ### Pre-qualify
 
-1. Determine who is the "frontrunner" who is most likely to bid and win the project. Is there a strong off-the-shelf solution which is compatible. If so, is there a local supplier? 
+1. Determine who is the "frontrunner" ,most likely to bid and win the project. Is there a strong off-the-shelf solution which is compatible. If so, is there a local supplier? Find frontrunner. What is the industry "state of the art" in this area. What is being used by others?
 1. Review all evaluation criteria. What is the estimated score we could get on the project? Is it within 5% of frontrunner's estimated score?
-1. Find frontrunner. What is the industry "state of the art" in this area. What is being used by others? Call local peers of prospect, and ask "we are researching options for X software, what do you use?".
-1. Are we required to demo a mature product. Or MVP?
+1. Does the RFP lean towards a custom software solution or off-the-shelf existing product?
 1. Estimate bid size, based on beating the frontrunner's score by 5%. If there's no budget for the project, estimate one based on past similar projects by the frontrunner, prospect, and software category.
 
 ### Qualify
