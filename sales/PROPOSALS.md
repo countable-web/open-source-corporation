@@ -57,6 +57,17 @@ With all the above done, you should now determine whether to write, or move on t
 
 Are you the frontrunner? If not, can you propose a solution that is better in some way that matters to the prospect? The answer to one of these questions should be YES if you want to write. You must believe you have a good chance of winning based on all the information so far.
 
+We should commit to write a proposal early (a few days) after it's released so we have plenty of time to review after we finish writing, and improve our chances. _A coordinator must be assigned at this point to make sure the rest of the process is followed._
+
+### Coordinator
+
+The coordinator's job is to make sure:
+  * The rest of the process below is followed by our team.
+  * It's clear in writing (Google Docs comments) who contributes what parts right away.
+  * We finish early so we have time (ideally 5 days) for external review.
+  * Compiling the final deliverables in the correct format for submission.
+  * The proposal is submitted on-time, making sure that any submission pre-requisites are met well in advance. Submitting right before the deadline will often result in a failure to submit correctly.
+
 ### Outline
 
 Copy most if not all of the original proposal into a Google Doc, invite everyone who will work on it, and proceed to copy the structure of the original RFP as your proposal structure. Write your proposal inline to the original RFP.
