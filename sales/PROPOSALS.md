@@ -84,6 +84,12 @@ Write responses inline to the original RFP and mirror RFP document structure. Th
   * High level summary of your approach, with evidence from past projects that it will work.
   * How will a successful outcome be measured?
 
+### Writing Style
+
+  * Optimize for clarity, not sophistication or length.
+  * Use as few words as possible to get the point across. Efficient communication that knows just what to leave out is a great demonstration of confidence and expertise.
+  * When editing, consider deleting the least relevant 20% of content and examples. It will make the good parts shine if they're not buried.
+  
 ### Angle
 
 Now that you know the most important thing they want to achieve from your questions, you must create an "angle". This means you should create some uncertainty that competitors will deliver what matters, by emphasizing what's unique about your team's ability to solve the problem.
