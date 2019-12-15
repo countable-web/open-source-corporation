@@ -12,12 +12,10 @@ Actionable tactics for achieving the above purpose. The author is most experienc
 
   * The process starts before you start writing. You want to make sure the odds are stacked in your favour before you invest in writing anything.
   * Specialize! Choose similar projects, so you can re-use bits of old proposals that worked. It's better to solve the same problem really well than to spread yourself thin. Choose an RFP in an area where you have the most expertise, similar work (including successes to hilight), and have a network of people in that area.
-  * Use your network's experience. If you know someone who would be really great to add to your team, write them into the proposal too, and give them a small cut just for being present, even if they do very little work. It's better to win more proposals and share the revenue. Also, get them (or someone who understand the client) to review your proposal and give you a score before you submit.
-  * Find out who the front runner is. Is there an established company other than you that's won similar projects in this area? What vendors have the client used for similar projects before? Who has beat you on similar RFPs before? An easy way to find the frontrunner is to look at the addendum which is usually submitted shortly after the RFP is posted with an answer to questions asked by proponents.
-  * Ask questions to qualify or disqualify the project, before writing. Your questions should also unearth hidden desires behind the RFP. Find out the truth about whether you can knock it out of the park. You may not like the answer but it's better to find out now and save yourself from wasting time being disqualified later. Examples "Would you consider a team outside your industry who can bring fresh ideas, or prefer lots of industry experience?"
-  * If there's actual scoring criteria, you can forget much of the above, and just focus nearly 100% on that. But keep in mind those criteria will often overlap with other principles here.
+  * Use your network's experience, and team up. If you know someone who would be really great to add to your team, write them into the proposal too, and give them a small cut just for being present, even if they do very little work.
+  * Score before you Send. Get someone who understands the client to evaluate your proposal and give you a score based on the official criteria before you submit.
+  * Ask questions to qualify or disqualify the project, before writing. Your questions should increase trust, fill in blanks, and unearth hidden needs behind the RFP. Find out the truth about whether you can knock it out of the park. Examples "Would you consider a team outside your industry who can bring fresh ideas, or prefer a firm with lots of industry experience?"
   * Keep the proposal as short as possible while addressing the criteria and building trust.
-  * Focus on how you can differentiate.
 
 ## Process
 
@@ -27,15 +25,17 @@ See [Filter](./FILTER.md)
 
 ### Pre-qualify
 
-1. Determine who is the "frontrunner" ,most likely to bid and win the project. Is there a strong off-the-shelf solution which is compatible. If so, is there a local supplier? Find frontrunner. What is the industry "state of the art" in this area. What is being used by others? What companies have won similar projects in the past. If you can't see an applicant list, assume such a company will be applying.
+1. Determine who is the "frontrunner", most likely to bid and win the project. Is there a strong off-the-shelf solution which is compatible, with a local supplier? What is the industry "state of the art" in this area. What is being used by others? What companies have won similar projects in the past. What vendors have the client used for similar projects before? Who has beat you on similar RFPs before? Public sector projects will often list applicants directly, or you will be able to identify them in the Q&A addendum shared with the group a few days in.
 1. Review all evaluation criteria. What is the estimated score we could get on the project? Is it within 5% of frontrunner's estimated score? If not, move on.
 1. Does the RFP lean towards a custom software solution or off-the-shelf existing product? Based on that, can we deliver what they prefer? If not, move on.
 1. Estimate bid size, based on beating the frontrunner's score by 5%. If there's no budget for the project, estimate one based on past similar projects by the frontrunner, prospect, and software category. Is this amount profitable? If not, move on.
+1. Is the total timeline under 10 days? If so, the proposal is probably "wired" to be given to a specific company. Skip it.
 
 ### Qualify
 
-You'll want to ask 2 or 3 questions before writing in order be confident about the project. Ideally, get on the phone with someone in order to make a "conceptual agreement". This won't always be possible. The goals are to get the interest and then the guidance of the buyer, and understand their priorities. Demonstrate a genuine interest in the outcome of the project.
+You'll want to ask a few questions before writing. If possible, get on the phone with someone in order to make a "conceptual agreement". The goals are to get the interest and then the guidance of the buyer, and understand their priorities. Demonstrate a genuine interest in the outcome of the project, build trust, and fill in gaps regarding how well the proposals fits.
 
+1. If anything in our capture questions is unknown, ask it now (approx budget, technology options, can we use Scrum, 
 1. Make a super clear, one sentence statement of the real problem the RFP wants to solve, in language you understand. Ask the prospect if this is the most important thing, and if not, what is?
 1. Make a super clear, one sentence statement of your unique approach. Ask the prospect if it's a good approach.
 1. Think of any possible reason your proposal might not be accepted. This is hard, but important. Ask a question for each uncertainty to determine if it's likely, or not.
@@ -43,6 +43,8 @@ You'll want to ask 2 or 3 questions before writing in order be confident about t
 1. Ask questions to help you understand what the evaluators are looking for.
 1. If the project solves a real problem, there should be an existing (partial, bad) solution. Ask "How are you currently getting by without this solution? What process will we be replacing?".
 1. Get clarity on anything that might disqualify you.
+
+Also, create several touchpoints (LinkedIn, email, phone) to get to know them before you write. If there's a way to demonstrate your system woring, that is ideal.
 
 ### Research
 
@@ -132,9 +134,13 @@ For scoring criteria that are less clear, there's going to be more subjectivity.
   * They must evaluate according to the official Criteria.
   * Refine before sending.
 
-### Specific Proposal Types:
+### Measuring Success
 
-#### Bidding Against ERPs
+The best way to measure proposal win-rate is "revenue won" / "revenue bid", because it reflects the proposal value. 50% is a sweet spot to aim for, that balances risk-taking and revenue.
+
+## Specific Proposal Types:
+
+### Bidding Against ERPs
 
 Often, we are proposing a Django based project as a more flexible, cheaper, faster and more maintainable alternative to an ERP implementation (Enterprise Resource Planning). Here are some problems with ERPs that we solve for our clients:
 
