@@ -36,13 +36,13 @@ See [Filter](./FILTER.md)
 You'll want to ask a few questions before writing. If possible, get on the phone with someone in order to make a "conceptual agreement". The goals are to get the interest and then the guidance of the buyer, and understand their priorities. Demonstrate a genuine interest in the outcome of the project, build trust, and fill in gaps regarding how well the proposals fits.
 
 1. If anything in our capture questions is unknown, ask it now (approx budget, technology options, can we use Scrum, 
-1. Make a super clear, one sentence statement of the real problem the RFP wants to solve, in language you understand. Ask the prospect if this is the most important thing, and if not, what is?
+1. Ask: What is the most important benefit to this project for a successful outcome?
 1. Make a super clear, one sentence statement of your unique approach. Ask the prospect if it's a good approach.
-1. Think of any possible reason your proposal might not be accepted. This is hard, but important. Ask a question for each uncertainty to determine if it's likely, or not.
 1. Ask questions to clarify any scoring criteria so you're 100% clear what they each mean.
 1. Ask questions to help you understand what the evaluators are looking for.
 1. If the project solves a real problem, there should be an existing (partial, bad) solution. Ask "How are you currently getting by without this solution? What process will we be replacing?".
-1. Get clarity on anything that might disqualify you.
+1. Get clarity on anything that might disqualify you, if you're unsure about any of the mandatory criteria.
+1. If any key consideration is left out of the proposal, ask if it's important the product be: Secure, Flexible, Scalable, Low maintenance or total ownership cost, Durable data.
 
 Also, create several touchpoints (LinkedIn, email, phone) to get to know them before you write. If there's a way to demonstrate your system woring, that is ideal.
 
@@ -89,12 +89,17 @@ Write responses inline to the original RFP and mirror RFP document structure. Th
 ### Writing Style
 
   * Optimize for clarity, not sophistication or length.
-  * Use as few words as possible to get the point across. Efficient communication that knows just what to leave out is a great demonstration of confidence and expertise.
-  * When editing, consider deleting the least relevant 20% of content and examples. It will make the good parts shine if they're not buried.
+  * It should be clear how every sentence relates to the evlauation criteria. If any sentence is not clearly providing evidence or building trust, remove it. Efficient communication that knows just what to leave out is a great demonstration of confidence and expertise.
+  * Include an visual or diagrams (about one every 2 pages)
+  * Use the active voice,.
+  * Mention the customer, more often than you mention your own company.
+
   
 ### Angle
 
-Now that you know the most important thing they want to achieve from your questions, you must create an "angle". This means you should create some uncertainty that competitors will deliver what matters, by emphasizing what's unique about your team's ability to solve the problem.
+What really matters (hidden need), and why will you deliver it better than the other bidders?
+  * How is your approach different and will lead to a better result?
+  * How does this project relate to your mission, values, and your team's experience? Include a couple stories about this, to create a special connection to the project.
 
 In particular, if you're not the frontrunner, this is critical. Plant a seed of doubt about the frontrunner and build on that. A good one is that as a newcomer you can provide more customization because your product is still more flexible and early in its development lifecycle.
 
