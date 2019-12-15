@@ -26,4 +26,4 @@ Record the RFP due date, organization and link in a spreadsheet, along with its 
   * 10 points if the RFP offers losing proposals a debrief on the scoring.
   * BONUS points if it's an existing relationship, we can keep the IP for future use, or open source it, or some other circumstance.
 
-60 points is the cut-off.
+50 points is the cut-off for moving on to PRE-QUALIFY
