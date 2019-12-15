@@ -20,10 +20,10 @@ Record the RFP due date, organization and link in a spreadsheet, along with its 
   * 10 points for tech match. Mention of any from: Django, Node, Postgres, Vue, React, javascript, web mapping, etc.
   * 10 points if the final result publicly browsable, for portfolio value.
   * 10 points if scoring criteria are provided.
-  * 10 points if the RFP offers losing proposals a debrief on the scoring.
   * 10 if scoring criteria is explained in the RFP.
   * 10 points if Scrum is mentioned, partial (5) points if it the project is phased with a prototype.
   * 20 points for contract size. 0 for $10k, 5 for $20k, 10 for $50k, 15 for $100k, 20 for $200k and up, 15 for over $500k, 10 for over $1M.
+  * 10 points if the RFP offers losing proposals a debrief on the scoring.
   * BONUS points if it's an existing relationship, we can keep the IP for future use, or open source it, or some other circumstance.
 
 60 points is the cut-off.
