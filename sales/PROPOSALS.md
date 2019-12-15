@@ -91,9 +91,9 @@ Write responses inline to the original RFP and mirror RFP document structure. Th
   * Optimize for clarity, not sophistication or length.
   * It should be clear how every sentence relates to the evlauation criteria. If any sentence is not clearly providing evidence or building trust, remove it. Efficient communication that knows just what to leave out is a great demonstration of confidence and expertise.
   * Include an visual or diagrams (about one every 2 pages)
-  * Use the active voice,.
+  * Use the active voice, with optimistic tone.
   * Mention the customer, more often than you mention your own company.
-
+  * For each criteria/need, indicate what service or feature you have to meet the need, expected result, side benefits and evidence (ie, case study).
   
 ### Angle
 
