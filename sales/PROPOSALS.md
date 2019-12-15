@@ -22,7 +22,9 @@ Actionable tactics for achieving the above purpose. The author is most experienc
 1. CAPTURE - find RFPs you can win
 2. PRE-QUALIFY - look a bit deeper
 3. QUALIFY - ask questions
-4. 
+4. WRITE
+5. REVIEW
+6. LEARN
 
 ### 1. RFP Lead Capture
 
@@ -55,7 +57,7 @@ Attend any pre-proposal call, webinar or meeting in order to meet the evaluators
 
 Do any further research to have information you need to decide to write.
 
-### 5. Deciding to Write
+### 4. Deciding to Write
 
 With all the above done, you should now determine whether to write, or move on to a new RFP. You should know your approximate chances of winning, the value of the contract, and your alternatives, and make the best choice.
 
@@ -95,7 +97,6 @@ Write responses inline to the original RFP and mirror RFP document structure. Th
   * Include an visual or diagrams (about one every 2 pages)
   * Use the active voice, with optimistic tone.
   * Mention the customer, more often than you mention your own company.
-  * For each criteria/need, indicate what service or feature you have to meet the need, expected result, side benefits and evidence (ie, case study).
   
 ### Angle
 
@@ -118,7 +119,7 @@ Include photos and some personal notes that relate each team member to the proje
   
 ### Platform
 
-List features of your platform that align with the real problems behind the RFP, and for each feature, list the benefits which solve those problems.
+List features of your platform that align with the real problems behind the RFP and the stated criteria, and for each feature, list the benefits which solve those problems and provide evidence.
 
 ### Addressing Criteria
 
@@ -136,12 +137,12 @@ For scoring criteria that are clear, focus on creating the most truthful answer 
 
 For scoring criteria that are less clear, there's going to be more subjectivity. Find out what probably matters most to your evaluators, going back to the questions you asked earlier.
 
-### 6. External Review Step
+## 6. External Review Step
   * Get an external reviewer to pretend to be the buyer.
   * They must evaluate according to the official Criteria.
   * Refine before sending.
 
-### 7. Measuring Success
+## 7. Learn
 
 The best way to measure proposal win-rate is "revenue won" / "revenue bid", because it reflects the proposal value. 50% is a sweet spot to aim for, that balances risk-taking and revenue.
 
