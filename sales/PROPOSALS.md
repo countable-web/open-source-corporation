@@ -19,23 +19,28 @@ Actionable tactics for achieving the above purpose. The author is most experienc
 
 ## Process
 
-### RFP Lead Capture
+1. CAPTURE - find RFPs you can win
+2. PRE-QUALIFY - look a bit deeper
+3. QUALIFY - ask questions
+4. 
+
+### 1. RFP Lead Capture
 
 See [Filter](./FILTER.md)
 
-### Pre-qualify
+### 2. Pre-qualify
 
-1. Determine who is the "frontrunner", most likely to bid and win the project. Is there a strong off-the-shelf solution which is compatible, with a local supplier? What is the industry "state of the art" in this area. What is being used by others? What companies have won similar projects in the past. What vendors have the client used for similar projects before? Who has beat you on similar RFPs before? Public sector projects will often list applicants directly, or you will be able to identify them in the Q&A addendum shared with the group a few days in.
 1. Review all evaluation criteria. What is the estimated score we could get on the project? Is it within 5% of frontrunner's estimated score? If not, move on.
-1. Does the RFP lean towards a custom software solution or off-the-shelf existing product? Based on that, can we deliver what they prefer? If not, move on.
+1. Look deeper at the proposal to see if it's in your niche and you have a uniquely great offering that will both let you execute well and develop your niche stratgically. If not, move on.
 1. Estimate bid size, based on beating the frontrunner's score by 5%. If there's no budget for the project, estimate one based on past similar projects by the frontrunner, prospect, and software category. Is this amount profitable? If not, move on.
 1. Is the total timeline under 10 days? If so, the proposal is probably "wired" to be given to a specific company. Skip it.
+1. Determine who is the "frontrunner", most likely to bid and win the project. Is there a strong off-the-shelf solution which is compatible, with a local supplier? What is the industry "state of the art" in this area. What is being used by others? What companies have won similar projects in the past. What vendors have the client used for similar projects before? Who has beat you on similar RFPs before? Public sector projects will often list applicants directly, or you will be able to identify them in the Q&A addendum shared with the group a few days in.
 
-### Qualify
+### 3. Qualify
 
 You'll want to ask a few questions before writing. If possible, get on the phone with someone in order to make a "conceptual agreement". The goals are to get the interest and then the guidance of the buyer, and understand their priorities. Demonstrate a genuine interest in the outcome of the project, build trust, and fill in gaps regarding how well the proposals fits.
 
-1. If anything in our capture questions is unknown, ask it now (approx budget, technology options, can we use Scrum, 
+1. If anyt of the critical info in our capture questions is unknown, ask it now (approx budget, technology options, can we use Scrum, 
 1. Ask: What is the most important benefit to this project for a successful outcome?
 1. Make a super clear, one sentence statement of your unique approach. Ask the prospect if it's a good approach.
 1. Ask questions to clarify any scoring criteria so you're 100% clear what they each mean.
@@ -46,14 +51,11 @@ You'll want to ask a few questions before writing. If possible, get on the phone
 
 Also, create several touchpoints (LinkedIn, email, phone) to get to know them before you write. If there's a way to demonstrate your system woring, that is ideal.
 
-### Research
+Attend any pre-proposal call, webinar or meeting in order to meet the evaluators.
 
-This is pretty dependent on the proposal, but the main goals are:
+Do any further research to have information you need to decide to write.
 
-1. Further clarify your chances of winning.
-1. Get the information you need to improve your chances of winning.
-
-### Deciding to Write
+### 5. Deciding to Write
 
 With all the above done, you should now determine whether to write, or move on to a new RFP. You should know your approximate chances of winning, the value of the contract, and your alternatives, and make the best choice.
 
@@ -134,14 +136,16 @@ For scoring criteria that are clear, focus on creating the most truthful answer 
 
 For scoring criteria that are less clear, there's going to be more subjectivity. Find out what probably matters most to your evaluators, going back to the questions you asked earlier.
 
-### External Review Step
+### 6. External Review Step
   * Get an external reviewer to pretend to be the buyer.
   * They must evaluate according to the official Criteria.
   * Refine before sending.
 
-### Measuring Success
+### 7. Measuring Success
 
 The best way to measure proposal win-rate is "revenue won" / "revenue bid", because it reflects the proposal value. 50% is a sweet spot to aim for, that balances risk-taking and revenue.
+
+Get a debriefing
 
 ## Specific Proposal Types:
 
