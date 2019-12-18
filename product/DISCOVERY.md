@@ -3,7 +3,7 @@
 
 ## Purpose
 
-Our first job on a project is to create a clear shared vision, and make rapid progress towards product-market fit.
+Our first job on a project is to create a clear shared vision to set the team up for rapid progress toward product-market fit.
 
 ## Scope
 
