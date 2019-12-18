@@ -3,21 +3,23 @@
 
 ## Purpose
 
-Our first job on a project is to create a clear shared vision. Make quick progress towards product-market fit on a new project.
+Our first job on a project is to create a clear shared vision, and make rapid progress towards product-market fit.
 
 ## Scope
 
 Checklist of key steps when starting a new project.
 
-## Process (Kick-off Meeting)
+## Kick-off Meeting
   
-  * For the Kick-off Meeting, meet the product owner (client) in person or over video chat. Text based interaction isn't good enough for these critical questions.
-  * What problem does this project solve, for whom? (value hypothesis)
+For the Kick-off Meeting, meet the product owner (client) in person or over video chat. Text based interaction isn't good enough for these critical questions.
+
+  * What problem does this project solve, for whom? (value hypothesis, value proposition, high level user stories)
   * What is the most important benefit you expect this project to provide to the user?
-  * What is the growth hypothesis? How will the project virally grow (by referrals) to reach more people?
-  * What does success look like for you? Provide as much detail as possible about that vision.
   * How will success be measured?
-  * Proceed to the next section (UX)
+  * What is the impact hypothesis using the above metric? How many people will use the solution, and how does it impact their lives/jobs? How can that be maximized?
+  * What does success look like for you (qualitatively)? Provide as much detail as possible about that vision.
+
+Consider the Business Model Canvas, as a visual guide for this process.
 
 ## User Experience Design (UX)
 
@@ -25,6 +27,7 @@ The next phase ofthe project after discovery is to engage in [user experience de
 
 ## For Branding and Visual Design Projects
   * Get the Product Owner to provide 5 examples of other sites that are close to what they want.
+  * Use the branding questionnaire.
   * If it's in scope, reate brand colors, fonts, logo and visual primitives if new ones needed.
   * Visual mock-ups based on the wireframes using the brand styles.
 
