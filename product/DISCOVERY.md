@@ -18,6 +18,8 @@ For the Kick-off Meeting, meet the product owner (client) in person or over vide
   * How will success be measured?
   * What is the impact hypothesis using the above metric? How many people will use the solution, and how does it impact their lives/jobs? How can that be maximized?
   * What does success look like for you (qualitatively)? Provide as much detail as possible about that vision.
+  * Who will we need to work with and in what capacity? (make a list) Book dates/times to meet them. Book any travel plans necessary.
+  * What are the first key deliverables and to whom, in order to accelerate the project?
 
 Consider the Business Model Canvas, as a visual guide for this process.
 
