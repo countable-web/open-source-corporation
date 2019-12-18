@@ -23,9 +23,9 @@ For the Kick-off Meeting, meet the product owner (client) in person or over vide
 
 Consider the Business Model Canvas, as a visual guide for this process.
 
-## User Experience Design (UX)
+## User Experience Design (UX) Planning
 
-The next phase ofthe project after discovery is to engage in [user experience design](./USER_EXPERIENCE_DESIGN.md).
+The next phase of the project after discovery is to use the above answers to develop a [user experience design](./USER_EXPERIENCE_DESIGN.md) research plan.
 
 ## For Branding and Visual Design Projects
   * Get the Product Owner to provide 5 examples of other sites that are close to what they want.
