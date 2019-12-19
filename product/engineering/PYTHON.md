@@ -13,7 +13,7 @@ Patterns of problems that come up fairly often as a developer, and guidance for 
 
 Basics:
   * You should become familiar with Python's debugger, `pdb` . Here are a few common cases with recipes.
-  * If you want to inspect any object (variable) in python, use the `dir(obj)` function.
+  * If you want to inspect any object (variable) in python, use the `dir(obj)` function in the python CLI (>>>)
   * If you want to know the source file of any module, do `import module` and then `module.__file__`
 
 ### There is a trace in Library code and you want to look around
