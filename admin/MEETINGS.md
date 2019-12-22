@@ -56,6 +56,19 @@ Some ideas to pick from, not needed every month.
 1. Ask: What are you learning, and from whom? What are you teaching, and to whom?
 1. Ask: What would you like to learn or experience in the coming months?
 
+Each quarter, the one-on-one should include performance review self-assessment.
+1. Is the purpose of your job clear to you? What is it?
+1. Write a paragraph describing what it would be like if you did extremely well at your job?
+1. What objectives did you have this quarter?
+1. What were some good key results, and some bad ones? Why did they go that way?
+1. Do you feel you took ownership of understanding and meeting (or exceeding) customers' needs yourself? Or expected to be given clear tasks.
+1. Did you seek feedback from metrics, team members, customers and end-users on your work?
+1. How do you feel about your performance?
+1. How do you feel about your learning and professional development?
+1. What would you like to get better at?
+1. What would you like to learn, or do more of?
+1. Any comments?
+
 ## PD Meeting
 
 We currently have a front end and backend meeting, every 2nd week.  The purpose of this meeting is:
