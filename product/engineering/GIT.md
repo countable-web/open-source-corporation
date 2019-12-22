@@ -2,7 +2,7 @@
 
 Countable uses [git flow](https://jeffkreeftmeijer.com/git-flow/) for branch naming.
 1. `develop` is the main branch developers work on and test.
-1. `master` is the stable branches released to production.
+1. `master` is the stable branches released to production. (most projects do not use release branches, we just continuously deploy `master`)
 1. `feature/my-feature-name` feature branches contain your work for up to one day, before being merged back into `develop`.
 1. `hotfix/my-bug-name` hotfix branches are merged into `master` to fix urgent problems in production.
 
