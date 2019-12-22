@@ -17,7 +17,7 @@ Our feature branches are owned by a single person and very short-lived, see [tru
 
 ```
 git checkout develop
-git checkout -b fireball-spell
+git checkout -b feature/fireball-spell
 ```
 
 2. Do your work, commit, update, push.
@@ -25,8 +25,10 @@ git checkout -b fireball-spell
 ```
 git commit -a -m "Added the Fireball ability to wizards, Trello ticket #51"
 git pull origin develop
-git push origin fireball-spell
+git push origin feature/fireball-spell
 ```
+
+(Git will print out a link in the terminal that you may open to quickly create a pull request.)
 
 3. Test that your changes dont't break anything.
 
