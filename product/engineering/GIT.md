@@ -5,17 +5,16 @@ Countable uses [git flow](https://jeffkreeftmeijer.com/git-flow/) for branch nam
 > You should do Trunk-Based Development instead of GitFlow and other branching models that feature multiple long-running branches. 
 > You can either do a direct to trunk commit/push (v small teams) or a Pull-Request workflow as long as those feature branches are short-lived and the product of a single person.
 
-
 ## Contributing To A Project
 
-Check out `develop` and make a branch from that.
+1. Check out `develop` and make a branch from that.
 
 ```
 git checkout develop
 git checkout -b fireball-spell
 ```
 
-Do your work, commit, update, push.
+2. Do your work, commit, update, push.
 
 ```
 git commit -a -m "Added the Fireball ability to wizards, Trello ticket #51"
@@ -23,9 +22,13 @@ git pull origin develop
 git push origin fireball-spell
 ```
 
-Test that your changes dont't break anything. Run automated tests and check things you know other team members are actively working on still work.
+3. Test that your changes dont't break anything.
 
-Submit a pull request from `fireball-spell` targetting `develop`. Another developer on the project should [review](#code-reviews) and comment on your changes. When everyone agrees, anyone can merge the changes. The `fireball-spell` branch is then deleted after being merged.
+Run automated tests and check things you know other team members are actively working on still work.
+
+4. Submit a pull request from `fireball-spell` targetting `develop`.
+
+Another developer on the project should [review](#code-reviews) and comment on your changes. When everyone agrees, anyone can merge the changes. The `fireball-spell` branch is then deleted after being merged.
 
 ## Hotfix
 
