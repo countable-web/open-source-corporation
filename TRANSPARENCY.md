@@ -14,7 +14,7 @@ There are data indicating transparency is important:
 
 ### Caveats:
   1. As mentioned elsewhere, the need to be clear about what information is Confidential and careful it's not released along with everything else.
-  2. The cost of publishing everything on public channels. This should be mitigated by automating by convention an tools.
+  2. The cost of publishing everything on public channels. This should be mitigated by automating by convention and tools.
   3. The cost of ensuring what's released is clear and interpreted how intended.
 
 ### Examples of Things We Release Publicly:
@@ -27,6 +27,7 @@ There are data indicating transparency is important:
 ### Exceptions (Sensitive Data):
 
 We'll note specific exceptions here, where data is considered sensitive and the minimum necessary people should have access.
-  * Passwords to high impact shared accounts (hosting, DNS)
-  * Clients' information (code, emails, documentation, anything at all), or information about them which they don't already have public.
+  * Passwords to shared accounts
+  * Clients' information (code, correspondence, documentation), or information about clients which they don't already have public.
+  * information on, or belonging to, any users of systems we develop.
   * Employees' details other than their name, job description, photo, and things they've chosen to release.
