@@ -47,7 +47,7 @@ Given equity offer.
 
    * Set standards for whole team in their technical track. Makes sure documentation is clear, and the team is improving.
    * Stay on top of industry trends in their technical track. Understands trade-offs of competing solutions.
-   * Work to integrate teir technical area with the other technical tracks seamlessly in a ways that help the whole team. Be aware of how your work impacts other areas.
+   * Work to integrate their technical area with the other technical tracks seamlessly in a ways that help the whole team. Be aware of how your work impacts other areas.
    * Have multiple AORs. Maintains learning materials, standards, and process documents.
    * Track and improve a KPI.
    * Evaluate technical work complexity for proposals/quotes and can delegate work appropriately.
@@ -55,6 +55,7 @@ Given equity offer.
 ### Dismissal
 
 Things that could result in you being dismissed:
+   * Fail to communicate with users, team, and customers resulting in problems.
    * Fail to exhibit the behaviours listed at and below your current job level.
    * Fail to take responsibility when you make a mistake, and learn how to prevent it next time.
    * Miss meetings or appointments.
