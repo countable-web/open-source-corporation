@@ -19,12 +19,15 @@ Actionable tactics for achieving the above purpose. The author is most experienc
 
 ## Process
 
+In brackets, we indicate the approximate time to allocate (not actual effort, just time to leave open)
+
 1. CAPTURE - find RFPs you can win
 2. PRE-QUALIFY - look a bit deeper
-3. QUALIFY - ask questions
-4. WRITE
-5. REVIEW
-6. LEARN
+3. QUALIFY - (5 days) ask questions, wait for responses
+4. WRITE - (2 to 10 days)
+5. REVIEW - (5 days) use an external/impartial reviewer to simulate grading the proposal
+6. SUBMIT - (1 day)
+7. LEARN - update this document
 
 ### 1. RFP Lead Capture
 
@@ -137,10 +140,14 @@ For scoring criteria that are clear, focus on creating the most truthful answer 
 
 For scoring criteria that are less clear, there's going to be more subjectivity. Find out what probably matters most to your evaluators, going back to the questions you asked earlier.
 
-## 6. External Review Step
+## 5. External Review Step
   * Get an external reviewer to pretend to be the buyer.
   * They must evaluate according to the official Criteria.
   * Refine before sending.
+
+## 6. Submit
+
+Submission platforms can be buggy or broken sometimes, so get familiar with the platform you are submitting on and click through to the last step right away. Make sure you leave enough time to submit: we recommend submitting 1 day in advance in case something goes wrong.
 
 ## 7. Learn
 
