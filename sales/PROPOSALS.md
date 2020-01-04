@@ -68,7 +68,10 @@ Are you the frontrunner? If not, can you propose a solution that is better in so
 
 We should commit to write a proposal early (a few days) after it's released so we have plenty of time to review after we finish writing, and improve our chances. _A coordinator must be assigned at this point to make sure the rest of the process is followed._
 
-### Coordinator
+
+#### Roles - identify these people at the top of the proposal
+
+##### Coordinator
 
 The coordinator's job is to make sure:
   * The rest of the process below is followed by our team.
@@ -78,13 +81,25 @@ The coordinator's job is to make sure:
   * Compiling the final deliverables in the correct format for submission.
   * The proposal is submitted on-time, making sure that any submission pre-requisites are met well in advance. Submitting right before the deadline will often result in a failure to submit correctly.
 
+#### Internal Reviewer
+Identify someone to simulate the client scoring your proposal later on. They shouldn't be involved in writing.
+
+#### Technical Authors
+The Coordinator should ensure it's clear to each technical author what section they must contribute. Use Google Docs task assignments.
+
+#### Getting Organized
+
+1. Create a folder for the proposal in Google Drive
+1. Save the original RFP and any supporting documents there.
+1. Past the mandatory and scored criteria from the RFP into a new Google Doc (in the color RED) to start a proposal outline (see below)
+1. Include, at the top of the outline (in the color GREEN): who is filling each of the Roles defined above, links to similar successful proposals and notes on their score, any answers to questions we wrote, or notes from the qualification process.
 
 ### Outline
 
 Copy most if not all of the original proposal into a Google Doc, invite everyone who will work on it, and proceed to copy the structure of the original RFP as your proposal structure. Write your proposal inline to the original RFP.
 
 Write responses inline to the original RFP and mirror RFP document structure. Then, add the following sections if they're not already there, but keep them very small/simple.
-  * In the intro, summarize the real needs underlying the proposal.
+  * In the intro (if applicable), summarize the real needs underlying the proposal.
   * Who is the buyer's customer and how will they benefit?
   * Indicate how technology has changed recently to allow a better solution, and how we deliver that.
   * Indicate a low total cost of ownership, and side benefits to their business. Indicate they'll want to use the new system all the time.
