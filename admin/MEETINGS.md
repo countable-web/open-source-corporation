@@ -72,6 +72,7 @@ Each quarter, the one-on-one should include performance review self-assessment.
 ## Guild Meeting
 
 We currently have a UX, DevOps, and Developers guild meetings, periodically.  The purpose of this meeting is:
+  * Standardize, train, and define how we work in key technical disciplines to become the best in our fields.
   * Present and review each others' work and provide peer feedback.
   * Hold collaborative design activities such as "Mob" programming to create something together in the meeting.
   
