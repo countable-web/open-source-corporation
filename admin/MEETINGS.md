@@ -9,22 +9,39 @@ Ensure meetings actually help accomplish our mission.
 Define all the meetings at Countable
 
 ## All Meetings
+The meeting organiser (chair, or guild leader) is responsible for a) taking minutes in Google Docs and b) that follow-up actions (acc. to 3W rule) are noted in the minutes, and shared as Trello cards.
 
+### Date and Time of Meetings
   * Our calendar is the source of truth regarding meeting times, attendees and cancellation status. All updates to meeting times go directly in the calendar.
   * Meetings start on time and stop on time. If someone is late, start without them.
   * Anyone who is late should notify the team in advance of the meeting so they can proceed.
+
+### Clarity of Purpose at Meetings
   * The purpose and agenda of the meeting must be clear, and listed in the meeting event details on the calendar.
   * Recurring meetings should review the previous meeting's follow-ups/action items. Open up the last week's minutes (or Trello board) and review them.
   * If you are presenting in a meeting, send out the meeting goal, agenda and materials (such as slides) in advance so the attendees can get in the right headspace. Ask for feedback on your agenda, such as topics they group thinks will help with the goal.
   * In general, try to make meetings shorter and more specific. If possible, make the goal and agenda visible in the meeting.
-  * Avoid speaking for more than two minutes without pausing and letting people respond, so you can listen to your audience and steer your material to be more helpful. Meetings should be interactive, not monologues.
-  * Minutes should be recorded for each meeting. This should just be a few bullet points with decisions and action items. We don't need to mention everything that was discussed. Just the "headlines". What's the important point? Action items should be transcribed into Trello.
-  * Send a follow-up email with the minutes, and record them in an ongoing google-doc for recurring meetings.
-  * 3W rule: Meeting follow-up actions and/or meeting summaries must contain the three Ws: WHO does WHAT by WHEN
   * Do not attend meetings if you don't have a good reason to be there.
-  * The meeting organiser is responsible for a) taking notes and b) that follow-up actions (acc. to 3W rule) are noted in the minutes, and shared as Trello cards.
+
+### Record of Meetings
+  * Meetings should have an "output" recorded. For Scrum, this can simply be updated Trello board and KR scores. Other meetings should have a stream of minutes in a Google Doc that is continually added-to (most recent first). Here's a (template)[https://docs.google.com/document/d/13iyjpQAuxwlEYiW85tJbufXrC-CAw-0AAdzO9FzHSio/edit?folder=1EJtwoxGXasYlv3UbRuzxKVNfgArFSJMn#]. Each time you meet, fill out:
+```
+Meeting minutes template: (copy this for each meeting)
+Date: (202X-XX-XX)
+Agenda (topics discussed, with headlines): 
+(add bullets here)
+Follow-ups (who does what by when):
+(add bullets here)
+```
+  * Minutes are just the "headlines". What's the important point? Action items can be noted, but should be should be transcribed into Trello.
+  * Send a follow-up email with the minutes too, if it includes any external stakeholders.
+  * 3W rule: Meeting follow-up actions must contain the three Ws: WHO does WHAT by WHEN
+
+### General Meeting Guildlines
+
   * Work to create an atmosphere of psychological safety. Detect concerns of individuals and shed light on them.
   * The maximum number of people at any meeting should be limited to 7 (except occasional company-wide meets).
+  * Avoid speaking for more than two minutes without pausing and letting people respond, so you can listen to your audience and steer your material to be more helpful. Meetings should be interactive, not monologues.
 
 ## Scrum Meetings
 
