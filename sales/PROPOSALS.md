@@ -87,7 +87,7 @@ Identify someone to simulate the client scoring your proposal later on. They sho
 #### Technical Authors
 The Coordinator should ensure it's clear to each technical author what section they must contribute. Use Google Docs task assignments.
 
-#### Getting Organized
+### Getting Organized
 
 1. Create a folder for the proposal in Google Drive
 1. Save the original RFP and any supporting documents there.
