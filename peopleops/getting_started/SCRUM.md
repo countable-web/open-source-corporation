@@ -20,7 +20,7 @@ Define how Countable "follows" Scrum.
 
 ### Project Objective and Key Results
 
-Every team should have one or more [Objective](https://github.com/countable-web/open-source-corporation/blob/master/OKRS.md). This is a written goal discussed with the team to ensure clarity, and is used by the [Product Owner](#product-owner) to order the [Backlog](#backlog).
+Every team should have one or more [Objective](https://github.com/countable-web/open-source-corporation/blob/master/OKRS.md). This is a written goal discussed with the team to ensure clarity, and is used by the [Product Owner](#product-owner) to order the [Backlog](#backlog). An objective may be to meet a particular User Story.
 
 ### Sprint
 
@@ -29,15 +29,17 @@ A sprint is a period (1 week to 1 month) punctuated by a Sprint meeting.
 The [Scrum Master](#scrum-master) must review tickets for clarity (triage them) from Requests to Backlog.
 The [Product Owner](#product-owner) must review tickets for priority (order the Backlog).
 
-#### Sprint Meeting Goals
+#### Sprint Review
 
-1. Measure what % done our Key Results are. Estimate completion of each KR. Quickly check any metrics necessary.
-1. Each team member takes 2 minutes to what they shipped each week. Don't show work in progress. Screen share or show a visual is possible, only demonstrate what you've made ready to "ship". Then they take 1 minutes to indicate what's blocking their work, and we determine who will help them on it after the meeting.
+#### Before meeting, team members should
+1. Measure what % done our Key Results are. Check any metrics necessary.
+1. Pick cards for the next sprint that will most impact KRs.
+
+#### During the sprint meeting
+1. Each team member updates the team on their KR scores, what they shipped to cause those changes, and how they will meet the KR.
+1. 
+#### Cards of Shame
 1. Review any cards left in the sprint column. Why are they there? How can we avoid that?
-1. The team moves cards they want to work on during the current sprint into the "sprint" column. They may always take more cards from the backlog later on they finish early.
-1. Move the Trello Cards that best achieve the project's key results and no more than we can actually do, to the sprint column. _when does this happen?_
-
-We release (ship) our work to real customers at the end of the sprint.
 
 #### Stand-up Meetings
 Countable doesn't hold synchronous stand-up meetings. Instead, every day, please share something on your team's public slack channel regarding the work you did. It's best to show a screenshot of your work for feedback.
@@ -54,14 +56,14 @@ These are the duties we must assigned when doing Scrum.
   * Makes sure items in the backlog are clear to developers. The product owner is typically our client.
 
 #### Scrum Master
-  * Chair the sprint meeting, asking good questions in order to understand our progress towards the project goal.
+  * Chair the sprint meeting, ensuring we follow the process.
   * Trains the team on Scrum and makes sure we're following the rules of scrum effectively (shipping each week, continuously learning, making tickets clear)
-  * Find problems in workflow and make them visible for the team to work together on during the Sprint Plan meeting.
+  * Nudge team to identify problems in workflow and make them visible to work together.
 
 #### Developers (and other technicians)
-  * Ensures they have a challenging yet doable amount of work in their sprint each sprint.
-  * Takes care to understand items in their sprint.
-  * Takes responsibility for shipping the work each sprint.
+  * Ensures they have a challenging yet doable amount of work each sprint.
+  * Ensure they understand items in their sprint, an complain otherwise.
+  * Takes responsibility for completing KRs, and shipping work to real users, clients, and team members (depending on output)
 
 ### Backlog
 
