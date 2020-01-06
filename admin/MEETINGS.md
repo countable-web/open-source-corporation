@@ -51,29 +51,30 @@ All active projects should have a Sprint meeting every 1 to 4 weeks.
 
 ## One-on-one Meetings
 
-One-on-one meetings between each manager and reports should be once per month. This is our chance to catch up on what matters most to us, and think about how we can work more better together. People mentioning problems even once is a gift: We can't fix systemic problems if I don't know about them. And even if the system is fine, I don't want my people just putting up with their jobs. I want them happy.
+One-on-one meetings between each manager and reports should be once per month. This is our chance to catch up on what matters, and think about how we can work better together. People mentioning problems even once is a gift: We can't fix systemic problems if I don't know about them.
 
-For the employees:
+As an employee:
 1. This is your time to talk about whatever is on your mind. If you want to talk about what's going on with your life, hobbies, etc, that's fine. If you want to talk about work or issues at home or career progression, that's fine.
-1. Give feedback about what went well last month, and what didn't. How could we do better?
+1. Give feedback about what went well last month, and what didn't. How can we do better from now on?
 1. The discussion is confidential by default, unless there are suggestions or requests that come out of the discussion to relay to the team.
 
 As a manager:
 1. Practice listening. Try to contain the impulse to give advice unless they specifically ask for it for at least the first 10 minutes of the meeting.
 1. Raise anything you felt was a problem. Say how you feel about it, and let them lead.
-1. If they don't bring it up on their own I'll ask questions about emotional state and emotional reactions to situations. E.g., "How did you feel about what happened at Countable last month?" (be specific), "Are you feeling sufficiently challenged?", "What would you like to learn?", "What do you enjoy most at work?", "What made you feel motivated?"
+1. If they don't bring it up on their own I'll ask questions about emotional state and emotional reactions to situations. E.g., "How did you feel about what happened at Countable last month?" (be specific), "Are you feeling sufficiently challenged?", "What would you like to learn?", "What do you enjoy working on most?"
 1. TBD: Review job levels. Employees should check off each job level requirement, and self-promote when they reach completion of their current level. Give the employee a simple desription of what you think would really get them "to the next level". Make this as actionable and objective as possible, and frame it as a mentor.
+
+### The first one-on-one
 1. On first one-on-one, ask "tell me about your life starting in kindergarten". Write down moments of change, decisions on direction and why they were made. 45 mins discussion.
 1. What are the person's dreams? Ask "what would you like to do most after Countable, if anything was possible? Provide 3 possible visions". Make dreams columns and put rows for skills necessary for each vision. Ask questions about everything fits together. What skills can be developed in their role?
 
 Themes:
 Some ideas to pick from, not needed every month.
 1. Give each other (employee first) you'd like the other to "continue" doing, and something to "consider" changing.
-1. Ask: Who did you work with this month, and how did that go?
-1. Ask: What are you learning, and from whom? What are you teaching, and to whom?
-1. Ask: What would you like to learn or experience in the coming months?
+1. Ask: Who did you work with this month, and how did that go? Why did it go that way?
+1. Ask: What are you learning, and from whom? What are you teaching, and to whom? What would you like to learn?
 
-Each quarter, the one-on-one should include performance review self-assessment.
+Each year, the one-on-one should include performance review self-assessment.
 1. Is the purpose of your job clear to you? What is it?
 1. Write a paragraph describing what it would be like if you did extremely well at your job?
 1. What objectives did you have this quarter?
@@ -84,7 +85,6 @@ Each quarter, the one-on-one should include performance review self-assessment.
 1. How do you feel about your learning and professional development?
 1. What would you like to get better at?
 1. What would you like to learn, or do more of?
-1. Any comments?
 
 ## Guild Meeting
 
