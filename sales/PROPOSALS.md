@@ -45,7 +45,7 @@ See [Filter](./FILTER.md)
 
 You'll want to ask a few questions before writing. If possible, get on the phone with someone in order to make a "conceptual agreement". The goals are to get the interest and then the guidance of the buyer, and understand their priorities. Demonstrate a genuine interest in the outcome of the project, build trust, and fill in gaps regarding how well the proposals fits.
 
-1. If anyt of the critical info in our capture questions is unknown, ask it now (approx budget, technology options, can we use Scrum, 
+1. If any of the critical info in our capture questions is unknown, ask it now (approx budget, technology options, can we use Scrum, 
 1. Ask: What is the most important benefit to this project for a successful outcome?
 1. Make a super clear, one sentence statement of your unique approach. Ask the prospect if it's a good approach.
 1. Ask questions to clarify any scoring criteria so you're 100% clear what they each mean.
