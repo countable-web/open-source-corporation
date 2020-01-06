@@ -69,15 +69,19 @@ Each quarter, the one-on-one should include performance review self-assessment.
 1. What would you like to learn, or do more of?
 1. Any comments?
 
-## PD Meeting
+## Guild Meeting
 
-We currently have a front end and backend meeting, every 2nd week.  The purpose of this meeting is:
-  * Present and review each others' work from the last week.
+We currently have a UX, DevOps, and Developers guild meetings, periodically.  The purpose of this meeting is:
+  * Present and review each others' work and provide peer feedback.
   * "Mob" programming, create something together in the meeting.
   * Scrum meeting for countable.ca, every 2nd PD Meeting.
-  * Since one-on-one meetings are only once per quarter, this can act as a group therapy session and cover any topics employees are comfortable talking about. Get an update on your team mates' lives outside work, any frustrations and ambitions.
+Discuss goals for each guild and roadmap for meeting them:
+  * UX - improve the end-user experience of all our work.
+  * DevOps - make our work delivery automatic, frequent and reliable.
+  * Developers - write better code, minimize technical debt.
 
 ## All-hands Meeting
 
 The entire team meets once per month to plan work pipeline and roadmap at a high level, and practice new processes together.
+  * Review OKRs and calculate score.
 
