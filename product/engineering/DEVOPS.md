@@ -21,7 +21,7 @@ This page introduces the areas we call DevOps at countable.
 
 ## CI/CD (Jenkins)
 
-For every project, we should typically have 3 jenkins jobs, a `<projectname-stage`, `<projectname>-prod`, and `<projectname>-test`. These use docker-compose configs from the project repo, `dc.stage.yml`, `dc.prod.yml` and `dc.test.yml` respectively. Here is a [video on Countable standard project structure](https://www.youtube.com/watch?v=8ms2YQtURXM) that explains these compose templates.
+For every project, we should typically have 3 jenkins jobs, a `<projectname>-stage`, `<projectname>-prod`, and `<projectname>-test`. These use docker-compose configs from the project repo, `dc.stage.yml`, `dc.prod.yml` and `dc.test.yml` respectively. Here is a [video on Countable standard project structure](https://www.youtube.com/watch?v=8ms2YQtURXM) that explains these compose templates.
 
 Ideally, each Jenkins job simply clones the appropriate branch onto a node and runs `cp dc.<env>.yml && docker-compose up`, but in practice there may be a few extra steps. One day we may be able to have every environment just use these two commands in order to deploy.
 
