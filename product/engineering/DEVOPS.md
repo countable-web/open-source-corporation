@@ -28,6 +28,7 @@ Ideally, each Jenkins job simply clones the appropriate branch onto a node and r
 1. The "stage" environment automatically deploys the `develop` branch.
 1. The "prod" environment automatically deploys the `master` branch.
 1. The "test" environment automatically runs the tests on any change in the `develop` branch and posts the results in Slack.
+1. dc.dev.yml is intended for use by developers directly, not Jenkins, to manually bootstrap environments.
 
 Tips for debugging CI/CD jobs.
   * First, look at the `console` section of your jenkins job to indentify the failure.
