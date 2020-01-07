@@ -22,6 +22,10 @@ This book contains a lot of great practices, which we _almost_ universally agree
 
 ## Patterns
 
+### Models
+
+Keep models *normalized*. (no duplicate data or extra foreign keys). Schema changes should be heavily reviewed by a senior dev as any bad designs here will cascade to other layers.
+
 ### Views
 
 We generally use function based views (FBV) instead of class based views (CBV) at Countable. When using Django Rest Framework (DRF), this is an exception and we prefer CBV. Please do use DRF for substantial rest API work.
