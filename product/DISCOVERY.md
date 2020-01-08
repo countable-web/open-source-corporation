@@ -20,6 +20,7 @@ For the Kick-off Meeting, meet the product owner (client) in person or over vide
   * What does success look like for you (qualitatively)? Provide as much detail as possible about that vision.
   * Who will we need to work with and in what capacity? (make a list) Book dates/times to meet them. Book any travel plans necessary.
   * What assets and access is required for the project and who will provide it, by when?
+  * Set up a weekly or bi-weekly sprint meeting with product owner and team. What other meetings should we attend? Book these.
   * What are the first key deliverables, by whom, and by when, in order to accelerate the project?
 
 Consider the Business Model Canvas, as a visual guide for this process.
