@@ -32,12 +32,15 @@ The [Product Owner](#product-owner) must review tickets for priority (order the 
 #### Sprint Review
 
 #### Before meeting, team members should
-1. Measure what % done our Key Results are. Check any metrics necessary.
+1. Measure what % done our Key Results are. Check any metrics necessary so we don't bog down the meeting looking in mixpanel for example.
 1. Pick cards for the next sprint that will most impact KRs.
 
 #### During the sprint meeting
-1. Each team member updates the team on their KR scores, what they shipped to cause those changes, and how they will meet the KR.
-1. 
+Each team member updates the team on their
+1. Key Result scores
+1. what they shipped to cause those changes
+1. and how they will meet the Key Results by the deadline (usually end of month)
+
 #### Cards of Shame
 1. Review any cards left in the sprint column. Why are they there? How can we avoid that?
 
