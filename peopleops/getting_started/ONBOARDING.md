@@ -51,12 +51,13 @@ Skim this so you know the language and how we work [Project Management](./PROJEC
 
 You should now go on the slack #general channel and announce that you've completed onboarding, or we'll assume you haven't and complain.
 
-### When You Start
+### Before You Start working:
   * Skim this entire manual and take notes so you know what's in here.
   * If something *specific to our company* isn't in here, ask team mates for help liberally and ensure it gets documented concisely in the right place.
   * Before you ask for help on technical work: Google it; do your research and try every reasonable simple step to narrow it down; Look in our documentation; Finally, ask as specific a question you can.
   * As a new person, your job is mostly to catch balls (not pass them on or throw them to others). So, try to execute work quickly, save others time as opposed to costing their time. Remember, you're already using time on the above items (teaching, documentation, and support) but these are a very good use of their time. So, don't be shy to ask for help, but do so respectfully and consciously of the other party's time.
   * Review the [staff homepage](https://sites.google.com/countable.ca/countable-staff/home), for commonly used resources including the Google Drive stuff you can access. Sign in as countable email to view this page. 
+  * It's a great idea to bookmark your timesheet URL (Google Sheet) and OKR URL (Google Sheet) in your bookmarks bar. https://docs.djangoproject.com/en/3.0/ref/contrib/admin/#inlinemodeladmin-objects . Because, you should access both of these things frequently.
 
 ### When you start working:
 You'll be learning a lot, and we don't expect you to necessarily complete tasks every day when you work. But, you are expected to:
