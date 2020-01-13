@@ -5,7 +5,7 @@
 
 1. Brand development questionnaire
 1. Discovery meeting (review other work, discuss answers to questionnaire)
-1. Develop creative brief (internal).
+1. Develop creative brief (internal). Example [here](https://github.com/countable-web/open-source-corporation/blob/master/marketing/CREATIVE_BRIEF.md)
 1. Propose sketches and color paletttes. Cherry pick key points from the creative brief to present.
 
 ## Guidelines
