@@ -1,4 +1,4 @@
-# Creative Brief
+# Creative Brief for Countable
 
 This document outlines our rationale for, and approach to visual design for the Countable brand.
 
