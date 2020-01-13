@@ -5,7 +5,8 @@
 
 1. Brand development questionnaire
 1. Discovery meeting (review other work, discuss answers to questionnaire)
-1. Propose sketches and color paletttes
+1. Develop creative brief (internal).
+1. Propose sketches and color paletttes. Cherry pick key points from the creative brief to present.
 
 ## Guidelines
 
