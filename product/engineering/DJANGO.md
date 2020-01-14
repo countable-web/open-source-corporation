@@ -18,9 +18,16 @@ Use the long term support version of Django, ideally the latest one available at
 
 ## Read 2 Scoops of Django
 
-This book contains a lot of great practices, which we _almost_ universally agree with.
+This book contains a lot of great practices, which we _almost_ universally agree with. In particular.
+  * Fat models, skinny views. Put more logic and code in Model methods, if it's relevant to that model specifically. Avoid large amounts of code in views.
 
 ## Patterns
+
+### Imports
+
+Certain files in Django should only import from other certain types of files. For example, `urls.py` should really only import from `views.py` (and `utils.py`).
+
+
 
 ### Models
 
