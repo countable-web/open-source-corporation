@@ -10,6 +10,8 @@ Include version string in static assets paths loaded from the client.
 <script src="script.js?v={{ settings.VERSION }}"></script>
 ```
 
+In `settings.py` set `VERSION=os.system('git rev-parse HEAD')`
+
 This is a wonderful catchall to prevent client cache issues that waste so much time.
 
 ## Use LTS Django
