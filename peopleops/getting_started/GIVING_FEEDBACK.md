@@ -8,6 +8,9 @@ Our team must provide each other with feedback regularly in order to improve. So
   * Feedback from peers is the most effective way to grow professionally. (Originals)
   * Honest feedback prevents the perils of "group think" that damages teams as they grow. (Culture code)
 
+## When to give feedback
+  * [Code reviews](../../product/engineering/GIT.md). It's just as critical to provide feedback as a Jr dev because (1) you can learn much faster by reading others' code, and asking questions. (2) your questions will help Sr devs make their work more understandable. (3) it motivates Sr devs to have someone learning from them and seeing their work in general. (4) you can help other Jr devs learn. (5) It forces you to understand our standards and apply them better if you have to measure other people's work against them (6) Sr devs still make of mistakes
+  * 
 ## Guidelines
   
   * Ask your team for feedback. Make it easy for them by sharing a link, getting a code review, making a little demo video of what you did, or just asking a specific question "What could I improve in my fireball casting technique?".
