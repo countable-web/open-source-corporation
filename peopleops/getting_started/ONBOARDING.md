@@ -17,6 +17,10 @@ The goal of this guide is to help new members of Countable get connected with th
   * Use the team to answer your other questions.
   * Add your approximate work availability here - https://docs.google.com/spreadsheets/d/1zh6GYex7UtoZGyChRGNy8378brtxvfrOdtedf6z5c5M/edit#gid=0
 
+### Set your profile photo
+
+  * As a remote team, it makes it easier for our team and clients to track who everyone is if you upload a profile photo. Upload your photo to all accounts, especially Slack, Email, BitBucket, GitHub.
+  
 ### Set up a Timesheet
 
 [See here](../../admin/accounting/TIMESHEETS.md)
