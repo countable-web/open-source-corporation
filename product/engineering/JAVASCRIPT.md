@@ -4,7 +4,7 @@
 
 While we won't normally use jQuery for a new project at Countable, several older projects do use it. jQuery has been unpopular for large software projects due to maintainability issues, and thsoe concerns are founded. However, taking some care in how you use the library helps keep jQuery projects maintainable.
 
-Most of the problems maintaining jQuery apps come from [DOM Manipulation](https://api.jquery.com/category/manipulation/) which leads to needlessly complex state. To minimize this:
+Most of the problems maintaining jQuery apps come from [DOM Manipulation](https://api.jquery.com/category/manipulation/) which leads to needlessly complex state. To minimize this, here are some guidelines to use where possible.
 
 Where possible, just `.hide()` and `.show()` different pieces of pre-defined content instead of creating it on the fly. ie)
 
@@ -19,7 +19,27 @@ $("#abc_error_message").show()
 
 If you must dynamically generate HTML, `.html` and `.text` for setting a large block of generated information, with ES6 strings.
 ```
-$("#parent_id").html(`<b> here is a dynamic fragment. ${varaible} ${variable}</b>`)
+$("#parent_id").html(`<b> here is a dynamic fragment. ${variable} ${variable}</b>`)
+```
+
+To make small changes to how something looks, animate it, open/close, etc. use `addClass` and `removeClass`.
+
+```
+// bad
+$("#accordion").css('height', '25px')
+
+// better
+// define the actual CSS in the .open-accordion class.
+$("#accordion").addClass('open-accordion')
+```
+
+Use ID instead of class for selecting items in jQuery:
+```
+// bad
+$(".next")
+
+// better
+$("#main-modal-next-button")
 ```
 
 When manipulating the DOM, as in `https://api.jquery.com/category/manipulation/`, prefer:
