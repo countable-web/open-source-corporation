@@ -51,7 +51,7 @@ Considered a permanent position.
 ### Level 3
 May be given equity offer, and/or substantial pay raise.
 
-   * Help to support and teach other team members things inside your technical track.
+   * Help to support and teach other team members things inside your technical track, or takes responsibility for their results for at least one specific client or project.
    * Makes some contributions to the Ops Manual.
    * Work towards a clear, shared goal with the client. Follow up on discussions in a constructive way (with respect to objectives). Once it's clear, prototype something to validate assumptions as quickly as possible.
    * Be competent in more than 1 technical track, and has basic knowledge of all 3.
