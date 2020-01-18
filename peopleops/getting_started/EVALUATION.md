@@ -66,6 +66,7 @@ Given equity offer.
    * Makes sure documentation is clear, and the team is improving in that area, making major Ops Manual contributions.
    * Stay on top of industry trends in technical track. Research, understand and explain trade-offs of competing solutions. Post about opportunities to improve (new tools and trends) in guild channels.
    * Work to integrate their technical area with the other technical tracks seamlessly in a ways that help the whole team. Be aware of how your work impacts other areas.
+   * Set high level conceptual alignment and clarity of goals and strategy with clients.
    * Evaluate technical work complexity for proposals/quotes and can delegate work appropriately.
 
 ### Dismissal
