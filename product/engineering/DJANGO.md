@@ -29,7 +29,7 @@ This book contains a lot of great practices, which we _almost_ universally agree
 
 Certain files in Django should only import from other certain types of files. For example, `urls.py` should really only import from `views.py` (and `utils.py`).
 
-![import flow](./django_import_flow.png)
+![import flow](./django_import_flow.jpg)
 
 ### Models
 
