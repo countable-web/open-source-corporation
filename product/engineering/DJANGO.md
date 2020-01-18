@@ -54,3 +54,9 @@ def view(request):
         return Http400(...)
     return HttpResponse(...)
 ```
+
+### Managing Environments
+
+  * Django should have SMTP creds, and should set the ADMINS to the back-end developer that maintains that project.
+  * In prod and staging environments, set DEBUG=False, so the ADMINS get emails with any stack traces.
+
