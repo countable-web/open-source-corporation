@@ -27,7 +27,7 @@ An internship position, person is being evaluated for potential. All their work 
    * Regularly review other team members' work to learn from it (code reviews, XD links, shared videos, stage sites)
    * Ask for help with your [OKRs](../../OKRS.md)
    * You regularly use this operations manual, ask questions about things that are hard to understand or you disagree with, and suggest improvements for clarity.
-   * Try to solve problems yourself (10 to 30 minutes), ask specific questions after doing initial investigation. Clarify and state your assumptions when you ask for help.
+   * Try to solve problems yourself (10 to 30 minutes), ask specific questions after doing initial investigation. Clarify and state your assumptions when you ask for help. // Message kind of implies the necessity to ask questions. We could note that asking questions is based on necessity.
    * Make consistent small improvements to the systems around you (fix spelling or clarity of README files, small refactors such as renaming a variable for clarity, make a small design or usability improvement).
    * Show gratitude to your team (for example, mention them in the #thanks channel).
    * Share work (screenshots, staging links, XD links, code snippets) with the team in your client-<name> and guild-<name> channels, because seeing great work raises the bar for everyone and is very motivating.
@@ -55,7 +55,7 @@ May be given equity offer, and/or substantial pay raise.
    * Makes some contributions to the Ops Manual.
    * Work towards a clear, shared goal with the client. Follow up on discussions in a constructive way (with respect to objectives). Once it's clear, prototype something to validate assumptions as quickly as possible.
    * Be competent in more than 1 technical track, and has basic knowledge of all 3.
-   * Takes responsibility for clients' business results. Doesn't blame the client, or external factors. Find a way to achieve the desired outcome by working around challenges you cannot control. Maximize iteration speed to get closer quickly. Take accountability for our team's role in business objectives and project health.
+   * Takes responsibility for clients' business results. Doesn't blame the client, or external factors. Find a way to achieve the desired outcome by working around challenges you cannot control. Maximize iteration speed to get closer quickly. Take accountability for our team's role in business objectives and project health. // Maybe we could break these down into three? I think the ability to maximize iteration speed and the ability to display accountability should be separated from the ability to find solutions regarding external factors or factors you have no control over.
    * Tracks and improves metrics.
    * Takes responsibility for the overall success of one or more existing clients or projects.
 
