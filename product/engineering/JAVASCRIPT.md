@@ -54,6 +54,7 @@ avoid:
   * `.after()`, `.append()`, `.attr()`, `.before()`, `.clone()`, `.css()`, `.remove()`, and everything else.
 
 ### When traversing the DOM many times, load one into memory first!
+
 ```
 <div id="one">
   <div id="two">
@@ -65,7 +66,7 @@ avoid:
 <div>
 ```
 
-
+It is better to query the DOM once, cache it then use the `find` method to grab elements. See cache.find performance test here: https://jsperf.com/selector-vs-find-again/11
 ```
 // BAD
 const one = $("#one");
