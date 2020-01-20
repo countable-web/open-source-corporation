@@ -53,4 +53,43 @@ avoid:
 
   * `.after()`, `.append()`, `.attr()`, `.before()`, `.clone()`, `.css()`, `.remove()`, and everything else.
 
+### When traversing the DOM many times, load one into memory first!
 
+```
+<div id="one">
+  <div id="two">
+    <div id="three">
+      <div id="four">
+      <div>
+    <div>
+  <div>
+<div>
+```
+
+It is better to query the DOM once, cache it then use the `find` method to grab elements. See cache.find performance test here: https://jsperf.com/selector-vs-find-again/11
+```
+// BAD
+const one = $("#one");
+const two = $("#two");
+const three = $("#three");
+const four = $("#four");
+
+// GOOD
+const one = $("#one);
+const two = one.find("#two");
+const three = one.find("#three");
+const four = one.find("#four");
+
+```
+
+### You can do PubSub with jQuery (IE, trigger and listen to custom events)
+
+```
+$(document).on('testEvent', function(e, data) { 
+    console.log(data)
+});
+
+$('#myButton').on('click', function() {
+  $(document).trigger('testEvent', 'Hello World');
+});
+```
