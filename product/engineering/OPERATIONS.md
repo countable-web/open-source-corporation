@@ -128,3 +128,18 @@ The following steps should be done as quickly as possible because your service w
 1. Turn off the old service on the old server, to guarantee it cannot be accessed.
 
 For some legacy sites, we store local filesystem data. This must be moved manually to match the old server, on the new server. Ask the devs to refactor this away where possible, and use things like S3 for permanent file storage.
+
+# Hosting Choices
+
+The benefits of bare metal:
+
+1. lower cost per unit of RAM.
+1. serviceability in Vancouer (I can drive there in 20 minutes)
+1. faster ping for us in Vancouver
+1. much higher burstable hardware specs than any of our other hosts, so everything will run faster in general in production and devops tasks
+1. 60ms faster ping from Davao, too.
+
+The benefits of VM/cloud instances:
+1. Can easily replace the host if we break it.
+1. More isolation between services in most cases (this is a mixed bag really, and depends on many things).
+1. Ability to deploy new hardware automatically such as via Terraform
