@@ -1,4 +1,4 @@
-# Developer Guild
+# Developer Guild (RFC)
 
 ## Purpose
 
