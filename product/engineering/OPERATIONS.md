@@ -123,8 +123,9 @@ Move the "stage" version of any site, first.
 The following steps should be done as quickly as possible because your service will be down in between these steps. Test the process on the stage instance to ensure it goes smoothly first. It should only take a few minutes.
 1. Set the old instance database in read-only mode if possible. For small sites, skip this step, and just shut it down at this time, resulting in some downtime.
 1. Dump the database from the old instance, and restore it to the new instance.
-1. Update DNS to point to the new instance.
 1. Update the proxy of the old site to point to the new one to avoid clients with old DNS records accessing the old version, because it could result in DB conflicts or data loss.
+1. Set up haproxy on the new host if needed to point to your applicaton's production port.
+1. Update DNS to point to the new instance.
 1. Turn off the old service on the old server, to guarantee it cannot be accessed.
 
 For some legacy sites, we store local filesystem data. This must be moved manually to match the old server, on the new server. Ask the devs to refactor this away where possible, and use things like S3 for permanent file storage.
