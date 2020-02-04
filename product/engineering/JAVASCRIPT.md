@@ -82,14 +82,37 @@ const four = one.find("#four");
 
 ```
 
-### You can do PubSub with jQuery (IE, trigger and listen to custom events)
+### You can do PubSub with jQuery
 
 ```
-$(document).on('testEvent', function(e, data) { 
-    console.log(data)
-});
+// not ideal
+$('#myButton').on('click', update_ui())
+$('#myButton').on('click', update_ui2()) // elsewhere in code
+$('#myButton').on('click', get_new_data()) // in another component
 
+// It's better to use this method to trigger and listen to custom events, than to have many primary event handlers. This way, updates can be centralized.
 $('#myButton').on('click', function() {
   $(document).trigger('testEvent', 'Hello World');
 });
+$(document).on('testEvent', function(e, data) { 
+    update_ui()
+});
+$(document).on('testEvent', update_ui());
+$(document).on('testEvent', function(e, data) { 
+    get_new_data()
+});
+```
+
+### Prefer Event Delegation in jQuery
+
+Event delegation means you'll never have bugs with event handlers being created too late or being lost due to dom updates.
+
+// It's bad to do this, particularly if #confirm_popup_button might not exist.
+$('#confirm_popup_btn').click(function () {
+
+// Better to use event delegation, because it will work even if #confirm_popup_btn is created later.
+$('body').on('click', '#confirm_popup_btn', function () {
+```
+
+
 ```
