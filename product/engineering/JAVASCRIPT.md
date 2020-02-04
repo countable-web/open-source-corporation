@@ -109,9 +109,8 @@ Event delegation means you'll never have bugs with event handlers being created 
 
 ```
 // It's bad to do this, particularly if #confirm_popup_button might not exist.
-$('#confirm_popup_btn').click(function () {
+$('#confirm_popup_btn').click(function () {...})
 
 // Better to use event delegation, because it will work even if #confirm_popup_btn is created later.
-$('body').on('click', '#confirm_popup_btn', function () {
-
+$('body').on('click', '#confirm_popup_btn', function () {...})
 ```
