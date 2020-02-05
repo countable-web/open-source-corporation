@@ -22,7 +22,7 @@ Choose one of the above technical tracks that most closely matches your work and
 This section is used in the Process above for self-evaluation.
 
 ### Level 1
-An internship position, person is being evaluated for potential. All their work is reviewed by team members before entering production.
+An internship or Junior. Evaluation of fit to Countable's culture, work style and technical needs.
 
    * Regularly review other team members' work to learn from it (code reviews, XD links, shared videos, stage sites)
    * Ask for help with your [OKRs](../../OKRS.md)
@@ -35,7 +35,7 @@ An internship position, person is being evaluated for potential. All their work 
    * Notify your client when work is ready, with a link or screenshot for them to see.
 
 ### Level 2
-Considered a permanent position.
+Considered a permanent position. Works directly with clients and other stakeholders on delivering results, only escalating as needed.
 
    * Remind the team and clients about what our project goal and company goals are.
    * Show troubleshooting ability, to get to the bottom of issues in your technical track.
@@ -49,7 +49,7 @@ Considered a permanent position.
 
 
 ### Level 3
-May be given equity offer, and/or substantial pay raise.
+Owns a client relationship, leads in a technical area within a guild, or takes on another area of responsibility.
 
    * Help to support and teach other team members things inside your technical track, OR takes responsibility for their results and timelines for at least one specific client or project with multiple team members assigned to it.
    * Makes some contributions to the Ops Manual.
@@ -60,8 +60,8 @@ May be given equity offer, and/or substantial pay raise.
    * Takes responsibility for the overall success of one or more existing clients or projects.
 
 ### Level 4
-Given equity offer.
 
+Owns a guild, major client group or customer base (business line).
    * Sets standards for whole team in technical track OR responsible for a business area (contributes to several winning proposals and accounts)
    * Makes sure documentation is clear, and the team is improving in that area, making major Ops Manual contributions.
    * Stay on top of industry trends in technical track. Research, understand and explain trade-offs of competing solutions. Post about opportunities to improve (new tools and trends) in guild channels.
