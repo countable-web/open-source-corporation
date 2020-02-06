@@ -114,3 +114,14 @@ $('#confirm_popup_btn').click(function () {...})
 // Better to use event delegation, because it will work even if #confirm_popup_btn is created later.
 $('body').on('click', '#confirm_popup_btn', function () {...})
 ```
+
+
+# Vue and React
+
+  * Instead of returning functions that render a component, prefer to return functions that return the necessary information to render a component. In the first we are instructing what to do(render precisely this thing), while in the second we’re just returning some information (use this information to do something).
+  * Communicating between siblings, instead of through components. Try to only communicate with other components through props.
+  * Use pure functional components where possible. Because these components don’t have lifecycle methods, they require you to rely on a declarative, props-based approach.
+  
+## references
+
+[1] https://codeburst.io/declarative-vs-imperative-programming-a8a7c93d9ad2
