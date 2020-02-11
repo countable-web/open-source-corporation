@@ -127,6 +127,7 @@ The following steps should be done as quickly as possible because your service w
 1. Set up haproxy on the new host if needed to point to your applicaton's production port.
 1. Update DNS to point to the new instance.
 1. Turn off the old service on the old server, to guarantee it cannot be accessed.
+1. Clear the cloudflare cache (purge everything) for your domain.
 
 For some legacy sites, we store local filesystem data. This must be moved manually to match the old server, on the new server. Ask the devs to refactor this away where possible, and use things like S3 for permanent file storage.
 
