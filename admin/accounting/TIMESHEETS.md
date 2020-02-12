@@ -12,6 +12,7 @@ This document standardizes the process of logging timesheets.
     * Write the date in ISO 8601 format: yyyy-mm-dd.
 *  ### Description of Work:
     * Describe the work in a few words that indicate specific progress and outcomes you worked on for most of that day, in a language clients will understand. Between 3 and 20 words is the right level of detail. If you're entering the same phrase every day, you're not being specific enough.
+    * Never combine line items. If you worked on 2 different codes (project slugs) during the day, they must be separate line items.
     * Client pay us to do work and does not care about your environment setup, training, or who works with who. Just indicate what task/objective the client requires that you were working on, any progress or setbacks, and status.
     * *Bad example:* "environment setup". Nobody cares about your environment in this context. It's an input not an output. Mention why you need to the environment and the larger task it will help you complete.
     * *Bad example:* "worked with person X". nobody cares who on our team you worked with, and as you can see it can cause the client to dispute the invoice. Mention WHAT you were working on and specifically what you accomplished on that.
@@ -44,9 +45,6 @@ This document standardizes the process of logging timesheets.
 ## Rules
 * Do not modify the timesheet template (ex: removing/adding rows at the top of the timesheet, changing existing columns).
 * Do not rename the month tabs, but changing their order is fine (you can move the current month as your first tab).
-* Changing the colors of cells are ok.
-* Do not merge any cells together.
-* If you would like space between rows, do not have more than 1 empty row inbetween.
 * For adding additional information or calculations for yourself, use the empty cells above the table headers or unused columns (F and beyond).
 
 ## Example
