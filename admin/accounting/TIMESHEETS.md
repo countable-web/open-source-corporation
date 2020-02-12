@@ -11,7 +11,13 @@ This document standardizes the process of logging timesheets.
 *  ### Date:
     * Write the date in ISO 8601 format: yyyy-mm-dd.
 *  ### Description of Work:
-    * Describe the work in a few words that indicate specific outcomes you worked on for most of that day, in a language clients will understand. Between 3 and 20 words is the right level of detail. If you're entering the same phrase every day, you're not being specific enough.
+    * Describe the work in a few words that indicate specific progress and outcomes you worked on for most of that day, in a language clients will understand. Between 3 and 20 words is the right level of detail. If you're entering the same phrase every day, you're not being specific enough.
+    * Client pay us to do work and does not care about your environment setup, training, or who works with who. Just indicate what task/objective the client requires that you were working on, any progress or setbacks, and status.
+    * *Bad example:* "environment setup". Nobody cares about your environment in this context. It's an input not an output. Mention why you need to the environment and the larger task it will help you complete.
+    * *Bad example:* "worked with person X". nobody cares who on our team you worked with, and as you can see it can cause the client to dispute the invoice. Mention WHAT you were working on and specifically what you accomplished on that.
+    * *Bad example:* "sprint meeting". Instead, mention a key decision at the meeting or topic that helped accomplish our assigned tasks and goals.
+    * *Good example:* Completed Trello Task "Title copied here". Worked on task X, but blocked by Y, so there are 3 hours left. Changed deployment parameters so that we could meet our goal of reducing downtime during deploys. Prepared report on test coverage, based on request from Bill (Client's personnel, not ours).
+
 *  ### Trello or BitBucket ref:
     * Also include at least one of: references to issues in Trello, Commit IDs. Link to trello cards can be found in "Share and more..." after opening a card.
 *  ### Hours Worked: 
