@@ -74,3 +74,4 @@ When a pull request is created, several people are set to automatically review.
   * Reviewer should point out anything that's not following project conventions. Are we doing something a new way, when a perfectly good way existed before?
   * Try to find and remove any duplicate code (DRY) or dead code.
   * Review these [Code Review Guidelines](https://phauer.com/2018/code-review-guidelines/)
+  * If you review code, always indicate you did so. Either click "approve", or leave a comment.
