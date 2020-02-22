@@ -1,5 +1,7 @@
 # Purpose
 
+(draft, purposes are hard and we do a lot of things...)
+
 At the most abstract level, we want to solve the problem of information context. With more data available than ever, the problem becomes getting the right data at the right time.
 
 To be less abstract, this typically manifests as:
