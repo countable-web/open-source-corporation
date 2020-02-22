@@ -38,7 +38,7 @@ Countable is a Web Technology Solutions Development Firm. We build things with w
 
 ## Who is Countable?
 
-We are selective in order to embody our [values][./VALUES.md]. This starts with hiring, all the way to the kinds of partners we seek out. In the end, we want to bring together people to have a big impact by improving all the industries we engage with, through better technology designed by the end users themselves. Those users are the ones who understand their problems and need to given a voice to control the technology they depend on. Now that's a feedback loop!
+We are selective in order to embody our [values](./VALUES.md). This starts with hiring, all the way to the kinds of partners we seek out. In the end, we want to bring together people to have a big impact by improving all the industries we engage with, through better technology designed by the end users themselves. Those users are the ones who understand their problems and need to given a voice to control the technology they depend on. Now that's a feedback loop!
 
 ### Recruiting
 Finding the right people is one of our biggest challenges, so we need every advantage we can find in this way.
