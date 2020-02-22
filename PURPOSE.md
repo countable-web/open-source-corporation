@@ -1,9 +1,10 @@
-
 # Purpose
 
-_Giving people the right information when they need it, in the right form._
+At the most abstract level, we want to solve the problem of information context. With more data available than ever, the problem becomes getting the right data at the right time.
 
-We want to solve the problem of information context. With more data available than ever, the problem becomes getting the right data at the right time.
+To be less abstract, this typically manifests as:
+  * Fixing feedback loops. Giving all stakeholders the right information at the right time to optimize decision making.
+  * Put relevant data at users' fingertips to enable automation and effective, efficient workflows.
 
 Examples of how we embody this purpose:
   * _Better Customer Journey Systems_ - Improve customer experiences using web technology. With faster feedback loops via prototyping, Scrum and tools which improve transparency.
