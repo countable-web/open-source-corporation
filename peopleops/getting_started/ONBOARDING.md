@@ -44,8 +44,8 @@ Fill this onboarding form. It contains information we need for you to start work
   * https://docs.google.com/forms/d/e/1FAIpQLScYLUdoD5z1OhMNbhXC4G3GDLVbumoPH9X-mnNPDRaR2YQiwA/viewform?usp=sf_link
 
 Join these using your Google account.
-  * [Sentry](http://sentry.countable.ca). Join the `Sentry` team.
-  * [Jenkins](http://jenkins.countable.ca). Ask your manager to be added to projects.
+  * (devs only) [Sentry](http://sentry.countable.ca). Join the `Sentry` team.
+  * (devs only) [Jenkins](http://jenkins.countable.ca). Ask your manager to be added to projects.
 
 ### How to Do Work
 
@@ -58,8 +58,6 @@ You should now go on the slack #general channel and announce that you've complet
 ### Before You Start working:
   * Skim this entire manual and take notes so you know what's in here.
   * If something *specific to our company* isn't in here, ask team mates for help liberally and ensure it gets documented concisely in the right place.
-  * Before you ask for help on technical work: Google it; do your research and try every reasonable simple step to narrow it down; Look in our documentation; Finally, ask as specific a question you can.
-  * Teaching, training and documentation are a very good use of your team members' time. So, don't be shy to ask for help. It's part of all our jobs.
   * Review the [staff homepage](https://sites.google.com/countable.ca/countable-staff/home), for commonly used resources including the Google Drive stuff you can access. Sign in as countable email to view this page. 
   * It's a great idea to bookmark your timesheet URL (Google Sheet) and OKR URL (Google Sheet) in your bookmarks bar. https://docs.djangoproject.com/en/3.0/ref/contrib/admin/#inlinemodeladmin-objects . Because, you should access both of these things frequently.
 
@@ -76,5 +74,6 @@ See https://www.youtube.com/watch?v=hY14Er6JX2s, skip to 11 minute mark and watc
   * Indicate what % done you are on the project. "I'm 30% done this, and stuck on X. I already tried A and B."
   * Show what you've already tried.
   * After you get a response, say it back to the mentor to demonstrate your understanding.
+  * Document what you learned. If it will apply to others, put it in a public space such as this manual
 
 
