@@ -16,6 +16,10 @@ Define how Countable "follows" Scrum.
 2. Make sure everyone's clear their _Objectives_ and team members' Objectives and Key Results.
 3. _Communicate_ with your project team daily about meeting KRs.
 
+## User Stories
+
+@andrea to fill.
+
 ## Process
 
 ### Project Objective and Key Results
