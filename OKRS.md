@@ -58,7 +58,7 @@ They should:
 
 ### Our OKR Spreadsheet
 
-Each month's OKRs are captured here, https://docs.google.com/spreadsheets/d/1trSTphquGTPl9-cQKciidLAipuFnYEZHu4MYXuefP8k/edit#gid=1942082043
+Each month's OKRs are captured here, https://docs.google.com/spreadsheets/d/1H-5MpvHeZSyrmJzDexRLfqE2OfdwYhfwRq1J-zUUrlM/edit?usp=sharing
 
 ### Committed OKRs
 
