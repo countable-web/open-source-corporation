@@ -18,7 +18,7 @@ Define how Countable "follows" Scrum.
 
 ## User Stories
 
-@andrea to fill.
+User Stories serve as the central planning document for any given project. The purpose of User Stories is to ensure all stakeholders can understand what we're trying to accomplish, no matter their level of technical expertise. Check out the [User Stories](https://github.com/countable-web/open-source-corporation/blob/master/peopleops/getting_started/USER_STORIES.md) page for more detail and how to compose User Stories.
 
 ## Process
 
