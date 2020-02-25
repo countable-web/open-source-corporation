@@ -14,6 +14,7 @@ Checklist of key steps when starting a new project.
 For the Kick-off Meeting, meet the product owner (client) in person or over video chat. Text based interaction isn't good enough for these critical questions.
 
   * What problem does this project solve, for whom? This should be a list of the personas, and high level stories (also called value hypothesis or value proposition).
+  * How are the users currently solving or working around the problem?
   * What is the most important benefit you expect this project to provide to the user?
   * How will success be measured?
   * What is the impact hypothesis using the above metric? How many people will use the solution, and how does it impact their lives/jobs? How can that be maximized?
