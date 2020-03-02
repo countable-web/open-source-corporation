@@ -29,6 +29,7 @@ Define how we use different communication channels for different purposes.
   * Respond to emails in a way that minimizes back-and-forth. Use a calendly link to book meetings if it's with just one other person.
   * No need to check emails during vacation (unless otherwise agreed upon). => see next line
   * You must have an autoresponder set when on vacaton: including return date from vacation / back-up contact and details / back-up person gets a briefing.
+  * Use the "schedule send" option in gmail if sending after hours or on the weekend. it's a dropdown on the send button. This helps train team members and clients to take a break outside work hours.
 
 ### Text
   * If you'd like someone's attention because you're blocked and they're not responding on Slack, we recommend you text them. Do this only when necessary.
