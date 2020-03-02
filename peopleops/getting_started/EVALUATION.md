@@ -85,3 +85,4 @@ While it sounds like a negative thing, not everyone is a fit for Countable's cul
    
  
 [1] Jim Collins, "Good to Great".
+[2] [Roadmap.SH](https://roadmap.sh/guides/levels-of-seniority) - this is helpful specifically for devs.
