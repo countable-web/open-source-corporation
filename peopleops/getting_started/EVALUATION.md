@@ -60,6 +60,7 @@ Owns a client relationship, leads in a technical area within a guild, or takes o
    * Take accountability for our team's role in business objectives and project health.
    * Tracks and improves metrics.
    * Takes responsibility for the overall success of one or more existing clients or projects.
+   * For devs, acts condusive with the [Senior Developers](https://roadmap.sh/guides/levels-of-seniority#senior-developers) section of roadmap.sh developer levels. It's useful for other technical workers to review this as well.
 
 ### Level 4
 
