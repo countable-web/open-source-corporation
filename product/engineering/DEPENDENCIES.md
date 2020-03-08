@@ -2,6 +2,15 @@
 
 This page covers dependency selection and management.
 
+## How to Pick Dependencies
+
+  * Dependencies have a maintenance cost. Use as few as possible.
+  * Pick dependencies that do what you need, and expect to need, and no more.
+  * Pick dependencies with active support (> 5000 GitHub stars, recent commits)
+  * If you really need a dependency with under 5000 GitHub stars, assume you may need to fork it in the future. These kinds of projects are at very high risk of becoming abandoned.
+  * Be wary of sub-dependencies (jquery-cors). It's better to use a dependency with fewer upstreams (node-cors).
+  * Minimize the size of the entire dependency tree. Dependencies closer to the underlying language or browser are better, and more likely to have a reasonable upgrade path because they are higher in the tree.
+
 ## Javascript Frameworks
 
 Javascript frameworks are a big discussion and there isn't a nice answer IMO. The problem is our projects often live for 5 to 10 years. Javascript frameworks do not.
