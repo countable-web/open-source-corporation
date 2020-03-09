@@ -2,7 +2,7 @@
 
 ## Purpose
 
-We want to restict types of communication by channel so people aren't stressed by having to listen on all channels at all times.
+We want to restict types of communication by channel so people aren't stressed by having to listen on all channels at all times. For example, we expect people to check email just once or twice a day, and not on evenings or weekends, so don't feel guilty about not checking it on your time off.
 
 ## Scope
 
