@@ -9,6 +9,10 @@ Clients are invoiced before the 10th of each month, and given 30 days to pay for
 
 If the amount expected to be invoiced in a single month exceeds the client's credit amount, they must pay a deposit so their credit is not exceeded. If a client has paid at least 3 invoices in a row, on time, they may apply for a credit increase. The credit should not exceed the total invoiced over the last 3 months. This credit is only usable for the month work is acted on, and 30 day grace period (see below).
 
+## Phased Invoices
+
+For projects in category 3 above (flat fee), phases with dates should be identified, so it's clear how much is due at each time.
+
 ## Overdue Invoices
 
 We take overdue invoices seriously, in order to weed out clients who do not pay on time. By following this policy, over time we will only retain clients who are able to pay within the agreed term (30 days). While we'd like to be nice about this, we've found that some clients may abuse that and will use us as a source of financing, which is not our purpose.
