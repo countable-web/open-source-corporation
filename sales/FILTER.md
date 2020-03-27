@@ -17,7 +17,7 @@ If the answer to all the above, we might do great work together. Let's prototype
 Record the RFP due date, organization and link in a spreadsheet, along with its score as follows:
 
   * 20 points if the RFP is in your niche of products and services. Partial points if the industry matches, but not the exact service/product (it's nearby).
-  * 10 points for tech match. Mention of any from: Django, Node, Postgres, Vue, React, javascript, web mapping, etc.
+  * 10 points for tech match. Mention of any from: Django, Node, Postgres, Vue, React, javascript, web mapping, etc. Deduct points for .NET, SAP.
   * 10 points if the final result publicly browsable, for portfolio value.
   * 10 points if scoring criteria are provided.
   * 10 if scoring criteria is explained in the RFP.
