@@ -30,7 +30,7 @@ An internship or Junior. Evaluation of fit to Countable's culture, work style an
    * Try to solve problems yourself (10 to 30 minutes). If no clear solution was found, ask specific questions while providing details obtained from the initial investigation. Clarify and state your assumptions when you ask for help.
    * Make consistent small improvements to the systems around you (fix spelling or clarity of README files, small refactors such as renaming a variable for clarity, make a small design or usability improvement).
    * Show gratitude to your team (for example, mention them in the #thanks channel).
-   * Share work (screenshots, staging links, XD links, code snippets) with the team in your client-<name> and guild-<name> channels, because seeing great work raises the bar for everyone and is very motivating.
+   * Share work every day (screenshots, staging links, XD links, code snippets) with the team in your client-<name> and guild-<name> channels, because seeing great work raises the bar for everyone and is very motivating.
    * Take responsibility for specific tasks you are assigned.
    * Notify your client when work is ready, with a link or screenshot for them to see.
 
@@ -39,7 +39,7 @@ Considered a permanent position. Works directly with clients and other stakehold
 
    * Remind the team and clients about what our project goal and company goals are.
    * Show troubleshooting ability, to get to the bottom of issues in your technical track.
-   * Your team and clients give positive feedback on your work speed and quality.
+   * You share work as far down the chain to end-users as reasonably possible every day, collect feedback, and improve. No hoarding work in your local environment without publishing it.
    * Give feedback on work that team members share (in your client-<name> and guild-<name> channels).
    * Share links (such as on Slack) to relevant pages in the Ops Manual to help guide the team (you should make an effort to do this rather than offer one-off answers to questions).
    * Manages client's expectation of deliverables and timelines. Is aware of bigger picture of project, and helps the team course correct to stay on track.
