@@ -24,7 +24,7 @@ This section is used in the Process above for self-evaluation.
 ### Level 1
 An internship or Junior. Evaluation of fit to Countable's culture, work style and technical needs.
 
-   * Regularly review other team members' work to learn from it (code reviews, XD links, shared videos, stage sites)
+   * Regularly review other team members' work to learn from it (code reviews, XD links, shared videos, stage sites). To prove you are doing this you must ask questions.
    * Ask for help with (or more generally, be highly engaged with and discuss) your [OKRs](../../OKRS.md)
    * You regularly use this operations manual, ask questions about things that are hard to understand or you disagree with, and suggest improvements for clarity.
    * Try to solve problems yourself (10 to 30 minutes). If no clear solution was found, ask specific questions while providing details obtained from the initial investigation. Clarify and state your assumptions when you ask for help.
