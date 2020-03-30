@@ -25,7 +25,6 @@ The goal of this guide is to help new members of Countable get connected with th
 
 [See here](../../admin/accounting/TIMESHEETS.md)
 
-
 ### Team Calendar
   * Go to calendar.google.com from your Countable Google Apps account.
   * You should see our team calendar with meetings to attend.
@@ -66,7 +65,7 @@ You'll be learning a lot, and we don't expect you to necessarily complete tasks 
    * Let your team know what you did and what you struggled with, on Slack every day, because we need to know that in order to help you learn. It doesn't help anyone if you're stuck, and we want to help.
    * Commit your code and push it to `develop` or a new branch with a Pull Request every day.
    * Try your best to complete a tiny task, rather than partially finishing a big task.
-
+   * Expectations that are required to be part of Countable (level 1) and for promotion are documented [here](./EVALUATION.md).
 ### How to ask for help:
 See https://www.youtube.com/watch?v=hY14Er6JX2s, skip to 11 minute mark and watch steps for asking for help. Summary.
   * If you struggle more than 15 mins, ask for help. (if you're waiting for a response, move to something else meanwhile.)
