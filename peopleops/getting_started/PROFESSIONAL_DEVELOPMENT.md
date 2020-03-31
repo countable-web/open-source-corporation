@@ -10,5 +10,5 @@ If you buy a book for work, the company will reimburse you. [Suggested reading](
 
 ## Monthly "Guild" Meetings
 
-Each month we hold a meeting for any technical specialty the team is interested in. Currently there's a developer guild meet and a design/ux guild meet.
+Each month we hold a meeting for any technical specialty the team is interested in. Currently there's a developer guild meet, a devops meet, and a design/ux guild meet.
 
