@@ -8,7 +8,7 @@ Track infosec system design best-practices
 
 This document focuses on design of actual systems, not processes for performing work (covered elsewhere).
 
-## Host OS Hardening
+## Web Application Host OS Hardening
 
   * Apply 'least privilege' in general. Only give users/systems access to sensitive information to the extent who need it, and only the minimum level.
   * Normally, only Jenkins should access production servers.
@@ -17,6 +17,8 @@ This document focuses on design of actual systems, not processes for performing 
   * Use CloudFlare or another DDOS and attack detection protection mechanism.
 
 ## Container Security Practices [1]
+
+Countable's applications are always containerized. That consistent design lets us re-use security hardening work across projects.
 
   * Update CRI (Docker, rkt) — Referring above mentioned docker CVE, it is important to keep docker version updated
   * Deploy Only Trusted Docker Images - A malicious container can be loaded if an attacker has replaced the original image with the malicious one So, it is important to allow containers from trusted sources only
