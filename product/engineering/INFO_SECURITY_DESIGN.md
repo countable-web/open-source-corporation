@@ -1,5 +1,7 @@
 # Information Security Design at Countable
 
+(draft)
+
 ## Purpose
 
 Track infosec system design best-practices
