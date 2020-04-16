@@ -54,7 +54,7 @@ Use this method of setting up Django - https://docs.docker.com/compose/django/
 
 These are optional based on what specific gaps you need to fill. I'm starting with a list of resources I've found helpful myself, or have found and can imagine being helpful for our work. To provide a feedback loop on training efficacy, copy [this Trello Ticket](https://trello.com/c/rUsXiFoO/3-training-session-tracker-replace-title) for each section you begin below.
 
-## Javacript Training
+## Javascript Training
 
    * *intermediate* Functional programming intro - http://reactivex.io/learnrx/
    * *intermediate* Read "Javascript, The Good Parts"
