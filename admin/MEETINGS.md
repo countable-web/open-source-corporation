@@ -15,6 +15,7 @@ The meeting organiser (chair, or guild leader) is responsible for a) taking minu
   * Our calendar is the source of truth regarding meeting times, attendees and cancellation status. All updates to meeting times go directly in the calendar.
   * Meetings start on time and stop on time. If someone is late, start without them.
   * Anyone who is late should notify the team in advance of the meeting so they can proceed.
+  * When meeting with external stakeholders, book 50 minutes meetings generally (or 25) so there are 5 mintues for the team to discuss how the meeting could have been better.
 
 ### Clarity of Purpose at Meetings
   * The purpose and agenda of the meeting must be clear, and listed in the meeting event details on the calendar.
