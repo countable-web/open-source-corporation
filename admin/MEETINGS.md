@@ -44,9 +44,10 @@ Follow-ups (who does what by when):
   * The maximum number of people at any meeting should be limited to 7 (except occasional company-wide meets).
   * Avoid speaking for more than two minutes without pausing and letting people respond, so you can listen to your audience and steer your material to be more helpful. Meetings should be interactive, not monologues.
 
-## Scrum Meetings
+## Sprint Meetings
 
 All active projects should have a Sprint meeting every 1 to 4 weeks.
+  * Each team member updats on their work, and how it impacted OKRs.
   * Discuss how the current sprint will accomplish our "OKR" for the project.
   * See [Scrum](../peopleops/getting_started/SCRUM.md) for full instructions
 
