@@ -12,7 +12,8 @@ This document focuses on design of actual systems, not processes for performing 
 
 ## Web Application Host OS Hardening
 
-  * Apply 'least privilege' in general. Only give users/systems access to sensitive information to the extent who need it, and only the minimum level.
+  * Apply ['least privilege'](https://en.wikipedia.org/wiki/Principle_of_least_privilege) in general. Only give users/systems access to sensitive information to the extent who need it, and only the minimum level.
+  * Identify 'vaults' where secrets are stored. Store secrets in those secure locations, and reference that location instead of sharing secrets directly. Do not copy secrets or save them elsewhere from this "vault".
   * Normally, only Jenkins should access production servers.
   * Sensitive information should be protected by 2 factors. Use ssh keys with passphrase or stored on an encrypted disk (with passphrase to boot)
   * Minimize the number of open ports (in AWS security group for example)
