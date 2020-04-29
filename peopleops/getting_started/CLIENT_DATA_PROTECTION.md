@@ -29,3 +29,4 @@ Other associated risks:
 # Web App Security
   * Apply "least privilege". Do not open any ports that aren't needed for using the application. If you must open such a port for debugging, do so in your .gitignored environment only, so it's not shared.
   * Use our DevOps templates so all servers observe a single secured provisioning strategy.
+  * Use [high entropy passwords](https://preshing.com/20110811/xkcd-password-generator/) that are memorable, or stored in secure vaults and not recorded elsewhere.
