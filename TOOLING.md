@@ -11,7 +11,8 @@ Our policy is for you to please try one of these tools if it applies to the work
 1. Cross Browser Testing - Currently have browserstack but switching to [LambdaTest](https://www.lambdatest.com/). Faster, better designed, and cheaper.
 1. Wireframes - Currently have tried a few tools, but switching to [LucidChart](https://lucidchart.com) currently. Has an incredible number of good templates. Easy to get into.
 1. Digital Signatures - [EverSign](https://eversign.com). Best system I've tried at a quarter the price of DocuSign, HelloSign.
-1. Phone Menu System - talkroute.com
+1. Phone Menu System - [talkroute](https://talkroute.com)
+1. SEO - [Ahrefs.com](https://ahrefs.com) - we don't use this, probably will not renew.
 
 ## Staples we rely on
 
