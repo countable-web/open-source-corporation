@@ -1,9 +1,36 @@
 Architecture
 ============
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   Purpose
+   Scope
+   Getting Started
+   Components
+   Architecture Models
+      Dependencies
+      Data Model
+      Interfaces and Indirection
+   Implementation Level Stuff
+      API Views and HTTP
+      Python
+
+Purpose
+-------
+
 This is a guideline on architecture for web applications, with the goal
 of minimizing technical debt, saving time and making our programming
 work more enjoyable.
+
+Scope
+-----
+
+This document provides many starting points for deep research: please give it an initial broad read-through, then feel free to explore particular links or topics within in greater detail.
+
+Getting Started
+---------------
 
 One practical way to learn about architecture in your domain is to
 consider the architecture of existing apps. What works best in some, and
@@ -47,7 +74,7 @@ so necessitates considering macrostructure and strategy earlier than
    - A set of models for thinking about software architecture in a
    business context, and therefore quite appropriate for practitioners
    who deliver real systems day to day.
--  MVC - The convention Django uses to separate modules. This (and its'
+-  MVC - The convention Django uses to separate modules. This (and its
    relatives) appear frequently throughout web development.
 
 Dependencies
@@ -98,10 +125,10 @@ rather than a single abstraction. Strategy and tactics:
    coupling)
 
 Implementation Level Stuff
-==========================
+--------------------------
 
 API Views and HTTP
-------------------
+~~~~~~~~~~~~~~~~~~
 
 API Views and other server side views should take care to return the
 correct `HTTP status
@@ -115,7 +142,7 @@ high level:
    should be notified by Sentry so we know we have to look into it.
 
 Python
-------
+~~~~~~
 
 -  Never use a bare try:except block. Always name specific exceptions.
 -  In web apps, keep views' code small, and include more code in models

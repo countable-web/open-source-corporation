@@ -1,22 +1,58 @@
 Javascript Best Practices
 =========================
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   Purpose
+   Scope
+   General Javascript Standards
+   jQuery
+      When traversing the DOM many times, load one into memory first!
+      You can do PubSub with jQuery
+      Prefer Event Delegation in jQuery
+   Vue and React
+   References
+
+Purpose
+-------
+
+Document our coding standards and best practices for the Javascript language ecosystem.
+
+Scope
+-----
+
+Covers the specifics of multiple tools and frameworks.
+
+General Javascript Standards
+----------------------------
+
+-  Prefer ES6 template strings to other methods of string concatenation.
+
+Use the `Prettier autoformatter and standard <https://github.com/prettier/prettier>`__.
+
+For projects using node, and supported editors (like VS Code) you can have a ``.prettierrc.js`` in your project root, like this.
+
+::
+
+   {
+         semi: false,
+         singleQuote: true,
+         tabWidth: 2
+   }
+
+Alternatively, in VS Code, you can do ``ctrl-,`` to open settings, and search for "prettier". Scroll down to change the above settings manually.
+
+
 jQuery
 ======
 
-While we won't normally use jQuery for a new project at Countable,
-several older projects do use it. jQuery has been unpopular for large
-software projects due to maintainability issues, and thsoe concerns are
-founded. However, taking some care in how you use the library helps keep
-jQuery projects maintainable.
+While we won't normally use jQuery for a new project at Countable, several older projects do use it. jQuery has been unpopular for large software projects due to maintainability issues, and thsoe concerns are founded. However, taking some care in how you use the library helps keep jQuery projects maintainable.
 
-Most of the problems maintaining jQuery apps come from `DOM
-Manipulation <https://api.jquery.com/category/manipulation/>`__ which
-leads to needlessly complex state. To minimize this, here are some
-guidelines to use where possible.
+Most of the problems maintaining jQuery apps come from `DOM Manipulation <https://api.jquery.com/category/manipulation/>`__ which leads to needlessly complex state. To minimize this, here are some guidelines to use where possible.
 
-Where possible, just ``.hide()`` and ``.show()`` different pieces of
-pre-defined content instead of creating it on the fly. ie)
+Where possible, just ``.hide()`` and ``.show()`` different pieces of pre-defined content instead of creating it on the fly. eg:
 
 ::
 
@@ -27,15 +63,13 @@ pre-defined content instead of creating it on the fly. ie)
    // <a id='abc_error_message' class='error hidden'>error message here</a> <!--already in index.html-->
    $("#abc_error_message").show()
 
-If you must dynamically generate HTML, ``.html`` and ``.text`` for
-setting a large block of generated information, with ES6 strings.
+If you must dynamically generate HTML, ``.html`` and ``.text`` for setting a large block of generated information, with ES6 strings.
 
 ::
 
    $("#parent_id").html(`<b> here is a dynamic fragment. ${variable} ${variable}</b>`)
 
-To make small changes to how something looks, animate it, open/close,
-etc. use ``addClass`` and ``removeClass``.
+To make small changes to how something looks, animate it, open/close, etc. use ``addClass`` and ``removeClass``.
 
 ::
 
@@ -56,8 +90,7 @@ Use ID instead of class for selecting items in jQuery:
    // better
    $("#main-modal-next-button")
 
-When manipulating the DOM, as in
-``https://api.jquery.com/category/manipulation/``, prefer:
+When manipulating the DOM, as in ``https://api.jquery.com/category/manipulation/``, prefer:
 
 -  ``.hide()``, ``.show()``, ``.addClass()``, ``.removeClass()``,
    ``.toggleClass()``, ``.val()``
@@ -85,9 +118,8 @@ When traversing the DOM many times, load one into memory first!
      <div>
    <div>
 
-It is better to query the DOM once, cache it then use the ``find``
-method to grab elements. See cache.find performance test here:
-`https://jsperf.com/selector-vs-find-again/11 <https://jsperf.com/selector-vs-find-again/11>`__
+It is better to query the DOM once, cache it then use the ``find`` method to grab elements. See cache.find
+`performance test here <https://jsperf.com/selector-vs-find-again/11>`__
 
 ::
 
@@ -128,8 +160,7 @@ You can do PubSub with jQuery
 Prefer Event Delegation in jQuery
 ---------------------------------
 
-Event delegation means you'll never have bugs with event handlers being
-created too late or being lost due to dom updates.
+Event delegation means you'll never have bugs with event handlers being created too late or being lost due to dom updates.
 
 ::
 
@@ -142,19 +173,12 @@ created too late or being lost due to dom updates.
 Vue and React
 =============
 
--  Instead of returning functions that render a component, prefer to
-   return functions that return the necessary information to render a
-   component. In the first we are instructing what to do(render
-   precisely this thing), while in the second we’re just returning some
-   information (use this information to do something).
--  Communicating between siblings, instead of through components. Try to
-   only communicate with other components through props.
--  Use pure functional components where possible. Because these
-   components don’t have lifecycle methods, they require you to rely on
-   a declarative, props-based approach.
+-  Instead of returning functions that render a component, prefer to return functions that return the necessary information to render a component. In the first we are instructing what to do(render precisely this thing), while in the second we’re just returning some information (use this information to do something).
+-  Communicating between siblings, instead of through components. Try to only communicate with other components through props.
+-  Use pure functional components where possible. Because these components don’t have lifecycle methods, they require you to rely on a declarative, props-based approach.
 
-references
+References
 ----------
 
 [1]
-`https://codeburst.io/declarative-vs-imperative-programming-a8a7c93d9ad2 <https://codeburst.io/declarative-vs-imperative-programming-a8a7c93d9ad2>`__
+`Declarative vs Imperative Programming <https://codeburst.io/declarative-vs-imperative-programming-a8a7c93d9ad2>`__

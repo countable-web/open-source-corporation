@@ -1,6 +1,14 @@
 Information Security Design at Countable
 ========================================
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   Purpose
+   Scope
+
+   
 (draft)
 
 Purpose

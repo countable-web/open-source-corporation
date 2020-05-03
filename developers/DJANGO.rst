@@ -1,8 +1,32 @@
 Django Standards
 ================
 
-These are things we've found to solve common issues an save lots of
-time.
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   Purpose
+   Scope
+   Client Cache Management
+   Use LTS Django
+   Read 2 Scoops of Django
+   Patterns
+      Imports
+      Models
+      Views
+      Managing Environments
+
+
+Purpose
+-------
+
+To share things we've found to solve common issues with Django and save lots of time.
+
+Scope
+-----
+
+Covers numerous specific issues and makes overall recommendations.
+
 
 Client Cache Management
 -----------------------
@@ -15,24 +39,19 @@ Include version string in static assets paths loaded from the client.
 
 In ``settings.py`` set ``VERSION=os.system('git rev-parse HEAD')``
 
-This is a wonderful catchall to prevent client cache issues that waste
-so much time.
+This is a wonderful catchall to prevent client cache issues that waste so much time.
 
 Use LTS Django
 --------------
 
-Use the long term support version of Django, ideally the latest one
-available at any given time.
+Use the long term support version of Django, ideally the latest one available at any given time.
 
 Read 2 Scoops of Django
 -----------------------
 
-This book contains a lot of great practices, which we *almost*
-universally agree with. In particular.
+This book contains a lot of great practices, which we *almost* universally agree with. In particular:
 
--  Fat models, skinny views. Put more logic and code in Model methods,
-   if it's relevant to that model specifically. Avoid large amounts of
-   code in views.
+-  Fat models, skinny views. Put more logic and code in Model methods, if it's relevant to that model specifically. Avoid large amounts of code in views.
 
 Patterns
 --------
@@ -40,26 +59,23 @@ Patterns
 Imports
 ~~~~~~~
 
-Certain files in Django should only import from other certain types of
-files. For example, ``urls.py`` should really only import from
-``views.py`` (and ``utils.py``).
+Certain files in Django should only import from other certain types of files. For example, ``urls.py`` should really only import from ``views.py`` (and ``utils.py``).
 
 |import flow|
 
 Models
 ~~~~~~
 
-Keep models *normalized*. (no duplicate data or extra foreign keys).
-Schema changes should be heavily reviewed by a senior dev as any bad
-designs here will cascade to other layers.
+Keep models *normalized*: no duplicate data or extra foreign keys.
+
+Schema changes should be heavily reviewed by a senior dev, as any bad designs here will cascade to other layers.
 
 Views
 ~~~~~
 
-We generally use function based views (FBV) instead of class based views
-(CBV) at Countable. When using Django Rest Framework (DRF), this is an
-exception and we prefer CBV. Please do use DRF for substantial rest API
-work.
+We generally use function based views (FBV) instead of class based views (CBV) at Countable. 
+
+When using Django Rest Framework (DRF), this is an exception and we prefer CBV. Please do use DRF for substantial rest API work.
 
 Avoid unnecessary nesting.
 
@@ -81,9 +97,7 @@ Avoid unnecessary nesting.
 Managing Environments
 ~~~~~~~~~~~~~~~~~~~~~
 
--  Django should have SMTP creds, and should set the ADMINS to the
-   back-end developer that maintains that project.
--  In prod and staging environments, set DEBUG=False, so the ADMINS get
-   emails with any stack traces.
+-  Django should have SMTP creds, and should set the ADMINS to the back-end developer that maintains that project.
+-  In prod and staging environments, set DEBUG=False, so the ADMINS get emails with any stack traces.
 
 .. |import flow| image:: ./django_import_flow.jpg
