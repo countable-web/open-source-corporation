@@ -1,3 +1,48 @@
+Accounting at Countable
+=======================
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   Purpose
+   Scope
+   Timesheets and Expenses
+   Taxes
+   SRED
+
+
+Purpose
+-------
+
+Scope
+-----
+
+Timesheets and Expenses
+-----------------------
+
+Taxes
+-----
+
+List of Tax Deductible Items
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Anything purchased by Countable from `this list of eligible items <https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/sole-proprietorships-partnerships/business-expenses.html>`__ should be included in our tax deduction each year.
+
+Tax Categories
+~~~~~~~~~~~~~~
+The CRA link above gives great detail on what can and cannot be claimed for deduction, but we steer by a simpler set of categories internally.
+
+** Food**
+We track food separately, as it's only 50% deductible. Meals or drinks with clients, team outings, and in general anything that falls within reasonable use in the business day can be tracked here.
+
+**General Expenses**
+This covers "most everything else" - office supplies and equipment, rent, and fees incurred in the process of doing business.
+
+**"Needs Checking"**
+It's useful to maintain an additional category code while processing the data which batches together all line items needing further verification or detail. This way, you're not stuck following up on individual expenses and wasting a lot of time. By batching these, they can be cross-verified to their relative accounts quickly and efficiently.
+
+SRED
+----
 
 Scientific research and experimental development (SR&ED) / Recherche scientifique et développement expérimental (RS&DE)
 

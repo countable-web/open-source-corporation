@@ -1,6 +1,14 @@
 Critical Path
 =============
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   Purpose
+   Scope
+
+
 Purpose
 -------
 
@@ -9,17 +17,14 @@ Release a prototype as quickly as possible.
 Scope
 -----
 
-Identify dependencies to complete a finished product, and make sure the
-"critical path" these items define is minimized.
+Identify dependencies to complete a finished product, and make sure the "critical path" these items define is minimized.
 
 Process
 -------
 
-The "critical path" is the *longest* list of dependencies to completing
-a project. To find this, work back from the goal.
+The "critical path" is the *longest* list of dependencies to completing a project. To find this, work back from the goal.
 
-For example, if the goal is to build a web applicaton, the critical path
-is something like this:
+For example, if the goal is to build a web applicaton, the critical path is something like this:
 
 -  We want to build a web application.
 -  To do that, we need to validate with users (usability test).
@@ -31,9 +36,4 @@ is something like this:
 -  To do that, we need to understand the purpose of the app.
 -  To do that, we need to do discovery (user research).
 
-So, to deliver the project as quickly as possible, all these steps
-should be completed as early as possible because they block your team
-mates. The time the project takes is the sum of all these critical path
-steps. There is plenty of other work to be done, but typically other
-items can be deferred and worked on asynchronously. The items on the
-critical path are the bottlenecks.
+So, to deliver the project as quickly as possible, all these steps should be completed as early as possible because they block your teammates. The time the project takes is the sum of all these critical path steps. There is plenty of other work to be done, but typically other items can be deferred and worked on asynchronously. The items on the critical path are the bottlenecks.

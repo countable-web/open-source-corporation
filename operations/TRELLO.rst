@@ -146,3 +146,8 @@ Effort vs Impact Tags
 You'll note that some cards will present a effort vs impact tag to
 assist us in our task prioritizing. You can check more information at:
 `EFFORT vs IMPACT <../../admin/performance/EFFORT_IMPACT.md>`__
+
+
+We use Trello because:
+  * it allows collaboration with clients on assignments.
+  * is simple enough for people to join ad-hoc without training.
