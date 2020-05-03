@@ -1,0 +1,11 @@
+
+version: '3'
+
+services:
+  rtd:
+    build: .
+    volumes:
+      - .:/code/
+    working_dir: /code/
+    command: "make html"
+
