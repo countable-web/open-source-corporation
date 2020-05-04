@@ -1,6 +1,13 @@
 What Does Jenkins Do?
 =====================
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   Purpose
+   Scope
+   
 -  Changes to ``develop`` (branch in bitbucket) are detected and Jenkins
    automatically runs our tests and notifies us in slack of status. If
    they pass they should be deployed to a staging area.

@@ -1,44 +1,33 @@
 Operations
 ==========
 
-This defines how we intend to manage web technology project
-environments. High level goals:
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
 
--  Subscribe to the `12 factor methodology <https://12factor.net/>`__
--  Automate operations to make our work more efficient, secure,
-   consistent, predictable and reliable.
--  When something breaks, make it as transparent as possible (easy to
-   see what happened)
+   Purpose
+   Scope
+
+This defines how we intend to manage web technology project environments. High level goals:
+
+-  Subscribe to the `12 factor methodology <https://12factor.net/>`_
+-  Automate operations to make our work more efficient, secure, consistent, predictable and reliable.
+-  When something breaks, make it as transparent as possible (easy to see what happened)
 -  When something breaks, find the root cause and prevent it next time.
--  Save as much time for developers as possible, by automating their
-   deployments, dev env setup, and testing.
--  Eliminate unnecessary differences between projects, and have
-   everything follow convention when there's no reason for deviations.
--  Reduce and simplify the steps needed to start a new project and
-   integrate with everything (slack, jenkins, sentry)
--  minimize what's on the host server. Dockerize it all so it can be
-   tested fully locally, and host as minimal state. ie, backup jobs are
-   currently done wrong as they use the host's CRON.
+-  Save as much time for developers as possible, by automating their deployments, dev env setup, and testing.
+-  Eliminate unnecessary differences between projects, and have everything follow convention when there's no reason for deviations.
+-  Reduce and simplify the steps needed to start a new project and integrate with everything (slack, jenkins, sentry)
+-  minimize what's on the host server. Dockerize it all so it can be tested fully locally, and host as minimal state. ie, backup jobs are currently done wrong as they use the host's CRON.
 
 More specific goals (draft, may change)
 ---------------------------------------
 
--  It would be ideal to bring up a project environment with one short
-   command. (currently, it's ``git clone <repo>``,
-   ``docker-compose up``, and then you often need to get some test data
-   so 2 or more commands, which is a good start). The easier this is,
-   the more our front end people will be able to work the same way as
-   everyone else.
--  Committing to the master branch should run tests, and if those
-   succeed, deploy to production.
--  Committing to develop should deploy to a staging environment, and run
-   the tests, spamming the comitter of any errors.
--  All deployment configs should be centralized in the source
-   repository. (ie, ``dc.prod.yml``, ``dc.stage.yml``)
--  Sentry.countable.ca should have a project for every production
-   environment, and spam slack with any errors.
--  TODO: It should be fully automated to create a new jenkins slave
-   server.
+-  It would be ideal to bring up a project environment with one short command. (currently, it's ``git clone <repo>``, ``docker-compose up``, and then you often need to get some test data, so 2 or more commands, which is a good start). The easier this is, the more our front end people will be able to work the same way as everyone else.
+-  Committing to the master branch should run tests, and if those succeed, deploy to production.
+-  Committing to develop should deploy to a staging environment, and run the tests, spamming the comitter of any errors.
+-  All deployment configs should be centralized in the source repository. (ie, ``dc.prod.yml``, ``dc.stage.yml``)
+-  Sentry.countable.ca should have a project for every production environment, and spam slack with any errors.
+-  TODO: It should be fully automated to create a new jenkins slave server.
 
 Current Standards and Conventions
 ---------------------------------
@@ -46,42 +35,31 @@ Current Standards and Conventions
 Servers
 ~~~~~~~
 
-Each client typically has a different server environment, and Docker
-mostly prevents us from caring about the differences.
+Each client typically has a different server environment, and Docker mostly prevents us from caring about the differences.
 
 Jenkins
 ~~~~~~~
 
-See `here <./JENKINS.md>`__ for how we use jenkins to automate many
-environment instances.
+See `here <./JENKINS.rst>`__ for how we use jenkins to automate many environment instances.
 
 Docker
 ~~~~~~
 
-See `here <./DOCKER.md>`__ for how we use Docker to manage project
-environments.
+See `here <./DOCKER.rst>`__ for how we use Docker to manage project environments.
 
 Cloudflare
 ~~~~~~~~~~
 
-We use cloudflare as an SSL proxy and DNS server. Your project should
-have an A record for its primary domain ``project.com`` which is proxied
-through Cloudflare's CDN. You should have a second CNAME record which is
-NOT proxied for directly accessing the server. ``direct.project.com`` .
+We use cloudflare as an SSL proxy and DNS server. Your project should have an A record for its primary domain ``project.com`` which is proxied through Cloudflare's CDN. You should have a second CNAME record which is NOT proxied for directly accessing the server. ``direct.project.com`` .
 
 Backups
 -------
 
-*ALL* production data of ours and clients' must be backed up. We must
-have reasonable evidence that backups can actually be restored. For
-example, periodically update your development environment's database
-using a backup from production.
+*ALL* production data of ours and clients' must be backed up. We must have reasonable evidence that backups can actually be restored. For example, periodically update your development environment's database using a backup from production.
 
-Backups mostly go to S3 for projects we manage hosting for. To get a
-backup:
+Backups mostly go to S3 for projects we manage hosting for. To get a backup:
 
-1. Ask your manager for an AWS IAM account. Sign in here:
-   `https://413528927365.signin.aws.amazon.com/console/ <https://413528927365.signin.aws.amazon.com/console/>`__
+1. Ask your manager for an AWS IAM account. `Sign in here <https://413528927365.signin.aws.amazon.com/console/>`__
    using your new credentials.
 2. Then, make yourself a token
    `here <https://console.aws.amazon.com/iam/home>`__. Go to your

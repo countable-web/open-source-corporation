@@ -1,6 +1,13 @@
 Stack Choices
 =============
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   Purpose
+   Scope
+   
 TLDR, read `this <http://boringtechnology.club/>`__
 
 We don't want to support every stack, so we chose the best for most

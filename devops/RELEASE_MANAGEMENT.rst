@@ -1,6 +1,13 @@
 Release Management
 ==================
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   Purpose
+   Scope
+   
 Each project may have some differences by the ideal release management
 process should aspire to these goals:
 
