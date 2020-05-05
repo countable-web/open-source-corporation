@@ -7,17 +7,34 @@ TRANSPARENCY
 
    Purpose
    Scope
-   
-Our policy is, any information that we don't have specific and serious
-concerns about being released is to be made public.
+   Transparency Policy
+   Further Reasons for Transparency
+   Caveats
+   Examples of Things We Release Publicly
+   Exceptions (Sensitive Data)
+
+Purpose
+-------
+To describe the importance of our transparency policy.
 
 There are data indicating transparency is important: "90% of job seekers
 say that it's important to work for a company that embraces
 transparency." (Glassdoor U.S. Site Survey, January 2016; \*Updated from
 96%, Glassdoor survey, October 2014).
 
-Other reasons:
---------------
+Scope
+-----
+
+Briefly describes and justifies our existing transparency policy, examples, and exceptions.
+
+Transparency Policy
+-------------------
+
+Our transparency policy is, any information that we don't have specific and serious
+concerns about being released is to be made public.
+
+Further Reasons for Transparency
+--------------------------------
 
 1. To avoid secrets. Unnecesary secrets have a cost to the organization
    because everyone must focus on managing information access rather
@@ -31,8 +48,8 @@ Other reasons:
 5. Experimentation. An experiment on practical corporate transparency
    limits.
 
-Caveats:
---------
+Caveats
+-------
 
 1. As mentioned elsewhere, the need to be clear about what information
    is Confidential and careful it's not released along with everything
@@ -42,8 +59,8 @@ Caveats:
 3. The cost of ensuring what's released is clear and interpreted how
    intended.
 
-Examples of Things We Release Publicly:
----------------------------------------
+Examples of Things We Release Publicly
+--------------------------------------
 
 -  Our operations manual
 -  Financial and legal templates
@@ -51,8 +68,8 @@ Examples of Things We Release Publicly:
 -  All our brand materials / assets for our company
 -  Most (hopefully one day all) of our own source code
 
-Exceptions (Sensitive Data):
-----------------------------
+Exceptions (Sensitive Data)
+---------------------------
 
 We'll note specific exceptions here, where data is considered sensitive
 and the minimum necessary people should have access.

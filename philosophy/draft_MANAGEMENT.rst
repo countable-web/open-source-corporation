@@ -1,5 +1,5 @@
-Management
-==========
+Management (Draft)
+==================
 
 .. toctree::
    :maxdepth: 2
@@ -7,8 +7,20 @@ Management
 
    Purpose
    Scope
-   
-(draft)
+   Just Shut Up
+   "The Culture Code"
+   "One Minute Manager"
+      One minute goals
+      One minute praise
+      One minute redirect
+
+Purpose
+-------
+
+To outline our philosophy on management styles at Countable.
+
+Scope
+-----
 
 Some resources in line with our thinking.
 
@@ -42,7 +54,7 @@ reach them.
 "One Minute Manager"
 --------------------
 
--  `https://www.amazon.ca/Minute-Manager-Johnson-Spencer-Blanchard/dp/8172234996/ref=tmm_pap_swatch_0 <https://www.amazon.ca/Minute-Manager-Johnson-Spencer-Blanchard/dp/8172234996/ref=tmm_pap_swatch_0>`__
+-  `Minute Manager <https://www.amazon.ca/Minute-Manager-Johnson-Spencer-Blanchard/dp/8172234996/ref=tmm_pap_swatch_0>`__
 
 This book is weird and "culty" but it's very concise and actionable, and
 focuses on the time managers spend interacting with staff (actual

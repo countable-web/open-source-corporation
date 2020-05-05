@@ -7,60 +7,94 @@ A list of sites, tools and creative inspiration
 
    Purpose
    Scope
-   
-RESOURCES:
+   Resources
+      Fonts
+      Stock Photos
+      Screen Mockups
+      CSS Selectors
+      Animations
+   Inspiration
+      Design Trends
+      Our Favourite Templates
+      Our Favourite Agencies
+      Infographs
 
-Fonts:
+Purpose
+-------
 
--  `https://fonts.google.com/ <https://fonts.google.com/>`__
--  `http://thestocks.im/ <http://thestocks.im/>`__
+To list sources for visual assets, resources, and creative inspiration.
 
-Stock photos:
+Scope
+-----
 
--  `https://unsplash.com/ <https://unsplash.com/>`__
--  `https://www.pexels.com/ <https://www.pexels.com/>`__
--  `http://thestocks.im/ <http://thestocks.im/>`__
+Sources are currently listed by type below.
+
+Resources
+---------
+
+Fonts
+~~~~~
+
+-  `Google Fonts <https://fonts.google.com/>`__
+-  `TheStocks <http://thestocks.im/>`__
+
+Stock Photos
+~~~~~~~~~~~~
+
+-  `Unsplash <https://unsplash.com/>`__
+-  `Pexels <https://www.pexels.com/>`__
+-  `TheStocks <http://thestocks.im/>`__
+-  `Use as assets in prototypes <https://gallery.manypixels.co/>`__
 
 Icons
+~~~~~
 
--  `https://www.flaticon.com/ <https://www.flaticon.com/>`__
--  `https://thenounproject.com/ <https://thenounproject.com/>`__
--  `http://thestocks.im/ <http://thestocks.im/>`__
+-  `FlatIcon <https://www.flaticon.com/>`__
+-  `The Noun Project <https://thenounproject.com/>`__
+-  `TheStocks <http://thestocks.im/>`__
 
-Screen mockups
+Screen Mockups
+~~~~~~~~~~~~~~
 
--  `https://smartmockups.com/ <https://smartmockups.com/>`__
--  `https://www.mockupworld.co/ <https://www.mockupworld.co/>`__
+-  `Smart Mockups <https://smartmockups.com/>`__
+-  `Mockup World <https://www.mockupworld.co/>`__
 
 CSS Selectors
+~~~~~~~~~~~~~
 
--  `https://www.w3schools.com/cssref/css_selectors.asp <https://www.w3schools.com/cssref/css_selectors.asp>`__
+-  `w3 Schools <https://www.w3schools.com/cssref/css_selectors.asp>`__
 
 Animations
+~~~~~~~~~~
 
--  `http://acko.net/ <http://acko.net/>`__
--  `https://funprogramming.org/ <https://funprogramming.org/>`__
+-  `Acko <http://acko.net/>`__
+-  `Fun Programming <https://funprogramming.org/>`__
 
-INSPIRATION:
+Inspiration
+-----------
 
-Design trends
+Design Trends
+~~~~~~~~~~~~~
 
--  `https://www.youtube.com/watch?v=dcc1VyGvaYk&list=PLqiiZyfH1jqTgZuqaqJeK1ZFs9MUH-HPj&index=3&t=0s <https://www.youtube.com/watch?v=dcc1VyGvaYk&list=PLqiiZyfH1jqTgZuqaqJeK1ZFs9MUH-HPj&index=3&t=0s>`__
--  `https://www.awwwards.com/ <https://www.awwwards.com/>`__
+-  `Watch this <https://www.youtube.com/watch?v=dcc1VyGvaYk&list=PLqiiZyfH1jqTgZuqaqJeK1ZFs9MUH-HPj&index=3&t=0s>`__
+-  `Awwwards <https://www.awwwards.com/>`__
 
-Our favourite templates
+Our Favourite Templates
+~~~~~~~~~~~~~~~~~~~~~~~
 
--  `https://bashooka.com/template/cool-website-templates-for-artists-photographers-designers/ <https://bashooka.com/template/cool-website-templates-for-artists-photographers-designers/>`__
--  `http://www.insymbiosis.com/ <http://www.insymbiosis.com/>`__
--  `http://beawesome.rt.md/ <http://beawesome.rt.md/>`__
--  `https://html5up.net/ <https://html5up.net/>`__
+-  `Bashooka templates <https://bashooka.com/template/cool-website-templates-for-artists-photographers-designers/>`__
+-  `Insymbiosis <http://www.insymbiosis.com/>`__
+-  `Beawesome <http://beawesome.rt.md/>`__
+-  `html5 up <https://html5up.net/>`__
 
-Our favourite agencies
+Our Favourite Agencies
+~~~~~~~~~~~~~~~~~~~~~~
 
--  `https://outcrowd.io/ <https://outcrowd.io/>`__
--  `https://dribbble.com/netrixdigital <https://dribbble.com/netrixdigital>`__
--  `https://dribbble.com/omnicreativora <https://dribbble.com/omnicreativora>`__
+-  `Outcrowd <https://outcrowd.io/>`__
+-  `Netrix Digital <https://dribbble.com/netrixdigital>`__
+-  `OmniCreativora <https://dribbble.com/omnicreativora>`__
 
 Infographs
+~~~~~~~~~~
 
--  `https://ffctn.com/en/project/honeybees <https://ffctn.com/en/project/honeybees>`__
+-  `FFCTN Honeybees <https://ffctn.com/en/project/honeybees>`__

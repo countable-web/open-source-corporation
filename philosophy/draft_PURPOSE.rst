@@ -1,5 +1,5 @@
-Purpose
-=======
+Purpose (draft)
+===============
 
 .. toctree::
    :maxdepth: 2
@@ -7,9 +7,21 @@ Purpose
 
    Purpose
    Scope
+   Basics of Our Purpose
    
+Purpose
+-------
+
+To clearly outline our shared purpose at Countable.
+
+Scope
+-----
+
 (draft, purposes are hard and we do a lot of things... we are still
 figuring this out and that's ok)
+
+Basics of Our Purpose
+---------------------
 
 At the most abstract level, we want to solve the problem of information
 context. With more data available than ever, the problem becomes getting

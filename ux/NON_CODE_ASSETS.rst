@@ -7,7 +7,24 @@ Design Asset Storage
 
    Purpose
    Scope
-   
+   Storage
+   Sharing
+   Structure
+   Countable Marketing Folder
+
+Purpose
+-------
+
+Describe how we store and share non-code assets.
+
+Scope
+-----
+
+Initial list and guidelines.
+
+Storage
+-------
+
 Official versions of Non-code assets are stored on Google Drive
 
 Every client has a folder in our Company Google Drive named:
@@ -37,8 +54,8 @@ Structure
 Countable Marketing Folder
 --------------------------
 
-Here's the share link to our google drive cwp_marketing folder:
-`https://drive.google.com/drive/folders/1iPhpEg1RuEz_ki4yNgzSOg9Z257Mpa7x?usp=sharing <https://drive.google.com/drive/folders/1iPhpEg1RuEz_ki4yNgzSOg9Z257Mpa7x?usp=sharing>`__
+Here's the share link to our google drive cwp_marketing
+`folder <https://drive.google.com/drive/folders/1iPhpEg1RuEz_ki4yNgzSOg9Z257Mpa7x?usp=sharing>`__
 
 All the old files are in there, but they've been organized into the
 following categories:
@@ -58,6 +75,5 @@ following categories:
    including sliced images and the logo files specifically used for the
    website.
 
-It is based on Felipe's folder design schema (attached) and this
-article:
-`https://pixeldreams.com/blog/best-practices-folder-structure/ <https://pixeldreams.com/blog/best-practices-folder-structure/>`__
+It is based on Felipe's folder design schema (attached) and
+`this article <https://pixeldreams.com/blog/best-practices-folder-structure/>`__

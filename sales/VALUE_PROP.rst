@@ -7,7 +7,18 @@ Countable Web Productions Value Proposition
 
    Purpose
    Scope
-   
+   Loyal Contracting, Designed for You
+
+Purpose
+-------
+
+Clearly defining our value proposition for clients.
+
+Scope
+-----
+
+Brief but thorough coverage.
+
 Loyal Contracting, Designed for You
 -----------------------------------
 

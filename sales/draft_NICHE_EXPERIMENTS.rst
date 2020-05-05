@@ -1,5 +1,5 @@
-Niche Experiments
-=================
+Niche Experiments (draft)
+=========================
 
 .. toctree::
    :maxdepth: 2
@@ -7,8 +7,8 @@ Niche Experiments
 
    Purpose
    Scope
-   
-(draft)
+   Criteria
+   Process
 
 Purpose
 -------
@@ -20,7 +20,7 @@ exactly who to optimize our products, services and market funnel for.
 Scope
 -----
 
-How Countable explores new markets.
+How Countable explores new markets (draft).
 
 Criteria
 --------

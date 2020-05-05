@@ -7,7 +7,9 @@ How To Increase Proposal Win Rate
 
    Purpose
    Scope
-   
+   Principles
+   Process
+
 Purpose
 -------
 
@@ -30,9 +32,8 @@ Principles
    well than to spread yourself thin. Choose an RFP in an area where you
    have the most expertise, similar work (including successes to
    hilight), and have a network of people in that area. Countable's
-   nices are `web
-   maps <https://www.youtube.com/watch?time_continue=143&v=PwVRi37qXn8&feature=emb_logo>`__,
-   `healthcare <cortico.ca>`__ and optimizeing citizen flows for
+   nices are `web maps <https://www.youtube.com/watch?time_continue=143&v=PwVRi37qXn8&feature=emb_logo>`__,
+   `healthcare <cortico.ca>`__ and optimizing citizen flows for
    government.
 -  Use your network's experience, and team up. If you know someone who
    would be really great to add to your team, write them into the
@@ -70,7 +71,7 @@ effort, just time to leave open)
 1. RFP Lead Capture
 ~~~~~~~~~~~~~~~~~~~
 
-See `Filter <./FILTER.md>`__
+See `Filter <FILTER.rst>`__
 
 .. _2-pre-qualify:
 
@@ -271,7 +272,7 @@ the project, and their relevant past successes.
 Case Studies
 ~~~~~~~~~~~~
 
--  Hilight their industry, location and other parts of their identity.
+-  Highlight their industry, location and other parts of their identity.
    Draw attention to the relevance of your prior work, and leave out
    details that don't indicate how similar your prior projects are to
    the current RFP, or how successful they were.

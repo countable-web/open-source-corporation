@@ -1,5 +1,5 @@
-Vision Statement
-================
+Vision Statement (draft)
+========================
 
 .. toctree::
    :maxdepth: 2
@@ -7,8 +7,24 @@ Vision Statement
 
    Purpose
    Scope
-   
-(draft #2)
+   Vision Statement (Draft 2)
+   Vision Statement (Draft 1)
+      Back story
+      Web Technology Is Still A Dark Art
+      The Vision
+
+Purpose
+-------
+
+To capture the shared vision of Countable.
+
+Scope
+-----
+
+Consists so far of two drafted versions.
+
+Vision Statement (Draft 2)
+--------------------------
 
 Do you have a problem that might be solvable using the internet?
 
@@ -36,7 +52,8 @@ Our mission is to re-invent how web technology is prototyped and
 delivered and make it 10x easier for others to deliver their own
 missions using the internet.
 
-(this is a draft)
+Vision Statement (Draft 1)
+--------------------------
 
 Codify the many-faceted problem of web technology delivery, so it can be
 abstracted away and simplified to allow everyone to better focus on
@@ -44,7 +61,7 @@ their customers. This should be done in a way that caters to the
 situation of a business implementing the technology.
 
 Back story
-----------
+~~~~~~~~~~
 
 From Clark Van Oyen, Founder at Countable Web Productions.
 

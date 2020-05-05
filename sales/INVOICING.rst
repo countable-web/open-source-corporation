@@ -7,7 +7,23 @@ Invoicing
 
    Purpose
    Scope
-   
+   Process
+   Phased Invoices
+   Overdue Invoices
+
+Purpose
+-------
+
+Describing client-facing processes around invoicing, and the expectations on both sides.
+
+Scope
+-----
+
+Currently gives base process description.
+
+Process
+-------
+
 Clients are invoiced before the 10th of each month, and given 30 days to
 pay for work completed in the previous month. Depending on the client,
 there may be:

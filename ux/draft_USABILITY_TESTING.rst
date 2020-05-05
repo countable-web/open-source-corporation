@@ -1,5 +1,5 @@
-Usability Testing
-=================
+Usability Testing (draft)
+=========================
 
 .. toctree::
    :maxdepth: 2
@@ -7,8 +7,9 @@ Usability Testing
 
    Purpose
    Scope
-   
-(Draft)
+   Disclaimer
+   How To Test a Product’s Usability
+   Some Steps to Follow
 
 Purpose
 -------

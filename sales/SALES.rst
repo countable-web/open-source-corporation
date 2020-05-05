@@ -7,12 +7,26 @@ Sales
 
    Purpose
    Scope
-   
+   Sales Basics
+      Customer Persona
+      Process
+      Day to Day Practices
+      Roadmap
+      Research
+
 Purpose
 -------
 
 The chapter documents our approach to taking on new work so we curate a
 group of clients we love working with over time, and stay profitable.
+
+Scope
+-----
+
+This root page serves to anchor the resources that are linked out to different documents in greater detail.
+
+Sales Basics
+------------
 
 Customer Persona
 ~~~~~~~~~~~~~~~~
@@ -34,8 +48,11 @@ For our B2B consulting business, we generally work best with:
 Process
 ~~~~~~~
 
-TODO: sourcing leads. TODO: qualifying leads. TODO: learn about their
-challenges and determine if we can help. See [../product/DISCOVERY.md]
+TODO: sourcing leads. 
+TODO: qualifying leads. 
+TODO: learn about their
+challenges and determine if we can help. 
+See `Discovery <DISCOVERY.rst>`__
 
 Day to Day Practices
 ~~~~~~~~~~~~~~~~~~~~

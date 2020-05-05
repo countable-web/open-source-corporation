@@ -7,11 +7,12 @@ Channel Research
 
    Purpose
    Scope
-   
+   Process
+
 Purpose
 -------
 
-Find where customers are
+Find where our customers are.
 
 Scope
 -----

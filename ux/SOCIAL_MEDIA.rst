@@ -7,34 +7,54 @@ Countable's Social Media Posting Policy
 
    Purpose
    Scope
-   
-Purpose of posting:
+   Purpose of Social Media Posting
+   Attribution
+   Subjects
+   Instagram Aesthetic
+   Regarding Clients' Privacy
+
+Purpose
+-------
+
+Covers our intention for posting on social media and provides guidelines.
+
+Scope
+-----
+
+Covers what is and isn't okay to post, and who should be posting.
+
+Purpose of Social Media Posting
+-------------------------------
 
 -  Inspiration, for now, to inspire our team mates and clients with our
    work, and work we admire
 -  Lead generation via followers
 
-Attribution:
+Attribution
+-----------
 
 -  In order to avoid confusion between our work and others', all photos
    and designs not owned by us or in the public domain must be properly
    attributed to the original owner
 -  This credit can be posted in the image caption
 
-Subjects:
+Subjects
+--------
 
 -  Work samples
 -  Work that inspires us (be clear which is which)
 -  Team photos
 -  Industry-related memes and inspirational photos
 
-Themes/aesthetic: Instagram:
+Instagram Aesthetic
+-------------------
 
 -  Our feed is tiled in an alternating dark & light image layout
 -  Wherever possible, use colours close to Countable's brand colours
    (blues, blue-greens, black and white)
 
-Re: Clients' privacy:
+Regarding Clients' Privacy
+--------------------------
 
 -  No posting screenshots of code
 -  Some clients' work is private, so always check with Clark before

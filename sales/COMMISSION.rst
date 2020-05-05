@@ -7,7 +7,22 @@ Commission
 
    Purpose
    Scope
-   
+   Commission Basics
+   Proposal Writing
+
+Purpose
+-------
+
+Identify Countable's commission structure for incoming leads.
+
+Scope
+-----
+
+Currently covers basics and proposal writing responsibilities.
+
+Commission Basics
+-----------------
+
 Countable pays up to 15% commission to those who help schedule new work
 for us (internal or external, referrals or proposals).
 
@@ -19,7 +34,7 @@ Proposal Writing
 
 Commission is divided as follows.
 
--  We pay 3% to whoever creates the outline checking grammer + spelling,
+-  We pay 3% to whoever creates the outline checking grammar + spelling,
    copies content from related past proposals, coordinating deadline,
    and submitting. (admin)
 -  We pay 3% to whoever is responsible for sending the qualifying

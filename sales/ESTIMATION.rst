@@ -7,23 +7,29 @@ Estimation
 
    Purpose
    Scope
-   
-Purpose
-=======
+   Effort Estimation Process
+   Quoting
+   Billing
+   Sprint Meeting Schedule
+   Lead Time
+   Minimum Billable Amount
+   During the Project
 
-Software project cost estimation is `notoriously
-difficult <https://erikbern.com/2019/04/15/why-software-projects-take-longer-than-you-think-a-statistical-model.html>`__.
+Purpose
+-------
+
+Software project cost estimation is `notoriously difficult <https://erikbern.com/2019/04/15/why-software-projects-take-longer-than-you-think-a-statistical-model.html>`__.
 A typical problem is the team appears to have 70% of the information
 when estimating a project, when they really have 30% because by
 definition, they can't see black swan conditions (unknown unknowns).
 
 Scope
-=====
+-----
 
 Define our approach and guidelines for software project cost estimation.
 
 Effort Estimation Process
-=========================
+-------------------------
 
 For all projects:
 
@@ -35,7 +41,7 @@ For all projects:
    general idea of the system within 25% of the alloted time.
 
 Quoting
-=======
+-------
 
 Some companies require a quote in order to issue a purchase order. This
 is appropriate when:

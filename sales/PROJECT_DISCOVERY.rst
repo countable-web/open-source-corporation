@@ -7,6 +7,9 @@ Project Discovery
 
    Purpose
    Scope
+   Kick-off Meeting
+   User Experience Design (UX) Planning
+   For Branding and Visual Design Projects
 
 Purpose
 -------
@@ -51,8 +54,7 @@ User Experience Design (UX) Planning
 ------------------------------------
 
 The next phase of the project after discovery is to use the above
-answers to develop a `user experience
-design <./USER_EXPERIENCE_DESIGN.md>`__ research plan.
+answers to develop a `user experience design <../ux/USER_EXPERIENCE_DESIGN.md>`__ research plan.
 
 For Branding and Visual Design Projects
 ---------------------------------------

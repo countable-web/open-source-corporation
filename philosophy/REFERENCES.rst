@@ -7,10 +7,28 @@ References
 
    Purpose
    Scope
-   
+   References Basics
+   Understand What Matters
+   Make Clear Shared Goals
+   Make and Measure Progress on Goals
+   Technical
+   Write Down What You Learn
+   Repeat
+
+Purpose
+-------
 Books that heavily influenced this manual are listed here. They are
-recommended as having an influence on our company culture. A general
-trend is they follow somewhat of a narrative format so are easy to read.
+recommended as having an influence on our company culture. 
+
+Scope
+-----
+
+This is an initial list to which additions are welcome.
+
+References Basics
+-----------------
+
+A general trend of these books is that they follow somewhat of a narrative format so are easy to read.
 Countable will reimburse the purchase of any of these books. For other
 professional development materials you will usually be approved, but ask
 first.
@@ -27,8 +45,8 @@ Make Clear Shared Goals
 -  Measure What Matters, John Doerr
 -  The Five Dysfunctions of a Team, Patrick Lencioni
 
-How To Make and Measure Progress on Goals
------------------------------------------
+Make and Measure Progress on Goals
+----------------------------------
 
 -  Scrum: The art of Doing Twice the Work in Half the Time, Jeff
    Sutherland

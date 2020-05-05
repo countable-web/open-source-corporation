@@ -7,7 +7,19 @@ Branding Projects
 
    Purpose
    Scope
-   
+   Process
+   Guidelines
+
+Purpose
+-------
+
+To define how we determine branding for Countable projects.
+
+Scope
+-----
+
+Currently covers basic process and guidelines.
+
 Process
 -------
 
@@ -16,7 +28,7 @@ Process
    questionnaire). The person delivering the work must attend this
    meeting, in-person or web conference.
 3. Develop creative brief (internal). Example
-   `here <https://github.com/countable-web/open-source-corporation/blob/master/marketing/CREATIVE_BRIEF.md>`__
+   `here <CREATIVE_BRIEF.rst>`__
 4. Propose sketches and color paletttes. Cherry pick key points from the
    creative brief to present.
 

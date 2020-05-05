@@ -7,6 +7,16 @@ UX Guild
 
    Purpose
    Scope
+   :doc: `BRANDING`
+   :doc: `CONTENT_WRITING`
+   :doc: `CREATIVE_BRIEF`
+   :doc: `CREATIVE_RESOURCES`
+   :doc: `draft_USABILITY_TESTING`
+   :doc: `NON_CODE_ASSETS`
+   :doc: `SEO`
+   :doc: `SOCIAL_MEDIA`
+   :doc: `USABILITY`
+   :doc: `UX`
 
 
 TODO: retool this root page

@@ -7,6 +7,21 @@ Onboarding New Clients
 
    Purpose
    Scope
+   Process
+   Client Quotes
+
+Purpose
+-------
+
+Describe a consistent and replicable process for onboarding new clients.
+
+Scope
+-----
+
+Gives the basic framework for process.
+
+Process
+-------
 
 Steps for onboarding a client:
 

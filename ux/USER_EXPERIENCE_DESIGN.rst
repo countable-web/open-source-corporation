@@ -7,8 +7,20 @@ User Experience Design
 
    Purpose
    Scope
-   
-(draft)
+   Process
+   User Research
+      Persona Development
+      Interviews
+      Other Research
+      Stories
+   Prototyping
+   Validation
+   Feedback
+
+Purpose
+-------
+
+Maximize the usefulness of our work product to its end users.
 
 Scope
 -----
@@ -16,10 +28,6 @@ Scope
 Countable takes a Human Centered Design approach in its user experience
 process.
 
-Purpose
--------
-
-Maximize the usefulness of our work product to its end users.
 
 Process
 -------
@@ -105,7 +113,7 @@ Validation
    product owner and users, adjust, and repeat until everyone on your
    team has a clear shared vision.
 -  You're now ready to hand off the wireframes to technical team members
-   to build a `functional prototype <./engineering/PROTOTYPING.md>`__.
+   to build a `functional prototype <../developers/PROTOTYPING.rst>`__.
 
 Feedback
 --------
@@ -114,7 +122,7 @@ While user experience design can be front-loaded in a project somewhat,
 it's critical to continue throughout the project to ensure incremental
 improvements are made and a great end result is achieved.
 
--  Conduct `usability tests <./USABILITY_TESTING.md>`__ of the
+-  Conduct `usability tests <./USABILITY.rst>`__ of the
    functional prototype as you iterate on it, each sprint.
 -  Perform follow-up interviews on users after they've tried the
    product.

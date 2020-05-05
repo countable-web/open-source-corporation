@@ -1,5 +1,5 @@
-Values
-======
+Values (draft)
+==============
 
 .. toctree::
    :maxdepth: 2
@@ -7,8 +7,8 @@ Values
 
    Purpose
    Scope
-   
-(draft)
+   Values Survey
+   Good Questions To Ask
 
 Purpose
 -------
@@ -45,7 +45,7 @@ together.
 |Key Values Exercise|
 
 Good Questions To Ask
-=====================
+---------------------
 
 What matters most to our product (Cortico) customers?
 

@@ -7,24 +7,37 @@ Creative Brief for Countable
 
    Purpose
    Scope
-   
-This document outlines our rationale for, and approach to visual design
-for the Countable brand.
+   Offering
+   Audience
+      Clients
+      Staff
+      Segmentation
+   Competition
+   How we want to Differentiate
+      Impression
+      Theme
+      Tone
+   Design Principles
+   Evaluation of Creative Ideas
+   Inspiration
+
 
 Purpose
 -------
 
+This document outlines our rationale for, and approach to visual design
+for the Countable brand.
 Visual design is a communication tool for meeting the right kinds of
 clients and subcontractors.
 
 Scope
-~~~~~
+-----
 
 Establish visual standards to best connect us with people who will go
 the distance to make a big postive impact on the world.
 
 Offering
-~~~~~~~~
+--------
 
 -  We rapidly prototype custom software using web technology to
    understand domain problems more deeply and demonstrate value early
@@ -33,10 +46,10 @@ Offering
    everyone as a side-effect of creating value for stakeholders.
 
 Audience
-~~~~~~~~
+--------
 
 Clients
-^^^^^^^
+~~~~~~~
 
 -  We are segmenting (filtering for) groups inside organizations who
    identify as startups but often exist in other organization
@@ -76,14 +89,14 @@ Clients
    $70,000 in profits.
 
 Staff
-^^^^^
+~~~~~
 
 We want to attract ambitious, talented people who are good
 communicators. *Persona: Aeris wants a job that is challenging with lots
 of autonomy to hone her skills alongside ambitious and skilled peers.*
 
 Segmentation
-^^^^^^^^^^^^
+~~~~~~~~~~~~
 
 Given our experience range is so broad, it's hard to segment by
 industry. Instead, we segment by ambition. Our value prop "Look at this
@@ -96,55 +109,54 @@ disrupts your competitors and breaks your industry's mold. We create
 leaders on the web."
 
 Competition
-~~~~~~~~~~~
+-----------
 
 Several other categories compete with us, including hiring in-house,
 freelancers, placement firms and agencies. Of these, we most directly
 compete with agencies who do end-to-end web based software development
 work. Here are some we admire, and why.
 
--  `https://dockyard.com/ <https://dockyard.com/>`__ - open source
+-  `Dockyard <https://dockyard.com/>`__ - open source
    focused, profess to "make an effort to both teach and learn".
--  `https://www.caktusgroup.com <https://www.caktusgroup.com>`__ -
+-  `Caktus Group <https://www.caktusgroup.com>`__ -
    They've focused on a specific technology (Django) to be best at.
    `Open source <https://www.caktusgroup.com/about/>`__
--  `https://twg.io <https://twg.io>`__ - Great services page, `very
-   clear <https://twg.io/services/>`__. Agile, fellow Canadian.
+-  `TWG <https://twg.io>`__ - Great services page, `very clear <https://twg.io/services/>`__. Agile, fellow Canadian.
 
 Top google results for "Web Application Firm" and "Web Software Firm".
 This means they have pretty effective SEO/copy.
 
--  `https://coresolutions.ca/ <https://coresolutions.ca/>`__
--  `https://www.scnsoft.com/ <https://www.scnsoft.com/>`__
--  `http://www.falcon-software.com/ <http://www.falcon-software.com/>`__
+-  `CoResolutions <https://coresolutions.ca/>`__
+-  `SCNSoft <https://www.scnsoft.com/>`__
+-  `Falcon Software <http://www.falcon-software.com/>`__
 
 Top company identified on clutch.io, Canada (that we actually like)
 
--  `https://liftinteractive.com/ <https://liftinteractive.com/>`__ -
+-  `Lift Interactive <https://liftinteractive.com/>`__ -
    Highest billable rates in this list.
 
 Similar scope/approach:
 
--  `http://five.agency/how-we-work/ <http://five.agency/how-we-work/>`__
+-  `Five Agency <http://five.agency/how-we-work/>`__
    - Good process explanation.
--  `https://breue.com/ <https://breue.com/>`__ - Super clear CTA "Get
+-  `Breue <https://breue.com/>`__ - Super clear CTA "Get
    your free product roadmap today."
--  `https://andyet.com/ <https://andyet.com/>`__ - Likes bleeding edge
+-  `AndYet <https://andyet.com/>`__ - Likes bleeding edge
    front end web tech, novel approach.
 
 We admire these teams for beating us on contract bids :)
 
--  `https://freshworks.io/ <https://freshworks.io/>`__ - Beat us at the
+-  `Freshworks <https://freshworks.io/>`__ - Beat us at the
    Mines Digital Services contract.
--  `https://www.realfolk.io/ <https://www.realfolk.io/>`__ - Beat us at
+-  `RealFolk <https://www.realfolk.io/>`__ - Beat us at
    the Concierge (devex) project.
--  `https://www.olivewood.io/ <https://www.olivewood.io/>`__ - Beat us
+-  `OliveWood <https://www.olivewood.io/>`__ - Beat us
    at the Queue Management System enhancements contract.
--  `https://www.llamazoo.com/ <https://www.llamazoo.com/>`__ - Beat us
+-  `LlamaZoo <https://www.llamazoo.com/>`__ - Beat us
    at a VR demo project.
 
 How we want to Differentiate
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+----------------------------
 
 -  Specialize in audacity. Work with clients to develop a stretch goal
    that's exciting to collaborate on.
@@ -204,24 +216,15 @@ of the time this way.
 Inspiration
 -----------
 
-Three.js examples - `https://threejs.org/ <https://threejs.org/>`__
-Shader toy - `https://www.shadertoy.com/ <https://www.shadertoy.com/>`__
-Lars Berg -
-`https://www.larsberg.net/#/thumpThump <https://www.larsberg.net/#/thumpThump>`__
-Teams on Dribbble. -
-`https://dribbble.com/teams?sort=trending <https://dribbble.com/teams?sort=trending>`__
-Vector icons/graphics:
-`https://dribbble.com/shots/4391020-Bot-Ai-Hero <https://dribbble.com/shots/4391020-Bot-Ai-Hero>`__
-Monochrome:
-`https://dribbble.com/shots/4364906-Aao-Milo-Intro-Screens <https://dribbble.com/shots/4364906-Aao-Milo-Intro-Screens>`__
-Animated illustrations:
-`https://belichberg.com/en/ <https://belichberg.com/en/>`__
+ - `Threejs examples <https://threejs.org/>`__
+ - `Shader toy <https://www.shadertoy.com/>`__
+ -
+`Lars Berg <https://www.larsberg.net/#/thumpThump>`__
+ -
+`Teams on Dribbble <https://dribbble.com/teams?sort=trending>`__
 
--  `http://chloi.io/ <http://chloi.io/>`__
--  `http://outcrowd.io/ <http://outcrowd.io/>`__
--  `http://alistapart.com/ <http://alistapart.com/>`__
--  `https://belichberg.com/en/ <https://belichberg.com/en/>`__
--  `http://acko.net/ <http://acko.net/>`__
--  `http://www.insymbiosis.com/ <http://www.insymbiosis.com/>`__
--  `https://dribbble.com/omnicreativora <https://dribbble.com/omnicreativora>`__
--  `https://dribbble.com/netrixdigital <https://dribbble.com/netrixdigital>`__
+`Vector icons and graphics <https://dribbble.com/shots/4391020-Bot-Ai-Hero>`__
+
+`Monochrome <https://dribbble.com/shots/4364906-Aao-Milo-Intro-Screens>`__
+
+`Animated illustrations <https://belichberg.com/en/>`__

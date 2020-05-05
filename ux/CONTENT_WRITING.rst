@@ -7,7 +7,11 @@ Content Writing
 
    Purpose
    Scope
-   
+   Formal Standards
+   Countable's Voice
+   Blog Writing
+   Finally
+
 Purpose
 -------
 
@@ -50,7 +54,7 @@ USEFUL to our reader. This means we:
    buying one of our products - our products should speak for themselves
 -  Where appropriate, we can mention our products and their usefulness
 
-Blog writing
+Blog Writing
 ------------
 
 When writing blog posts for countable.ca or one of our other sites,
@@ -68,8 +72,7 @@ please remember to:
    etc. You can include your own voice as well as the overall tone of
    Countable (see above).
 
-Resources for blog writing:
-`https://www.youtube.com/watch?v=ygiAqYJq8No <https://www.youtube.com/watch?v=ygiAqYJq8No>`__
+`Resources for blog writing <https://www.youtube.com/watch?v=ygiAqYJq8No>`__
 
 Finally
 -------

@@ -7,19 +7,25 @@ Principles
 
    Purpose
    Scope
-   
+   Principles
+
 Purpose
 -------
 
 The purpose of this page is to address a specific issue with our
-`OKR <./OKRS.md>`__ process, wherein by focusing exclusively on some OKR
+`OKR <../operations/OKRS.rst>`__ process, wherein by focusing exclusively on some OKR
 we neglect some important assumption we should have had all along. ie,
-by releasing fast we neglect privacy. These principles are listed in
-order of descending priority. We may measure some of these principles,
-making them into "committed OKRs".
+by releasing fast we neglect privacy. 
 
 Scope
 -----
+
+We list principles below in order of descending priority. 
+
+Principles
+----------
+
+We may measure some of these principles, making them into "committed OKRs".
 
 -  *Results are sacred* - Processes, Roles, and other inputs are
    flexible and can be changed when necessary to achieve results.

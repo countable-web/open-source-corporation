@@ -7,7 +7,22 @@ Filtering Leads
 
    Purpose
    Scope
-   
+   Lead Filtering Basics
+   Filtering Proposals
+
+Purpose
+-------
+
+To identify a replicable process for filtering appropriate sales leads.
+
+Scope
+-----
+
+Currently gives a basic overview and description of the filter mechanism we rate potential leads with.
+
+Lead Filtering Basics
+---------------------
+
 Both recruiting and sales processes act as a great filter to find those
 who believe in the same things as us. The following set of inquiries
 outlines the filtering steps necessary. Our prospective hires and
@@ -28,7 +43,7 @@ no commitments. After this, both parties can decide if we want to pursue
 further work.
 
 Filtering Proposals
-===================
+-------------------
 
 Record the RFP due date, organization and link in a spreadsheet, along
 with its score as follows:
