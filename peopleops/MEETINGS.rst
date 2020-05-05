@@ -1,6 +1,27 @@
 Meetings
 ========
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   Purpose
+   Scope
+   All Meetings
+      Date and Time of Meetings
+      Clarity of Purpose at Meetings
+      Record of Meetings
+      General Meeting Guidelines
+   Scrum Meetings
+   One-on-one Meetings
+      As an Employee
+      As a Manager
+      The First One-on-one
+      Themes
+      Performance Reviews
+   Guild Meetings
+   All-hands Meetings
+
 Purpose
 -------
 
@@ -9,7 +30,7 @@ Ensure meetings actually help accomplish our mission.
 Scope
 -----
 
-Define all the meetings at Countable
+Define all the meetings at Countable.
 
 All Meetings
 ------------
@@ -31,6 +52,7 @@ Date and Time of Meetings
 -  When meeting with external stakeholders, book 50 minutes meetings
    generally (or 25) so there are 5 mintues for the team to discuss how
    the meeting could have been better.
+-  When meeting online, like in whereby, list the specific room link in the meeting invite.
 
 Clarity of Purpose at Meetings
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -74,7 +96,7 @@ Record of Meetings
 -  3W rule: Meeting follow-up actions must contain the three Ws: WHO
    does WHAT by WHEN
 
-General Meeting Guildlines
+General Meeting Guidelines
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 -  Work to create an atmosphere of psychological safety. Detect concerns
@@ -188,10 +210,10 @@ The manager should answer:
 1. What can you do to get to the next level in your current role?
 2. What's holding you back?
 
-Guild Meeting
--------------
+Guild Meetings
+--------------
 
-We currently have a UX, DevOps, and Developers guild meetings,
+We currently have a UX, DevOps, Operations, and Developers guild meetings,
 periodically. The purpose of this meeting is:
 
 -  Standardize, train, and define how we work in key technical
@@ -205,11 +227,10 @@ Discuss goals for each guild and roadmap for meeting them:
 -  UX - improve the end-user experience of all our work.
 -  DevOps - make our work delivery automatic, frequent and reliable.
 -  Developers - write better code, minimize technical debt.
+-  Operations - conduct business efficiently and maintain excellent client relations.
 
-All-hands Meeting
------------------
+All-hands Meetings
+------------------
 
 The entire team meets once per month to plan work pipeline and roadmap
 at a high level, and practice new processes together.
-
--  Review OKRs and calculate score.

@@ -7,11 +7,9 @@ Scrum
 
    Purpose
    Scope
+   Scrum Basics
+   Principles
 
-Countable uses`Scrum <https://en.wikipedia.org/wiki/Scrum_(software_development)>`__
-to manage work delivery and collaboratively learn about problem domains.
-
-Check out the guide book from the inventor of Scrum`here <https://www.scrumguides.org/scrum-guide.html>`__.
 
 Purpose
 -------
@@ -23,6 +21,14 @@ Scope
 
 Define how Countable "follows" Scrum.
 
+Scrum Basics
+------------
+
+Countable uses`Scrum <https://en.wikipedia.org/wiki/Scrum_(software_development)>`__
+to manage work delivery and collaboratively learn about problem domains.
+
+Check out the guide book from the inventor of Scrum`here <https://www.scrumguides.org/scrum-guide.html>`__.
+
 Principles
 ----------
 
@@ -33,7 +39,7 @@ Principles
 User Stories
 ------------
 
-User Stories serve as the central planning document for any given project. The purpose of User Stories is to ensure all stakeholders can understand what we're trying to accomplish, no matter their level of technical expertise. Check out the `User Stories <../USER_STORIES.rst>`__ page for more detail and how to compose User Stories.
+User Stories serve as the central planning document for any given project. The purpose of User Stories is to ensure all stakeholders can understand what we're trying to accomplish, no matter their level of technical expertise. Check out the `User Stories <USER_STORIES.rst>`__ page for more detail and how to compose User Stories.
 
 Process
 -------
@@ -41,7 +47,7 @@ Process
 Project Objective and Key Results
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Every team should have one or more`Objectives <../OKRS.md>`__. This is a written goal discussed with the team to ensure clarity, and is used by the `Product Owner <#product-owner>`__ to order the `Backlog <#backlog>`__. An objective may be to meet a particular User Story.
+Every team should have one or more`Objectives <OKRS.rst>`__. This is a written goal discussed with the team to ensure clarity, and is used by the `Product Owner <#product-owner>`__ to order the `Backlog <#backlog>`__. An objective may be to meet a particular User Story.
 
 Sprint
 ~~~~~~

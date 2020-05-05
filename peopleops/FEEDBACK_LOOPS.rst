@@ -1,6 +1,21 @@
 Feedback Loops on Your Work At Countable
 ========================================
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   Purpose
+   Scope
+   Feedback Sources
+      Clients
+      Metrics
+      End-users
+      Testing
+      Your Team
+      Your Manager
+   Forward Feedback (Status Reporting)
+
 Purpose
 -------
 
@@ -17,11 +32,8 @@ Scope
 
 Specific tactics for getting feedback.
 
-Process
--------
-
 Feedback Sources
-~~~~~~~~~~~~~~~~
+-----------------
 
 This is a list of the different places you can get feedback from,
 depending on what's most helpful. You don't need them all for every
@@ -29,7 +41,7 @@ project, but you should *use at least one of them each day*, ideally
 several times per day.
 
 Clients
-^^^^^^^
+~~~~~~~
 
 -  Where possible, talk or email with clients directly *rather than
    getting your manager to relay information*.
@@ -41,7 +53,7 @@ Clients
    to your changes.
 
 Metrics
-^^^^^^^
+~~~~~~~
 
 -  What can you measure that captures the value of your work. Ask your
    team and manager to figure this out.
@@ -50,7 +62,7 @@ Metrics
    feedback by yourself.
 
 End-users
-^^^^^^^^^
+~~~~~~~~~
 
 -  These people are often your client's customers. It's whoever actually
    uses the product you're working on.
@@ -60,7 +72,7 @@ End-users
    think.
 
 Testing
-^^^^^^^
+~~~~~~~
 
 -  Use the software yourself and pretend to be a user. The goal is to
    get inside your persona's head.
@@ -68,7 +80,7 @@ Testing
 -  Use this sparingly as it's less reliable as outside feedback.
 
 Your Team
-^^^^^^^^^
+~~~~~~~~~
 
 -  Discuss all the above results with your team, and show them your
    work, asking for how to improve.
@@ -76,7 +88,7 @@ Your Team
    of what you did.
 
 Your Manager
-^^^^^^^^^^^^
+~~~~~~~~~~~~
 
 -  Your manager can give you feedback sometimes, but their more
    important job is to help you get feedback from the real word (see

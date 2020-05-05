@@ -1,6 +1,13 @@
 User Experience Design
 ======================
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   Purpose
+   Scope
+   
 (draft)
 
 Scope

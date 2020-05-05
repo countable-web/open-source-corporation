@@ -1,6 +1,27 @@
 Team Events
 ===========
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   Purpose
+   Scope
+   Team Event Basics
+
+Purpose
+-------
+
+Describe how we accommodate the remote nature of much of our collaboration through events.
+
+Scope
+-----
+
+Currently a stump post with room for expansion!
+
+Team Event Basics
+------------------
+
 As a company with remote employees, we intend that half of recreational
 events can be attended online.
 

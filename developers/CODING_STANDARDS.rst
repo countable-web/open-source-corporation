@@ -16,9 +16,9 @@ Coding Standards and Style
    No tabs
    Docker
    Code Quality
-   :ref: 'HTML_CSS'
-   :ref: 'JAVASCRIPT'
-   :ref: 'PYTHON'
+   :doc: `HTML_CSS`
+   :doc: `JAVASCRIPT`
+   :doc: `PYTHON`
 
 Purpose
 -------
@@ -53,20 +53,21 @@ Names
 
 This section refers to the names of variables, database columns, classes, and any other case where a name is chosen in code.
 
+Variables should hint what their data types are: in one glimpse I should be able to tell if a variable is e.g. a Boolean, string, etc.
+
 Consider the book `Clean Code <https://www.oreilly.com/library/view/clean-code/9780136083238/>`__ on this topic and on writing short functions.
 
 -  Names should indicate *what* a function does in *business domain language*.
 -  Name length should be proportional to the variable's scope size. ``x`` is ok in a one liner, but not a global.
 -  When an industry jargon (domain language) term is available, use that.
--  ClassNames - Classes should use an upper camel case string of nouns
--  attributes_names - Attributes (and local variables) should use lowercase with underscores
+-  ClassNames - Classes should use an upper camel case string of nouns.
 -  CONSTANT_NAMES - Constants should be uppercase with underscores.
 
 Files
 -----
 
 -  Filenames should be lowercase with dashes (NOT SPACES) to separate words *except* for Python, which uses underscores in place of dashes.
--  The purpose, and contents of any file should be as obvious as possible by its filename and location.
+-  The purpose, and contents of any file should be as obvious as possible by its filename and location. **Throw in an example**
 -  Avoid repeated or unnecessary code, except where doing so is much more clear. Keep in mind less code is actually easier to understand, all other things being equal. So, it bears repeating, use the minimum amount of code in declarative domain language. Using the wrong abstraction can be worse than repeated code.
 
 Locality
@@ -91,7 +92,7 @@ No tabs
 
 We are a Python shop, and so observance of `pep 8 <https://www.python.org/dev/peps/pep-0008/>`__ leads us to use 4 spaces for indentation. 
 
-We carry this convention to other languages,using 4 spaces for indentation in CSS, HTML, Javascript, etc. We never use the tab character.
+We carry this convention to other languages when possible, but some will use a different number of spaces. **We never use the tab character.**
 
 Docker
 ~~~~~~

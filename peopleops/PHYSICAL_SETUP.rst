@@ -1,6 +1,28 @@
 Setting Up Your Desk
 ====================
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   Purpose
+   Scope
+   Equipment Requirements
+   Equipment Expenses
+
+Purpose
+-------
+
+Explain the minimum basic setup expected to work remotely for Countable.
+
+Scope
+-----
+
+Covers equipment requirements and equipment expense coverage.
+
+Equipment Requirements
+----------------------
+
 You'll need:
 
 -  Good quality headset with mic. Cheap options we've verified to work

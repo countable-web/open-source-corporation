@@ -1,6 +1,13 @@
 Niche Experiments
 =================
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   Purpose
+   Scope
+   
 (draft)
 
 Purpose

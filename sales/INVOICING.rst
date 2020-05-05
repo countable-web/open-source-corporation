@@ -1,6 +1,13 @@
 Invoicing
 =========
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   Purpose
+   Scope
+   
 Clients are invoiced before the 10th of each month, and given 30 days to
 pay for work completed in the previous month. Depending on the client,
 there may be:

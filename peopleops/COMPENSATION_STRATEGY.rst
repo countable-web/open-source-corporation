@@ -1,9 +1,30 @@
 Compensation Strategy
 =====================
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   Purpose
+   Scope
+   Principles
+   Benefits
+      Extended Medical
+
+Purpose
+-------
+
 Not everyone will agree with this approach, so it's important we state
 it here so we don't have someone with different expectations join the
 team.
+
+Scope
+-----
+
+Covers our basic principles and approach to compensating our team.
+
+Principles
+----------
 
 1. Our approach is to pay people enough to live in reasonable comfort
    and to generally be competitive with other opportunities but we would

@@ -22,7 +22,9 @@ The checklist is intended primarily for quick reference.
 Bug Reporting Checklist
 -----------------------
 
-These are the required steps for reportings bugs at Countable. Make one Trello Card per bug. *Your job when reporting a bug is to make it clear to the developer how to see the bug.*
+These are the required steps for reportings bugs at Countable. Make one Trello Card per bug. 
+
+*Your job when reporting a bug is to make it clear to the developer how to see the bug*
 
 1. Briefly describe the current behaviour and how it differs from the desired behaviour.
 2. Include the exact URL where the issue can be observed.

@@ -1,12 +1,33 @@
-Evaluation
-==========
+Performance Evaluation
+======================
 
-The purpose of this policy is to "get and keep the right people on the
-bus" [1]. This page lists "job levels". Each employee should be assigned
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   Purpose
+   Scope
+   Process
+   Technical Tracks
+   Job Levels
+      Level 1
+      Level 2
+      Level 3
+      Level 4
+
+Purpose
+-------
+
+The purpose of this policy is to "get and keep the right people on the bus" [1]. 
+
+Scope
+-----
+
+This page lists "job levels". Each employee should be assigned
 a level based on the behaviours listed below from levels 1 to 4.
 
 Process
-=======
+-------
 
 -  Key Result score: What is your average score the last 4 months?
 -  What does he score in the self-evaluation. For each item in your job
@@ -45,27 +66,15 @@ style and technical needs.
 -  Regularly review other team members' work to learn from it (code
    reviews, XD links, shared videos, stage sites). To prove you are
    doing this you must ask questions.
--  Ask for help with (or more generally, be highly engaged with and
-   discuss) your `OKRs <../../OKRS.md>`__
--  You regularly use this operations manual, ask questions about things
-   that are hard to understand or you disagree with, and suggest
-   improvements for clarity.
--  Try to solve problems yourself (10 to 30 minutes). If no clear
-   solution was found, ask specific questions while providing details
-   obtained from the initial investigation. Clarify and state your
-   assumptions when you ask for help.
--  Make consistent small improvements to the systems around you (fix
-   spelling or clarity of README files, small refactors such as renaming
-   a variable for clarity, make a small design or usability
-   improvement).
--  Show gratitude to your team (for example, mention them in the #thanks
-   channel).
--  Share work every day (screenshots, staging links, XD links, code
-   snippets) with the team in your client- and guild- channels, because
-   seeing great work raises the bar for everyone and is very motivating.
+-  Ask for help with (or more generally, be highly engaged with and discuss) your `OKRs <../operations/OKRS.rst>`__
+-  **You regularly use this operations manual, ask questions about things that are hard to understand or you disagree with, and suggest improvements for clarity.** JC: use this as a model for how to phrase the rest of these items more clearly/implementable
+CP: quantifying these items more in general, e.g. "regularly review" becomes "1 hour code review per week"
+-  Try to solve problems yourself (10 to 30 minutes). If no clear solution was found, ask specific questions while providing details obtained from the initial investigation. Clarify and state your assumptions when you ask for help.
+-  Make consistent small improvements to the systems around you (fix spelling or clarity of README files, small refactors such as renaming a variable for clarity, make a small design or usability improvement).
+-  Show gratitude to your team (for example, mention them in the #thanks channel).
+-  Share work every day (screenshots, staging links, XD links, code snippets) with the team in your client- and guild- channels, because seeing great work raises the bar for everyone and is very motivating.
 -  Take responsibility for specific tasks you are assigned.
--  Notify your client when work is ready, with a link or screenshot for
-   them to see.
+-  Notify your client when work is ready, with a link or screenshot for them to see. **JC: this is a higher level AOR (talking directly to the client) and not achievable at this level - report to your teammates instead?**
 
 Level 2
 ~~~~~~~
@@ -88,7 +97,7 @@ stakeholders on delivering results, only escalating as needed.
 -  Manages client's expectation of deliverables and timelines. Is aware
    of bigger picture of project, and helps the team course correct to
    stay on track.
--  Help team members with their `OKRs <../../OKRS.md>`__.
+-  Help team members with their `OKRs <../operations/OKRS.rst>`__.
 -  Take responsibility for large tasks (> 1 day) and breaks them down
    into Trello cards (< 1 day each).
 -  Is aware of clients' satisfaction with work, and ensure a timely fix
@@ -120,8 +129,7 @@ takes on another area of responsibility.
 -  Tracks and improves metrics.
 -  Takes responsibility for the overall success of one or more existing
    clients or projects.
--  For devs, acts condusive with the `Senior
-   Developers <https://roadmap.sh/guides/levels-of-seniority#senior-developers>`__
+-  For devs, acts conducive with the `Senior Developers <https://roadmap.sh/guides/levels-of-seniority#senior-developers>`__
    section of roadmap.sh developer levels. It's useful for other
    technical workers to review this as well.
 
@@ -170,6 +178,7 @@ result in you being dismissed:
    status (no response for over 1 business day, when a response is
    clearly expected)
 
-[1] Jim Collins, "Good to Great". [2]
-`Roadmap.SH <https://roadmap.sh/guides/levels-of-seniority>`__ - this is
+[1] Jim Collins, "Good to Great". 
+
+[2] `RoadmapSH <https://roadmap.sh/guides/levels-of-seniority>`__ - this is
 helpful specifically for devs.

@@ -1,6 +1,13 @@
 Management
 ==========
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   Purpose
+   Scope
+   
 (draft)
 
 Some resources in line with our thinking.
@@ -8,7 +15,7 @@ Some resources in line with our thinking.
 Just Shut Up
 ------------
 
--  `https://medium.com/datadriveninvestor/are-you-a-manager-shut-up-494616dcea2f <https://medium.com/datadriveninvestor/are-you-a-manager-shut-up-494616dcea2f>`__
+-  `Data Driven Investor post <https://medium.com/datadriveninvestor/are-you-a-manager-shut-up-494616dcea2f>`__
 
 "The Culture Code"
 ------------------

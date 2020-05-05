@@ -1,5 +1,28 @@
+SEO Guidelines
+==============
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   Purpose
+   Scope
+   Page Titles
+   Meta Descriptions
+   From 2018 SEO Checklist
+
+Purpose
+-------
+
+To anchor our consistent approach to SEO.
+
+Scope
+-----
+
+Currently covers basics and could use updating.
+
 Page Titles
-===========
+-----------
 
 Should be 60 chars or so. Include keywords "real estate prices" or
 "housing market" Include the current Year and/or Month. Include a
@@ -10,14 +33,14 @@ complete, definitive, study, step-by-step". Include an emotional word
 title "( in 2018 )" "( Ultimate Guide )".
 
 Meta Descriptions
-=================
+-----------------
 
 Should be 200 chars or so. Include foreshadowing, specific numbers, call
 to action, reasons the user would visit your page. Include key
 differentiator, what sets you a apart. Use a curiousity gap
 
 From 2018 SEO Checklist
-=======================
+-----------------------
 
 Google has about 200 "ranking factors". Top ones include:
 

@@ -7,8 +7,20 @@ Operations
 
    Purpose
    Scope
+   High Level Operations Goals
 
-This defines how we intend to manage web technology project environments. High level goals:
+Purpose
+-------
+
+This defines how we intend to manage web technology project environments. 
+
+Scope
+-----
+
+Covers high level operations goals, drafts more specific goals, and goes into extensive detail about our current standards and conventions.
+
+High Level Operations Goals
+---------------------------
 
 -  Subscribe to the `12 factor methodology <https://12factor.net/>`_
 -  Automate operations to make our work more efficient, secure, consistent, predictable and reliable.
@@ -40,12 +52,12 @@ Each client typically has a different server environment, and Docker mostly prev
 Jenkins
 ~~~~~~~
 
-See `here <./JENKINS.rst>`__ for how we use jenkins to automate many environment instances.
+See `here <JENKINS.rst>`__ for how we use jenkins to automate many environment instances.
 
 Docker
 ~~~~~~
 
-See `here <./DOCKER.rst>`__ for how we use Docker to manage project environments.
+See `here <../DOCKER.rst>`__ for how we use Docker to manage project environments.
 
 Cloudflare
 ~~~~~~~~~~

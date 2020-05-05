@@ -1,5 +1,9 @@
-Hiring Flow
-===========
+Temporary Workers Hiring Flow
+=============================
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
 
 This is a suggested hiring flow to make your life easier and standardize
 our process while recruiting temporary staff. On this case, I'm using

@@ -1,13 +1,31 @@
 Subcontractor Guide
 ===================
 
-Some of our team work as subcontrators rather than employees.
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   Purpose
+   Scope
+   Taxes
+   Categorization as a Subcontractor
+   Should You Incorporate?
+
+Purpose
+-------
+
+Some of our team work as subcontractors rather than employees, so we provide resources to help guide them.
+
+Scope
+-----
+
+Currently covers taxes, categorization as a subcontractor, and benefits of incorporating.
 
 Taxes
 -----
 
 You have to claim self employment income once per year. We recommend
-using `https://simpletax.ca/ <https://simpletax.ca/>`__
+using `SimpleTax <https://simpletax.ca/>`__
 
 1. We suggest signing up with mint.com, as it makes tracking all your
    expenses simpler.
@@ -18,7 +36,7 @@ using `https://simpletax.ca/ <https://simpletax.ca/>`__
    percentage of time working there.
 6. Deduct travel costs when working.
 7. Full list -
-   `https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/sole-proprietorships-partnerships/business-expenses.html <https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/sole-proprietorships-partnerships/business-expenses.html>`__
+   `CRA Business Expenses <https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/sole-proprietorships-partnerships/business-expenses.html>`__
 
 Categorization as a Subcontractor
 ---------------------------------

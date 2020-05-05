@@ -1,6 +1,13 @@
 References
 ==========
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   Purpose
+   Scope
+   
 Books that heavily influenced this manual are listed here. They are
 recommended as having an influence on our company culture. A general
 trend is they follow somewhat of a narrative format so are easy to read.

@@ -9,17 +9,25 @@ Accounting at Countable
    Scope
    Timesheets and Expenses
    Taxes
+      List of Tax Deductible Items
+      Tax Categories
    SRED
 
 
 Purpose
 -------
 
+To cover the major points of accounting practices at Countable.
+
 Scope
 -----
 
+Currently touches upon any unique categories we track or pay attention to, and how we do so.
+
 Timesheets and Expenses
 -----------------------
+
+`` TODO: link out to eightmeters page``
 
 Taxes
 -----

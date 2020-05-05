@@ -1,17 +1,29 @@
 Recruiting
 ==========
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   Background
+   Recruiting for Staff Contractors
+   Recruiting Process
+   Non-acceptance Letter
+   Initial Screening
+      Point System
+      Reaching Out
+      Technical Test
+      Interview
+      Internship
+      Research
+         References
+
 Background
 ----------
 
-A study of 200 silicon valley startup investigated the effect of 3
-hiring policies: The "star" blueprint which sought the best technical
-candidates; The "commitment" blueprint which hired based on values; And
-the "professional" blueprint which commoditized skills. The commitment
+A study of 200 silicon valley startup investigated the effect of 3 hiring policies: The "star" blueprint which sought the best technical candidates; The "commitment" blueprint which hired based on values; And the "professional" blueprint which commoditized skills. The commitment
 blueprint was starkly the best, with zero failures in the 2000 market
-bubble and triple the chance of making an IPO the next best model. Two
-other models, the "autocratic" and "beaurocratic" performed even worse
-than the aforementioned three.
+bubble and triple the chance of making an IPO the next best model. Two other models, the "autocratic" and "beaurocratic" performed even worse than the aforementioned three.
 
 Recruiting for Staff Contractors
 --------------------------------
@@ -20,56 +32,30 @@ Countable has two "tracks" for our team members. Outside consultants,
 and staff contractors. This page is about hiring the latter team members
 who work a set number of hours per week. The former category are for
 more specialized people, often with existing consulting businesses, and
-there's no process for working with them currently but they are
-typically hired based on a quote for a specific deliverable.
+there's no process for working with them currently but they are typically hired based on a quote for a specific deliverable.
 
-Everything that follows is for Staff Contractors, not outside
-consultants.
+Everything that follows is for Staff Contractors, not outside consultants.
 
 Recruiting Process
 ------------------
 
-Finding the best people is one of the top challenges in our industry, so
-we need every advantage we can find in this way. Our strategy:
+Finding the best people is one of the top challenges in our industry, so we need every advantage we can find in this way. Our strategy:
 
 -  Having our process act as a "funnel" for the right applicants.
 -  Encouraging a high volume of applicants (wide funnel mounth)
--  Being clear about our high expectations, compensation range,
-   technology used, culture, and that we're remote in the posting. This
-   will help prevent anyone who doesn't like the above from applying.
--  Having a specific instruction in the application for cover letter
-   formatting to filter mass applications out.
--  Having a friendly letter to acknowledge the people who made it part
-   way into the process. It's great to feel empathy for candidates, and
-   we want to help them with their future applications. This is
-   important because 99% or more candidates won't be accepted, and it
-   reduces pressure on staff to make exceptions to our process.
--  Avoiding any non-meritocratic bias. Gender, ethnic, and other
-   irrelevant bias are not only unethical, they lower the hiring bar by
-   considering information that's not related to performance.
--  Always be hiring. Rather than reacting to specific capacity needs, we
-   want to get the right people on the bus. If outstanding people are
-   identified by our team, they're added to a list that we stay in touch
-   with and "court" over time, just as with any good client or partner
-   relationship.
--  We work hard to be a place that ambitious people want to work.
-   Ideally we want virtuous cycle where if we have a culture fit, we
-   probably want to hire that person, and they'll be more likely to want
-   to work here too. For this, we have to communicate our
-   `mission <../../MISSION.md>`__, `vision <../../VISION.md>`__ and
-   `values <../../VALUES.md>`__.
+-  Being clear about our high expectations, compensation range, technology used, culture, and that we're remote in the posting. This will help prevent anyone who doesn't like the above from applying.
+-  Having a specific instruction in the application for cover letter formatting to filter mass applications out.
+-  Having a friendly letter to acknowledge the people who made it part way into the process. It's great to feel empathy for candidates, and we want to help them with their future applications. This is important because 99% or more candidates won't be accepted, and it reduces pressure on staff to make exceptions to our process.
+-  Avoiding any non-meritocratic bias. Gender, ethnic, and other irrelevant bias are not only unethical, they lower the hiring bar by considering information that's not related to performance.
+-  Always be hiring. Rather than reacting to specific capacity needs, we want to get the right people on the bus. If outstanding people are identified by our team, they're added to a list that we stay in touch with and "court" over time, just as with any good client or partner relationship.
+-  We work hard to be a place that ambitious people want to work. Ideally we want virtuous cycle where if we have a culture fit, we probably want to hire that person, and they'll be more likely to want to work here too. For this, we have to communicate our `mission <../philosophy/MISSION.rst>`__, `vision <../philosophy/VISION.rst>`__ and `values <../philosophy/VALUES.rst>`__.
 
-Another goal is to always try to screen people earlier. The first stages
-of the screening process are cheaper, so we want to avoid letting anyone
-into phase 2 if we can somehow tell they'll be rejected there in phase
-1, etc. In a perfect "oracle" screening process, our first stage would
-advance the exact people that will mostly quickly achieve our mission
-while adhering to our values, and we'd just hire those immediately.
+Another goal is to always try to screen people earlier. The first stages of the screening process are cheaper, so we want to avoid letting anyone into phase 2 if we can somehow tell they'll be rejected there in phase 1, etc. In a perfect "oracle" screening process, our first stage would advance the exact people that will mostly quickly achieve our mission while adhering to our values, and we'd just hire those immediately.
 
 Non-acceptance Letter
 ---------------------
 
-*if* if the candidate didn't correctly format their cover letter,
+*If* if the candidate didn't correctly format their cover letter,
 there's no need to respond as it's likely a mass/automated application.
 
 Otherwise, respond as follows (subject:
@@ -83,18 +69,13 @@ Otherwise, respond as follows (subject:
    done well to make it to this point. We wish you great luck in future job applications.
 
 *if* the Candidate has made it to the *Technical Test* stage, the lead
-of the team they're applying for should also write a personal note with
-explanation of scoring, how to do better next time, and if they have a
-80% or better score that we will consider them for future positions.
+of the team they're applying for should also write a personal note with explanation of scoring, how to do better next time, and if they have a 80% or better score that we will consider them for future positions.
 
 Initial Screening
 -----------------
 
--  We should always have active job postings for positions as long as
-   we'd consider the best possible applicant if they did happen to
-   apply.
--  We should improve our company profile on recruiting platforms (etc)
-   so the right people will apply.
+-  We should always have active job postings for positions as long as we'd consider the best possible applicant if they did happen to apply.
+-  We should improve our company profile on recruiting platforms (etc) so the right people will apply.
 
 Point System
 ~~~~~~~~~~~~
@@ -105,27 +86,12 @@ screening is optimized to `avoid "type 2 errors" not "type 1
 errors" <https://en.wikipedia.org/wiki/Type_I_and_type_II_errors>`__.
 This isn't ideal but it's the way things are at the moment.
 
--  1 point for communication ability. No point awarded if candidates who
-   miss the cover letter formatting requirement.
--  1 point for for writing ability. Reject if you see poor English,
-   grammar errors, spelling mistakes in the cover letter.
--  1 point for having 2 or more years of technical experience in all
-   requested domains/technologies. Or, 1 year and a computer science
-   degree (not IT diploma).
+-  1 point for communication ability. No point awarded if candidates who miss the cover letter formatting requirement.
+-  1 point for for writing ability. Reject if you see poor English, grammar errors, spelling mistakes in the cover letter.
+-  1 point for having 2 or more years of technical experience in all requested domains/technologies. Or, 1 year and a computer science degree (not IT diploma).
 -  1 point for a well designed/formatted resume.
--  1 point for portfolio links. Candidate should have at least one link
-   to good quality content they built, which looks professional. Great
-   if this is on a platform like Dribbble or Behance. A github.com
-   profile with some projects counts as well.
--  1 point for the person having been vetted by a reputable 3rd party.
-   Examples that provide some objective measurement could include
-   increasing company revenue or another metric at their previous job,
-   an open source project or contributions (GitHub stars), a
-   well-developed professional profile that's been curated with care
-   such as Dribbble, going to a top school and receiving academic
-   honours, having worked somewhere with a stringent screening like
-   Google. Other accomplishments you can identify count to but these may
-   be more difficult to measure quickly.
+-  1 point for portfolio links. Candidate should have at least one link to good quality content they built, which looks professional. Great if this is on a platform like Dribbble or Behance. A github.com profile with some projects counts as well.
+-  1 point for the person having been vetted by a reputable 3rd party. Examples that provide some objective measurement could include increasing company revenue or another metric at their previous job, an open source project or contributions (GitHub stars), a well-developed professional profile that's been curated with care such as Dribbble, going to a top school and receiving academic honours, having worked somewhere with a stringent screening like Google. Other accomplishments you can identify count to but these may be more difficult to measure quickly.
 
 Candidates with less than 4 points are rejected outright. Those with 4
 points other than "communication ability" can be offered a chance to
@@ -137,14 +103,9 @@ Reaching Out
 
 Ask the Candidate to meet you on appear.in, and to schedule the time
 with you. Chat with the candidate and rate their communication ability.
-We are marking their ability to create clarity, and to give and respond
-to "belonging cues".
+We are marking their ability to create clarity, and to give and respond to "belonging cues".
 
--  1 point if the candidate manages to meet you (the interviewer)
-   without exchanging more than 3 messages on each side. They should
-   identify times that work, and you should pick one without any other
-   needless communication. Did they schedule the chat efficiently on
-   appear.in
+-  1 point if the candidate manages to meet you (the interviewer) without exchanging more than 3 messages on each side. They should identify times that work, and you should pick one without any other needless communication. Did they schedule the chat efficiently on whereby.com
 -  For the first part of the interview, use video. 1 point if the user
    maintains eye contact at least 50% of the time, AND you feel they're
    constructively working to see if there's a fit.
@@ -219,8 +180,8 @@ Research on the #1 thing developers look for in a job:
 -  The office environment or company culture - 13.6%
 -  The opportunity to work from home/remotely - 10.3%
 
-Refences
+References
 ~~~~~~~~
 
 [1]
-`https://hbr.org/2018/01/how-to-hire <https://hbr.org/2018/01/how-to-hire>`__
+`Harvard business review on how to hire <https://hbr.org/2018/01/how-to-hire>`__

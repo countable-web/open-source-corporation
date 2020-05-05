@@ -1,6 +1,13 @@
 Design Asset Storage
 ====================
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   Purpose
+   Scope
+   
 Official versions of Non-code assets are stored on Google Drive
 
 Every client has a folder in our Company Google Drive named:

@@ -7,7 +7,19 @@ Delivery Workflow Documentation (for Clients)
 
    Purpose
    Scope
+   Content
 
+Purpose
+-------
+
+This is a client-facing process intended to open useful channels of communication and collaboration.
+
+Scope
+-----
+It covers the details of the linked process diagram, and what to expect after submitting a work request.
+
+Content
+-------
 This process is designed to help us do great work for you, as transparently as possible. If at any point you sense something's not working or not right for you, don't hesitate to `tell us <mailto:everyone@countable.ca>`__ and we'll improve it!
 
 If you're a visual person, check out the process diagram `here <https://docs.google.com/drawings/d/1UkPeGGzKYWkCsZpkwWB_UJ3JjWJcoT4t8qSU8A0tsy4/edit?usp=sharing>`__.
@@ -23,7 +35,7 @@ We use Trello to communicate work items with our clients.
 4. Add any file attachments with any examples, templates, screenshots or other specification files.
 5. If you want a specific person's attention, mention them in a comment under the card or add them as a "member". Otherwise, it may be some time before someone sees your card.
 
-For more information on how we use Trello, see `here <./TRELLO.rst>`__.
+For more information on how we use Trello, see `here <TRELLO.rst>`__.
 
 How We Process Your Work Request
 --------------------------------

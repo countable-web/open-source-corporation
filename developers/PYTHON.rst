@@ -58,6 +58,10 @@ Line Length
 
 Lines of up to 119 chars are ok, instead of the default 79 chars. The reason for this is we have higher resolution screens these days and 79 chars is crazy restrictive.
 
+Names
+-----
+
+-  attributes_names - Attributes (and local variables) should use lowercase with underscores
 
 Debugging Python
 ----------------

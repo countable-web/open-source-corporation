@@ -16,10 +16,9 @@ Processes
 Purpose
 -------
 
-Processes are the official rules defined in this manual which we all
-commit to work by. We prefer to have a small set of official processes to produce better, more meaningful work faster, achieve our missiong, and have more fun doing
-it. Processes have a cost, so we want the minimum set to accomplish
-this.
+Processes are the official rules defined in this manual which we all commit to work by. 
+
+We prefer to have a small set of official processes to produce better, more meaningful work faster, achieve our mission, and have more fun doing it. Processes have a cost, so we want the minimum set to accomplish this.
 
 
 Scope

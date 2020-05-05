@@ -1,6 +1,13 @@
 Commission
 ==========
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   Purpose
+   Scope
+   
 Countable pays up to 15% commission to those who help schedule new work
 for us (internal or external, referrals or proposals).
 

@@ -1,8 +1,25 @@
 Remote Work
 ===========
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   Purpose
+   Scope
+   Remote Work
+
 Purpose
 -------
+Provide resources to make remote work better.
+
+Scope
+-----
+
+Currently just a stump post, with room to add.
+
+Remote Work Basics
+------------------
 
 Countable is a fully remote team, which has certain pros and cons. The
 top "cons" reported on other remote teams are:
@@ -18,9 +35,9 @@ Things to try.
 -  Video collaboration time on projects. Casual mob coding, async coding
    allowed too.
 -  review:
-   `https://about.gitlab.com/company/culture/all-remote/tips/ <https://about.gitlab.com/company/culture/all-remote/tips/>`__
+   `Gitlab Remote work tipis <https://about.gitlab.com/company/culture/all-remote/tips/>`__
 
 References
 ~~~~~~~~~~
 
-`https://blog.quuu.co/lessons-worth-learning-from-remote-workers/ <https://blog.quuu.co/lessons-worth-learning-from-remote-workers/>`__
+`Quu Blog <https://blog.quuu.co/lessons-worth-learning-from-remote-workers/>`__

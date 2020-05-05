@@ -1,5 +1,19 @@
-Marketing
+UX Guild
 =========
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   Purpose
+   Scope
+
+
+TODO: retool this root page
+
+
+Marketing
+---------
 
 Defines how we communicate with potential clients. It screens for
 clients with similar values, with whom we'd like to collaborate on

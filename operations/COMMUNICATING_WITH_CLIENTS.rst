@@ -8,6 +8,12 @@ Communicating with Clients
    Purpose
    Scope
 
+Purpose
+-------
+
+Scope
+-----
+
 Reporting on Work
 -----------------
 

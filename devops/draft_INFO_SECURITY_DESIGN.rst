@@ -54,4 +54,4 @@ design lets us re-use security hardening work across projects.
 -  Don't mount volumes the container does not need access to.
 
 [1]
-`https://medium.com/@dpkumar/your-container-is-in-security-risk-by-design-8a7034f2f9b1 <https://medium.com/@dpkumar/your-container-is-in-security-risk-by-design-8a7034f2f9b1>`__
+`DP Kumar Your Container is in Security Risk By Design <https://medium.com/@dpkumar/your-container-is-in-security-risk-by-design-8a7034f2f9b1>`__

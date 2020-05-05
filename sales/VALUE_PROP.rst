@@ -1,6 +1,13 @@
 Countable Web Productions Value Proposition
 ===========================================
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   Purpose
+   Scope
+   
 Loyal Contracting, Designed for You
 -----------------------------------
 

@@ -1,6 +1,14 @@
 Professional Conduct
 ====================
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   Purpose
+   Scope
+   Maintaining Professionalism with Clients
+
 Purpose
 -------
 

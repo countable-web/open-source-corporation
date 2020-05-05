@@ -1,6 +1,13 @@
 TRANSPARENCY
 ============
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   Purpose
+   Scope
+   
 Our policy is, any information that we don't have specific and serious
 concerns about being released is to be made public.
 

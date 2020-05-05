@@ -1,6 +1,13 @@
 Sales
 =====
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   Purpose
+   Scope
+   
 Purpose
 -------
 

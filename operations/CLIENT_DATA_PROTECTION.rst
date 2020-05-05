@@ -7,6 +7,22 @@ Client Data Protection
 
    Purpose
    Scope
+   Principles
+   Policies
+      Endpoint Physical Protection Policy
+   Web App Security
+
+
+Purpose
+-------
+To identify what we do to protect client data, and all data in general, at Countable.
+
+Scope
+-----
+Covers principles, policies, and web app security.
+
+Principles
+----------
 
 As an open transparent company, we want to minimize the number of assets which need protection. Here's a list of those we can't make exceptions for:
 
@@ -20,7 +36,7 @@ Other associated risks:
 -  Durability - avoid losing any data stored in clients' databases or image assets.
 
 Policies
-========
+--------
 
 -  Only provide team members access as needed. Don't provide access to client assets unless necessary to perform the team member's work.
 -  During offboarding, destroy all client assets on the contractor's computer.
@@ -29,7 +45,7 @@ Policies
 -  Do not share accounts where protected information is present. Each user has their own account.
 
 Endpoint Physical Protection Policy
------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 -  Any confidential data should reside only on an encrypted disk of your computer.
 -  Confidential data must not be synced to personal cloud accounts.
@@ -37,7 +53,7 @@ Endpoint Physical Protection Policy
 -  Your work computer must switch to a password lockscreen after waking up from sleep mode, and should enter sleep mode within half an hour of being idle.
 
 Web App Security
-================
+----------------
 
 -  Apply "least privilege". Do not open any ports that aren't needed for using the application. If you must open such a port for debugging, do so in your .gitignored environment only, so it's not shared.
 -  Use our DevOps templates so all servers observe a single secured provisioning strategy.

@@ -9,21 +9,21 @@ Developers Reference
    Scope
    Principles
    Developer's Guild Meetings
-   :ref: 'ARCHITECTURE'
-   :ref: 'BUG_REPORTING'
-   :ref: 'CODING_STANDARDS'
-   :ref: 'DEPENDENCIES'
-   :ref: 'DJANGO'
-   :ref: 'GIT'
-   :ref: 'HTML_CSS'
-   :ref: 'INFO_SECURITY_DESIGN'
-   :ref: 'JAVASCRIPT'
-   :ref: 'PROJECT_STANDARDS'
-   :ref: 'PROTOTYPING'
-   :ref: 'PYTHON'
-   :ref: 'STACK_CHOICES'
-   :ref: 'TESTING'
-   :ref: 'TRAINING'
+   :doc: `ARCHITECTURE`
+   :doc: `BUG_REPORTING`
+   :doc: `CODING_STANDARDS`
+   :doc: `DEPENDENCIES`
+   :doc: `DJANGO`
+   :doc: `GIT`
+   :doc: `HTML_CSS`
+   :doc: `INFO_SECURITY_DESIGN`
+   :doc: `JAVASCRIPT`
+   :doc: `PROJECT_STANDARDS`
+   :doc: `PROTOTYPING`
+   :doc: `PYTHON`
+   :doc: `STACK_CHOICES`
+   :doc: `TESTING`
+   :doc: `TRAINING`
 
 
 Purpose

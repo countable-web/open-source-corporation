@@ -12,8 +12,12 @@ Countable's Operations Manual
 Purpose
 -------
 
+Identifying the minimum requirements for a new operations manual page.
+
 Scope
 -----
+
+Initial draft on writing ops manual pages, open for feedback.
 
 Writing Ops Manual Pages
 -----------------------

@@ -1,9 +1,28 @@
 Diversity and Inclusion
 =======================
 
-Purpose: To approach our differences in a respectful and positive way
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   Purpose
+   Scope
+   Principles
+
+Purpose
+-------
+
+To approach our differences in a respectful and positive way
 and focus on building a shared culture based on empathy and common
 goals.
+
+Scope
+-----
+
+Outlining core principles.
+
+Principles
+----------
 
 1. Countable does not tolerate non-meritocratic bias. We respect and
    support everyone the same, regardless of race, gender, religion or

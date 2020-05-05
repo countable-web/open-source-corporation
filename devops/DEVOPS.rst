@@ -7,13 +7,22 @@ DevOps
 
    Purpose
    Scope
+   Specific Goals of DevOps
+   CI/CD (Jenkins)
+   Provisioning (Terraform, Ansible)
+   :doc: `DEV_OPERATIONS`
+   :doc: `SERVERS`
+   :doc: `STACK_MANAGEMENT`
+   :doc: `RELEASE_MANAGEMENT`
+   :doc: `JENKINS`
+   :doc: `DOCKER`
+   :doc: `DOCKER_TRAINING`
+   :doc: `draft_INFO_SECURITY_DESIGN`
    
 Purpose
 -------
 
-The purpose of DevOps is that software should always be deployed and
-tested reliably and automatically in a way that helps us and our
-customers.
+The purpose of DevOps is that software should always be deployed and tested reliably and automatically in a way that helps us and our customers.
 
 DevOps is the practice of writing code and configurations to accomplish
 this.
@@ -21,7 +30,7 @@ this.
 Scope
 -----
 
-This page introduces the areas we call DevOps at countable.
+This page introduces the areas we call DevOps at Countable.
 
 Specific Goals of DevOps
 ------------------------
@@ -47,8 +56,7 @@ For every project, we should typically have 3 jenkins jobs, a
 ``<projectname>-stage``, ``<projectname>-prod``, and
 ``<projectname>-test``. These use docker-compose configs from the
 project repo, ``dc.stage.yml``, ``dc.prod.yml`` and ``dc.test.yml``
-respectively. Here is a `video on Countable standard project
-structure <https://www.youtube.com/watch?v=8ms2YQtURXM>`__ that explains
+respectively. Here is a `video on Countable standard project structure <https://www.youtube.com/watch?v=8ms2YQtURXM>`__ that explains
 these compose templates.
 
 Ideally, each Jenkins job simply clones the appropriate branch onto a

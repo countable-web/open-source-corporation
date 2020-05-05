@@ -1,6 +1,17 @@
 Giving Feedback
 ===============
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   Purpose
+   Scope
+   When to give feedback
+   Guidelines
+      Negative Feedback
+      Receiving Feedback
+
 Purpose
 -------
 
@@ -14,13 +25,17 @@ improve. Some references on why this is:
    (Originals)
 -  Honest feedback prevents the perils of "group think" that damages
    teams as they grow. (Culture code)
--  `Gratitude makes you
-   happier <https://www.health.harvard.edu/healthbeat/giving-thanks-can-make-you-happier>`__
+-  `Gratitude makes you happier <https://www.health.harvard.edu/healthbeat/giving-thanks-can-make-you-happier>`__
+
+Scope
+-----
+
+Provides grounding and guidelines for effectively giving and receiving feedback both positive and negative.
 
 When to give feedback
 ---------------------
 
--  `Code reviews <../../product/engineering/GIT.md>`__. The benefits of
+-  `Code reviews <../developers/GIT.rst>`__. The benefits of
    Senior developers reviewing Junior developers' code is obvious I
    hope, but it's just as critical to provide feedback as a Jr
    dev because (1) you can learn much faster by reading others' code,

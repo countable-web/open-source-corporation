@@ -7,16 +7,23 @@ Storage
 
    Purpose
    Scope
+   Why We Need Organized Storage
+   List of Storage Locations
+   Google Drive
+
+Purpose
+-------
+
+To enable anyone to find any file or asset, without having to ask the person who created it where it is. 
 
 Scope
 -----
 
 This page should make it clear where all work is saved.
 
-Purpose
--------
 
-To enable anyone to find any file or asset, without having to ask the person who created it where it is. For example:
+Why We Need Organized Storage
+-----------------------------
 
 -  devs need to find sliced versions of assets.
 -  clients and other team members need to find mock-ups (such as XD links) and know which is the most recent version.
@@ -82,4 +89,4 @@ things stored in the correct place in Google Drive.
 Google Drive
 ------------
 
-See `File Organizaton <./FILE_ORGANIZATION.rst>`__
+See `File Organization <FILE_ORGANIZATION.rst>`__

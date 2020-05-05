@@ -1,7 +1,27 @@
 Workflow Checklist
 ==================
 
-These are mostly things we should already be doing. If it's something
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   Purpose
+   Scope
+   Meetings
+   Commitments
+   Every Day You Work
+   Every Week
+   Do Not
+
+Purpose
+-------
+
+Provide a consistent workflow checklist for Countable team members to refer back to.
+
+Scope
+-----
+
+Covers mostly things we should already be doing. If it's something
 we're still working towards, it's in *italics*.
 
 Meetings
@@ -47,7 +67,7 @@ Every Week
    update on what's done and what's pending out of their current
    expectations. Include a link to staged work, and a screenshot or
    video. It's best to do this Friday or Monday.
-   `Transparency <../TRANSPARENCY.md>`__
+   `Transparency <../philosophy/TRANSPARENCY.rst>`__
 
 Do Not
 ------
@@ -55,4 +75,4 @@ Do Not
 -  Use priviate messages for things that don't need to be private. Share
    your experiences on your projects in your client channel, and if it's
    more widely applicable, (#client-) in #general.
-   `Transparency <../TRANSPARENCY.md>`__
+   `Transparency <../philosophy/TRANSPARENCY.rst>`__

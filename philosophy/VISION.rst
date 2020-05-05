@@ -1,6 +1,13 @@
 Vision Statement
 ================
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   Purpose
+   Scope
+   
 (draft #2)
 
 Do you have a problem that might be solvable using the internet?

@@ -40,7 +40,7 @@ The best way to learn something is by doing it: use it for a project and put in 
 Once you tinker for a while playing with the basics of what you know, you'll start to feel more confident and familiar, have questions about things that you can't resolve through playing around, and want to move on. At this point, find a good tutorial on the next material you
 want to study.
 
-For this training, be sure to follow the practices `here <../DEVELOPERS.rst>`__.
+For this training, be sure to follow the practices `here <DEVELOPERS.rst>`__.
 
 All training materials here are pre-approved to do on company time.
 
@@ -75,7 +75,7 @@ If you're new to Docker, do this. We use Docker for everything so you should get
 
 To set up a new Django environment in Docker.
 
-`More on Docker <./DOCKER_TRAINING.rst>`__
+`More on Docker <../DOCKER_TRAINING.rst>`__
 
 Django Training
 ---------------

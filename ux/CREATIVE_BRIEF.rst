@@ -1,6 +1,13 @@
 Creative Brief for Countable
 ============================
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   Purpose
+   Scope
+   
 This document outlines our rationale for, and approach to visual design
 for the Countable brand.
 

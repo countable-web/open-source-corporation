@@ -8,7 +8,7 @@ Prototyping
    Purpose
    Scope
    Protyping Basics
-   Get A Prototype in Front of Real Users ASAP.
+   Get A Prototype in Front of Real Users ASAP
 
 
 Purpose
@@ -30,7 +30,7 @@ Start with a "low fidelity" prototype which does nothing except that absolute mi
 
 All work should initially be treated with the intention to throw it away, until you start experimenting with real usage, and you should invest nothing in things like code quality and scalability. This doesn't mean you should make a mess, it means you should keep it simple and *leave things out when in doubt*.
 
-Get A Prototype in Front of Real Users ASAP.
+Get A Prototype in Front of Real Users ASAP
 --------------------------------------------
 
 1) *Get a prototype in front of real users ASAP*. All that matters is the absolutely most core functions work reasonably well, and it's easy to understand. So put effort into clear design and the most basic feature set. Not into scalability, code quality, or anything else.

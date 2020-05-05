@@ -1,6 +1,13 @@
 Filtering Leads
 ===============
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   Purpose
+   Scope
+   
 Both recruiting and sales processes act as a great filter to find those
 who believe in the same things as us. The following set of inquiries
 outlines the filtering steps necessary. Our prospective hires and

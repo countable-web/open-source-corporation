@@ -1,6 +1,13 @@
 Usability Testing
 =================
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   Purpose
+   Scope
+   
 (Draft)
 
 Purpose

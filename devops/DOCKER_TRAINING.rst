@@ -7,6 +7,7 @@ Docker Training
 
    Purpose
    Scope
+   Docker 101
    
 Purpose
 -------

@@ -7,11 +7,20 @@ Methodology
 
    Purpose
    Scope
+   Our Methodology Toolbox
 
 Purpose
 -------
 
 This is a primer on our team's approach to methodologies used to structure our work.
+
+Scope
+-----
+
+Describes how we use a *toolbox* of methodologies instead of just a few, then details the most useful ones.
+
+Our Methodology Toolbox
+-----------------------
 
 In general, we do not take a prescriptive approach to methodology. We use methodologies as a toolbox. First, seek to understand the problem as deeply as possible. Then, evaluation methodologies and select those which best address the specific context for your project.
 

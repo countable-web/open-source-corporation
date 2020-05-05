@@ -24,7 +24,7 @@ Covers the basics and getting set up, as well as providing resources for more in
 
 Docker Basics
 -------------
-We have some training materials on Docker `here <./DOCKER_TRAINING.md>`__
+We have some training materials on Docker `here <DOCKER_TRAINING.rst>`__
 
 We use Docker to manage dev, test, stage and prod environments. Specific conventions we follow:
 
@@ -46,7 +46,7 @@ Setting Up An Environment
 
 4. Run docker-compose: ``docker-compose up``
 
-5. Navigate to `http://localhost <http://localhost>`__. Ensure only one project is running at a time if you're using port 80 (as we do here)
+5. Navigate to `localhost <http://localhost>`__. Ensure only one project is running at a time if you're using port 80 (as we do here)
 
 Editing the Dockerfiles
 -----------------------

@@ -7,6 +7,16 @@ Objectives and Key Results
 
    Purpose
    Scope
+   OKR Basics
+   OKR Process
+   Examples (HTML Comment Box)
+   Practical Implementation at Countable
+      How To Make Good Objectives
+      How To Make Good Key Results
+      Our OKR Spreadsheet
+      Committed OKRs
+         Objective: Availability
+         Objective: Responsiveness to Clients
 
 Purpose
 -------
@@ -18,7 +28,32 @@ Scope
 
 Define how we implement OKRs at Countable.
 
+OKR Basics
+----------
+
 Each team should have at least one *objective* or what they want to accomplish together in the short term. It's their strategic focus. Each objective has a few *key results* which are measurable, sufficient condtions for the objective to be met.
+
+OKR Process
+-------
+
+At the beginning of each month, in project or team sprints or Slack:
+
+-  Each *team* should identify their top objective.
+
+-  It should be ambitious but possible.
+
+-  Ask, "why" is this your objective? Why not something else?
+
+-  Following that, indicate what (about 3) measurable Key Results would tell you if you met the objective. These are *sufficient* conditions for the objective to be met.
+
+During your sprint meetings, review your Objective and Key Results for 5 minutes.
+
+-  What percent done are the key results?
+-  Is your sprint getting you closer?
+
+At the beginning of the next month:
+
+-  If designed well, it should be possible to objectively measure your Key Result as a percentage done.
 
 Examples (HTML Comment Box)
 ---------------------------
@@ -40,34 +75,15 @@ Poor Key Results:
 -  Publish some blog articles (How many? Also, we don't have any evidence this will work)
 -  Release 3 new features (How do we know the chosen features will help people get comments?)
 
-Process
--------
-
-At the beginning of each month, in our all-hands meeting:
-
--  Each *team* should identify their top objective.
-
--  It should be ambitious but possible.
-
--  Ask, "why" is this your objective? Why not something else?
-
--  Following that, indicate what (about 3) measurable Key Results would tell you if you met the objective. These are *sufficient* conditions for the objective to be met.
-
-During your sprint meetings, review your Objective and Key Results for 5 minutes.
-
--  What percent done are the key results?
--  Is your sprint getting you closer?
-
-At the beginning of the next month:
-
--  If designed well, it should be possible to objectively measure your Key Result as a percentage done.
+Practical Implementation at Countable
+-------------------------------------
 
 How To Make Good Objectives
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 -  The objective should be the most valuable "wish" the team and client can articulate, that can be accomplished most quickly.
 -  Choose objectives that will have the most postivie impact in the shorted time.
--  It should (when possible) answer the question: What would success look like? \________\_ .
+-  It should (when possible) answer the question: What would success look like?
 -  It should (when possible) solve the biggest problem for your project's persona.
 -  It should be challenging but possible to accomplish in the allotted time. If it's too easy, just keep adding more objectives, or expand them until they are collectively challenging but still possible to achieve.
 

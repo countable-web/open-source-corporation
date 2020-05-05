@@ -1,6 +1,23 @@
 Communications Charter
 ======================
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   Purpose
+   Scope
+   Guidelines for All Communication
+      Calendar Expectations
+      Email Hygiene
+      Text
+      Whereby (Video Chat, and in-person meetings)
+      Phone
+      Trello
+      Office Hours and Presence
+      Meetings in General
+      Slack Hygiene
+
 Purpose
 -------
 
@@ -17,7 +34,7 @@ Define how we use different communication channels for different
 purposes.
 
 Guidelines for All Communication
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+--------------------------------
 
 -  Where possible, communication is ``asynchronous`` because we have
    different schedules and often timezones too. This means it will often
@@ -41,8 +58,8 @@ Guidelines for All Communication
    deadlines set by your team. For example, when you're blocking someone
    else or a client requests a special deadline.
 
-Calendar Expectations:
-~~~~~~~~~~~~~~~~~~~~~~
+Calendar Expectations
+~~~~~~~~~~~~~~~~~~~~~
 
 -  The calendar is the single source of truth for meetings. They are
    only held by people invited to actual calendar events.
@@ -53,15 +70,14 @@ Calendar Expectations:
 -  We add our vacations or holidays into the event calendar as
    following: “Name” vacation (# of days )
 
-Email Hygiene:
-~~~~~~~~~~~~~~
+Email Hygiene
+~~~~~~~~~~~~~
 
 -  We recommend you disable email notifications on your phone. It's a
    non-urgent channel and we don't want to be distracted by it.
 -  Email good for announcements, but should link to something in Trello
    (if it requires followup), Google Docs (if it is a resource we may
-   need later), or `reddit <https://old.reddit.com/r/CountableWeb>`__
-   (if it's a discussion).
+   need later), or Slack (if it's a discussion).
 -  The email channel is not urgent: 24h response time is ok. We
    recommend checking email only twice daily, only on weekdays during
    business hours. If the email is from a colleague, customer, or
@@ -73,7 +89,7 @@ Email Hygiene:
    calendly link to book meetings if it's with just one other person.
 -  No need to check emails during vacation (unless otherwise agreed
    upon). => see next line
--  You must have an autoresponder set when on vacaton: including return
+-  **You must have an autoresponder set when on vacation**: including return
    date from vacation / back-up contact and details / back-up person
    gets a briefing.
 -  Use the "schedule send" option in gmail if sending after hours or on
@@ -89,12 +105,12 @@ Text
 -  This means, we should share our phone numbers, but only use them for
    urgent requests.
 
-.. _appearin-video-chat-and-in-perosn-meetings:
+.. _whereby-video-chat-and-in-person-meetings:
 
-Appear.in (Video Chat, and in-perosn meetings)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Whereby (Video Chat, and in-person meetings)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Guidlines for communicating face-to-face
+Guidelines for communicating face-to-face
 
 -  Make eye contact 50% of the time when speaking, and 100% of the time
    when listening.
@@ -117,11 +133,10 @@ Trello
 ~~~~~~
 
 -  Trello is for tracking what we need to get done (reminders). We use
-   variants of Scrum, details
-   `here <../peopleops/getting_started/TRELLO.md>`__.
+   variants of Scrum, details `here <../operations/TRELLO.rst>`__.
 
-Office Hours and Presence:
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+Office Hours and Presence
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
 -  Overall objective: achieving our goals but also balancing work &
    private life in a meaningful way
@@ -133,15 +148,8 @@ Office Hours and Presence:
 Meetings in General
 ~~~~~~~~~~~~~~~~~~~
 
-See `meetings <./MEETINGS.md>`__
+See `meetings <MEETINGS.rst>`__
 
-Reddit
-~~~~~~
-
--  Use old.reddit.com/CountableWeb for public discussions. Private
-   discussions can be held on slack. Try to make any discussion you can
-   public, assuming personal and client's competitive information can be
-   left out.
 
 Slack Hygiene
 ~~~~~~~~~~~~~

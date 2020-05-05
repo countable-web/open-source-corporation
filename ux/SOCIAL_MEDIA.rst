@@ -1,5 +1,13 @@
-Countable's Social Media Posting Policy:
+Countable's Social Media Posting Policy
+=======================================
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   Purpose
+   Scope
+   
 Purpose of posting:
 
 -  Inspiration, for now, to inspire our team mates and clients with our

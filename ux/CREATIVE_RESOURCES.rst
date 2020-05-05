@@ -1,5 +1,13 @@
 A list of sites, tools and creative inspiration
+===============================================
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   Purpose
+   Scope
+   
 RESOURCES:
 
 Fonts:

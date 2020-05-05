@@ -1,6 +1,13 @@
 Purpose
 =======
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   Purpose
+   Scope
+   
 (draft, purposes are hard and we do a lot of things... we are still
 figuring this out and that's ok)
 

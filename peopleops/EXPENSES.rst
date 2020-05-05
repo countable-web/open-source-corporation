@@ -1,6 +1,26 @@
 Expenses
 ========
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   Purpose
+   Scope
+   Things The Company Will Pay For
+   Claiming Expenses
+   Things You Can Deduct From Taxes
+
+Purpose
+-------
+
+Explaining how expenses are handled at countable.
+
+Scope
+-----
+
+Covers what the company will pay for, how to claim expenses, and what you can deduct from taxes as an independent contractor.
+
 Things The Company Will Pay For
 -------------------------------
 
@@ -11,13 +31,13 @@ Things The Company Will Pay For
    required)
 -  Monthly company outings
 -  Any meals you share with your team members or clients.
--  Some computer equipment, see `physical setup <./PHYSICAL_SETUP.md>`__
+-  Some computer equipment, see `physical setup <./PHYSICAL_SETUP.rst>`__
 -  Hotels/flights when travelling for business.
 
 Claiming Expenses
 -----------------
 
-For now just note them in your timesheet, a better process is pending.
+Note your expenses in `Eightmeters <http://eightmeters.countable.ca>`__
 
 Things You Can Deduct From Taxes
 --------------------------------

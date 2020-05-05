@@ -1,3 +1,13 @@
+Onboarding New Clients
+======================
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   Purpose
+   Scope
+
 Steps for onboarding a client:
 
 -  A contract must be signed with the client.
