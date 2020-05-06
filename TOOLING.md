@@ -4,6 +4,8 @@ Our tools make us smarter.
 
 At Countable, we recognize it's a balance between having the best tool for a given user, and arriving at consistency between users. Luckily, there's g2Crowd, which lets us identify the best product in each category pretty objectively. This has been a reliable source of great quality software. The farthest right (best reviewed) tools in their matrices have consistently provided great value for us.
 
+We love to use amazing web apps we admire, as we think it will help inspire our own work to be better too.
+
 Our policy is for you to please try one of these tools if it applies to the work you're trying to do. If it doesn't do what you want, then please test an alternative and document why you need that. It should be approved. If more team members need it, it will be listed here.
 
 ## Niche software
