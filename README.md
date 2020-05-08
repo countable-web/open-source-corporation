@@ -117,7 +117,7 @@ If you want to suggest a change to Countable Web Productions, make a pull reques
   * Some companies open source aspects such as coding standards, ie [Caktus](https://github.com/caktus/developer-documentation)
   * [GitLab handbook](https://about.gitlab.com/handbook/)
   * [Remote Only Manifesto](https://www.remoteonly.org/)
-  * [The Great CEO Within](https://docs.google.com/document/d/1ZJZbv4J6FZ8Dnb0JuMhJxTnwl-dwqx5xl0s65DE3wO8/preview#)
+  * [The Great CEO Within](https://docs.google.com/document/d/1ZJZbv4J6FZ8Dnb0JuMhJxTnwl-dwqx5xl0s65DE3wO8/preview#) - Matt Mochary writing a book for his network of startups to succeed.
   * [Buffer](https://open.buffer.com/) Is a radically transparent company that publishes internals too! We love and admire them for it :)
   * [X-team](https://x-team.com/remote-team-guide/) has been proactive in publishing their processes online in some detail on their website.
   * [netlify culture handbook](https://github.com/netlify/culture-handbook/blob/master/values.md)
