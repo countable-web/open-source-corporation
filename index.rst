@@ -9,6 +9,19 @@ Countable Web Productions Inc Operations Manual
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+   What Is This?
+   Purpose
+   Scope
+   What is Countable?
+   Who is Countable?
+      Recruiting
+      Marketing
+      Getting Started
+      Engineering
+      Consulting
+   Operations
+   Contributing
+   Similar Efforts
 
 
 What Is This?
@@ -223,13 +236,3 @@ Similar Efforts
 -  `X team <https://x-team.com/remote-team-guide/>`__ has been proactive
    in publishing their processes online in some detail on their website.
 -  `netlify culture handbook <https://github.com/netlify/culture-handbook/blob/master/values.rst>`__
-   
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
