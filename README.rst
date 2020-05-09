@@ -39,7 +39,7 @@ discussion and amendment.
 -- "The Great CEO Within", By Matt Mochary
 
 *Second, why is it open source?* To promote
-`transparency <./TRANSPARENCY.md>`__.
+`transparency <./philosophy/TRANSPARENCY.rst>`__.
 
 Scope
 -----
@@ -78,12 +78,12 @@ that do this. What makes us different?
    effort.
 -  We work hard to be transparent, interactive, and have fun.
 
-`Read about the purpose of Countable <./PURPOSE.md>`__.
+`Read about the purpose of Countable <./philosophy/PURPOSE.rst>`__.
 
 Who is Countable?
 -----------------
 
-We are selective in order to embody our `values <./VALUES.md>`__. This
+We are selective in order to embody our `values <./philosophy/VALUES.rst>`__. This
 starts with hiring, all the way to the kinds of partners we seek out. In
 the end, we want to bring together people to have a big impact by
 improving all the industries we engage with, through better technology
@@ -97,48 +97,41 @@ Recruiting
 Finding the right people is one of our biggest challenges, so we need
 every advantage we can find in this way.
 
--  `General Posting <./peopleops/recruiting/README.md>`__
--  `Are You A Good Fit For Countable? <./peopleops/recruiting/FIT.md>`__
+-  `General Posting <./peopleops/recruiting/RECRUITING.rst>`__
+-  `Are You A Good Fit For Countable <./peopleops/recruiting/HIRING_FIT.rst>`__?
 
 Marketing
 ~~~~~~~~~
 
 Helps us find the best partners and team members who share our passion.
 
--  `Value Proposition <./marketing/VALUE_PROP.md>`__
--  `Creative Brief <./marketing/CREATIVE_BRIEF.md>`__
--  `Design Asset Storage <./marketing/NON_CODE_ASSETS.md>`__
--  `Social Media Posting Policy <./marketing/SOCIAL_MEDIA.md>`__
--  `2018 Search Engine Optimization (SEO)
-   Checklist <./marketing/2018_SEO_CHECKLIST.md>`__
--  `Usability <./marketing/USABILITY.md>`__
+-  `Value Proposition <./sales/VALUE_PROP.rst>`__
+-  `Creative Brief <./ux/CREATIVE_BRIEF.rst>`__
+-  `Design Asset Storage <./ux/NON_CODE_ASSETS.rst>`__
+-  `Social Media Posting Policy <./ux/SOCIAL_MEDIA.rst>`__
+-  `SEO <./ux/SEO.rst>`__
+-  `Usability <./ux/USABILITY.rst>`__
 
 Getting Started
 ~~~~~~~~~~~~~~~
 
 If you're a new Countable team member, start here!
 
--  `Onboarding <./peopleops/getting_started/ONBOARDING.md>`__
--  `Your
-   Contract <./peopleops/getting_started/ASSOCIATE_AGREEMENT.md>`__
--  `Diversity and
-   Inclusion <./peopleops/getting_started/DIVERSITY_AND_INCLUSION.md>`__
--  `Physical Setup <./peopleops/getting_started/PHYSICAL_SETUP.md>`__
--  `Project
-   Management <./peopleops/getting_started/PROJECT_MANAGEMENT.md>`__
--  `Evaluation <./peopleops/getting_started/EVALUATION.md>`__
--  `Compensation <./peopleops/getting_started/COMPENSATION.md>`__
--  `Recommended
-   Reading <./peopleops/getting_started/RECOMMENDED_READING.md>`__
--  `Scrum <./peopleops/getting_started/SCRUM.md>`__
--  `Trello <./peopleops/getting_started/TRELLO.md>`__
--  `Client Data
-   Protection <./peopleops/getting_started/CLIENT_DATA_PROTECTION.md>`__
+-  `Onboarding <./peopleops/ONBOARDING.rst>`__
+-  `Your Contract <./peopleops/SUBCONTRACTOR_AGREEMENT.rst>`__
+-  `Diversity and Inclusion <./peopleops/DIVERSITY_AND_INCLUSION.rst>`__
+-  `Physical Setup <./peopleops/PHYSICAL_SETUP.rst>`__
+-  `Project Management <./operations/PROJECT_MANAGEMENT.rst>`__
+-  `Evaluation <./peopleops/PERFORMANCE_EVALUATION.rst>`__
+-  `Compensation <./peopleops/COMPENSATION.rst>`__
+-  `Scrum <./operations/SCRUM.rst>`__
+-  `Trello <./operations/TRELLO.rst>`__
+-  `Client Data Protection <./operations/CLIENT_DATA_PROTECTION.rst>`__
 
 If you're a new client, start here!
 
--  `Scrum <./peopleops/getting_started/SCRUM.md>`__
--  `Trello <./peopleops/getting_started/TRELLO.md>`__
+-  `Scrum <./operations/SCRUM.rst>`__
+-  `Trello <./operations/TRELLO.rst>`__
 
 Engineering
 ~~~~~~~~~~~
@@ -148,38 +141,35 @@ product/engineering processes in order to improve the team's
 performance, and take advantage of an experience curve by eliminating
 arbitrary process differences.
 
--  `Code Project
-   Standards <./product/engineering/CODE_PROJECT_STANDARDS.md>`__
--  `Coding Standards <./product/engineering/CODING_STANDARDS.md>`__
--  `Operations <./product/engineering/OPERATIONS.md>`__
--  `Prototyping <./product/engineering/PROTOTYPING.md>`__
--  `Testing <./product/engineering/TESTING.md>`__
--  `Training <./product/engineering/TRAINING.md>`__
--  `Architechture <./product/engineering/ARCHITECTURE.md>`__
--  `Dependencies <./product/engineering/DEPENDENCIES.md>`__
--  `Django <./product/engineering/DJANGO.md>`__
--  `Docker <./product/engineering/DOCKER.md>`__
--  `Git <./product/engineering/GIT.md>`__
--  `Jenkins <./product/engineering/JENKINS.md>`__
--  `Stack Choices <./product/engineering/STACK_CHOICES.md>`__
+-  `Code Project Standards <./developers/PROJECT_STANDARDS.rst>`__
+-  `Coding Standards <./developers/CODING_STANDARDS.rst>`__
+-  `Operations <./devops/DEV_OPERATIONS.rst>`__
+-  `Prototyping <./developers/PROTOTYPING.rst>`__
+-  `Testing <./developers/TESTING.rst>`__
+-  `Training <./developers/TRAINING.rst>`__
+-  `Architechture <./developers/ARCHITECTURE.rst>`__
+-  `Dependencies <./developers/DEPENDENCIES.rst>`__
+-  `Django <./developers/DJANGO.rst>`__
+-  `Docker <./devops/DOCKER.rst>`__
+-  `Git <./developers/GIT.rst>`__
+-  `Jenkins <./devops/JENKINS.rst>`__
+-  `Stack Choices <./devops/STACK_CHOICES.rst>`__
 
 Consulting
 ~~~~~~~~~~
 
 How to provide the best results for clients.
 
--  `Priorities <./admin/consulting/PRIORITIES.md>`__
--  `Methodology <./admin/consulting/METHODOLOGY.md>`__
--  `Communicating with
-   clients <./admin/consulting/COMMUNICATING_WITH_CLIENTS.md>`__
+-  `Methodology <./operations/METHODOLOGY.rst>`__
+-  `Communicating with Clients <./operations/COMMUNICATING_WITH_CLIENTS.rst>`__
 
 Operations
 ----------
 
--  `Meetings <./admin/MEETINGS.md>`__
--  `Processes <./admin/PROCESSES.md>`__
--  `Storage <./admin/STORAGE.md>`__
--  `Gathering Team Feedback <./admin/TEAM_FEEDBACK_PROCESS.md>`__
+-  `Meetings <./peopleops/MEETINGS.rst>`__
+-  `Processes <./operations/PROCESSES.rst>`__
+-  `Storage <./operations/FILE_STORAGE.rst>`__
+-  `Gathering Team Feedback <./admin/TEAM_FEEDBACK_PROCESS.rst>`__
 
 Contributing
 ------------
@@ -203,7 +193,7 @@ pull request. The rules:
 -  Keep it concise, to-the-point, actionable. If you do use an
    abstraction, provide a corresponding example.
 -  Each page should state it's purpose for existing, as related to the
-   company's `mission <./MISSION.md>`__. Clarity and utility over
+   company's `mission <./MISSION.rst>`__. Clarity and utility over
    completeness. Try to maximize "usefulness density", or the total
    benefit (ie, in saved time, dollars) of the content divided by its
    length (in characters).
@@ -226,4 +216,4 @@ Similar Efforts
 -  `X-team <https://x-team.com/remote-team-guide/>`__ has been proactive
    in publishing their processes online in some detail on their website.
 -  `netlify culture
-   handbook <https://github.com/netlify/culture-handbook/blob/master/values.md>`__
+   handbook <https://github.com/netlify/culture-handbook/blob/master/values.rst>`__
