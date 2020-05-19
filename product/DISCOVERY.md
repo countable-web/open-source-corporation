@@ -28,7 +28,7 @@ Goals: Get an initial understanding of the problem, and the project success visi
 
   * What assets and access is required for the project and who will provide it, by when?
   * Set up a weekly or bi-weekly sprint meeting with product owner and team. What other meetings should we attend? Book these.
-  * What are the first key deliverables, by whom, and by when, in order to accelerate the project? Include a UXD / user resarch plan, draft of User Epics, and critical path document (phased deliverables), stakeholder map.
+  * What are the first key deliverables, by whom, and by when, in order to accelerate the project? Include a UXD / user resarch plan, draft of User Epics, and critical path document (phased deliverables, including prototype phase), stakeholder map.
 
 ## User Experience Design (UX) Planning
 
