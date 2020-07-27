@@ -1,3 +1,4 @@
+This page is archived. Please visit [https://countable-ops-manual.readthedocs.io/](https://countable-ops-manual.readthedocs.io/)
 # Guilds
 
 Countable is divided into Teams and Guilds. The job of Guilds is to be really good at specific things, and the job of teams is to get results for customers.

@@ -1,3 +1,4 @@
+This page is archived. Please visit [https://countable-ops-manual.readthedocs.io/](https://countable-ops-manual.readthedocs.io/)
 # Django Standards
 
 These are things we've found to solve common issues an save lots of time.

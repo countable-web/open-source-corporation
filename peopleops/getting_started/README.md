@@ -1,3 +1,4 @@
+This page is archived. Please visit [https://countable-ops-manual.readthedocs.io/](https://countable-ops-manual.readthedocs.io/)
 # People Ops
 
 The purpose of this section is to make Countable a great place to work!

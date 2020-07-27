@@ -1,3 +1,4 @@
+This page is archived. Please visit [https://countable-ops-manual.readthedocs.io/](https://countable-ops-manual.readthedocs.io/)
 # Architecture
 
 This is a guideline on architecture for web applications, with the goal of minimizing technical debt, saving time and making our programming work more enjoyable.

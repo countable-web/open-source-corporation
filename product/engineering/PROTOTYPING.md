@@ -1,3 +1,4 @@
+This page is archived. Please visit [https://countable-ops-manual.readthedocs.io/](https://countable-ops-manual.readthedocs.io/)
 # Prototyping
 
 Prototyping is the essence of our approach. Do quick experiments with minimal planning. A prototype is the ultimate plan.

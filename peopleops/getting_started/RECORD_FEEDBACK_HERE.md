@@ -1,3 +1,4 @@
+This page is archived. Please visit [https://countable-ops-manual.readthedocs.io/](https://countable-ops-manual.readthedocs.io/)
 # Staff Feedback
 
 If you're not sure where to add your thoughts, put them here. TODO: Move this stuff to reddit.com/countableweb

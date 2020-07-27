@@ -1,3 +1,4 @@
+This page is archived. Please visit [https://countable-ops-manual.readthedocs.io/](https://countable-ops-manual.readthedocs.io/)
 # Workflow Checklist
 
 These are mostly things we should already be doing. If it's something we're still working towards, it's in _italics_.

@@ -1,3 +1,4 @@
+This page is archived. Please visit [https://countable-ops-manual.readthedocs.io/](https://countable-ops-manual.readthedocs.io/)
 # Marketing
 
 Defines how we communicate with potential clients. It screens for clients with similar values, with whom we'd like to collaborate on exciting projects.

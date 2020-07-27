@@ -1,3 +1,4 @@
+This page is archived. Please visit [https://countable-ops-manual.readthedocs.io/](https://countable-ops-manual.readthedocs.io/)
 # Creative Brief for Countable
 
 This document outlines our rationale for, and approach to visual design for the Countable brand.

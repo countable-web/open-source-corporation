@@ -1,3 +1,4 @@
+This page is archived. Please visit [https://countable-ops-manual.readthedocs.io/](https://countable-ops-manual.readthedocs.io/)
 # Scrum
 
 Countable uses [Scrum](https://en.wikipedia.org/wiki/Scrum_(software_development)) to manage work delivery and collaboratively learn about problem domains. Check out the guide book from the inventor of Scrum [here](https://www.scrumguides.org/scrum-guide.html).

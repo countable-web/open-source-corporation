@@ -1,3 +1,4 @@
+This page is archived. Please visit [https://countable-ops-manual.readthedocs.io/](https://countable-ops-manual.readthedocs.io/)
 # On Creating a Predictiable System
 
 Last year Countable grew from 2 fulltime and 1 part time person to 4 fulltime and 3 part time people. In the past, the company has really been a solo consulting practice with some assistants helping me keep up with work. This isn't scalable anymore and will change in 2018, so I'd like to make it clear where I'm driving the bus, and want your input as much as possible.

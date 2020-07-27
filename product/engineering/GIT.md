@@ -1,3 +1,4 @@
+This page is archived. Please visit [https://countable-ops-manual.readthedocs.io/](https://countable-ops-manual.readthedocs.io/)
 # How Countable Uses GIT
 
 Countable uses [git flow](https://jeffkreeftmeijer.com/git-flow/) for branch naming.

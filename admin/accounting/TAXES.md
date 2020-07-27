@@ -1,3 +1,4 @@
+This page is archived. Please visit [https://countable-ops-manual.readthedocs.io/](https://countable-ops-manual.readthedocs.io/)
 # Purpose
 To anchor our specific company practices regarding tax reporting within the larger regulatory demands of our jurisdiction.
 

@@ -1,3 +1,4 @@
+This page is archived. Please visit [https://countable-ops-manual.readthedocs.io/](https://countable-ops-manual.readthedocs.io/)
 # Purpose
 
 (draft, purposes are hard and we do a lot of things... we are still figuring this out and that's ok)

@@ -1,3 +1,4 @@
+This page is archived. Please visit [https://countable-ops-manual.readthedocs.io/](https://countable-ops-manual.readthedocs.io/)
 # TRANSPARENCY
 
 Our policy is, any information that we don't have specific and serious concerns about being released is to be made public.

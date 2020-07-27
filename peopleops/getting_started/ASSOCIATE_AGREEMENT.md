@@ -1,3 +1,4 @@
+This page is archived. Please visit [https://countable-ops-manual.readthedocs.io/](https://countable-ops-manual.readthedocs.io/)
 TODO: This document is out of date and the official one has not been converte to markdown and open-sourced.
 
 # Subcontractor Work Agreement

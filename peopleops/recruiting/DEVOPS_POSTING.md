@@ -1,3 +1,4 @@
+This page is archived. Please visit [https://countable-ops-manual.readthedocs.io/](https://countable-ops-manual.readthedocs.io/)
 `CTA`
 
 Can you use your bash wizardry with Docker and Ansible to automate everything with us?

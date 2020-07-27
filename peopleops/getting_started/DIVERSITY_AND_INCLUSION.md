@@ -1,3 +1,4 @@
+This page is archived. Please visit [https://countable-ops-manual.readthedocs.io/](https://countable-ops-manual.readthedocs.io/)
 # Diversity and Inclusion
 
 Purpose: To approach our differences in a respectful and positive way and focus on building a shared culture based on empathy and common goals.

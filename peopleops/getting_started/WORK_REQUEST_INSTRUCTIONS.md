@@ -1,3 +1,4 @@
+This page is archived. Please visit [https://countable-ops-manual.readthedocs.io/](https://countable-ops-manual.readthedocs.io/)
 # Delivery Workflow Documentation (for Clients)
 
 This process is designed to help us do great work for you, as transparently as possible. If at any point you sense something's not working or not right for you, don't hesitate to [tell us](mailto:everyone@countable.ca) and we'll improve it!

@@ -1,3 +1,4 @@
+This page is archived. Please visit [https://countable-ops-manual.readthedocs.io/](https://countable-ops-manual.readthedocs.io/)
 
   * Each team member determines their own hours and communicates that to the team.
   * We assume most people will not work on weekends or stat holidays, but you are welcome to. Try to work on your own on holidays so you don't pull someone in who was planning the day off.

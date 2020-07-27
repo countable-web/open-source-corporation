@@ -1,3 +1,4 @@
+This page is archived. Please visit [https://countable-ops-manual.readthedocs.io/](https://countable-ops-manual.readthedocs.io/)
 This repo has been moved to https://github.com/countable-web/ops-manual. We are keeping this old version to preserve links, but you should use the new one.
 
 # Countable Web Productions Inc Operations Manual

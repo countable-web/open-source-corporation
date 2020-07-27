@@ -1,3 +1,4 @@
+This page is archived. Please visit [https://countable-ops-manual.readthedocs.io/](https://countable-ops-manual.readthedocs.io/)
 # Team Events
 
 As a company with remote employees, we intend that half of recreational events can be attended online.

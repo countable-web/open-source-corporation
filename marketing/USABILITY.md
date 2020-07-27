@@ -1,3 +1,4 @@
+This page is archived. Please visit [https://countable-ops-manual.readthedocs.io/](https://countable-ops-manual.readthedocs.io/)
 # Usability
 
 Company-wide usability standards and guidelines, so we maintain a minimum bar for our work and clients' work.

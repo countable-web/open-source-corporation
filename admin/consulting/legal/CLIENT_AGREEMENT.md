@@ -1,3 +1,4 @@
+This page is archived. Please visit [https://countable-ops-manual.readthedocs.io/](https://countable-ops-manual.readthedocs.io/)
 **CONSULTING** **AGREEMENT**
 
 THIS AGREEMENT is dated for reference **TODO**.

@@ -1,3 +1,4 @@
+This page is archived. Please visit [https://countable-ops-manual.readthedocs.io/](https://countable-ops-manual.readthedocs.io/)
 # Commission
 
 Countable pays up to 15% commission to those who help schedule new work for us (internal or external, referrals or proposals).

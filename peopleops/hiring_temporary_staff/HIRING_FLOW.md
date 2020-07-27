@@ -1,3 +1,4 @@
+This page is archived. Please visit [https://countable-ops-manual.readthedocs.io/](https://countable-ops-manual.readthedocs.io/)
 # Hiring Flow
 
 This is a suggested hiring flow to make your life easier and standardize our process while recruiting temporary staff. On this case, I'm using Upwork platform to accomplish this goal, but you can adapt this system according to your needs.
